@@ -1,0 +1,861 @@
+NLC,STATION,INNER_ZONE,OUTER_ZONE,JOINT,GATED
+750,Abbey Road DLR,2,3,TfL,Ungated
+5131,Abbey Wood,4,4,NR,Gated
+1404,Acton Central,3,3,NR,Gated
+3000,Acton Main Line,3,3,NR,Gated
+500,Acton Town,3,3,TfL,Gated
+5550,Addlestone,H,H,NR,Gated
+5132,Albany Park,5,5,NR,Gated
+502,Aldgate,1,1,TfL,Gated
+503,Aldgate East,1,1,TfL,Gated
+6025,Alexandra Palace,3,3,NR,Gated
+850,All Saints,2,2,TfL,Ungated
+505,Alperton,4,4,TfL,Gated
+506,Amersham,9,9,Joint,Gated
+5397,Anerley,4,4,NR,Ungated
+507,Angel,1,1,TfL,Gated
+1430,Apsley,H,H,NR,Ungated
+508,Archway,2,3,TfL,Gated
+509,Arnos Grove,4,4,TfL,Gated
+510,Arsenal,2,2,TfL,Gated
+5666,Ascot,H,H,NR,Gated
+5667,Ashford Surrey,H,H,NR,Ungated
+5347,Ashtead,H,H,NR,Gated
+1492,Aylesbury,H,H,NR,Gated
+1090,Aylesbury Valley Parkway,H,H,NR,Gated
+511,Baker Street,1,1,TfL,Gated
+6084,Baldock,H,H,NR,Ungated
+512,Balham LU,3,3,TfL,Gated
+5399,Balham NR,3,3,NR,Gated
+513,Bank,1,1,TfL,Gated
+5348,Banstead,6,6,NR,Ungated
+501,Barbican,1,1,Joint,Gated
+514,Barking,4,4,Joint,Gated
+1335,Barking Riverside,4,4,NR,Gated
+515,Barkingside,4,4,TfL,Gated
+5089,Barnehurst,6,6,NR,Ungated
+5551,Barnes,3,3,NR,Ungated
+5580,Barnes Bridge,3,3,NR,Ungated
+516,Barons Court,2,2,TfL,Gated
+7494,Basildon,H,H,NR,Gated
+5090,Bat & Ball,H,H,NR,Ungated
+5420,Battersea Park,2,2,NR,Gated
+832,Battersea Power Station,1,1,TfL,Gated
+6006,Bayford,B,B,NR,Ungated
+517,Bayswater,1,1,TfL,Gated
+3047,Beaconsfield,H,H,NR,Gated
+6334,Beaulieu Park ,H,H,NR,Gated
+5076,Beckenham Hill,4,4,NR,Ungated
+5046,Beckenham Junction,4,4,NR,Ungated
+895,Beckton,3,3,TfL,Ungated
+891,Beckton Park,3,3,TfL,Ungated
+518,Becontree,5,5,TfL,Gated
+5062,Bellingham,3,3,NR,Ungated
+5350,Belmont,5,5,NR,Ungated
+519,Belsize Park,2,2,TfL,Gated
+5092,Belvedere,5,5,NR,Ungated
+7439,Benfleet,H,H,NR,Gated
+1390,Berkhamsted,H,H,NR,Ungated
+787,Bermondsey,2,2,TfL,Gated
+5581,Berrylands,5,5,NR,Ungated
+520,Bethnal Green LU,2,2,TfL,Gated
+6961,Bethnal Green NR,2,2,NR,Gated
+5093,Bexley,6,6,NR,Gated
+5094,Bexleyheath,5,5,NR,Gated
+5063,Bickley,5,5,NR,Ungated
+6871,Billericay,H,H,NR,Gated
+5401,Birkbeck,4,4,NR,Ungated
+6800,Bishop's Stortford,H,H,NR,Gated
+521,Blackfriars LU,1,1,TfL,Gated
+5112,Blackfriars NR,1,1,NR,Gated
+5095,Blackheath,3,3,NR,Ungated
+522,Blackhorse Road,3,3,Joint,Gated
+882,Blackwall,2,2,TfL,Ungated
+1360,Bletchley,H,H,NR,Gated
+524,Bond Street,1,1,Joint,Gated
+5626,Bookham,H,H,NR,Gated
+525,Borough,1,1,TfL,Gated
+5130,Borough Green & Wrotham,H,H,NR,Ungated
+526,Boston Manor,4,4,TfL,Gated
+527,Bounds Green,3,4,TfL,Gated
+3018,Bourne End,H,H,NR,Ungated
+851,Bow Church,2,2,TfL,Ungated
+528,Bow Road,2,2,TfL,Gated
+6027,Bowes Park,3,4,NR,Ungated
+5403,Box Hill & Westhumble,H,H,NR,Gated
+5693,Bracknell,H,H,NR,Gated
+529,Brent Cross,3,3,TfL,Gated
+7777,Brent Cross West,3,3,NR,Gated
+5552,Brentford,4,4,NR,Ungated
+6872,Brentwood,9,9,NR,Gated
+1560,Bricket Wood,H,H,NR,Ungated
+6810,Brimsdown,5,5,NR,Ungated
+778,Brixton LU,2,2,TfL,Gated
+5081,Brixton NR,2,2,NR,Ungated
+5404,Brockley,2,2,NR,Gated
+5096,Bromley North,4,4,NR,Ungated
+5064,Bromley South,5,5,NR,Gated
+530,Bromley-by-Bow,2,3,TfL,Gated
+1437,Brondesbury,2,2,NR,Gated
+1438,Brondesbury Park,2,2,NR,Ungated
+6074,Brookmans Park,H,H,NR,Ungated
+6812,Broxbourne,B,B,NR,Gated
+6958,Bruce Grove,3,3,NR,Ungated
+531,Buckhurst Hill,5,5,TfL,Gated
+3176,Burnham Bucks,H,H,NR,Gated
+532,Burnt Oak,4,4,TfL,Gated
+6913,Bush Hill Park,5,5,NR,Ungated
+1395,Bushey,8,8,NR,Ungated
+5689,Byfleet & New Haw,H,H,NR,Gated
+534,Caledonian Road,2,2,TfL,Gated
+1439,Caledonian Road & Barnsbury,2,2,NR,Ungated
+6962,Cambridge Heath,2,2,NR,Ungated
+1440,Camden Road,2,2,NR,Gated
+535,Camden Town,2,2,TfL,Gated
+788,Canada Water,2,2,Joint,Gated
+842,Canary Wharf DLR,2,2,TfL,Ungated
+6560,Canary Wharf Elizabeth Line,2,2,NR,Gated
+852,Canary Wharf LU (E1),2,2,TfL,Gated
+884,Canning Town,2,3,TfL,Gated
+536,Cannon Street  LU,1,1,TfL,Gated
+5142,Cannon Street NR,1,1,NR,Gated
+1441,Canonbury,2,2,NR,Gated
+537,Canons Park,5,5,TfL,Gated
+1442,Carpenders Park,7,7,NR,Gated
+5405,Carshalton,5,5,NR,Gated
+5406,Carshalton Beeches,5,5,NR,Gated
+3098,Castle Bar Park,4,4,NR,Ungated
+5351,Caterham,6,6,NR,Gated
+5077,Catford,3,3,NR,Ungated
+5047,Catford Bridge,3,3,NR,Ungated
+6874,Chadwell Heath,5,5,NR,Gated
+7447,Chafford Hundred,W,W,NR,Gated
+539,Chalfont & Latimer,8,8,Joint,Gated
+540,Chalk Farm,2,2,TfL,Gated
+7469,Chalkwell,H,H,NR,Gated
+541,Chancery Lane,1,1,TfL,Gated
+732,Charing Cross LU,1,1,TfL,Gated
+5143,Charing Cross NR,1,1,NR,Gated
+5144,Charlton,3,3,NR,Ungated
+5199,Chatham,H,H,NR,Gated
+5352,Cheam,5,5,NR,Ungated
+1372,Cheddington,H,H,NR,Ungated
+6836,Chelmsford,H,H,NR,Gated
+5098,Chelsfield,6,6,NR,Ungated
+5553,Chertsey,H,H,NR,Gated
+543,Chesham,9,9,TfL,Gated
+6814,Cheshunt,8,8,NR,Gated
+5582,Chessington North,6,6,NR,Ungated
+5554,Chessington South,6,6,NR,Ungated
+544,Chigwell,4,4,TfL,Gated
+6914,Chingford,5,5,NR,Gated
+5353,Chipstead,6,6,NR,Ungated
+5099,Chislehurst,5,5,NR,Ungated
+5583,Chiswick,3,3,NR,Ungated
+545,Chiswick Park,3,3,TfL,Gated
+546,Chorleywood,7,7,Joint,Gated
+5121,City Thameslink,1,1,NR,Gated
+5555,Clandon,H,H,NR,Gated
+547,Clapham Common,2,2,TfL,Gated
+5301,Clapham High Street,2,2,NR,Ungated
+5595,Clapham Junction,2,2,NR,Gated
+548,Clapham North,2,2,TfL,Gated
+549,Clapham South,2,3,TfL,Gated
+6926,Clapton,2,3,NR,Ungated
+5556,Claygate,H,H,NR,Gated
+5048,Clock House,4,4,NR,Ungated
+5557,Cobham & Stoke D'Abernon,H,H,NR,Gated
+550,Cockfosters,5,5,TfL,Gated
+551,Colindale,4,4,TfL,Gated
+552,Colliers Wood,3,3,TfL,Gated
+3019,Cookham,H,H,NR,Ungated
+5408,Coulsdon South,6,6,NR,Gated
+5382,Coulsdon Town,6,6,NR,Ungated
+553,Covent Garden,1,1,TfL,Gated
+5100,Crayford,6,6,NR,Gated
+6007,Crews Hill,6,6,NR,Ungated
+1519,Cricklewood,3,3,NR,Gated
+5078,Crofton Park,3,3,NR,Ungated
+854,Crossharbour,2,2,TfL,Ungated
+7406,Crouch Hill,3,3,NR,Ungated
+554,Croxley,7,7,TfL,Gated
+5356,Crystal Palace,3,4,NR,Gated
+6008,Cuffley,9,9,NR,Ungated
+887,Custom House DLR,3,3,TfL,Ungated
+6561,Custom House Elizabeth Line,3,3,NR,Gated
+879,Cutty Sark,2,3,TfL,Ungated
+893,Cyprus,3,3,TfL,Ungated
+7440,Dagenham Dock,5,5,NR,Gated
+555,Dagenham East,5,5,TfL,Gated
+556,Dagenham Heathway,5,5,TfL,Gated
+1443,Dalston Junction,2,2,NR,Gated
+1429,Dalston Kingsland,2,2,NR,Gated
+5101,Dartford,8,8,NR,Gated
+5668,Datchet,H,H,NR,Ungated
+557,Debden,6,6,TfL,Gated
+3052,Denham,H,H,NR,Ungated
+3060,Denham Golf Club,H,H,NR,Ungated
+5421,Denmark Hill,2,2,NR,Gated
+5145,Deptford,2,2,NR,Ungated
+897,Deptford Bridge,2,3,TfL,Ungated
+867,Devons Road,2,2,TfL,Ungated
+558,Dollis Hill,3,3,TfL,Gated
+5357,Dorking (Main),H,H,NR,Gated
+5413,Dormans,H,H,NR,Gated
+3099,Drayton Green,4,4,NR,Ungated
+6000,Drayton Pk,2,2,NR,Ungated
+5102,Dunton Green,H,H,NR,Ungated
+560,Ealing Broadway,3,3,Joint,Gated
+3190,Ealing Broadway,3,3,NR,Ungated
+561,Ealing Common,3,3,TfL,Gated
+5694,Earley,H,H,NR,Gated
+562,Earls Court,1,2,TfL,Gated
+5584,Earlsfield,3,3,NR,Gated
+5414,Earlswood Surrey,D,D,NR,Ungated
+563,East Acton,2,2,TfL,Gated
+5355,East Croydon,5,5,NR,Gated
+5358,East Dulwich,2,2,NR,Ungated
+565,East Finchley,3,3,TfL,Gated
+5486,East Grinstead,H,H,NR,Gated
+566,East Ham,3,4,TfL,Gated
+883,East India,2,3,TfL,Ungated
+567,East Putney,2,3,TfL,Gated
+7471,East Tilbury,H,H,NR,Gated
+564,Eastcote,5,5,TfL,Gated
+5566,Ebbsfleet International,H,H,NR,Gated
+5056,Eden Park,5,5,NR,Ungated
+568,Edgware,5,5,TfL,Gated
+774,Edgware Road B,1,1,TfL,Gated
+569,Edgware Road C&H,1,1,TfL,Gated
+6941,Edmonton Green,4,4,NR,Gated
+5642,Effingham Junction,H,H,NR,Gated
+5669,Egham,H,H,NR,Gated
+570,Elephant & Castle,1,2,TfL,Gated
+5246,Elephant & Castle,1,2,NR,Ungated
+571,Elm Park,6,6,TfL,Gated
+5049,Elmers End,4,4,NR,Ungated
+5135,Elmstead Woods,4,4,NR,Ungated
+1542,Elstree & Borehamwood,6,6,NR,Gated
+5103,Eltham,4,4,NR,Gated
+898,Elverson Road,2,3,TfL,Ungated
+542,Embankment,1,1,TfL,Gated
+7473,Emerson Park,6,6,NR,Ungated
+6010,Enfield Chase,5,5,NR,Gated
+6815,Enfield Lock,6,6,NR,Ungated
+6959,Enfield Town,5,5,NR,Gated
+572,Epping,6,6,TfL,Gated
+5360,Epsom,9,9,NR,Gated
+5361,Epsom Downs,6,6,NR,Ungated
+5104,Erith,6,6,NR,Ungated
+5558,Esher,H,H,NR,Gated
+6004,Essex Road,2,2,NR,Ungated
+574,Euston LU,1,1,TfL,Gated
+1444,Euston NR,1,1,NR,Gated
+575,Euston Square,1,1,TfL,Gated
+5415,Ewell East,6,6,NR,Ungated
+5586,Ewell West,6,6,NR,Ungated
+5065,Eynsford,H,H,NR,Ungated
+576,Fairlop,4,4,TfL,Gated
+5137,Falconwood,4,4,NR,Gated
+5105,Farningham Road,H,H,NR,Ungated
+577,Farringdon,1,1,Joint,Gated
+5559,Feltham,6,6,NR,Gated
+7490,Fenchurch Street NR,1,1,NR,Gated
+578,Finchley Central,4,4,TfL,Gated
+579,Finchley Road,2,2,TfL,Gated
+1445,Finchley Road & Frognal,2,2,NR,Ungated
+580,Finsbury Park LU,2,2,Joint,Gated
+6119,Finsbury Park NR,2,2,Joint,Gated
+6876,Forest Gate,3,3,NR,Gated
+5362,Forest Hill,3,3,NR,Gated
+581,Fulham Broadway,2,2,TfL,Gated
+5587,Fulwell,6,6,NR,Ungated
+3144,Furze Platt,H,H,NR,Ungated
+894,Gallions Reach,3,3,TfL,Ungated
+582,Gants Hill,4,4,TfL,Gated
+1559,Garston,H,H,NR,Ungated
+5416,Gatwick Airport,E,E,NR,Gated
+3051,Gerrards Cross,H,H,NR,Gated
+6877,Gidea Park,6,6,NR,Gated
+5169,Gillingham (Kent),H,H,NR,Gated
+5363,Gipsy Hill,3,3,NR,Gated
+583,Gloucester Road,1,1,TfL,Gated
+584,Golders Green,3,3,TfL,Gated
+585,Goldhawk Road,2,2,TfL,Gated
+586,Goodge Street,1,1,TfL,Gated
+6878,Goodmayes,4,4,NR,Gated
+6028,Gordon Hill,5,5,NR,Gated
+1409,Gospel Oak,2,2,NR,Gated
+587,Grange Hill,4,4,TfL,Gated
+6029,Grange Park,5,5,NR,Ungated
+5172,Gravesend,H,H,NR,Gated
+7443,Grays,W,W,NR,Gated
+1463,Great Missenden,H,H,NR,Gated
+588,Great Portland Street,1,1,TfL,Gated
+590,Green Park,1,1,TfL,Gated
+589,Greenford,4,4,Joint,Gated
+5138,Greenhithe for Bluewater,H,H,NR,Gated
+928,Greenwich,2,3,Joint,Ungated
+5139,Grove Park,4,4,NR,Ungated
+5631,Guildford,H,H,NR,Gated
+591,Gunnersbury,3,3,Joint,Gated
+5364,Hackbridge,4,4,NR,Ungated
+6977,Hackney Central,2,2,NR,Gated
+6867,Hackney Downs,2,2,NR,Gated
+6978,Hackney Wick,2,2,NR,Gated
+6075,Hadley Wood,6,6,NR,Ungated
+1022,Haggerston,2,2,NR,Gated
+592,Hainault,4,4,TfL,Gated
+773,Hammersmith C&H,2,2,TfL,Gated
+593,Hammersmith D&P,2,2,TfL,Gated
+594,Hampstead,2,3,TfL,Gated
+1413,Hampstead Heath,2,2,NR,Gated
+5560,Hampton,6,6,NR,Ungated
+5561,Hampton Court,6,6,NR,Gated
+5589,Hampton Wick,6,6,NR,Ungated
+595,Hanger Lane,3,3,TfL,Gated
+3191,Hanwell,4,4,NR,Ungated
+596,Harlesden,3,3,Joint,Gated
+1533,Harlington,H,H,NR,Gated
+6804,Harlow Mill,H,H,NR,Gated
+6827,Harlow Town,H,H,NR,Gated
+6879,Harold Wood,6,6,NR,Gated
+1543,Harpenden,H,H,NR,Gated
+6012,Harringay,3,3,NR,Ungated
+7401,Harringay Green Lanes,3,3,NR,Ungated
+597,Harrow & Wealdstone,5,5,Joint,Gated
+598,Harrow-on-the-Hill,5,5,Joint,Gated
+1398,Hatch End,6,6,NR,Gated
+6070,Hatfield,H,H,NR,Gated
+6845,Hatfield Peverel,H,H,NR,Gated
+779,Hatton Cross,5,6,TfL,Gated
+5289,Haydons Road,3,3,NR,Ungated
+3186,Hayes & Harlington,5,5,NR,Gated
+5050,Hayes Kent,5,5,NR,Ungated
+1434,Headstone Lane,5,5,NR,Ungated
+7090,Heathrow T23 TfL Rail/HEx,6,6,NR,Gated
+7091,Heathrow T4 TfL Rail/HEx,6,6,NR,Gated
+9846,Heathrow T5 TfL Rail/HEx,6,6,NR,Gated
+781,Heathrow Terminal 4 LU,6,6,TfL,Gated
+783,Heathrow Terminal 5 LU,6,6,TfL,Gated
+780,Heathrow Terminals 23 LU,6,6,TfL,Gated
+1391,Hemel Hempstead,H,H,NR,Gated
+1522,Hendon,3,4,NR,Ungated
+601,Hendon Central,3,4,TfL,Gated
+3146,Henley-on-Thames,H,H,NR,Ungated
+5066,Herne Hill,2,3,NR,Ungated
+855,Heron Quays,2,2,TfL,Ungated
+5590,Hersham,H,H,NR,Gated
+6818,Hertford East,B,B,NR,Ungated
+6085,Hertford North,B,B,NR,Gated
+602,High Barnet,5,5,TfL,Gated
+5235,High Brooms,H,H,NR,Ungated
+605,High Street Kensington,1,1,TfL,Gated
+3054,High Wycombe,H,H,NR,Gated
+5202,Higham,H,H,NR,Gated
+6919,Highams Park,4,4,NR,Gated
+603,Highbury & Islington,2,2,Joint,Gated
+604,Highgate,3,3,TfL,Gated
+5236,Hildenborough,H,H,NR,Ungated
+606,Hillingdon,6,6,TfL,Gated
+5591,Hinchley Wood,H,H,NR,Gated
+6086,Hitchin,H,H,NR,Ungated
+5107,Hither Green,3,3,NR,Ungated
+6880,Hockley,H,H,NR,Gated
+607,Holborn,1,1,TfL,Gated
+608,Holland Park,2,2,TfL,Gated
+609,Holloway Road,2,2,TfL,Gated
+6979,Homerton,2,2,NR,Gated
+5418,Honor Oak Park,3,3,NR,Gated
+5365,Horley,D,D,NR,Gated
+610,Hornchurch,6,6,TfL,Gated
+6015,Hornsey,3,3,NR,Gated
+5562,Horsley,H,H,NR,Gated
+5563,Hounslow,5,5,NR,Ungated
+611,Hounslow Central,4,4,TfL,Gated
+612,Hounslow East,4,4,TfL,Gated
+613,Hounslow West,5,5,TfL,Gated
+1563,How Wood,H,H,NR,Ungated
+1023,Hoxton,1,2,NR,Gated
+5463,Hurst Green,H,H,NR,Gated
+614,Hyde Park Corner,1,1,TfL,Gated
+615,Ickenham,6,6,TfL,Gated
+6881,Ilford,4,4,NR,Gated
+9586,Imperial Wharf,2,2,NR,Gated
+6882,Ingatestone,H,H,NR,Gated
+856,Island Gardens,2,2,TfL,Ungated
+5592,Isleworth,4,4,NR,Ungated
+3170,Iver Stations,H,H,NR,Gated
+5678,Kempton Park,H,H,NR,Ungated
+5079,Kemsing,H,H,NR,Ungated
+5419,Kenley,6,6,NR,Ungated
+616,Kennington,1,2,TfL,Gated
+617,Kensal Green,2,2,Joint,Gated
+1448,Kensal Rise,2,2,NR,Ungated
+618,Kensington Olympia,2,2,Joint,Gated
+5080,Kent House,4,4,NR,Ungated
+619,Kentish Town,2,2,Joint,Gated
+1449,Kentish Town West,2,2,NR,Ungated
+620,Kenton,4,4,Joint,Gated
+5593,Kew Bridge,3,3,NR,Ungated
+621,Kew Gardens,3,4,Joint,Gated
+5108,Kidbrooke,3,3,NR,Ungated
+622,Kilburn,2,2,TfL,Gated
+1415,Kilburn High Road,2,2,NR,Gated
+623,Kilburn Park,2,2,TfL,Gated
+523,King George V,3,3,TfL,Ungated
+600,Kings Cross LU (North),1,1,TfL,Gated
+625,Kings Cross LU (Tube),1,1,TfL,Gated
+772,Kings Cross LU (Western),1,1,TfL,Gated
+6121,Kings Cross NR,1,1,NR,Gated
+1392,Kings Langley,H,H,NR,Ungated
+624,Kingsbury,4,4,TfL,Gated
+5565,Kingston,6,6,NR,Gated
+5366,Kingswood,6,6,NR,Ungated
+6088,Knebworth,H,H,NR,Gated
+626,Knightsbridge,1,1,TfL,Gated
+5109,Knockholt,6,6,NR,Ungated
+627,Ladbroke Grove,2,2,TfL,Gated
+5057,Ladywell,3,3,NR,Ungated
+7445,Laindon,H,H,NR,Gated
+628,Lambeth North,1,1,TfL,Gated
+629,Lancaster Gate,1,1,TfL,Gated
+853,Langdon Park,2,2,TfL,Ungated
+3171,Langley Berks,H,H,NR,Gated
+630,Latimer Road,2,2,TfL,Gated
+6927,Lea Bridge,3,3,NR,Ungated
+1534,Leagrave,H,H,NR,Gated
+5368,Leatherhead,H,H,NR,Gated
+5110,Lee,3,3,NR,Ungated
+631,Leicester Square,1,1,TfL,Gated
+7446,Leigh-on-Sea,H,H,NR,Gated
+1373,Leighton Buzzard,H,H,NR,Ungated
+6089,Letchworth Garden City,H,H,NR,Ungated
+940,Lewisham DLR,2,3,TfL,Ungated
+5051,Lewisham NR,2,3,NR,Gated
+632,Leyton,3,3,TfL,Gated
+7402,Leyton Midland Road,3,3,NR,Gated
+633,Leytonstone,3,4,TfL,Gated
+7403,Leytonstone High Road,3,3,NR,Gated
+862,Limehouse DLR,2,2,TfL,Ungated
+7491,Limehouse NR,2,2,NR,Gated
+5369,Lingfield,H,H,NR,Gated
+3066,Little Kimble,H,H,NR,Gated
+6965,Liverpool St NR,1,1,NR,Gated
+634,Liverpool Street LU,1,1,Joint,Gated
+689,Liverpool Street LU(Broadgate),1,1,Joint,Gated
+635,London Bridge LU,1,1,TfL,Gated
+5148,London Bridge NR,1,1,NR,Gated
+6336,London Bridge NR,1,1,NR,Gated
+533,London City Airport,3,3,TfL,Ungated
+6966,London Fields,2,2,NR,Ungated
+5632,London Road (Guildford),H,H,NR,Gated
+5674,Longcross,H,H,NR,Gated
+5114,Longfield,H,H,NR,Ungated
+5082,Loughborough Junct,2,2,NR,Gated
+636,Loughton,6,6,TfL,Gated
+5053,Lower Sydenham,4,4,NR,Ungated
+1536,Luton,H,H,NR,Gated
+3667,Luton Airport DART,H,H,NR,Gated
+3645,Luton Airport Parkway,H,H,NR,Gated
+9227,Luton Airport Parkway DART,H,H,NR,Gated
+637,Maida Vale,2,2,TfL,Gated
+3147,Maidenhead,H,H,NR,Gated
+5599,Malden Manor,4,4,NR,Ungated
+638,Manor House,2,3,TfL,Gated
+6883,Manor Park,3,4,NR,Gated
+639,Mansion House,1,1,TfL,Gated
+640,Marble Arch,1,1,TfL,Gated
+3021,Marlow,H,H,NR,Ungated
+5692,Martins Heron,H,H,NR,Gated
+6970,Maryland,3,3,NR,Gated
+641,Marylebone LU,1,1,TfL,Gated
+1475,Marylebone NR,1,1,NR,Gated
+5149,Maze Hill,3,3,NR,Ungated
+5116,Meopham,H,H,NR,Ungated
+6599,Meridian Water,4,4,NR,Gated
+5475,Merstham,D,D,NR,Gated
+642,Mile End,2,2,TfL,Gated
+1527,Mill Hill Broadway,4,4,NR,Gated
+643,Mill Hill East,4,4,TfL,Ungated
+5069,Mitcham Eastfields,3,3,NR,Ungated
+5427,Mitcham Junction,4,4,NR,Ungated
+3067,Monks Risborough,H,H,NR,Gated
+644,Monument,1,1,TfL,Gated
+646,Moor Park,6,7,TfL,Gated
+645,Moorgate,1,1,Joint,Gated
+647,Morden,4,4,TfL,Gated
+5291,Morden South,4,4,NR,Ungated
+648,Mornington Crescent,2,2,TfL,Gated
+5600,Mortlake,3,3,NR,Ungated
+5645,Motspur Park,4,4,NR,Ungated
+5118,Mottingham,4,4,NR,Ungated
+857,Mudchute,2,2,TfL,Ungated
+649,Neasden,3,3,TfL,Gated
+6018,New Barnet,5,5,NR,Gated
+5058,New Beckenham,4,4,NR,Ungated
+5150,New Cross,2,2,NR,Gated
+5345,New Cross Gate,2,2,NR,Gated
+5119,New Eltham,4,4,NR,Gated
+5567,New Malden,4,4,NR,Gated
+6019,New Southgate,4,4,NR,Ungated
+650,Newbury Park,4,4,TfL,Gated
+831,Nine Elms,1,1,TfL,Gated
+5568,Norbiton,5,5,NR,Gated
+5428,Norbury,3,3,NR,Gated
+653,North Acton,2,3,TfL,Gated
+5429,North Dulwich,2,3,NR,Ungated
+654,North Ealing,3,3,TfL,Gated
+789,North Greenwich,2,3,TfL,Gated
+656,North Harrow,5,5,TfL,Gated
+5601,North Sheen,3,3,NR,Ungated
+659,North Wembley,4,4,Joint,Gated
+655,Northfields,3,3,TfL,Gated
+5120,Northfleet,H,H,NR,Gated
+657,Northolt,5,5,TfL,Gated
+1478,Northolt Park,5,5,NR,Ungated
+6971,Northumberld Pk,3,3,NR,Ungated
+660,Northwick Park,4,4,TfL,Gated
+661,Northwood,6,6,TfL,Gated
+662,Northwood Hills,6,6,TfL,Gated
+5376,Norwood Junction SR,4,4,NR,Gated
+663,Notting Hill Gate,1,2,TfL,Gated
+5068,Nunhead,2,2,NR,Ungated
+6020,Oakleigh Park,4,4,NR,Ungated
+664,Oakwood,5,5,TfL,Gated
+7451,Ockendon,W,W,NR,Gated
+665,Old Street,1,1,Joint,Gated
+5122,Orpington,6,6,NR,Gated
+667,Osterley,4,4,TfL,Gated
+5071,Otford,H,H,NR,Ungated
+668,Oval,2,2,TfL,Gated
+669,Oxford Circus,1,1,TfL,Gated
+5602,Oxshott,H,H,NR,Gated
+5377,Oxted,H,H,NR,Gated
+670,Paddington,1,1,Joint,Gated
+6552,Paddington Elizabeth Line,1,1,Joint,Gated
+8204,Paddington HEx,1,1,NR,Gated
+3087,Paddington NR,1,1,NR,Gated
+6093,Paddington NR contactless,1,1,NR,Gated
+6021,Palmers Green,4,4,NR,Gated
+671,Park Royal,3,3,TfL,Gated
+1561,Park Street,H,H,NR,Ungated
+672,Parsons Green,2,2,TfL,Gated
+5423,Peckham Rye,2,2,NR,Gated
+5072,Penge East,4,4,NR,Ungated
+5378,Penge West,4,4,NR,Ungated
+673,Perivale,4,4,TfL,Gated
+5123,Petts Wood,5,5,NR,Ungated
+674,Piccadilly Circus,1,1,TfL,Gated
+776,Pimlico,1,1,TfL,Gated
+675,Pinner,5,5,TfL,Gated
+7452,Pitsea,H,H,NR,Gated
+676,Plaistow,3,3,TfL,Gated
+5208,Plumstead,4,4,NR,Ungated
+6819,Ponders End,5,5,NR,Ungated
+538,Pontoon Dock DLR,3,3,TfL,Ungated
+858,Poplar,2,2,TfL,Ungated
+6022,Potters Bar,B,B,NR,Gated
+677,Preston Road,4,4,TfL,Gated
+888,Prince Regent,3,3,TfL,Ungated
+3055,Princes Risborough,H,H,NR,Gated
+7419,Prittlewell,H,H,NR,Gated
+859,Pudding Mill Lane,2,3,TfL,Ungated
+7453,Purfleet,W,W,NR,Gated
+5379,Purley,6,6,NR,Gated
+5430,Purley Oaks,6,6,NR,Ungated
+5603,Putney,2,3,NR,Gated
+678,Putney Bridge,2,2,TfL,Gated
+680,Queens Park,2,2,Joint,Gated
+5424,Queens Rd Peckham,2,2,NR,Gated
+679,Queensbury,4,4,TfL,Gated
+5596,Queenstown Road Battersea,2,2,NR,Gated
+681,Queensway,1,1,TfL,Gated
+1546,Radlett,B,B,NR,Gated
+5177,Rainham (Kent),H,H,NR,Gated
+7454,Rainham Essex,6,6,NR,Gated
+5083,Ravensbourne,4,4,NR,Ungated
+682,Ravenscourt Park,2,2,TfL,Gated
+6884,Rayleigh,H,H,NR,Gated
+683,Rayners Lane,5,5,TfL,Gated
+5569,Raynes Park,4,4,NR,Gated
+3149,Reading,H,H,NR,Gated
+6967,Rectory Road,2,2,NR,Ungated
+684,Redbridge,4,4,TfL,Gated
+5478,Redhill,D,D,NR,Gated
+5431,Reedham Surrey,6,6,NR,Ungated
+685,Regents Park,1,1,TfL,Gated
+5480,Reigate,H,H,NR,Gated
+5570,Richmond,4,4,Joint,Gated
+687,Rickmansworth,7,7,Joint,Gated
+5432,Riddlesdown,6,6,NR,Ungated
+5203,Rochester,H,H,NR,Gated
+6885,Rochford,H,H,NR,Gated
+688,Roding Valley,4,4,TfL,Ungated
+6886,Romford,6,6,NR,Gated
+1039,Rotherhithe,2,2,NR,Gated
+890,Royal Albert,3,3,TfL,Ungated
+690,Royal Oak,2,2,TfL,Gated
+886,Royal Victoria,3,3,TfL,Ungated
+6829,Roydon,H,H,NR,Gated
+691,Ruislip,6,6,TfL,Gated
+692,Ruislip Gardens,5,5,TfL,Gated
+693,Ruislip Manor,6,6,TfL,Gated
+694,Russell Square,1,1,TfL,Gated
+6820,Rye House,B,B,NR,Ungated
+5380,Salfords Surrey,D,D,NR,Ungated
+5433,Sanderstead,6,6,NR,Gated
+3056,Saunderton,H,H,NR,Gated
+6806,Sawbridgeworth,H,H,NR,Gated
+3061,Seer Green & Jordans,H,H,NR,Ungated
+5434,Selhurst,4,4,NR,Gated
+6893,Seven Kings,4,4,NR,Gated
+698,Seven Sisters,3,3,Joint,Gated
+5124,Sevenoaks,H,H,NR,Gated
+860,Shadwell DLR,2,2,TfL,Ungated
+1082,Shadwell LO,2,2,NR,Gated
+6888,Shenfield,C,C,NR,Gated
+9587,Shepherds Bush LO,2,2,NR,Gated
+700,Shepherds Bush LU,2,2,TfL,Gated
+775,Shepherds Bush Market,2,2,TfL,Gated
+5605,Shepperton,H,H,NR,Ungated
+3150,Shiplake,H,H,NR,Ungated
+7455,Shoeburyness,H,H,NR,Gated
+1024,Shoreditch High Street,1,1,NR,Gated
+5074,Shoreham Kent,H,H,NR,Ungated
+5084,Shortlands,4,4,NR,Ungated
+5125,Sidcup,5,5,NR,Gated
+6972,Silver Street,4,4,NR,Ungated
+5154,Slade Green,6,6,NR,Ungated
+702,Sloane Square,1,1,TfL,Gated
+3172,Slough,H,H,NR,Gated
+703,Snaresbrook,4,4,TfL,Gated
+5126,Sole Street,H,H,NR,Ungated
+1452,South Acton,3,3,NR,Ungated
+5425,South Bermondsey,2,2,NR,Ungated
+5410,South Croydon,5,5,NR,Gated
+704,South Ealing,3,3,TfL,Gated
+3138,South Greenford,4,4,NR,Ungated
+1451,South Hampstead,2,2,NR,Ungated
+707,South Harrow,5,5,TfL,Gated
+708,South Kensington,1,1,TfL,Gated
+709,South Kenton,4,4,Joint,Ungated
+5292,South Merton,4,4,NR,Ungated
+861,South Quay,2,2,TfL,Ungated
+710,South Ruislip,5,5,Joint,Gated
+7404,South Tottenham,3,3,NR,Gated
+711,South Wimbledon,3,4,TfL,Gated
+712,South Woodford,4,4,TfL,Gated
+3187,Southall,4,4,NR,Gated
+6947,Southbury,5,5,NR,Gated
+4787,Southend Airport,H,H,NR,Gated
+7456,Southend Central,H,H,NR,Gated
+7457,Southend East,H,H,NR,Gated
+7420,Southend Victoria,H,H,NR,Gated
+705,Southfields,3,3,TfL,Gated
+706,Southgate,4,4,TfL,Gated
+784,Southwark,1,1,TfL,Gated
+1548,St Albans,H,H,NR,Gated
+1562,St Albans Abbey,H,H,NR,Ungated
+5290,St Helier,4,4,NR,Ungated
+6973,St James Street,3,3,NR,Gated
+695,St James's Park,1,1,TfL,Gated
+5059,St Johns,2,2,NR,Ungated
+696,St Johns Wood,2,2,TfL,Gated
+6821,St Margarets Herts,B,B,NR,Ungated
+5604,St Margarets London,4,4,NR,Gated
+5073,St Mary Cray,6,6,NR,Ungated
+7422,St Pancras Int (Plat 1-4),1,1,NR,Gated
+1555,St Pancras International,1,1,NR,Gated
+7423,St Pancras International (HS1),H,H,NR,Gated
+697,St Pauls,1,1,TfL,Gated
+5670,Staines,H,H,NR,Gated
+713,Stamford Brook,2,2,TfL,Gated
+6968,Stamford Hill,3,3,NR,Ungated
+7458,Stanford-le-Hope,H,H,NR,Gated
+714,Stanmore,5,5,TfL,Gated
+6834,Stansted Airport,H,H,NR,Gated
+6833,Stansted Mountfitchet,H,H,NR,Gated
+889,Star Lane DLR,2,3,TfL,Ungated
+715,Stepney Green,2,2,TfL,Gated
+6092,Stevenage,H,H,NR,Ungated
+716,Stockwell,2,2,TfL,Gated
+1467,Stoke Mandeville,H,H,NR,Gated
+6934,Stoke Newington,2,2,NR,Ungated
+5248,Stone Crossing,H,H,NR,Gated
+717,Stonebridge Park,3,3,Joint,Gated
+5606,Stoneleigh,5,5,NR,Ungated
+719,Stratford,2,3,Joint,Gated
+6960,Stratford,2,3,NR,Ungated
+749,Stratford High Street,2,3,TfL,Ungated
+504,Stratford International,2,3,TfL,Ungated
+7222,Stratford International (HS1),H,H,NR,Gated
+5607,Strawberry Hill,5,5,NR,Ungated
+5383,Streatham,3,3,NR,Gated
+5384,Streatham Common,3,3,NR,Gated
+5435,Streatham Hill,3,3,NR,Gated
+5191,Strood,H,H,NR,Gated
+1483,Sudbury & Harrow Road,4,4,NR,Ungated
+720,Sudbury Hill,4,4,TfL,Gated
+1484,Sudbury Hill Harrow,4,4,NR,Ungated
+721,Sudbury Town,4,4,TfL,Gated
+5608,Sunbury,H,H,NR,Ungated
+5155,Sundridge Park,4,4,NR,Ungated
+5671,Sunnningdale,H,H,NR,Gated
+5675,Sunnymeads,H,H,NR,Ungated
+5571,Surbiton,6,6,NR,Gated
+1083,Surrey Quays,2,2,NR,Gated
+5436,Sutton Common,4,4,NR,Ungated
+5385,Sutton Surrey,5,5,NR,Gated
+5075,Swanley,8,8,NR,Ungated
+5156,Swanscombe,H,H,NR,Gated
+723,Swiss Cottage,2,2,TfL,Gated
+5085,Sydenham Hill,3,3,NR,Ungated
+5437,Sydenham SR,3,3,NR,Gated
+5609,Syon Lane,4,4,NR,Ungated
+5386,Tadworth,6,6,NR,Ungated
+3151,Taplow,H,H,NR,Gated
+5387,Tattenham Corner,6,6,NR,Ungated
+5572,Teddington,6,6,NR,Ungated
+724,Temple,1,1,TfL,Gated
+5610,Thames Ditton,6,6,NR,Ungated
+6949,Theobalds Grove,7,7,NR,Gated
+725,Theydon Bois,6,6,TfL,Gated
+5388,Thornton Heath,4,4,NR,Gated
+7460,Thorpe Bay,H,H,NR,Gated
+7462,Tilbury Town,H,H,NR,Gated
+5573,Tolworth,5,5,NR,Ungated
+5229,Tonbridge,H,H,NR,Ungated
+5389,Tooting,3,3,NR,Gated
+726,Tooting Bec,3,3,TfL,Gated
+727,Tooting Broadway,3,3,TfL,Gated
+728,Tottenham Court Road,1,1,Joint,Gated
+729,Tottenham Hale,3,3,TfL,Gated
+6951,Tottenham Hale,3,3,NR,Gated
+730,Totteridge,4,4,TfL,Gated
+864,Tower Gateway,1,1,TfL,Ungated
+731,Tower Hill,1,1,TfL,Gated
+1393,Tring,H,H,NR,Ungated
+733,Tufnell Park,2,2,TfL,Gated
+5390,Tulse Hill,3,3,NR,Gated
+5230,Tunbridge Wells,H,H,NR,Ungated
+6952,Turkey Street,6,6,NR,Gated
+734,Turnham Green,2,3,TfL,Gated
+735,Turnpike Lane,3,3,TfL,Gated
+5574,Twickenham,5,5,NR,Gated
+3155,Twyford,H,H,NR,Ungated
+7464,Upminster,6,6,Joint,Gated
+737,Upminster Bridge,6,6,TfL,Gated
+738,Upney,4,4,TfL,Gated
+5613,Upper Halliford,H,H,NR,Ungated
+1524,Upper Holloway,2,2,NR,Ungated
+5391,Upper Warlingham,6,6,NR,Ungated
+739,Upton Park,3,3,TfL,Gated
+740,Uxbridge,6,6,TfL,Gated
+777,Vauxhall LU,1,2,TfL,Gated
+5597,Vauxhall NR,1,2,NR,Gated
+741,Victoria LU,1,1,TfL,Gated
+722,Victoria LU D,1,1,TfL,Gated
+5426,Victoria NR,1,1,NR,Gated
+5449,Victoria NR,1,1,NR,Gated
+8558,Victoria NR,1,1,NR,Gated
+5676,Virginia Water,H,H,NR,Gated
+559,W Silvertown,3,3,TfL,Ungated
+5392,Waddon,5,5,NR,Ungated
+5394,Wallington,5,5,NR,Gated
+6823,Waltham Cross,7,7,NR,Ungated
+742,Walthamstow Central,3,3,Joint,Gated
+6953,Walthamstow Central,3,3,Joint,Gated
+7407,Walthamstow Queens Road,3,3,NR,Ungated
+5575,Walton-on-Thames,H,H,NR,Gated
+5395,Wandsworth Common,3,3,NR,Ungated
+5372,Wandsworth Road,2,2,NR,Ungated
+5576,Wandsworth Town,2,2,NR,Gated
+743,Wanstead,4,4,TfL,Gated
+7408,Wanstead Park,3,3,NR,Gated
+1085,Wapping,2,2,NR,Gated
+6824,Ware,B,B,NR,Ungated
+3158,Wargrave,H,H,NR,Ungated
+745,Warren Street,1,1,TfL,Gated
+746,Warwick Avenue,2,2,TfL,Gated
+5158,Waterloo East NR,1,1,NR,Gated
+747,Waterloo LU (Bloo/Nthn/W&C),1,1,TfL,Gated
+796,Waterloo LU (Jubilee),1,1,TfL,Gated
+8909,Waterloo NR,1,1,NR,Gated
+5598,Waterloo NR (Plat 1-11),1,1,NR,Gated
+5465,Waterloo NR (Plat 20-24),1,1,NR,Gated
+1455,Watford High Street,8,8,NR,Gated
+1402,Watford Junction,W,W,NR,Gated
+748,Watford Met,7,7,TfL,Gated
+1403,Watford North,H,H,NR,Ungated
+6095,Watton-at-Stone,H,H,NR,Gated
+6073,Welham Green,H,H,NR,Ungated
+5128,Welling,4,4,NR,Gated
+6183,Welwyn Garden City,H,H,NR,Gated
+6096,Welwyn North,H,H,NR,Gated
+751,Wembley Central,4,4,Joint,Gated
+752,Wembley Park,4,4,TfL,Gated
+1509,Wembley Stadium,4,4,NR,Ungated
+1466,Wendover,H,H,NR,Gated
+753,West Acton,3,3,TfL,Gated
+755,West Brompton,2,2,Joint,Gated
+5684,West Byfleet,H,H,NR,Gated
+5411,West Croydon,5,5,NR,Gated
+3174,West Drayton,6,6,NR,Gated
+5086,West Dulwich,3,3,NR,Ungated
+3188,West Ealing,3,3,NR,Gated
+756,West Finchley,4,4,TfL,Gated
+757,West Ham,2,3,Joint,Gated
+1421,West Hampstead LO,2,2,NR,Gated
+758,West Hampstead LU,2,2,TfL,Gated
+1525,West Hampstead Thameslink,2,2,NR,Gated
+759,West Harrow,5,5,TfL,Gated
+7466,West Horndon,H,H,NR,Gated
+866,West India Quay,2,2,TfL,Ungated
+760,West Kensington,2,2,TfL,Gated
+5129,West Malling,H,H,NR,Ungated
+5438,West Norwood,3,3,NR,Gated
+762,West Ruislip,6,6,Joint,Gated
+5293,West Sutton,5,5,NR,Ungated
+5054,West Wickham,5,5,NR,Ungated
+754,Westbourne Park,2,2,TfL,Gated
+7476,Westcliff,H,H,NR,Gated
+5151,Westcombe Park,3,3,NR,Ungated
+865,Westferry,2,2,TfL,Ungated
+761,Westminster,1,1,TfL,Gated
+5577,Weybridge,H,H,NR,Gated
+764,White City,2,2,TfL,Gated
+6956,White Hart Lane,3,3,NR,Gated
+763,Whitechapel,2,2,Joint,Gated
+5611,Whitton,5,5,NR,Ungated
+5396,Whyteleafe,6,6,NR,Ungated
+5439,Whyteleafe South,6,6,NR,Ungated
+6891,Wickford,H,H,NR,Gated
+765,Willesden Green,2,3,TfL,Gated
+1457,Willesden Junction,2,3,Joint,Gated
+5578,Wimbledon,3,3,Joint,Gated
+5612,Wimbledon Chase,3,3,NR,Ungated
+768,Wimbledon Park,3,3,TfL,Gated
+6024,Winchmore Hill,4,4,NR,Gated
+3175,Windsor & Eton Central,H,H,NR,Ungated
+5672,Windsor & Eton Riverside,H,H,NR,Gated
+5697,Winnersh,H,H,NR,Gated
+5698,Winnersh Triangle,H,H,NR,Gated
+6844,Witham,H,H,NR,Gated
+5685,Woking,H,H,NR,Gated
+5696,Wokingham,H,H,NR,Gated
+5440,Woldingham,H,H,NR,Gated
+770,Wood Green,3,3,TfL,Gated
+599,Wood Lane,2,2,TfL,Gated
+6954,Wood Street,4,4,NR,Gated
+769,Woodford,4,4,TfL,Gated
+7467,Woodgrange Park,3,4,NR,Gated
+5441,Woodmansterne,6,6,NR,Ungated
+771,Woodside Park,4,4,TfL,Gated
+573,Woolwich Arsenal DLR,4,4,TfL,Gated
+5152,Woolwich Arsenal NR,4,4,NR,Gated
+5153,Woolwich Dockyard,3,3,NR,Ungated
+6562,Woolwich Elizabeth Line,4,4,NR,Gated
+5579,Worcester Park,4,4,NR,Ungated
+5686,Worplesdon,H,H,NR,Gated
+5673,Wraysbury,H,H,NR,Ungated

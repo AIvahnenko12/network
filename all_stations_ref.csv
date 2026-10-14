@@ -1,0 +1,861 @@
+ICS,NaPTAN,NLC,STATION,CLEAN STATION NAME,INNER_ZONE,OUTER_ZONE,JOINT,GATED,Validation_Check
+1003006.0,940GZZDLABR,750,Abbey Road DLR,Abbey Road,2,3,TfL,Ungated,Match
+1001001.0,910GFILTNEW,5131,Abbey Wood,Abbey Wood,4,4,NR,Gated,Match
+1001002.0,910GACTNCTL,1404,Acton Central,Acton Central,3,3,NR,Gated,Match
+1001003.0,910GACTONML,3000,Acton Main Line,Acton Main Line,3,3,NR,Gated,Match
+1000002.0,940GZZLUACT,500,Acton Town,Acton Town,3,3,TfL,Gated,Match
+1001275.0,910GADLESTN,5550,Addlestone,Addlestone,H,H,NR,Gated,Match
+1001004.0,910GALBNYPK,5132,Albany Park,Albany Park,5,5,NR,Gated,Match
+1000004.0,940GZZLUADE,502,Aldgate,Aldgate,1,1,TfL,Gated,Match
+1000004.0,940GZZLUADE,503,Aldgate East,Aldgate East,1,1,TfL,Gated,Match
+1001005.0,910GALEXNDP,6025,Alexandra Palace,Alexandra Palace,3,3,NR,Gated,Match
+1002003.0,940GZZDLALL,850,All Saints,All Saints,2,2,TfL,Ungated,Match
+1000005.0,940GZZLUALP,505,Alperton,Alperton,4,4,TfL,Gated,Match
+1000006.0,,506,Amersham,Amersham,9,9,Joint,Gated,Missing NaPTAN
+1001007.0,910GANERLEY,5397,Anerley,Anerley,4,4,NR,Ungated,Match
+1000007.0,940GZZLUAGL,507,Angel,Angel,1,1,TfL,Gated,Match
+1000808.0,910GAPSLEY,1430,Apsley,Apsley,H,H,NR,Ungated,Match
+1000008.0,940GZZLUACY,508,Archway,Archway,2,3,TfL,Gated,Match
+1000009.0,940GZZLUASG,509,Arnos Grove,Arnos Grove,4,4,TfL,Gated,Match
+1001344.0,940GZZLUASL,510,Arsenal,Arsenal,2,2,TfL,Gated,Match
+90000250.0,910GASCOT,5666,Ascot,Ascot,H,H,NR,Gated,Match
+1000009.0,,5667,Ashford Surrey,Ashford Surrey,H,H,NR,Ungated,Missing NaPTAN
+1001548.0,910GASHD,5347,Ashtead,Ashtead,H,H,NR,Gated,Match
+1001009.0,910GAYLSBRY,1492,Aylesbury,Aylesbury,H,H,NR,Gated,Match
+1000010.0,,1090,Aylesbury Valley Parkway,Aylesbury Valley Parkway,H,H,NR,Gated,Missing NaPTAN
+1000011.0,940GZZLUBST,511,Baker Street,Baker Street,1,1,TfL,Gated,Match
+1000721.0,910GBALDOCK,6084,Baldock,Baldock,H,H,NR,Ungated,Match
+1000012.0,,512,Balham LU,Balham,3,3,TfL,Gated,Missing NaPTAN
+1000012.0,,5399,Balham NR,Balham,3,3,NR,Gated,Missing NaPTAN
+1000013.0,940GZZLUEMB,513,Bank,Bank,1,1,TfL,Gated,Match
+1001552.0,910GBANSTED,5348,Banstead,Banstead,6,6,NR,Ungated,Match
+1000014.0,940GZZLUBBN,501,Barbican,Barbican,1,1,Joint,Gated,Joint Hub
+1000015.0,940GZZLUBKE,514,Barking,Barking,4,4,Joint,Gated,Joint Hub
+1002272.0,910GBARKRIV,1335,Barking Riverside,Barking Riverside,4,4,NR,Gated,Match
+1000016.0,940GZZLUBKE,515,Barkingside,Barkingside,4,4,TfL,Gated,Match
+1001013.0,910GBRNHRST,5089,Barnehurst,Barnehurst,6,6,NR,Ungated,Match
+1001014.0,910GBARNES,5551,Barnes,Barnes,3,3,NR,Ungated,Match
+1001015.0,910GBNSBDGE,5580,Barnes Bridge,Barnes Bridge,3,3,NR,Ungated,Match
+1000017.0,940GZZLUBSC,516,Barons Court,Barons Court,2,2,TfL,Gated,Match
+1000724.0,910GBASILDN,7494,Basildon,Basildon,H,H,NR,Gated,Match
+90000437.0,910GBATABAL,5090,Bat & Ball,Bat & Ball,H,H,NR,Ungated,Match
+1001016.0,910GBATRSPK,5420,Battersea Park,Battersea Park,2,2,NR,Gated,Match
+1002195.0,940GZZBPSUST,832,Battersea Power Station,Battersea Power,1,1,TfL,Gated,Match
+1000476.0,910GBAYFORD,6006,Bayford,Bayford,B,B,NR,Ungated,Match
+1000018.0,940GZZLUBWT,517,Bayswater,Bayswater,1,1,TfL,Gated,Match
+1000338.0,910GBCNSFLD,3047,Beaconsfield,Beaconsfield,H,H,NR,Gated,Match
+90001415.0,910GBEULYPK,6334,Beaulieu Park ,Beaulieu Park,H,H,NR,Gated,Match
+1001017.0,910GBCKNHMH,5076,Beckenham Hill,Beckenham Hill,4,4,NR,Ungated,Match
+1001018.0,,5046,Beckenham Junction,Beckenham Junction,4,4,NR,Ungated,Missing NaPTAN
+1002011.0,940GZZDLBEC,895,Beckton,Beckton,3,3,TfL,Ungated,Match
+1002012.0,940GZZDLBPK,891,Beckton Park,Beckton Park,3,3,TfL,Ungated,Match
+1000019.0,940GZZLUBEC,518,Becontree,Becontree,5,5,TfL,Gated,Match
+1001019.0,910GBELNGHM,5062,Bellingham,Bellingham,3,3,NR,Ungated,Match
+1001020.0,910GBELM,5350,Belmont,Belmont,5,5,NR,Ungated,Match
+1000020.0,940GZZLUBZP,519,Belsize Park,Belsize Park,2,2,TfL,Gated,Match
+1001021.0,910GBELVEDR,5092,Belvedere,Belvedere,5,5,NR,Ungated,Match
+1000727.0,910GBENFLET,7439,Benfleet,Benfleet,H,H,NR,Gated,Match
+1000814.0,910GBERKHMD,1390,Berkhamsted,Berkhamsted,H,H,NR,Ungated,Match
+1000021.0,940GZZLUBMY,787,Bermondsey,Bermondsey,2,2,TfL,Gated,Match
+1001022.0,910GBRLANDS,5581,Berrylands,Berrylands,5,5,NR,Ungated,Match
+1001023.0,910GBTHNLGR,520,Bethnal Green LU,Bethnal Green,2,2,TfL,Gated,Review / Mismatch
+1001023.0,910GBTHNLGR,6961,Bethnal Green NR,Bethnal Green,2,2,NR,Gated,Match
+1001024.0,910GBEXLEY,5093,Bexley,Bexley,6,6,NR,Gated,Match
+1001025.0,910GBXLYHTH,5094,Bexleyheath,Bexleyheath,5,5,NR,Gated,Match
+1001026.0,910GBICKLEY,5063,Bickley,Bickley,5,5,NR,Ungated,Match
+1000573.0,910GBILERCY,6871,Billericay,Billericay,H,H,NR,Gated,Match
+1001027.0,,5401,Birkbeck,Birkbeck,4,4,NR,Ungated,Missing NaPTAN
+1000576.0,910GBSHPSFD,6800,Bishop's Stortford,Bishop'S Stortford,H,H,NR,Gated,Match
+1000023.0,,521,Blackfriars LU,Blackfriars,1,1,TfL,Gated,Missing NaPTAN
+1000023.0,,5112,Blackfriars NR,Blackfriars,1,1,NR,Gated,Missing NaPTAN
+1001029.0,910GBLKHTH,5095,Blackheath,Blackheath,3,3,NR,Ungated,Match
+1000024.0,,522,Blackhorse Road,Blackhorse Road,3,3,Joint,Gated,Missing NaPTAN
+1002018.0,940GZZDLBLA,882,Blackwall,Blackwall,2,2,TfL,Ungated,Match
+90000691.0,910GBLTCHLY,1360,Bletchley,Bletchley,H,H,NR,Gated,Match
+1000025.0,,524,Bond Street,Bond Street,1,1,Joint,Gated,Missing NaPTAN
+1001511.0,910GBOOKHAM,5626,Bookham,Bookham,H,H,NR,Gated,Match
+1000026.0,940GZZLUBOR,525,Borough,Borough,1,1,TfL,Gated,Match
+1001012.0,910GBORWGAW,5130,Borough Green & Wrotham,Borough Green & Wrotham,H,H,NR,Ungated,Match
+1000027.0,940GZZLUBOS,526,Boston Manor,Boston Manor,4,4,TfL,Gated,Match
+1000028.0,940GZZLUBDS,527,Bounds Green,Bounds Green,3,4,TfL,Gated,Match
+1000856.0,910GBORNEND,3018,Bourne End,Bourne End,H,H,NR,Ungated,Match
+1002019.0,940GZZDLBOW,851,Bow Church,Bow Church,2,2,TfL,Ungated,Match
+1000029.0,940GZZLUBWR,528,Bow Road,Bow Road,2,2,TfL,Gated,Match
+1001031.0,910GBOWESPK,6027,Bowes Park,Bowes Park,3,4,NR,Ungated,Match
+1001509.0,910GBOXHAWH,5403,Box Hill & Westhumble,Box Hill & Westhumble,H,H,NR,Gated,Match
+1001356.0,910GBRACKNL,5693,Bracknell,Bracknell,H,H,NR,Gated,Match
+1000030.0,940GZZLUBTX,529,Brent Cross,Brent Cross,3,3,TfL,Gated,Match
+1002310.0,910GBRENTX,7777,Brent Cross West,Brent Cross West,3,3,NR,Gated,Match
+1001032.0,910GBNTFORD,5552,Brentford,Brentford,4,4,NR,Ungated,Match
+1000292.0,910GBRTWOOD,6872,Brentwood,Brentwood,9,9,NR,Gated,Match
+1000770.0,910GBCWD,1560,Bricket Wood,Bricket Wood,H,H,NR,Ungated,Match
+1001033.0,910GBRIMSDN,6810,Brimsdown,Brimsdown,5,5,NR,Ungated,Match
+1000031.0,,778,Brixton LU,Brixton,2,2,TfL,Gated,Missing NaPTAN
+1000031.0,,5081,Brixton NR,Brixton,2,2,NR,Ungated,Missing NaPTAN
+1001035.0,910GBROCKLY,5404,Brockley,Brockley,2,2,NR,Gated,Match
+1001036.0,910GBROMLYN,5096,Bromley North,Bromley North,4,4,NR,Ungated,Match
+1001037.0,910GBROMLYS,5064,Bromley South,Bromley South,5,5,NR,Gated,Match
+1000032.0,940GZZLUBBB,530,Bromley-by-Bow,Bromley-By-Bow,2,3,TfL,Gated,Match
+1001038.0,910GBRBY,1437,Brondesbury,Brondesbury,2,2,NR,Gated,Match
+1001039.0,910GBRBYPK,1438,Brondesbury Park,Brondesbury Park,2,2,NR,Ungated,Match
+1000291.0,910GBRKMNPK,6074,Brookmans Park,Brookmans Park,H,H,NR,Ungated,Match
+1000583.0,910GBROXBRN,6812,Broxbourne,Broxbourne,B,B,NR,Gated,Match
+1001040.0,910GBRUCGRV,6958,Bruce Grove,Bruce Grove,3,3,NR,Ungated,Match
+1000033.0,940GZZLUBKH,531,Buckhurst Hill,Buckhurst Hill,5,5,TfL,Gated,Match
+1000036.0,,3176,Burnham Bucks,Burnham Bucks,H,H,NR,Gated,Missing NaPTAN
+1000034.0,940GZZLUBTK,532,Burnt Oak,Burnt Oak,4,4,TfL,Gated,Match
+1001042.0,910GBHILLPK,6913,Bush Hill Park,Bush Hill Park,5,5,NR,Ungated,Match
+1001041.0,,1395,Bushey,Bushey,8,8,NR,Ungated,Missing NaPTAN
+90001189.0,910GBYFLANH,5689,Byfleet & New Haw,Byfleet & New Haw,H,H,NR,Gated,Match
+1000035.0,940GZZLUCAR,534,Caledonian Road,Caledonian Road,2,2,TfL,Gated,Match
+1001043.0,910GCLDNNRB,1439,Caledonian Road & Barnsbury,Caledonian Road & Barnsbury,2,2,NR,Ungated,Match
+1001044.0,910GCAMHTH,6962,Cambridge Heath,Cambridge Heath,2,2,NR,Ungated,Match
+1001045.0,910GCMDNRD,1440,Camden Road,Camden Road,2,2,NR,Gated,Match
+1000036.0,940GZZLUCTN,535,Camden Town,Camden Town,2,2,TfL,Gated,Match
+1000037.0,,788,Canada Water,Canada Water,2,2,Joint,Gated,Missing NaPTAN
+1000038.0,,842,Canary Wharf DLR,Canary Wharf,2,2,TfL,Ungated,Missing NaPTAN
+1000038.0,,6560,Canary Wharf Elizabeth Line,Canary Wharf Elizabeth Line,2,2,NR,Gated,Missing NaPTAN
+1000038.0,,852,Canary Wharf LU (E1),Canary Wharf,2,2,TfL,Gated,Missing NaPTAN
+1000039.0,,884,Canning Town,Canning Town,2,3,TfL,Gated,Missing NaPTAN
+1000040.0,,536,Cannon Street  LU,Cannon Street,1,1,TfL,Gated,Missing NaPTAN
+1000040.0,,5142,Cannon Street NR,Cannon Street,1,1,NR,Gated,Missing NaPTAN
+1001048.0,910GCNNB,1441,Canonbury,Canonbury,2,2,NR,Gated,Match
+1000041.0,940GZZLUCPK,537,Canons Park,Canons Park,5,5,TfL,Gated,Match
+1001049.0,910GCRPNDPK,1442,Carpenders Park,Carpenders Park,7,7,NR,Gated,Match
+1001051.0,910GCRSHLTN,5405,Carshalton,Carshalton,5,5,NR,Gated,Match
+1001050.0,910GCRSHLTB,5406,Carshalton Beeches,Carshalton Beeches,5,5,NR,Gated,Match
+1001052.0,910GCBARPAR,3098,Castle Bar Park,Castle Bar Park,4,4,NR,Ungated,Match
+1001539.0,910GCATERHM,5351,Caterham,Caterham,6,6,NR,Gated,Match
+1001054.0,910GCATFBDG,5077,Catford,Catford,3,3,NR,Ungated,Match
+1001054.0,910GCATFBDG,5047,Catford Bridge,Catford Bridge,3,3,NR,Ungated,Match
+1001055.0,910GCHDWLHT,6874,Chadwell Heath,Chadwell Heath,5,5,NR,Gated,Match
+1000729.0,910GCHADHDD,7447,Chafford Hundred,Chafford Hundred,W,W,NR,Gated,Match
+1000042.0,,539,Chalfont & Latimer,Chalfont & Latimer,8,8,Joint,Gated,Missing NaPTAN
+1000043.0,940GZZLUCFM,540,Chalk Farm,Chalk Farm,2,2,TfL,Gated,Match
+90001408.0,910GCHLKWEL,7469,Chalkwell,Chalkwell,H,H,NR,Gated,Match
+1000044.0,940GZZLUCHL,541,Chancery Lane,Chancery Lane,1,1,TfL,Gated,Match
+1000045.0,910GCHRNGXG,732,Charing Cross LU,Charing Cross,1,1,TfL,Gated,Review / Mismatch
+1000045.0,910GCHRNGXG,5143,Charing Cross NR,Charing Cross,1,1,NR,Gated,Match
+1001058.0,910GCRLN,5144,Charlton,Charlton,3,3,NR,Ungated,Match
+90001362.0,910GCHATHAM,5199,Chatham,Chatham,H,H,NR,Gated,Match
+1001059.0,910GCHEAM,5352,Cheam,Cheam,5,5,NR,Ungated,Match
+1000818.0,910GCHDNGTN,1372,Cheddington,Cheddington,H,H,NR,Ungated,Match
+1000591.0,910GCHLMSFD,6836,Chelmsford,Chelmsford,H,H,NR,Gated,Match
+1001060.0,910GCHLSFLD,5098,Chelsfield,Chelsfield,6,6,NR,Ungated,Match
+1001526.0,910GCHTSEY,5553,Chertsey,Chertsey,H,H,NR,Gated,Match
+1000046.0,940GZZLUCSM,543,Chesham,Chesham,9,9,TfL,Gated,Match
+1001532.0,910GCHESHNT,6814,Cheshunt,Cheshunt,8,8,NR,Gated,Match
+1001061.0,910GCHSSN,5582,Chessington North,Chessington North,6,6,NR,Ungated,Match
+1001062.0,910GCHSSS,5554,Chessington South,Chessington South,6,6,NR,Ungated,Match
+1000047.0,940GZZLUCWL,544,Chigwell,Chigwell,4,4,TfL,Gated,Match
+1001063.0,910GCHINGFD,6914,Chingford,Chingford,5,5,NR,Gated,Match
+1001557.0,910GCHSD,5353,Chipstead,Chipstead,6,6,NR,Ungated,Match
+1001064.0,910GCHSLHRS,5099,Chislehurst,Chislehurst,5,5,NR,Ungated,Match
+1000048.0,940GZZLUCWP,5583,Chiswick,Chiswick,3,3,NR,Ungated,Review / Mismatch
+1000048.0,940GZZLUCWP,545,Chiswick Park,Chiswick Park,3,3,TfL,Gated,Match
+1000049.0,,546,Chorleywood,Chorleywood,7,7,Joint,Gated,Missing NaPTAN
+1001067.0,910GCTMSLNK,5121,City Thameslink,City Thameslink,1,1,NR,Gated,Match
+1001577.0,910GCLANDON,5555,Clandon,Clandon,H,H,NR,Gated,Match
+1000050.0,940GZZLUCPC,547,Clapham Common,Clapham Common,2,2,TfL,Gated,Match
+1001068.0,910GCLPHHS,5301,Clapham High Street,Clapham High Street,2,2,NR,Ungated,Match
+1001069.0,,5595,Clapham Junction,Clapham Junction,2,2,NR,Gated,Missing NaPTAN
+1000051.0,940GZZLUCPN,548,Clapham North,Clapham North,2,2,TfL,Gated,Match
+1000052.0,940GZZLUCPS,549,Clapham South,Clapham South,2,3,TfL,Gated,Match
+1001070.0,910GCLAPTON,6926,Clapton,Clapton,2,3,NR,Ungated,Match
+1001517.0,910GCLYGATE,5556,Claygate,Claygate,H,H,NR,Gated,Match
+1001071.0,910GCLOCKHS,5048,Clock House,Clock House,4,4,NR,Ungated,Match
+1001515.0,910GCBHMSDA,5557,Cobham & Stoke D'Abernon,Cobham & Stoke D'Abernon,H,H,NR,Gated,Match
+1000053.0,940GZZLUCKS,550,Cockfosters,Cockfosters,5,5,TfL,Gated,Match
+1000054.0,940GZZLUCND,551,Colindale,Colindale,4,4,TfL,Gated,Match
+1000055.0,940GZZLUCSD,552,Colliers Wood,Colliers Wood,3,3,TfL,Gated,Match
+1000863.0,910GCOOKHAM,3019,Cookham,Cookham,H,H,NR,Ungated,Match
+1001072.0,910GCOLSDNS,5408,Coulsdon South,Coulsdon South,6,6,NR,Gated,Match
+1001253.0,910GCOLSTWN,5382,Coulsdon Town,Coulsdon Town,6,6,NR,Ungated,Match
+1000056.0,940GZZLUCGN,553,Covent Garden,Covent Garden,1,1,TfL,Gated,Match
+1001073.0,910GCRFD,5100,Crayford,Crayford,6,6,NR,Gated,Match
+1001074.0,910GCRHL,6007,Crews Hill,Crews Hill,6,6,NR,Ungated,Match
+1001075.0,910GCRKLWD,1519,Cricklewood,Cricklewood,3,3,NR,Gated,Match
+1001076.0,910GCFPK,5078,Crofton Park,Crofton Park,3,3,NR,Ungated,Match
+1002025.0,940GZZDLCLA,854,Crossharbour,Crossharbour,2,2,TfL,Ungated,Match
+1001077.0,910GCROUCHH,7406,Crouch Hill,Crouch Hill,3,3,NR,Ungated,Match
+1000057.0,940GZZLUCXY,554,Croxley,Croxley,7,7,TfL,Gated,Match
+1001078.0,,5356,Crystal Palace,Crystal Palace,3,4,NR,Gated,Missing NaPTAN
+1001504.0,910GCUFFLEY,6008,Cuffley,Cuffley,9,9,NR,Ungated,Match
+1001079.0,,887,Custom House DLR,Custom House,3,3,TfL,Ungated,Missing NaPTAN
+1000058.0,,6561,Custom House Elizabeth Line,Custom House Elizabeth Line,3,3,NR,Gated,Missing NaPTAN
+1002027.0,,879,Cutty Sark,Cutty Sark,2,3,TfL,Ungated,Missing NaPTAN
+1002028.0,940GZZDLCYP,893,Cyprus,Cyprus,3,3,TfL,Ungated,Match
+1001080.0,910GDGNHMDC,7440,Dagenham Dock,Dagenham Dock,5,5,NR,Gated,Match
+1000058.0,940GZZLUDGE,555,Dagenham East,Dagenham East,5,5,TfL,Gated,Match
+1000059.0,940GZZLUDGY,556,Dagenham Heathway,Dagenham Heathway,5,5,TfL,Gated,Match
+1001568.0,910GDALS,1443,Dalston Junction,Dalston Junction,2,2,NR,Gated,Match
+1001081.0,910GDALSKLD,1429,Dalston Kingsland,Dalston Kingsland,2,2,NR,Gated,Match
+1001082.0,910GDARTFD,5101,Dartford,Dartford,8,8,NR,Gated,Match
+1001350.0,910GDATCHET,5668,Datchet,Datchet,H,H,NR,Ungated,Match
+1000060.0,940GZZLUDBN,557,Debden,Debden,6,6,TfL,Gated,Match
+1001289.0,910GDENHAM,3052,Denham,Denham,H,H,NR,Ungated,Match
+1001506.0,910GDENHMGC,3060,Denham Golf Club,Denham Golf Club,H,H,NR,Ungated,Match
+1001083.0,910GDENMRKH,5421,Denmark Hill,Denmark Hill,2,2,NR,Gated,Match
+1002029.0,940GZZDLDEP,5145,Deptford,Deptford,2,2,NR,Ungated,Review / Mismatch
+1002029.0,940GZZDLDEP,897,Deptford Bridge,Deptford Bridge,2,3,TfL,Ungated,Match
+1002030.0,940GZZDLDEV,867,Devons Road,Devons Road,2,2,TfL,Ungated,Match
+1000061.0,940GZZLUDOH,558,Dollis Hill,Dollis Hill,3,3,TfL,Gated,Match
+1000067.0,910GDORKING,5357,Dorking (Main),Dorking,H,H,NR,Gated,Match
+90002279.0,910GDORMANS,5413,Dormans,Dormans,H,H,NR,Gated,Match
+1001085.0,910GDRAYGRN,3099,Drayton Green,Drayton Green,4,4,NR,Ungated,Match
+1000068.0,,6000,Drayton Pk,Drayton Pk,2,2,NR,Ungated,Missing NaPTAN
+1002470.0,910GDTNG,5102,Dunton Green,Dunton Green,H,H,NR,Ungated,Match
+1000062.0,,560,Ealing Broadway,Ealing Broadway,3,3,Joint,Gated,Missing NaPTAN
+1000062.0,,3190,Ealing Broadway,Ealing Broadway,3,3,NR,Ungated,Missing NaPTAN
+1000063.0,940GZZLUECM,561,Ealing Common,Ealing Common,3,3,TfL,Gated,Match
+90000496.0,910GBEARLEY,5694,Earley,Earley,H,H,NR,Gated,Match
+1000064.0,940GZZLUECT,562,Earls Court,Earls Court,1,2,TfL,Gated,Match
+1001088.0,910GERLFLD,5584,Earlsfield,Earlsfield,3,3,NR,Gated,Match
+1000070.0,,5414,Earlswood Surrey,Earlswood Surrey,D,D,NR,Ungated,Missing NaPTAN
+1000065.0,940GZZLUEAN,563,East Acton,East Acton,2,2,TfL,Gated,Match
+1001089.0,,5355,East Croydon,East Croydon,5,5,NR,Gated,Missing NaPTAN
+1001090.0,910GEDULWCH,5358,East Dulwich,East Dulwich,2,2,NR,Ungated,Match
+1000067.0,940GZZLUEFY,565,East Finchley,East Finchley,3,3,TfL,Gated,Match
+90002488.0,910GEGRNSTD,5486,East Grinstead,East Grinstead,H,H,NR,Gated,Match
+1000068.0,940GZZLUEHM,566,East Ham,East Ham,3,4,TfL,Gated,Match
+1002033.0,940GZZDLEIN,883,East India,East India,2,3,TfL,Ungated,Match
+1000069.0,940GZZLUEPY,567,East Putney,East Putney,2,3,TfL,Gated,Match
+1000733.0,910GETILBRY,7471,East Tilbury,East Tilbury,H,H,NR,Gated,Match
+1000066.0,940GZZLUEAE,564,Eastcote,Eastcote,5,5,TfL,Gated,Match
+1001903.0,910GEBSFDOM,5566,Ebbsfleet International,Ebbsfleet International,H,H,NR,Gated,Match
+1001091.0,910GEDPK,5056,Eden Park,Eden Park,5,5,NR,Ungated,Match
+1000070.0,940GZZLUEGW,568,Edgware,Edgware,5,5,TfL,Gated,Match
+1000072.0,,774,Edgware Road B,Edgware Road B,1,1,TfL,Gated,Missing NaPTAN
+1000072.0,,569,Edgware Road C&H,Edgware Road C&H,1,1,TfL,Gated,Missing NaPTAN
+1001092.0,910GEDMNGRN,6941,Edmonton Green,Edmonton Green,4,4,NR,Gated,Match
+1001512.0,910GEFNGHMJ,5642,Effingham Junction,Effingham Junction,H,H,NR,Gated,Match
+1001502.0,910GEGHAM,5669,Egham,Egham,H,H,NR,Gated,Match
+1000073.0,,570,Elephant & Castle,Elephant & Castle,1,2,TfL,Gated,Missing NaPTAN
+1000073.0,,5246,Elephant & Castle,Elephant & Castle,1,2,NR,Ungated,Missing NaPTAN
+1000074.0,940GZZLUEPK,571,Elm Park,Elm Park,6,6,TfL,Gated,Match
+1001094.0,,5049,Elmers End,Elmers End,4,4,NR,Ungated,Missing NaPTAN
+1001095.0,910GELMW,5135,Elmstead Woods,Elmstead Woods,4,4,NR,Ungated,Match
+1001096.0,910GELTR,1542,Elstree & Borehamwood,Elstree & Borehamwood,6,6,NR,Gated,Match
+1001097.0,910GELTHAM,5103,Eltham,Eltham,4,4,NR,Gated,Match
+1002035.0,940GZZDLELV,898,Elverson Road,Elverson Road,2,3,TfL,Ungated,Match
+1000075.0,940GZZLUEMB,542,Embankment,Embankment,1,1,TfL,Gated,Match
+1001098.0,910GEMRSPKH,7473,Emerson Park,Emerson Park,6,6,NR,Ungated,Match
+1001099.0,910GENFC,6010,Enfield Chase,Enfield Chase,5,5,NR,Gated,Match
+1001100.0,910GENFLDLK,6815,Enfield Lock,Enfield Lock,6,6,NR,Ungated,Match
+1001101.0,910GENFLDTN,6959,Enfield Town,Enfield Town,5,5,NR,Gated,Match
+1000076.0,940GZZLUEPG,572,Epping,Epping,6,6,TfL,Gated,Match
+1001553.0,910GEPSDNS,5360,Epsom,Epsom,9,9,NR,Gated,Match
+1001553.0,910GEPSDNS,5361,Epsom Downs,Epsom Downs,6,6,NR,Ungated,Match
+1001102.0,910GERITH,5104,Erith,Erith,6,6,NR,Ungated,Match
+1001519.0,910GESHER,5558,Esher,Esher,H,H,NR,Gated,Match
+1001103.0,910GESSEXRD,6004,Essex Road,Essex Road,2,2,NR,Ungated,Match
+1000077.0,940GZZLUESQ,574,Euston LU,Euston,1,1,TfL,Gated,Match
+1000077.0,940GZZLUESQ,1444,Euston NR,Euston,1,1,NR,Gated,Review / Mismatch
+1000078.0,940GZZLUESQ,575,Euston Square,Euston Square,1,1,TfL,Gated,Match
+1001534.0,910GEWELLE,5415,Ewell East,Ewell East,6,6,NR,Ungated,Match
+1001535.0,910GEWELW,5586,Ewell West,Ewell West,6,6,NR,Ungated,Match
+1002251.0,910GEYNSFD,5065,Eynsford,Eynsford,H,H,NR,Ungated,Match
+1000079.0,940GZZLUFLP,576,Fairlop,Fairlop,4,4,TfL,Gated,Match
+1001105.0,910GFALCNWD,5137,Falconwood,Falconwood,4,4,NR,Gated,Match
+1001389.0,910GFRNNGRD,5105,Farningham Road,Farningham Road,H,H,NR,Ungated,Match
+1000080.0,,577,Farringdon,Farringdon,1,1,Joint,Gated,Missing NaPTAN
+1001107.0,910GFELTHAM,5559,Feltham,Feltham,6,6,NR,Gated,Match
+1001108.0,910GFENCHRS,7490,Fenchurch Street NR,Fenchurch Street,1,1,NR,Gated,Match
+1000081.0,940GZZLUFYC,578,Finchley Central,Finchley Central,4,4,TfL,Gated,Match
+1000082.0,940GZZLUFYR,579,Finchley Road,Finchley Road,2,2,TfL,Gated,Match
+1001109.0,910GFNCHLYR,1445,Finchley Road & Frognal,Finchley Road & Frognal,2,2,NR,Ungated,Match
+1000083.0,,580,Finsbury Park LU,Finsbury Park,2,2,Joint,Gated,Missing NaPTAN
+1000083.0,,6119,Finsbury Park NR,Finsbury Park,2,2,Joint,Gated,Missing NaPTAN
+1001111.0,910GFRSTGT,6876,Forest Gate,Forest Gate,3,3,NR,Gated,Match
+1001112.0,910GFORESTH,5362,Forest Hill,Forest Hill,3,3,NR,Gated,Match
+1000084.0,940GZZLUFBY,581,Fulham Broadway,Fulham Broadway,2,2,TfL,Gated,Match
+1001113.0,910GFULWELL,5587,Fulwell,Fulwell,6,6,NR,Ungated,Match
+1001403.0,910GFURZEP,3144,Furze Platt,Furze Platt,H,H,NR,Ungated,Match
+1002039.0,940GZZDLGAL,894,Gallions Reach,Gallions Reach,3,3,TfL,Ungated,Match
+1000085.0,940GZZLUGTH,582,Gants Hill,Gants Hill,4,4,TfL,Gated,Match
+1000772.0,910GGRSTH,1559,Garston,Garston,H,H,NR,Ungated,Match
+1000932.0,,5416,Gatwick Airport,Gatwick Airport,E,E,NR,Gated,Missing NaPTAN
+1000561.0,910GGERRDSX,3051,Gerrards Cross,Gerrards Cross,H,H,NR,Gated,Match
+1001115.0,910GGIDEAPK,6877,Gidea Park,Gidea Park,6,6,NR,Gated,Match
+90002999.0,910GGLNGHMK,5169,Gillingham (Kent),Gillingham,H,H,NR,Gated,Match
+1001116.0,910GGIPSYH,5363,Gipsy Hill,Gipsy Hill,3,3,NR,Gated,Match
+1000086.0,940GZZLUGTR,583,Gloucester Road,Gloucester Road,1,1,TfL,Gated,Match
+1000087.0,940GZZLUGGN,584,Golders Green,Golders Green,3,3,TfL,Gated,Match
+1000088.0,940GZZLUGHK,585,Goldhawk Road,Goldhawk Road,2,2,TfL,Gated,Match
+1000089.0,940GZZLUGDG,586,Goodge Street,Goodge Street,1,1,TfL,Gated,Match
+1001117.0,910GGODMAYS,6878,Goodmayes,Goodmayes,4,4,NR,Gated,Match
+1001118.0,910GGORDONH,6028,Gordon Hill,Gordon Hill,5,5,NR,Gated,Match
+1001119.0,910GGOSPLOK,1409,Gospel Oak,Gospel Oak,2,2,NR,Gated,Match
+1000090.0,940GZZLUGGH,587,Grange Hill,Grange Hill,4,4,TfL,Gated,Match
+1001341.0,910GWDGRNPK,6029,Grange Park,Grange Park,5,5,NR,Ungated,Match
+1001540.0,910GGRVSEND,5172,Gravesend,Gravesend,H,H,NR,Gated,Match
+1001563.0,910GGRAYS,7443,Grays,Grays,W,W,NR,Gated,Match
+1001121.0,910GGTMSNDN,1463,Great Missenden,Great Missenden,H,H,NR,Gated,Match
+1000091.0,940GZZLUGPS,588,Great Portland Street,Great Portland Street,1,1,TfL,Gated,Match
+1000093.0,940GZZLUGPK,590,Green Park,Green Park,1,1,TfL,Gated,Match
+1000092.0,910GSGFORD,589,Greenford,Greenford,4,4,Joint,Gated,Joint Hub
+1001543.0,910GGNHT,5138,Greenhithe for Bluewater,Greenhithe For Bluewater,H,H,NR,Gated,Match
+1000160.0,940GZZDLCUT,928,Greenwich,Greenwich,2,3,Joint,Ungated,Joint Hub
+1001124.0,910GGRVPK,5139,Grove Park,Grove Park,4,4,NR,Ungated,Match
+1001424.0,910GGUILDFD,5631,Guildford,Guildford,H,H,NR,Gated,Match
+1000094.0,,591,Gunnersbury,Gunnersbury,3,3,Joint,Gated,Missing NaPTAN
+1001126.0,910GHKBG,5364,Hackbridge,Hackbridge,4,4,NR,Ungated,Match
+1001127.0,910GHACKNYC,6977,Hackney Central,Hackney Central,2,2,NR,Gated,Match
+1001128.0,910GHAKNYNM,6867,Hackney Downs,Hackney Downs,2,2,NR,Gated,Match
+1001129.0,910GHACKNYW,6978,Hackney Wick,Hackney Wick,2,2,NR,Gated,Match
+1001130.0,910GHADLYWD,6075,Hadley Wood,Hadley Wood,6,6,NR,Ungated,Match
+1001569.0,910GHAGGERS,1022,Haggerston,Haggerston,2,2,NR,Gated,Match
+1000095.0,940GZZLUHLT,592,Hainault,Hainault,4,4,TfL,Gated,Match
+1000099.0,,773,Hammersmith C&H,Hammersmith C&H,2,2,TfL,Gated,Missing NaPTAN
+1000099.0,,593,Hammersmith D&P,Hammersmith D&P,2,2,TfL,Gated,Missing NaPTAN
+1000263.0,940GZZLUHTD,594,Hampstead,Hampstead,2,3,TfL,Gated,Match
+1001131.0,910GHMPSTDH,1413,Hampstead Heath,Hampstead Heath,2,2,NR,Gated,Match
+1001133.0,910GBDHMPTN,5560,Hampton,Hampton,6,6,NR,Ungated,Match
+1001133.0,,5561,Hampton Court,Hampton Court,6,6,NR,Gated,Missing NaPTAN
+1001134.0,910GHAMWICK,5589,Hampton Wick,Hampton Wick,6,6,NR,Ungated,Match
+1000099.0,940GZZLUHGR,595,Hanger Lane,Hanger Lane,3,3,TfL,Gated,Match
+1001135.0,910GHANWELL,3191,Hanwell,Hanwell,4,4,NR,Ungated,Match
+1000100.0,,596,Harlesden,Harlesden,3,3,Joint,Gated,Missing NaPTAN
+1001144.0,910GHAYESAH,1533,Harlington,Harlington,H,H,NR,Gated,Match
+90003662.0,910GHRLWMIL,6804,Harlow Mill,Harlow Mill,H,H,NR,Gated,Match
+1000620.0,910GHRLWTWN,6827,Harlow Town,Harlow Town,H,H,NR,Gated,Match
+1001137.0,910GHRLDWOD,6879,Harold Wood,Harold Wood,6,6,NR,Gated,Match
+1000480.0,910GHRPNDN,1543,Harpenden,Harpenden,H,H,NR,Gated,Match
+1001139.0,910GHRGYGL,6012,Harringay,Harringay,3,3,NR,Ungated,Match
+1001139.0,910GHRGYGL,7401,Harringay Green Lanes,Harringay Green Lanes,3,3,NR,Ungated,Match
+1000101.0,,597,Harrow & Wealdstone,Harrow & Wealdstone,5,5,Joint,Gated,Missing NaPTAN
+1000102.0,,598,Harrow-on-the-Hill,Harrow-On-The-Hill,5,5,Joint,Gated,Missing NaPTAN
+1001142.0,910GHTCHEND,1398,Hatch End,Hatch End,6,6,NR,Gated,Match
+1026129.0,910GHATFILD,6070,Hatfield,Hatfield,H,H,NR,Gated,Match
+90003436.0,910GHFLPEVL,6845,Hatfield Peverel,Hatfield Peverel,H,H,NR,Gated,Match
+1000103.0,940GZZLUHNX,779,Hatton Cross,Hatton Cross,5,6,TfL,Gated,Match
+1001143.0,910GHYDNSRD,5289,Haydons Road,Haydons Road,3,3,NR,Ungated,Match
+1001144.0,910GHAYESAH,3186,Hayes & Harlington,Hayes & Harlington,5,5,NR,Gated,Match
+1000105.0,,5050,Hayes Kent,Hayes Kent,5,5,NR,Ungated,Missing NaPTAN
+1001146.0,910GHEDSTNL,1434,Headstone Lane,Headstone Lane,5,5,NR,Ungated,Match
+1000106.0,,7090,Heathrow T23 TfL Rail/HEx,Heathrow T23 Tfl Rail/Hex,6,6,NR,Gated,Missing NaPTAN
+1000107.0,,7091,Heathrow T4 TfL Rail/HEx,Heathrow T4 Tfl Rail/Hex,6,6,NR,Gated,Missing NaPTAN
+1000108.0,,9846,Heathrow T5 TfL Rail/HEx,Heathrow T5 Tfl Rail/Hex,6,6,NR,Gated,Missing NaPTAN
+1000104.0,940GZZLUHR4,781,Heathrow Terminal 4 LU,Heathrow Terminal 4,6,6,TfL,Gated,Match
+1016430.0,910GHTRWTM5,783,Heathrow Terminal 5 LU,Heathrow Terminal 5,6,6,TfL,Gated,Review / Mismatch
+1000105.0,,780,Heathrow Terminals 23 LU,Heathrow Terminals 23,6,6,TfL,Gated,Missing NaPTAN
+1000812.0,910GHEMLHMP,1391,Hemel Hempstead,Hemel Hempstead,H,H,NR,Gated,Match
+1000106.0,940GZZLUHCL,1522,Hendon,Hendon,3,4,NR,Ungated,Review / Mismatch
+1000106.0,940GZZLUHCL,601,Hendon Central,Hendon Central,3,4,TfL,Gated,Match
+1001428.0,910GHNLYOT,3146,Henley-on-Thames,Henley-On-Thames,H,H,NR,Ungated,Match
+1001149.0,910GHERNEH,5066,Herne Hill,Herne Hill,2,3,NR,Ungated,Match
+1002046.0,940GZZDLHEQ,855,Heron Quays,Heron Quays,2,2,TfL,Ungated,Match
+1001432.0,910GHERSHAM,5590,Hersham,Hersham,H,H,NR,Gated,Match
+1026133.0,910GHERTFDE,6818,Hertford East,Hertford East,B,B,NR,Ungated,Match
+1026132.0,910GHFDN,6085,Hertford North,Hertford North,B,B,NR,Gated,Match
+1000107.0,940GZZLUHBT,602,High Barnet,High Barnet,5,5,TfL,Gated,Match
+90003358.0,910GHBROOMS,5235,High Brooms,High Brooms,H,H,NR,Ungated,Match
+1000110.0,940GZZLUHSK,605,High Street Kensington,High Street Kensington,1,1,TfL,Gated,Match
+1000553.0,910GHWYCOMB,3054,High Wycombe,High Wycombe,H,H,NR,Gated,Match
+1001150.0,910GHGHMSPK,5202,Higham,Higham,H,H,NR,Gated,Match
+1001150.0,910GHGHMSPK,6919,Highams Park,Highams Park,4,4,NR,Gated,Match
+1000108.0,,603,Highbury & Islington,Highbury & Islington,2,2,Joint,Gated,Missing NaPTAN
+1000109.0,940GZZLUHGT,604,Highgate,Highgate,3,3,TfL,Gated,Match
+90003482.0,910GHLDNBRO,5236,Hildenborough,Hildenborough,H,H,NR,Ungated,Match
+1000111.0,940GZZLUHGD,606,Hillingdon,Hillingdon,6,6,TfL,Gated,Match
+1001518.0,910GHNCHLYW,5591,Hinchley Wood,Hinchley Wood,H,H,NR,Gated,Match
+1000465.0,910GHITCHIN,6086,Hitchin,Hitchin,H,H,NR,Ungated,Match
+1001152.0,910GHTHRGRN,5107,Hither Green,Hither Green,3,3,NR,Ungated,Match
+1000629.0,910GHOCKLEY,6880,Hockley,Hockley,H,H,NR,Gated,Match
+1000112.0,940GZZLUHBN,607,Holborn,Holborn,1,1,TfL,Gated,Match
+1000113.0,940GZZLUHPK,608,Holland Park,Holland Park,2,2,TfL,Gated,Match
+1000114.0,940GZZLUHWY,609,Holloway Road,Holloway Road,2,2,TfL,Gated,Match
+1001153.0,910GHOMRTON,6979,Homerton,Homerton,2,2,NR,Gated,Match
+1001154.0,910GHONROPK,5418,Honor Oak Park,Honor Oak Park,3,3,NR,Gated,Match
+1000049.0,910GCHORLEY,5365,Horley,Horley,D,D,NR,Gated,Match
+1000115.0,940GZZLUHCH,610,Hornchurch,Hornchurch,6,6,TfL,Gated,Match
+1001155.0,910GHRNSY,6015,Hornsey,Hornsey,3,3,NR,Gated,Match
+1001513.0,910GHRSLEY,5562,Horsley,Horsley,H,H,NR,Gated,Match
+1000116.0,940GZZLUHWC,5563,Hounslow,Hounslow,5,5,NR,Ungated,Review / Mismatch
+1000116.0,940GZZLUHWC,611,Hounslow Central,Hounslow Central,4,4,TfL,Gated,Match
+1000117.0,940GZZLUHWE,612,Hounslow East,Hounslow East,4,4,TfL,Gated,Match
+1000118.0,940GZZLUHWT,613,Hounslow West,Hounslow West,5,5,TfL,Gated,Match
+90003641.0,910GHOWOOD,1563,How Wood,How Wood,H,H,NR,Ungated,Match
+1001570.0,910GHOXTON,1023,Hoxton,Hoxton,1,2,NR,Gated,Match
+1001643.0,910GHRSTGRN,5463,Hurst Green,Hurst Green,H,H,NR,Gated,Match
+1000119.0,940GZZLUHPC,614,Hyde Park Corner,Hyde Park Corner,1,1,TfL,Gated,Match
+1000120.0,940GZZLUICK,615,Ickenham,Ickenham,6,6,TfL,Gated,Match
+1001157.0,910GILFORD,6881,Ilford,Ilford,4,4,NR,Gated,Match
+1001347.0,,9586,Imperial Wharf,Imperial Wharf,2,2,NR,Gated,Missing NaPTAN
+1000635.0,910GINGTSTN,6882,Ingatestone,Ingatestone,H,H,NR,Gated,Match
+1002048.0,940GZZDLISL,856,Island Gardens,Island Gardens,2,2,TfL,Ungated,Match
+1001158.0,910GISLEWTH,5592,Isleworth,Isleworth,4,4,NR,Ungated,Match
+1002272.0,910GBARKRIV,3170,Iver Stations,Ivers,H,H,NR,Gated,Match
+1001564.0,910GKMPTNPK,5678,Kempton Park,Kempton Park,H,H,NR,Ungated,Match
+90004003.0,910GKEMSING,5079,Kemsing,Kemsing,H,H,NR,Ungated,Match
+1001159.0,910GKNLY,5419,Kenley,Kenley,6,6,NR,Ungated,Match
+1000121.0,940GZZLUKNG,616,Kennington,Kennington,1,2,TfL,Gated,Match
+1000122.0,,617,Kensal Green,Kensal Green,2,2,Joint,Gated,Missing NaPTAN
+1001161.0,910GKENR,1448,Kensal Rise,Kensal Rise,2,2,NR,Ungated,Match
+1000125.0,,618,Kensington Olympia,Kensington Olympia,2,2,Joint,Gated,Missing NaPTAN
+1001163.0,910GKENTHOS,5080,Kent House,Kent House,4,4,NR,Ungated,Match
+1000123.0,910GKNTSHTW,619,Kentish Town,Kentish Town,2,2,Joint,Gated,Joint Hub
+1001165.0,910GKNTSHTW,1449,Kentish Town West,Kentish Town West,2,2,NR,Ungated,Match
+1000124.0,,620,Kenton,Kenton,4,4,Joint,Gated,Missing NaPTAN
+1001167.0,910GKEWBDGE,5593,Kew Bridge,Kew Bridge,3,3,NR,Ungated,Match
+1000125.0,,621,Kew Gardens,Kew Gardens,3,4,Joint,Gated,Missing NaPTAN
+1001169.0,910GKIDBROK,5108,Kidbrooke,Kidbrooke,3,3,NR,Ungated,Match
+1000126.0,940GZZLUKBN,622,Kilburn,Kilburn,2,2,TfL,Gated,Match
+1001170.0,910GKLBRNHR,1415,Kilburn High Road,Kilburn High Road,2,2,NR,Gated,Match
+1000127.0,940GZZLUKPK,623,Kilburn Park,Kilburn Park,2,2,TfL,Gated,Match
+1002009.0,940GZZDLKGV,523,King George V,King George V,3,3,TfL,Ungated,Match
+1000129.0,,600,Kings Cross LU (North),Kings Cross,1,1,TfL,Gated,Missing NaPTAN
+1000129.0,,625,Kings Cross LU (Tube),Kings Cross,1,1,TfL,Gated,Missing NaPTAN
+1000129.0,,772,Kings Cross LU (Western),Kings Cross,1,1,TfL,Gated,Missing NaPTAN
+1000129.0,,6121,Kings Cross NR,Kings Cross,1,1,NR,Gated,Missing NaPTAN
+1000810.0,910GKLGL,1392,Kings Langley,Kings Langley,H,H,NR,Ungated,Match
+1000128.0,940GZZLUKBY,624,Kingsbury,Kingsbury,4,4,TfL,Gated,Match
+1001173.0,910GKGSTON,5565,Kingston,Kingston,6,6,NR,Gated,Match
+1001558.0,910GKGWD,5366,Kingswood,Kingswood,6,6,NR,Ungated,Match
+1000468.0,910GKNEBWTH,6088,Knebworth,Knebworth,H,H,NR,Gated,Match
+1000130.0,940GZZLUKNB,626,Knightsbridge,Knightsbridge,1,1,TfL,Gated,Match
+1001174.0,910GKNCKHLT,5109,Knockholt,Knockholt,6,6,NR,Ungated,Match
+1000131.0,940GZZLULAD,627,Ladbroke Grove,Ladbroke Grove,2,2,TfL,Gated,Match
+1001175.0,910GLDYW,5057,Ladywell,Ladywell,3,3,NR,Ungated,Match
+1000737.0,910GLAINDON,7445,Laindon,Laindon,H,H,NR,Gated,Match
+1000132.0,940GZZLULBN,628,Lambeth North,Lambeth North,1,1,TfL,Gated,Match
+1000133.0,940GZZLULGT,629,Lancaster Gate,Lancaster Gate,1,1,TfL,Gated,Match
+1002034.0,940GZZDLLDP,853,Langdon Park,Langdon Park,2,2,TfL,Ungated,Match
+1000133.0,,3171,Langley Berks,Langley Berks,H,H,NR,Gated,Missing NaPTAN
+1000134.0,940GZZLULRD,630,Latimer Road,Latimer Road,2,2,TfL,Gated,Match
+1001349.0,910GLEABDGE,6927,Lea Bridge,Lea Bridge,3,3,NR,Ungated,Match
+90004300.0,910GLEAGRVE,1534,Leagrave,Leagrave,H,H,NR,Gated,Match
+1001510.0,910GLETHRHD,5368,Leatherhead,Leatherhead,H,H,NR,Gated,Match
+1000146.0,940GZZLUMED,5110,Lee,Lee,3,3,NR,Ungated,Review / Mismatch
+1000135.0,940GZZLULSQ,631,Leicester Square,Leicester Square,1,1,TfL,Gated,Match
+90004384.0,910GLHONSEA,7446,Leigh-on-Sea,Leigh-On-Sea,H,H,NR,Gated,Match
+1000523.0,910GLTNBZRD,1373,Leighton Buzzard,Leighton Buzzard,H,H,NR,Ungated,Match
+1000460.0,910GLTCE,6089,Letchworth Garden City,Letchworth Garden City,H,H,NR,Ungated,Match
+1001177.0,,940,Lewisham DLR,Lewisham,2,3,TfL,Ungated,Missing NaPTAN
+1001177.0,,5051,Lewisham NR,Lewisham,2,3,NR,Gated,Missing NaPTAN
+1000136.0,940GZZLULYN,632,Leyton,Leyton,3,3,TfL,Gated,Match
+1001178.0,910GLEYTNMR,7402,Leyton Midland Road,Leyton Midland Road,3,3,NR,Gated,Match
+1000137.0,940GZZLULYS,633,Leytonstone,Leytonstone,3,4,TfL,Gated,Match
+1001179.0,910GLYTNSHR,7403,Leytonstone High Road,Leytonstone High Road,3,3,NR,Gated,Match
+1001180.0,,862,Limehouse DLR,Limehouse,2,2,TfL,Ungated,Missing NaPTAN
+1001180.0,,7491,Limehouse NR,Limehouse,2,2,NR,Gated,Missing NaPTAN
+90004408.0,910GLINGFLD,5369,Lingfield,Lingfield,H,H,NR,Gated,Match
+1000528.0,910GLTLKMBL,3066,Little Kimble,Little Kimble,H,H,NR,Gated,Match
+1000138.0,,6965,Liverpool St NR,Liverpool St,1,1,NR,Gated,Missing NaPTAN
+1000138.0,,634,Liverpool Street LU,Liverpool Street,1,1,Joint,Gated,Missing NaPTAN
+1000139.0,,689,Liverpool Street LU(Broadgate),Liverpool Street,1,1,Joint,Gated,Missing NaPTAN
+1000139.0,,635,London Bridge LU,London Bridge,1,1,TfL,Gated,Missing NaPTAN
+1000139.0,,5148,London Bridge NR,London Bridge,1,1,NR,Gated,Missing NaPTAN
+1000139.0,,6336,London Bridge NR,London Bridge,1,1,NR,Gated,Missing NaPTAN
+1002000.0,,533,London City Airport,London City Airport,3,3,TfL,Ungated,Missing NaPTAN
+1001183.0,910GLONFLDS,6966,London Fields,London Fields,2,2,NR,Ungated,Match
+90004580.0,910GLRDGFD,5632,London Road (Guildford),London Road,H,H,NR,Gated,Match
+90004492.0,910GLNGCROS,5674,Longcross,Longcross,H,H,NR,Gated,Match
+1001483.0,910GLGFD,5114,Longfield,Longfield,H,H,NR,Ungated,Match
+1001184.0,910GLBGHJN,5082,Loughborough Junct,Loughborough Junct,2,2,NR,Gated,Match
+1000140.0,940GZZLULGN,636,Loughton,Loughton,6,6,TfL,Gated,Match
+1001185.0,910GLSYDNHM,5053,Lower Sydenham,Lower Sydenham,4,4,NR,Ungated,Match
+1001678.0,910GLUTOAPY,1536,Luton,Luton,H,H,NR,Gated,Match
+1000140.0,,3667,Luton Airport DART,Luton Airport Dart,H,H,NR,Gated,Missing NaPTAN
+1001678.0,910GLUTOAPY,3645,Luton Airport Parkway,Luton Airport Parkway,H,H,NR,Gated,Match
+1000141.0,,9227,Luton Airport Parkway DART,Luton Airport Parkway Dart,H,H,NR,Gated,Missing NaPTAN
+1000141.0,940GZZLUMVL,637,Maida Vale,Maida Vale,2,2,TfL,Gated,Match
+1000964.0,910GMDNHEAD,3147,Maidenhead,Maidenhead,H,H,NR,Gated,Match
+1001188.0,910GMALDENM,5599,Malden Manor,Malden Manor,4,4,NR,Ungated,Match
+1000142.0,940GZZLUMRH,638,Manor House,Manor House,2,3,TfL,Gated,Match
+1001189.0,910GMANRPK,6883,Manor Park,Manor Park,3,4,NR,Gated,Match
+1000143.0,940GZZLUMSH,639,Mansion House,Mansion House,1,1,TfL,Gated,Match
+1000144.0,940GZZLUMBA,640,Marble Arch,Marble Arch,1,1,TfL,Gated,Match
+1001497.0,910GMARLOW,3021,Marlow,Marlow,H,H,NR,Ungated,Match
+1001499.0,910GMHERON,5692,Martins Heron,Martins Heron,H,H,NR,Gated,Match
+1001190.0,910GMRYLAND,6970,Maryland,Maryland,3,3,NR,Gated,Match
+1000145.0,,641,Marylebone LU,Marylebone,1,1,TfL,Gated,Missing NaPTAN
+1000145.0,,1475,Marylebone NR,Marylebone,1,1,NR,Gated,Missing NaPTAN
+1001192.0,910GMAZEH,5149,Maze Hill,Maze Hill,3,3,NR,Ungated,Match
+90004811.0,910GMEOPHAM,5116,Meopham,Meopham,H,H,NR,Ungated,Match
+1002134.0,910GMWRWSTN,6599,Meridian Water,Meridian Water,4,4,NR,Gated,Match
+1001527.0,910GMERSTHM,5475,Merstham,Merstham,D,D,NR,Gated,Match
+1000146.0,940GZZLUMED,642,Mile End,Mile End,2,2,TfL,Gated,Match
+1001193.0,910GMLHB,1527,Mill Hill Broadway,Mill Hill Broadway,4,4,NR,Gated,Match
+1000147.0,940GZZLUMHL,643,Mill Hill East,Mill Hill East,4,4,TfL,Ungated,Match
+1001555.0,910GESTFLDS,5069,Mitcham Eastfields,Mitcham Eastfields,3,3,NR,Ungated,Match
+1001194.0,,5427,Mitcham Junction,Mitcham Junction,4,4,NR,Ungated,Missing NaPTAN
+1000530.0,910GMNKRISB,3067,Monks Risborough,Monks Risborough,H,H,NR,Gated,Match
+1000148.0,940GZZLUMMT,644,Monument,Monument,1,1,TfL,Gated,Match
+1000150.0,940GZZLUMPK,646,Moor Park,Moor Park,6,7,TfL,Gated,Match
+1000149.0,,645,Moorgate,Moorgate,1,1,Joint,Gated,Missing NaPTAN
+1000151.0,940GZZLUMDN,647,Morden,Morden,4,4,TfL,Gated,Match
+1001197.0,910GMORDENS,5291,Morden South,Morden South,4,4,NR,Ungated,Match
+1000152.0,940GZZLUMTC,648,Mornington Crescent,Mornington Crescent,2,2,TfL,Gated,Match
+1001198.0,910GMRTLKE,5600,Mortlake,Mortlake,3,3,NR,Ungated,Match
+1001199.0,910GMOTSPRP,5645,Motspur Park,Motspur Park,4,4,NR,Ungated,Match
+1001200.0,910GMOTNGHM,5118,Mottingham,Mottingham,4,4,NR,Ungated,Match
+1002061.0,940GZZDLMUD,857,Mudchute,Mudchute,2,2,TfL,Ungated,Match
+1000153.0,940GZZLUNDN,649,Neasden,Neasden,3,3,TfL,Gated,Match
+1001201.0,910GNBARNET,6018,New Barnet,New Barnet,5,5,NR,Gated,Match
+1001202.0,910GNBCKNHM,5058,New Beckenham,New Beckenham,4,4,NR,Ungated,Match
+1000155.0,,5150,New Cross,New Cross,2,2,NR,Gated,Missing NaPTAN
+1000156.0,,5345,New Cross Gate,New Cross Gate,2,2,NR,Gated,Missing NaPTAN
+1001205.0,910GNWELTHM,5119,New Eltham,New Eltham,4,4,NR,Gated,Match
+1001206.0,910GNEWMLDN,5567,New Malden,New Malden,4,4,NR,Gated,Match
+1001207.0,910GNEWSGAT,6019,New Southgate,New Southgate,4,4,NR,Ungated,Match
+1000154.0,940GZZLUNBP,650,Newbury Park,Newbury Park,4,4,TfL,Gated,Match
+1002196.0,940GZZNEUGST,831,Nine Elms,Nine Elms,1,1,TfL,Gated,Match
+1001208.0,910GNRBITON,5568,Norbiton,Norbiton,5,5,NR,Gated,Match
+1001209.0,910GNORBURY,5428,Norbury,Norbury,3,3,NR,Gated,Match
+1000157.0,940GZZLUNAN,653,North Acton,North Acton,2,3,TfL,Gated,Match
+1001210.0,910GNDULWCH,5429,North Dulwich,North Dulwich,2,3,NR,Ungated,Match
+1000158.0,940GZZLUNEN,654,North Ealing,North Ealing,3,3,TfL,Gated,Match
+1000160.0,,789,North Greenwich,North Greenwich,2,3,TfL,Gated,Missing NaPTAN
+1000161.0,940GZZLUNHA,656,North Harrow,North Harrow,5,5,TfL,Gated,Match
+1001212.0,910GNSHEEN,5601,North Sheen,North Sheen,3,3,NR,Ungated,Match
+1000163.0,,659,North Wembley,North Wembley,4,4,Joint,Gated,Missing NaPTAN
+1000159.0,940GZZLUNFD,655,Northfields,Northfields,3,3,TfL,Gated,Match
+1001541.0,910GNRTHFLT,5120,Northfleet,Northfleet,H,H,NR,Gated,Match
+1000162.0,940GZZLUNHT,657,Northolt,Northolt,5,5,TfL,Gated,Match
+1001211.0,910GNTHOLTP,1478,Northolt Park,Northolt Park,5,5,NR,Ungated,Match
+1000159.0,,6971,Northumberld Pk,Northumberld Pk,3,3,NR,Ungated,Missing NaPTAN
+1000164.0,940GZZLUNKP,660,Northwick Park,Northwick Park,4,4,TfL,Gated,Match
+1000165.0,940GZZLUNOW,661,Northwood,Northwood,6,6,TfL,Gated,Match
+1000166.0,940GZZLUNWH,662,Northwood Hills,Northwood Hills,6,6,TfL,Gated,Match
+1000160.0,,5376,Norwood Junction SR,Norwood Junction Sr,4,4,NR,Gated,Missing NaPTAN
+1000167.0,940GZZLUNHG,663,Notting Hill Gate,Notting Hill Gate,1,2,TfL,Gated,Match
+1001217.0,910GNUNHEAD,5068,Nunhead,Nunhead,2,2,NR,Ungated,Match
+1001218.0,910GOKLGHPK,6020,Oakleigh Park,Oakleigh Park,4,4,NR,Ungated,Match
+1000168.0,940GZZLUOAK,664,Oakwood,Oakwood,5,5,TfL,Gated,Match
+1001565.0,910GOCKENDN,7451,Ockendon,Ockendon,W,W,NR,Gated,Match
+1000169.0,,665,Old Street,Old Street,1,1,Joint,Gated,Missing NaPTAN
+1001220.0,910GORPNGTN,5122,Orpington,Orpington,6,6,NR,Gated,Match
+1000171.0,940GZZLUOSY,667,Osterley,Osterley,4,4,TfL,Gated,Match
+1001606.0,910GOTFORD,5071,Otford,Otford,H,H,NR,Ungated,Match
+1000172.0,940GZZLUOVL,668,Oval,Oval,2,2,TfL,Gated,Match
+1000173.0,940GZZLUOXC,669,Oxford Circus,Oxford Circus,1,1,TfL,Gated,Match
+1001608.0,910GOXSHOTT,5602,Oxshott,Oxshott,H,H,NR,Gated,Match
+1001695.0,910GOXTED,5377,Oxted,Oxted,H,H,NR,Gated,Match
+1000174.0,,670,Paddington,Paddington,1,1,Joint,Gated,Missing NaPTAN
+1000174.0,,6552,Paddington Elizabeth Line,Paddington Elizabeth Line,1,1,Joint,Gated,Missing NaPTAN
+1000174.0,,8204,Paddington HEx,Paddington Hex,1,1,NR,Gated,Missing NaPTAN
+1000174.0,,3087,Paddington NR,Paddington,1,1,NR,Gated,Missing NaPTAN
+1000174.0,,6093,Paddington NR contactless,Paddington Contactless,1,1,NR,Gated,Missing NaPTAN
+1001222.0,910GPALMRSG,6021,Palmers Green,Palmers Green,4,4,NR,Gated,Match
+1000176.0,940GZZLUPKR,671,Park Royal,Park Royal,3,3,TfL,Gated,Match
+1000767.0,910GPKST,1561,Park Street,Park Street,H,H,NR,Ungated,Match
+1000177.0,940GZZLUPSG,672,Parsons Green,Parsons Green,2,2,TfL,Gated,Match
+1001223.0,910GPCKHMRY,5423,Peckham Rye,Peckham Rye,2,2,NR,Gated,Match
+1001224.0,910GPNGEE,5072,Penge East,Penge East,4,4,NR,Ungated,Match
+1001225.0,910GPENEW,5378,Penge West,Penge West,4,4,NR,Ungated,Match
+1000178.0,940GZZLUPVL,673,Perivale,Perivale,4,4,TfL,Gated,Match
+1001226.0,910GPETSWD,5123,Petts Wood,Petts Wood,5,5,NR,Ungated,Match
+1000179.0,940GZZLUPCC,674,Piccadilly Circus,Piccadilly Circus,1,1,TfL,Gated,Match
+1000180.0,940GZZLUPCO,776,Pimlico,Pimlico,1,1,TfL,Gated,Match
+1000181.0,940GZZLUPNR,675,Pinner,Pinner,5,5,TfL,Gated,Match
+1000741.0,910GPITSEA,7452,Pitsea,Pitsea,H,H,NR,Gated,Match
+1000182.0,940GZZLUPLW,676,Plaistow,Plaistow,3,3,TfL,Gated,Match
+1001227.0,910GPLMS,5208,Plumstead,Plumstead,4,4,NR,Ungated,Match
+1001228.0,910GPNDRSEN,6819,Ponders End,Ponders End,5,5,NR,Ungated,Match
+1002099.0,940GZZDLPDK,538,Pontoon Dock DLR,Pontoon Dock,3,3,TfL,Ungated,Match
+1002064.0,940GZZDLPOP,858,Poplar,Poplar,2,2,TfL,Ungated,Match
+1011145.0,910GPOTRSBR,6022,Potters Bar,Potters Bar,B,B,NR,Gated,Match
+1000183.0,940GZZLUPRD,677,Preston Road,Preston Road,4,4,TfL,Gated,Match
+1002065.0,940GZZDLPRE,888,Prince Regent,Prince Regent,3,3,TfL,Ungated,Match
+1000551.0,910GPRINRIS,3055,Princes Risborough,Princes Risborough,H,H,NR,Gated,Match
+90005783.0,910GPRITLWL,7419,Prittlewell,Prittlewell,H,H,NR,Gated,Match
+1002066.0,940GZZDLPUD,859,Pudding Mill Lane,Pudding Mill Lane,2,3,TfL,Ungated,Match
+1001566.0,910GPURFLET,7453,Purfleet,Purfleet,W,W,NR,Gated,Match
+1001229.0,910GPURLEY,5379,Purley,Purley,6,6,NR,Gated,Match
+1001230.0,910GPURLEYO,5430,Purley Oaks,Purley Oaks,6,6,NR,Ungated,Match
+1000069.0,940GZZLUEPY,5603,Putney,Putney,2,3,NR,Gated,Review / Mismatch
+1000184.0,940GZZLUPYB,678,Putney Bridge,Putney Bridge,2,2,TfL,Gated,Match
+1000186.0,910GQUNPARK,680,Queens Park,Queens Park,2,2,Joint,Gated,Joint Hub
+1000185.0,,5424,Queens Rd Peckham,Queens Rd Peckham,2,2,NR,Gated,Missing NaPTAN
+1000185.0,940GZZLUQBY,679,Queensbury,Queensbury,4,4,TfL,Gated,Match
+1000186.0,,5596,Queenstown Road Battersea,Queenstown Road Battersea,2,2,NR,Gated,Missing NaPTAN
+1000187.0,940GZZLUQWY,681,Queensway,Queensway,1,1,TfL,Gated,Match
+1000486.0,910GRADLETT,1546,Radlett,Radlett,B,B,NR,Gated,Match
+90005942.0,910GRAINHMK,5177,Rainham (Kent),Rainham,H,H,NR,Gated,Match
+1000187.0,,7454,Rainham Essex,Rainham Essex,6,6,NR,Gated,Missing NaPTAN
+1001236.0,910GRBRN,5083,Ravensbourne,Ravensbourne,4,4,NR,Ungated,Match
+1000188.0,940GZZLURVP,682,Ravenscourt Park,Ravenscourt Park,2,2,TfL,Gated,Match
+1000660.0,910GRAYLEGH,6884,Rayleigh,Rayleigh,H,H,NR,Gated,Match
+1000189.0,940GZZLURYL,683,Rayners Lane,Rayners Lane,5,5,TfL,Gated,Match
+1001237.0,910GRAYNSPK,5569,Raynes Park,Raynes Park,4,4,NR,Gated,Match
+1000972.0,910GRDNGSTN,3149,Reading,Reading,H,H,NR,Gated,Match
+1001238.0,910GRCTRYRD,6967,Rectory Road,Rectory Road,2,2,NR,Ungated,Match
+1000190.0,940GZZLURBG,684,Redbridge,Redbridge,4,4,TfL,Gated,Match
+1001721.0,910GREDHILL,5478,Redhill,Redhill,D,D,NR,Gated,Match
+1000189.0,,5431,Reedham Surrey,Reedham Surrey,6,6,NR,Ungated,Missing NaPTAN
+1000191.0,940GZZLURGP,685,Regents Park,Regents Park,1,1,TfL,Gated,Match
+1001722.0,910GREIGATE,5480,Reigate,Reigate,H,H,NR,Gated,Match
+1000192.0,,5570,Richmond,Richmond,4,4,Joint,Gated,Missing NaPTAN
+1000193.0,,687,Rickmansworth,Rickmansworth,7,7,Joint,Gated,Missing NaPTAN
+1001242.0,910GRDLSDWN,5432,Riddlesdown,Riddlesdown,6,6,NR,Ungated,Match
+90005970.0,910GRCHT,5203,Rochester,Rochester,H,H,NR,Gated,Match
+1000662.0,910GROCHFD,6885,Rochford,Rochford,H,H,NR,Gated,Match
+1000194.0,940GZZLURVY,688,Roding Valley,Roding Valley,4,4,TfL,Ungated,Match
+1001243.0,910GROMFORD,6886,Romford,Romford,6,6,NR,Gated,Match
+1000195.0,910GRTHERHI,1039,Rotherhithe,Rotherhithe,2,2,NR,Gated,Match
+1002070.0,940GZZDLRAL,890,Royal Albert,Royal Albert,3,3,TfL,Ungated,Match
+1000196.0,940GZZLURYO,690,Royal Oak,Royal Oak,2,2,TfL,Gated,Match
+1002071.0,,886,Royal Victoria,Royal Victoria,3,3,TfL,Ungated,Missing NaPTAN
+1001324.0,910GROYDON,6829,Roydon,Roydon,H,H,NR,Gated,Match
+1000214.0,940GZZLURSG,691,Ruislip,Ruislip,6,6,TfL,Gated,Match
+1000198.0,940GZZLURSG,692,Ruislip Gardens,Ruislip Gardens,5,5,TfL,Gated,Match
+1000199.0,940GZZLURSM,693,Ruislip Manor,Ruislip Manor,6,6,TfL,Gated,Match
+1000200.0,940GZZLURSQ,694,Russell Square,Russell Square,1,1,TfL,Gated,Match
+90006236.0,910GRYEHOUS,6820,Rye House,Rye House,B,B,NR,Ungated,Match
+1000198.0,,5380,Salfords Surrey,Salfords Surrey,D,D,NR,Ungated,Missing NaPTAN
+1001244.0,910GSDSD,5433,Sanderstead,Sanderstead,6,6,NR,Gated,Match
+90007021.0,910GSUNDRTN,3056,Saunderton,Saunderton,H,H,NR,Gated,Match
+1000668.0,910GSBDGWTH,6806,Sawbridgeworth,Sawbridgeworth,H,H,NR,Gated,Match
+1000201.0,,3061,Seer Green & Jordans,Seer Green & Jordans,H,H,NR,Ungated,Missing NaPTAN
+1001245.0,910GSELHRST,5434,Selhurst,Selhurst,4,4,NR,Gated,Match
+1001246.0,910GSVNKNGS,6893,Seven Kings,Seven Kings,4,4,NR,Gated,Match
+1000201.0,,698,Seven Sisters,Seven Sisters,3,3,Joint,Gated,Missing NaPTAN
+1001748.0,910GSVNOAKS,5124,Sevenoaks,Sevenoaks,H,H,NR,Gated,Match
+1000202.0,,860,Shadwell DLR,Shadwell,2,2,TfL,Ungated,Missing NaPTAN
+1000203.0,,1082,Shadwell LO,Shadwell,2,2,NR,Gated,Missing NaPTAN
+1006448.0,910GSHENFLD,6888,Shenfield,Shenfield,C,C,NR,Gated,Match
+1000205.0,940GZZLUSBM,9587,Shepherds Bush LO,Shepherds Bush,2,2,NR,Gated,Review / Mismatch
+1000203.0,940GZZLUSBM,700,Shepherds Bush LU,Shepherds Bush,2,2,TfL,Gated,Match
+1000204.0,940GZZLUSBM,775,Shepherds Bush Market,Shepherds Bush Market,2,2,TfL,Gated,Match
+1001559.0,910GSHEPRTN,5605,Shepperton,Shepperton,H,H,NR,Ungated,Match
+1001762.0,910GSHPLAKE,3150,Shiplake,Shiplake,H,H,NR,Ungated,Match
+90006434.0,910GSHBRYNS,7455,Shoeburyness,Shoeburyness,H,H,NR,Gated,Match
+1001571.0,910GSHRDHST,1024,Shoreditch High Street,Shoreditch High Street,1,1,NR,Gated,Match
+1000207.0,,5074,Shoreham Kent,Shoreham Kent,H,H,NR,Ungated,Missing NaPTAN
+1001248.0,910GSHRTLND,5084,Shortlands,Shortlands,4,4,NR,Ungated,Match
+1001249.0,910GSIDCUP,5125,Sidcup,Sidcup,5,5,NR,Gated,Match
+1001250.0,910GSIVRST,6972,Silver Street,Silver Street,4,4,NR,Ungated,Match
+1001252.0,910GSLADEGN,5154,Slade Green,Slade Green,6,6,NR,Ungated,Match
+1000206.0,940GZZLUSSQ,702,Sloane Square,Sloane Square,1,1,TfL,Gated,Match
+1000951.0,910GSLOUGH,3172,Slough,Slough,H,H,NR,Gated,Match
+1000207.0,940GZZLUSNB,703,Snaresbrook,Snaresbrook,4,4,TfL,Gated,Match
+90006682.0,910GSOLEST,5126,Sole Street,Sole Street,H,H,NR,Ungated,Match
+1001254.0,910GSACTON,1452,South Acton,South Acton,3,3,NR,Ungated,Match
+1001256.0,910GSBRMNDS,5425,South Bermondsey,South Bermondsey,2,2,NR,Ungated,Match
+1001258.0,910GSCROYDN,5410,South Croydon,South Croydon,5,5,NR,Gated,Match
+1000208.0,940GZZLUSEA,704,South Ealing,South Ealing,3,3,TfL,Gated,Match
+1001259.0,910GSGFORD,3138,South Greenford,South Greenford,4,4,NR,Ungated,Match
+1001260.0,910GSHMPSTD,1451,South Hampstead,South Hampstead,2,2,NR,Ungated,Match
+1000211.0,940GZZLUSHH,707,South Harrow,South Harrow,5,5,TfL,Gated,Match
+1000212.0,940GZZLUSKS,708,South Kensington,South Kensington,1,1,TfL,Gated,Match
+1000213.0,,709,South Kenton,South Kenton,4,4,Joint,Ungated,Missing NaPTAN
+1001262.0,910GSMERTON,5292,South Merton,South Merton,4,4,NR,Ungated,Match
+1002074.0,940GZZDLSOQ,861,South Quay,South Quay,2,2,TfL,Ungated,Match
+1000214.0,,710,South Ruislip,South Ruislip,5,5,Joint,Gated,Missing NaPTAN
+1001264.0,910GSTOTNHM,7404,South Tottenham,South Tottenham,3,3,NR,Gated,Match
+1000216.0,940GZZLUSWN,711,South Wimbledon,South Wimbledon,3,4,TfL,Gated,Match
+1000217.0,940GZZLUSWF,712,South Woodford,South Woodford,4,4,TfL,Gated,Match
+1001255.0,910GSTHALL,3187,Southall,Southall,4,4,NR,Gated,Match
+1001257.0,910GSBURY,6947,Southbury,Southbury,5,5,NR,Gated,Match
+90014785.0,,4787,Southend Airport,Southend Airport,H,H,NR,Gated,Missing NaPTAN
+90006846.0,910GSTHCENT,7456,Southend Central,Southend Central,H,H,NR,Gated,Match
+90006854.0,910GSTHNDE,7457,Southend East,Southend East,H,H,NR,Gated,Match
+90006857.0,910GSTHVIC,7420,Southend Victoria,Southend Victoria,H,H,NR,Gated,Match
+1000209.0,940GZZLUSFS,705,Southfields,Southfields,3,3,TfL,Gated,Match
+1000210.0,940GZZLUSGT,706,Southgate,Southgate,4,4,TfL,Gated,Match
+1000215.0,940GZZLUSWK,784,Southwark,Southwark,1,1,TfL,Gated,Match
+1000482.0,910GSTALBCY,1548,St Albans,St Albans,H,H,NR,Gated,Match
+1000484.0,910GSTALBNA,1562,St Albans Abbey,St Albans Abbey,H,H,NR,Ungated,Match
+1001267.0,910GSHLIER,5290,St Helier,St Helier,4,4,NR,Ungated,Match
+1001268.0,910GSTJMSST,6973,St James Street,St James Street,3,3,NR,Gated,Match
+1000221.0,940GZZLUSJP,695,St James's Park,St James'S Park,1,1,TfL,Gated,Match
+1000222.0,940GZZLUSJW,5059,St Johns,St Johns,2,2,NR,Ungated,Review / Mismatch
+1000222.0,940GZZLUSJW,696,St Johns Wood,St Johns Wood,2,2,TfL,Gated,Match
+1000216.0,,6821,St Margarets Herts,St Margarets Herts,B,B,NR,Ungated,Missing NaPTAN
+1000217.0,,5604,St Margarets London,St Margarets London,4,4,NR,Gated,Missing NaPTAN
+1001271.0,910GSTMRYC,5073,St Mary Cray,St Mary Cray,6,6,NR,Ungated,Match
+1000218.0,,7422,St Pancras Int (Plat 1-4),St Pancras Int,1,1,NR,Gated,Missing NaPTAN
+1000129.0,,1555,St Pancras International,St Pancras International,1,1,NR,Gated,Missing NaPTAN
+1000218.0,,7423,St Pancras International (HS1),St Pancras International,H,H,NR,Gated,Missing NaPTAN
+1000225.0,940GZZLUSPU,697,St Pauls,St Pauls,1,1,TfL,Gated,Match
+1001501.0,910GSTAINES,5670,Staines,Staines,H,H,NR,Gated,Match
+1000218.0,940GZZLUSFB,713,Stamford Brook,Stamford Brook,2,2,TfL,Gated,Match
+1001265.0,910GSTMFDHL,6968,Stamford Hill,Stamford Hill,3,3,NR,Ungated,Match
+1000750.0,910GSLEHOPE,7458,Stanford-le-Hope,Stanford-Le-Hope,H,H,NR,Gated,Match
+1000219.0,940GZZLUSTM,714,Stanmore,Stanmore,5,5,TfL,Gated,Match
+1000778.0,,6834,Stansted Airport,Stansted Airport,H,H,NR,Gated,Missing NaPTAN
+90006771.0,910GSTANMFC,6833,Stansted Mountfitchet,Stansted Mountfitchet,H,H,NR,Gated,Match
+1003005.0,940GZZDLSTL,889,Star Lane DLR,Star Lane,2,3,TfL,Ungated,Match
+1000220.0,940GZZLUSGN,715,Stepney Green,Stepney Green,2,2,TfL,Gated,Match
+1023126.0,910GSTEVNGE,6092,Stevenage,Stevenage,H,H,NR,Ungated,Match
+1000223.0,940GZZLUSKW,716,Stockwell,Stockwell,2,2,TfL,Gated,Match
+1001272.0,910GSTKM,1467,Stoke Mandeville,Stoke Mandeville,H,H,NR,Gated,Match
+1001273.0,910GSTKNWNG,6934,Stoke Newington,Stoke Newington,2,2,NR,Ungated,Match
+90006795.0,910GSTCR,5248,Stone Crossing,Stone Crossing,H,H,NR,Gated,Match
+1000224.0,,717,Stonebridge Park,Stonebridge Park,3,3,Joint,Gated,Missing NaPTAN
+1000900.0,910GSTLEIGH,5606,Stoneleigh,Stoneleigh,5,5,NR,Ungated,Match
+1000226.0,940GZZDLSHS,719,Stratford,Stratford,2,3,Joint,Gated,Joint Hub
+1000226.0,940GZZDLSHS,6960,Stratford,Stratford,2,3,NR,Ungated,Review / Mismatch
+1003007.0,940GZZDLSHS,749,Stratford High Street,Stratford High Street,2,3,TfL,Ungated,Match
+1003009.0,940GZZDLSIT,504,Stratford International,Stratford International,2,3,TfL,Ungated,Match
+1000222.0,,7222,Stratford International (HS1),Stratford International,H,H,NR,Gated,Missing NaPTAN
+1001278.0,910GSTRWBYH,5607,Strawberry Hill,Strawberry Hill,5,5,NR,Ungated,Match
+1001279.0,910GSTRETHM,5383,Streatham,Streatham,3,3,NR,Gated,Match
+1001280.0,910GSTRHCOM,5384,Streatham Common,Streatham Common,3,3,NR,Gated,Match
+1001281.0,910GSTRHILL,5435,Streatham Hill,Streatham Hill,3,3,NR,Gated,Match
+90006982.0,910GSTROOD,5191,Strood,Strood,H,H,NR,Gated,Match
+1001282.0,910GSDBRYHR,1483,Sudbury & Harrow Road,Sudbury & Harrow Road,4,4,NR,Ungated,Match
+1000227.0,940GZZLUSUH,720,Sudbury Hill,Sudbury Hill,4,4,TfL,Gated,Match
+1001283.0,910GSDBRYHH,1484,Sudbury Hill Harrow,Sudbury Hill Harrow,4,4,NR,Ungated,Match
+1000228.0,940GZZLUSUT,721,Sudbury Town,Sudbury Town,4,4,TfL,Gated,Match
+1001549.0,910GSUNBURY,5608,Sunbury,Sunbury,H,H,NR,Ungated,Match
+1001284.0,910GSNDP,5155,Sundridge Park,Sundridge Park,4,4,NR,Ungated,Match
+1000224.0,,5671,Sunnningdale,Sunnningdale,H,H,NR,Gated,Missing NaPTAN
+1002790.0,910GSUNYMDS,5675,Sunnymeads,Sunnymeads,H,H,NR,Ungated,Match
+1001285.0,910GSURBITN,5571,Surbiton,Surbiton,6,6,NR,Gated,Match
+1000229.0,910GSURREYQ,1083,Surrey Quays,Surrey Quays,2,2,NR,Gated,Match
+1019461.0,910GSUTTONC,5436,Sutton Common,Sutton Common,4,4,NR,Ungated,Match
+1000226.0,,5385,Sutton Surrey,Sutton Surrey,5,5,NR,Gated,Missing NaPTAN
+1001801.0,910GSWLY,5075,Swanley,Swanley,8,8,NR,Ungated,Match
+1001806.0,910GSWNSCMB,5156,Swanscombe,Swanscombe,H,H,NR,Gated,Match
+1000230.0,940GZZLUSWC,723,Swiss Cottage,Swiss Cottage,2,2,TfL,Gated,Match
+1001290.0,910GSYDNHMH,5085,Sydenham Hill,Sydenham Hill,3,3,NR,Ungated,Match
+1000228.0,,5437,Sydenham SR,Sydenham Sr,3,3,NR,Gated,Missing NaPTAN
+1001291.0,910GSYONLA,5609,Syon Lane,Syon Lane,4,4,NR,Ungated,Match
+1001572.0,910GTADWTH,5386,Tadworth,Tadworth,6,6,NR,Ungated,Match
+1000960.0,910GTAPLOW,3151,Taplow,Taplow,H,H,NR,Gated,Match
+1001560.0,910GTATNHMC,5387,Tattenham Corner,Tattenham Corner,6,6,NR,Ungated,Match
+1001292.0,910GTEDNGTN,5572,Teddington,Teddington,6,6,NR,Ungated,Match
+1000231.0,940GZZLUTMP,724,Temple,Temple,1,1,TfL,Gated,Match
+1001293.0,910GTDITTON,5610,Thames Ditton,Thames Ditton,6,6,NR,Ungated,Match
+1001533.0,910GTHBLDSG,6949,Theobalds Grove,Theobalds Grove,7,7,NR,Gated,Match
+1000232.0,940GZZLUTHB,725,Theydon Bois,Theydon Bois,6,6,TfL,Gated,Match
+1001294.0,910GTHTH,5388,Thornton Heath,Thornton Heath,4,4,NR,Gated,Match
+90007207.0,910GTHOPBAY,7460,Thorpe Bay,Thorpe Bay,H,H,NR,Gated,Match
+1000757.0,910GTLBYTWN,7462,Tilbury Town,Tilbury Town,H,H,NR,Gated,Match
+1001295.0,910GTOLWTH,5573,Tolworth,Tolworth,5,5,NR,Ungated,Match
+90000051.0,910GACBG,5229,Tonbridge,Tonbridge,H,H,NR,Ungated,Match
+1000233.0,940GZZLUTBC,5389,Tooting,Tooting,3,3,NR,Gated,Review / Mismatch
+1000233.0,940GZZLUTBC,726,Tooting Bec,Tooting Bec,3,3,TfL,Gated,Match
+1000234.0,940GZZLUTBY,727,Tooting Broadway,Tooting Broadway,3,3,TfL,Gated,Match
+1000235.0,,728,Tottenham Court Road,Tottenham Court Road,1,1,Joint,Gated,Missing NaPTAN
+1000236.0,,729,Tottenham Hale,Tottenham Hale,3,3,TfL,Gated,Missing NaPTAN
+1000236.0,,6951,Tottenham Hale,Tottenham Hale,3,3,NR,Gated,Missing NaPTAN
+1000237.0,940GZZLUTAW,730,Totteridge,Totteridge,4,4,TfL,Gated,Match
+1002076.0,,864,Tower Gateway,Tower Gateway,1,1,TfL,Ungated,Missing NaPTAN
+1000238.0,940GZZLUTWH,731,Tower Hill,Tower Hill,1,1,TfL,Gated,Match
+1001010.0,910GBLTRNAB,1393,Tring,Tring,H,H,NR,Ungated,Match
+1000239.0,940GZZLUTFP,733,Tufnell Park,Tufnell Park,2,2,TfL,Gated,Match
+1001298.0,910GTULSEH,5390,Tulse Hill,Tulse Hill,3,3,NR,Gated,Match
+1001823.0,910GTUNWELL,5230,Tunbridge Wells,Tunbridge Wells,H,H,NR,Ungated,Match
+1001299.0,910GTURKYST,6952,Turkey Street,Turkey Street,6,6,NR,Gated,Match
+1000240.0,940GZZLUTNG,734,Turnham Green,Turnham Green,2,3,TfL,Gated,Match
+1000241.0,940GZZLUTPN,735,Turnpike Lane,Turnpike Lane,3,3,TfL,Gated,Match
+1001300.0,910GTWCKNHM,5574,Twickenham,Twickenham,5,5,NR,Gated,Match
+1000969.0,910GTWYFORD,3155,Twyford,Twyford,H,H,NR,Ungated,Match
+1000242.0,940GZZLUUPB,7464,Upminster,Upminster,6,6,Joint,Gated,Joint Hub
+1000243.0,940GZZLUUPB,737,Upminster Bridge,Upminster Bridge,6,6,TfL,Gated,Match
+1000244.0,940GZZLUUPY,738,Upney,Upney,4,4,TfL,Gated,Match
+1002820.0,910GUHALIFD,5613,Upper Halliford,Upper Halliford,H,H,NR,Ungated,Match
+1001302.0,910GUPRHLWY,1524,Upper Holloway,Upper Holloway,2,2,NR,Ungated,Match
+1001538.0,910GUWRLNGH,5391,Upper Warlingham,Upper Warlingham,6,6,NR,Ungated,Match
+1000245.0,940GZZLUUPK,739,Upton Park,Upton Park,3,3,TfL,Gated,Match
+1000246.0,940GZZLUUXB,740,Uxbridge,Uxbridge,6,6,TfL,Gated,Match
+1000247.0,,777,Vauxhall LU,Vauxhall,1,2,TfL,Gated,Missing NaPTAN
+1000247.0,,5597,Vauxhall NR,Vauxhall,1,2,NR,Gated,Missing NaPTAN
+1000248.0,910GMNCRVIC,741,Victoria LU,Victoria,1,1,TfL,Gated,Review / Mismatch
+1002071.0,940GZZDLRVC,722,Victoria LU D,Victoria D,1,1,TfL,Gated,Match
+1000248.0,910GMNCRVIC,5426,Victoria NR,Victoria,1,1,NR,Gated,Match
+1000248.0,910GMNCRVIC,5449,Victoria NR,Victoria,1,1,NR,Gated,Match
+1000248.0,910GMNCRVIC,8558,Victoria NR,Victoria,1,1,NR,Gated,Match
+1001547.0,910GVRGNWTR,5676,Virginia Water,Virginia Water,H,H,NR,Gated,Match
+1000262.0,,559,W Silvertown,W Silvertown,3,3,TfL,Ungated,Missing NaPTAN
+1001305.0,910GWADDON,5392,Waddon,Waddon,5,5,NR,Ungated,Match
+1001306.0,910GWALNGTN,5394,Wallington,Wallington,5,5,NR,Gated,Match
+1000684.0,910GWALHAMX,6823,Waltham Cross,Waltham Cross,7,7,NR,Ungated,Match
+1000249.0,,742,Walthamstow Central,Walthamstow Central,3,3,Joint,Gated,Missing NaPTAN
+1000249.0,,6953,Walthamstow Central,Walthamstow Central,3,3,Joint,Gated,Missing NaPTAN
+1001308.0,910GWLTHQRD,7407,Walthamstow Queens Road,Walthamstow Queens Road,3,3,NR,Ungated,Match
+1001829.0,910GWONT,5575,Walton-on-Thames,Walton-On-Thames,H,H,NR,Gated,Match
+1001309.0,910GWANDCMN,5395,Wandsworth Common,Wandsworth Common,3,3,NR,Ungated,Match
+1001310.0,910GWNDSWRD,5372,Wandsworth Road,Wandsworth Road,2,2,NR,Ungated,Match
+1001311.0,910GWDWTOWN,5576,Wandsworth Town,Wandsworth Town,2,2,NR,Gated,Match
+1000250.0,940GZZLUWSD,743,Wanstead,Wanstead,4,4,TfL,Gated,Match
+1001312.0,910GWNSTDPK,7408,Wanstead Park,Wanstead Park,3,3,NR,Gated,Match
+1000251.0,910GWAPPING,1085,Wapping,Wapping,2,2,NR,Gated,Match
+1000070.0,940GZZLUEGW,6824,Ware,Ware,B,B,NR,Ungated,Review / Mismatch
+1001831.0,910GWARGRAV,3158,Wargrave,Wargrave,H,H,NR,Ungated,Match
+1000252.0,940GZZLUWRR,745,Warren Street,Warren Street,1,1,TfL,Gated,Match
+1000253.0,940GZZLUWKA,746,Warwick Avenue,Warwick Avenue,2,2,TfL,Gated,Match
+1001313.0,910GWLOE,5158,Waterloo East NR,Waterloo East,1,1,NR,Gated,Match
+1000254.0,,747,Waterloo LU (Bloo/Nthn/W&C),Waterloo,1,1,TfL,Gated,Missing NaPTAN
+1000254.0,,796,Waterloo LU (Jubilee),Waterloo,1,1,TfL,Gated,Missing NaPTAN
+1000254.0,910GWLOE,8909,Waterloo NR,Waterloo,1,1,NR,Gated,Match
+1000254.0,,5598,Waterloo NR (Plat 1-11),Waterloo,1,1,NR,Gated,Missing NaPTAN
+1000254.0,,5465,Waterloo NR (Plat 20-24),Waterloo,1,1,NR,Gated,Missing NaPTAN
+1001316.0,910GWATFDHS,1455,Watford High Street,Watford High Street,8,8,NR,Gated,Match
+1001317.0,,1402,Watford Junction,Watford Junction,W,W,NR,Gated,Missing NaPTAN
+1000256.0,,748,Watford Met,Watford Met,7,7,TfL,Gated,Missing NaPTAN
+1000774.0,910GWATFDN,1403,Watford North,Watford North,H,H,NR,Ungated,Match
+1000474.0,910GWATONAS,6095,Watton-at-Stone,Watton-At-Stone,H,H,NR,Gated,Match
+1000478.0,910GWELHAMG,6073,Welham Green,Welham Green,H,H,NR,Ungated,Match
+1001318.0,910GWELLING,5128,Welling,Welling,4,4,NR,Gated,Match
+1000455.0,910GWLWYNGC,6183,Welwyn Garden City,Welwyn Garden City,H,H,NR,Gated,Match
+1000470.0,910GWLWYNN,6096,Welwyn North,Welwyn North,H,H,NR,Gated,Match
+1000256.0,,751,Wembley Central,Wembley Central,4,4,Joint,Gated,Missing NaPTAN
+1000257.0,940GZZLUWYP,752,Wembley Park,Wembley Park,4,4,TfL,Gated,Match
+1001320.0,910GWEMBLSM,1509,Wembley Stadium,Wembley Stadium,4,4,NR,Ungated,Match
+1001321.0,910GWENDOVR,1466,Wendover,Wendover,H,H,NR,Gated,Match
+1000258.0,940GZZLUWTA,753,West Acton,West Acton,3,3,TfL,Gated,Match
+1000260.0,,755,West Brompton,West Brompton,2,2,Joint,Gated,Missing NaPTAN
+1001834.0,910GWBYFLET,5684,West Byfleet,West Byfleet,H,H,NR,Gated,Match
+1001324.0,,5411,West Croydon,West Croydon,5,5,NR,Gated,Missing NaPTAN
+1001325.0,910GWDRYTON,3174,West Drayton,West Drayton,6,6,NR,Gated,Match
+1001326.0,910GWDULWCH,5086,West Dulwich,West Dulwich,3,3,NR,Ungated,Match
+1001327.0,910GWEALING,3188,West Ealing,West Ealing,3,3,NR,Gated,Match
+1000261.0,940GZZLUWFN,756,West Finchley,West Finchley,4,4,TfL,Gated,Match
+1000263.0,910GPVNSYAW,757,West Ham,West Ham,2,3,Joint,Gated,Joint Hub
+1000258.0,,1421,West Hampstead LO,West Hampstead,2,2,NR,Gated,Missing NaPTAN
+1000263.0,,758,West Hampstead LU,West Hampstead,2,2,TfL,Gated,Missing NaPTAN
+1001330.0,910GWHMPSTM,1525,West Hampstead Thameslink,West Hampstead Thameslink,2,2,NR,Gated,Match
+1000264.0,940GZZLUWHW,759,West Harrow,West Harrow,5,5,TfL,Gated,Match
+1002848.0,910GWHORNDN,7466,West Horndon,West Horndon,H,H,NR,Gated,Match
+1002084.0,940GZZDLWIQ,866,West India Quay,West India Quay,2,2,TfL,Ungated,Match
+1000265.0,940GZZLUWKN,760,West Kensington,West Kensington,2,2,TfL,Gated,Match
+90007937.0,910GWMALING,5129,West Malling,West Malling,H,H,NR,Ungated,Match
+1001331.0,910GWNORWOD,5438,West Norwood,West Norwood,3,3,NR,Gated,Match
+1000267.0,,762,West Ruislip,West Ruislip,6,6,Joint,Gated,Missing NaPTAN
+1001333.0,910GWSUTTON,5293,West Sutton,West Sutton,5,5,NR,Ungated,Match
+1001334.0,910GWWICKHM,5054,West Wickham,West Wickham,5,5,NR,Ungated,Match
+1000259.0,940GZZLUWSP,754,Westbourne Park,Westbourne Park,2,2,TfL,Gated,Match
+90007630.0,910GWCLIFF,7476,Westcliff,Westcliff,H,H,NR,Gated,Match
+1001323.0,910GWCOMBEP,5151,Westcombe Park,Westcombe Park,3,3,NR,Ungated,Match
+1002083.0,940GZZDLWFE,865,Westferry,Westferry,2,2,TfL,Ungated,Match
+1000266.0,,761,Westminster,Westminster,1,1,TfL,Gated,Missing NaPTAN
+1001846.0,910GWEYBDGB,5577,Weybridge,Weybridge,H,H,NR,Gated,Match
+1000269.0,940GZZLUWCY,764,White City,White City,2,2,TfL,Gated,Match
+1001335.0,910GWHHRTLA,6956,White Hart Lane,White Hart Lane,3,3,NR,Gated,Match
+1000268.0,,763,Whitechapel,Whitechapel,2,2,Joint,Gated,Missing NaPTAN
+1001336.0,910GWHTTON,5611,Whitton,Whitton,5,5,NR,Ungated,Match
+1001536.0,910GWHYTELF,5396,Whyteleafe,Whyteleafe,6,6,NR,Ungated,Match
+1001537.0,910GWHYTLFS,5439,Whyteleafe South,Whyteleafe South,6,6,NR,Ungated,Match
+1000693.0,910GWIKFORD,6891,Wickford,Wickford,H,H,NR,Gated,Match
+1000270.0,940GZZLUWIG,765,Willesden Green,Willesden Green,2,3,TfL,Gated,Match
+1000271.0,,1457,Willesden Junction,Willesden Junction,2,3,Joint,Gated,Missing NaPTAN
+1000272.0,940GZZLUSWN,5578,Wimbledon,Wimbledon,3,3,Joint,Gated,Joint Hub
+1001339.0,910GWIMLCHS,5612,Wimbledon Chase,Wimbledon Chase,3,3,NR,Ungated,Match
+1000273.0,940GZZLUWIP,768,Wimbledon Park,Wimbledon Park,3,3,TfL,Gated,Match
+1001340.0,910GWNMHILL,6024,Winchmore Hill,Winchmore Hill,4,4,NR,Gated,Match
+1001855.0,910GWINDSEC,3175,Windsor & Eton Central,Windsor & Eton Central,H,H,NR,Ungated,Match
+1001856.0,910GWSORAER,5672,Windsor & Eton Riverside,Windsor & Eton Riverside,H,H,NR,Gated,Match
+1001858.0,910GWINERSH,5697,Winnersh,Winnersh,H,H,NR,Gated,Match
+90007833.0,910GWINETGL,5698,Winnersh Triangle,Winnersh Triangle,H,H,NR,Gated,Match
+1000697.0,910GWITHAME,6844,Witham,Witham,H,H,NR,Gated,Match
+1001865.0,910GWOKING,5685,Woking,Woking,H,H,NR,Gated,Match
+1001869.0,910GWOKNGHM,5696,Wokingham,Wokingham,H,H,NR,Gated,Match
+1001567.0,910GWLDNGHM,5440,Woldingham,Woldingham,H,H,NR,Gated,Match
+1000275.0,940GZZLUWOG,770,Wood Green,Wood Green,3,3,TfL,Gated,Match
+1000278.0,940GZZLUWLA,599,Wood Lane,Wood Lane,2,2,TfL,Gated,Match
+1001343.0,910GWDST,6954,Wood Street,Wood Street,4,4,NR,Gated,Match
+1000217.0,940GZZLUSWF,769,Woodford,Woodford,4,4,TfL,Gated,Match
+1001341.0,910GWDGRNPK,7467,Woodgrange Park,Woodgrange Park,3,4,NR,Gated,Match
+1001342.0,910GWDMNSTR,5441,Woodmansterne,Woodmansterne,6,6,NR,Ungated,Match
+1000276.0,940GZZLUWOP,771,Woodside Park,Woodside Park,4,4,TfL,Gated,Match
+1001344.0,,573,Woolwich Arsenal DLR,Woolwich Arsenal,4,4,TfL,Gated,Missing NaPTAN
+1001344.0,,5152,Woolwich Arsenal NR,Woolwich Arsenal,4,4,NR,Gated,Missing NaPTAN
+1001345.0,910GWOLWCDY,5153,Woolwich Dockyard,Woolwich Dockyard,3,3,NR,Ungated,Match
+1000267.0,910GWOLWXR,6562,Woolwich Elizabeth Line,Woolwich Elizabeth Line,4,4,NR,Gated,Match
+1001346.0,910GWRCSTRP,5579,Worcester Park,Worcester Park,4,4,NR,Ungated,Match
+90008069.0,910GWRPLSDN,5686,Worplesdon,Worplesdon,H,H,NR,Gated,Match
+1001878.0,910GWRYSBRY,5673,Wraysbury,Wraysbury,H,H,NR,Ungated,Match
