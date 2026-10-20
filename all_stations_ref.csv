@@ -1,4 +1,4 @@
-﻿Platform Name,Atco Code,Line,NLC,Gate_NLC
+﻿Platform Name,NaPTAN,Line,NLC,Gate_NLC
 Abbey Road,940GZZDLABR,dlr,750,750
 Abbey Wood,9100ABWD0,elizabeth,5131,5131
 Abbey Wood,9100ABWD0,tfl-rail,5131,5131
@@ -124,15 +124,15 @@ Blackfriars,940GZZLUBKF,circle,521,521
 Blackfriars,940GZZLUBKF,district,521,521
 Blackfriars,910GBLFR,southeastern,5112,5112
 Blackfriars,910GBLFR,thameslink,5112,5112
-Blackhorse Road,910GBLCHSRD,london-overground,7400,522
 Blackheath,910GBLKHTH,southeastern,5095,5095
 Blackhorse Road,940GZZLUBLR,victoria,522,522
+Blackhorse Road,910GBLCHSRD,london-overground,7400,522
 Blackhorse Road,910GBLCHSRD,suffragette,7400,522
 Blackwall,940GZZDLBLA,dlr,882,882
 Bletchley,910GBLTCHLY,west-midlands-trains,1360,1360
 Bond Street,940GZZLUBND,central,524,524
-Bond Street,9100BONDST,tfl-rail,6553,524
 Bond Street,940GZZLUBND,jubilee,524,524
+Bond Street,9100BONDST,tfl-rail,6553,524
 Bond Street,9100BONDST0,tfl-rail,6553,524
 Bond Street,9100BONDST,elizabeth,6553,524
 Bond Street,9100BONDST1,tfl-rail,6553,524
@@ -167,32 +167,32 @@ Brentwood,9100BRTWOOD2,elizabeth,6872,6872
 Brentwood,910GBRTWOOD,greater-anglia,6872,6872
 Bricket Wood,910GBCWD,west-midlands-trains,1560,1560
 Brimsdown,910GBRIMSDN,greater-anglia,6810,6810
-Brockley,910GBROCKLY,london-overground,5404,5404
 Brixton,940GZZLUBXN,victoria,778,778
 Brixton,910GBRIXTON,southeastern,5081,5081
+Brockley,910GBROCKLY,london-overground,5404,5404
 Brockley,910GBROCKLY,southern,5404,5404
 Brockley,910GBROCKLY,windrush,5404,5404
 Bromley by Bow,940GZZLUBBB,district,530,530
 Bromley by Bow,940GZZLUBBB,hammersmith-city,530,530
 Bromley North,910GBROMLYN,southeastern,5096,5096
-Brondesbury,910GBRBY,london-overground,1437,1437
 Bromley South,910GBROMLYS,southeastern,5064,5064
-Brondesbury Park,910GBRBYPK,london-overground,1438,1438
 Bromley South,910GBROMLYS,thameslink,5064,5064
+Brondesbury,910GBRBY,london-overground,1437,1437
 Brondesbury,910GBRBY,mildmay,1437,1437
+Brondesbury Park,910GBRBYPK,london-overground,1438,1438
 Brondesbury Park,910GBRBYPK,mildmay,1438,1438
 Brookmans Park,9100BRKMNPK0,great-northern,6074,6074
 Brookmans Park,9100BRKMNPK0,thameslink,6074,6074
-Bruce Grove,910GBRUCGRV,london-overground,6958,6958
 Broxbourne,910GBROXBRN,greater-anglia,6812,6812
+Bruce Grove,910GBRUCGRV,london-overground,6958,6958
 Bruce Grove,910GBRUCGRV,greater-anglia,6958,6958
 Bruce Grove,910GBRUCGRV,weaver,6958,6958
 Buckhurst Hill,940GZZLUBKH,central,531,531
 Burnham Bucks,910GBNHAM,tfl-rail,3176,3176
 Burnham Bucks,910GBNHAM,elizabeth,3176,3176
-Bush Hill Park,910GBHILLPK,london-overground,6913,6913
 Burnham Bucks,910GBNHAM,great-western-railway,3176,3176
 Burnt Oak,940GZZLUBTK,northern,532,532
+Bush Hill Park,910GBHILLPK,london-overground,6913,6913
 Bush Hill Park,910GBHILLPK,weaver,6913,6913
 Bushey,910GBUSHEY,london-overground,1395,1395
 Bushey,9100BUSHEY0,london-midland,1395,1395
@@ -201,24 +201,24 @@ Bushey,910GBUSHYDC,london-overground,1395,1395
 Bushey,910GBUSHEY,southern,1395,1395
 Bushey,910GBUSHEY,west-midlands-trains,1395,1395
 Bushey,910GBUSHYDC,southern,1395,1395
-Caledonian Road & Barnsbury,910GCLDNNRB,london-overground,1439,1439
 Bushey,910GBUSHYDC,west-midlands-trains,1395,1395
 Byfleet and New Haw,910GBYFLANH,south-western-railway,5689,5689
 Caledonian Road,940GZZLUCAR,piccadilly,534,534
-Cambridge Heath,910GCAMHTH,london-overground,6962,6962
+Caledonian Road & Barnsbury,910GCLDNNRB,london-overground,1439,1439
 Caledonian Road & Barnsbury,910GCLDNNRB,mildmay,1439,1439
-Camden Road,910GCMDNRD,london-overground,1440,1440
+Cambridge Heath,910GCAMHTH,london-overground,6962,6962
 Cambridge Heath,910GCAMHTH,greater-anglia,6962,6962
 Cambridge Heath,910GCAMHTH,weaver,6962,6962
-Canada Water,910GCNDAW,london-overground,788,788
+Camden Road,910GCMDNRD,london-overground,1440,1440
 Camden Road,910GCMDNRD,mildmay,1440,1440
 Camden Town,940GZZLUCTN,northern,535,535
-Canada Water,910GCNDAW,windrush,1659,788
+Canada Water,910GCNDAW,london-overground,788,788
 Canada Water,9400ZZLUCWR3,jubilee,788,788
 Canada Water,940GZZLUCWR,jubilee,788,788
+Canada Water,910GCNDAW,windrush,1659,788
+Canary Wharf,940GZZDLCAN,dlr,842,842
 Canary Wharf,940GZZLUCYF,jubilee,852,852
 Canary Wharf,9100CANWHRF0,tfl-rail,6560,6560
-Canary Wharf,940GZZDLCAN,dlr,842,842
 Canary Wharf,9100CANWHRF1,tfl-rail,6560,6560
 Canary Wharf,9100CANWHRF0,elizabeth,6560,6560
 Canary Wharf,910GCANWHRF,tfl-rail,6560,6560
@@ -226,14 +226,14 @@ Canary Wharf,9100CANWHRF1,elizabeth,6560,6560
 Canary Wharf,910GCANWHRF,elizabeth,6560,6560
 Canning Town,940GZZDLCGT,dlr,884,884
 Canning Town,940GZZLUCGT,jubilee,884,884
-Canonbury,910GCNNB,london-overground,1441,1441
 Cannon Street,940GZZLUCST,circle,536,536
 Cannon Street,940GZZLUCST,district,536,536
 Cannon Street,910GCANONST,southeastern,5142,5142
+Canonbury,910GCNNB,london-overground,1441,1441
 Canonbury,910GCNNB,mildmay,1441,1441
-Carpenders Park,910GCRPNDPK,london-overground,1442,1442
 Canonbury,910GCNNB,windrush,1441,1441
 Canons Park,940GZZLUCPK,jubilee,537,537
+Carpenders Park,910GCRPNDPK,london-overground,1442,1442
 Carpenders Park,910GCRPNDPK,lioness,1442,1442
 Carshalton,910GCRSHLTN,southern,5405,5405
 Carshalton,910GCRSHLTN,thameslink,5405,5405
@@ -264,16 +264,16 @@ Chatham,910GCHATHAM,southeastern,5199,5199
 Cheam,910GCHEAM,southern,5352,5352
 Cheddington,910GCHDNGTN,west-midlands-trains,1372,1372
 Chelmsford,910GCHLMSFD,greater-anglia,6836,6836
-Cheshunt,910GCHESHNT,london-overground,6814,6814
 Chelsfield,910GCHLSFLD,southeastern,5098,5098
 Chertsey,910GCHTSEY,south-western-railway,5553,5553
 Chesham,940GZZLUCSM,metropolitan,543,543
+Cheshunt,910GCHESHNT,london-overground,6814,6814
 Cheshunt,910GCHESHNT,greater-anglia,6814,6814
-Chingford,910GCHINGFD,london-overground,6914,6914
 Cheshunt,910GCHESHNT,weaver,6814,6814
 Chessington North,910GCHSSN,south-western-railway,5582,5582
 Chessington South,910GCHSSS,south-western-railway,5554,5554
 Chigwell,940GZZLUCWL,central,544,544
+Chingford,910GCHINGFD,london-overground,6914,6914
 Chingford,910GCHINGFD,weaver,6914,6914
 Chipstead,910GCHSD,southern,5353,5353
 Chislehurst,910GCHSLHRS,southeastern,5099,5099
@@ -282,14 +282,14 @@ Chiswick Park,940GZZLUCWP,district,545,545
 Chorleywood,940GZZLUCYD,metropolitan,546,546
 Chorleywood,910GCHRW,chiltern-railways,546,546
 City Thameslink,910GCTMSLNK,thameslink,5121,5121
-Clapham High Street,910GCLPHHS,london-overground,5301,5301
 Clandon,910GCLANDON,south-western-railway,5555,5555
 Clapham Common,940GZZLUCPC,northern,547,547
+Clapham High Street,910GCLPHHS,london-overground,5301,5301
 Clapham High Street,9100CLPHHS0,southeastern,5301,5301
-Clapham Junction,910GCLPHMJ1,london-overground,5595,5595
 Clapham High Street,9100CLPHHS1,southeastern,5301,5301
 Clapham High Street,910GCLPHHS,southeastern,5301,5301
 Clapham High Street,910GCLPHHS,windrush,5301,5301
+Clapham Junction,910GCLPHMJ1,london-overground,5595,5595
 Clapham Junction,910GCLPHMJ1,gatwick-express,5595,5595
 Clapham Junction,910GCLPHMJ1,mildmay,5595,5595
 Clapham Junction,910GCLPHMJC,london-overground,5595,5595
@@ -300,10 +300,10 @@ Clapham Junction,910GCLPHMJC,gatwick-express,5595,5595
 Clapham Junction,910GCLPHMJC,mildmay,5595,5595
 Clapham Junction,910GCLPHMJC,southern,5595,5595
 Clapham Junction,910GCLPHMJC,south-western-railway,5595,5595
-Clapton,910GCLAPTON,london-overground,6926,6926
 Clapham Junction,910GCLPHMJC,windrush,5595,5595
 Clapham North,940GZZLUCPN,northern,548,548
 Clapham South,940GZZLUCPS,northern,549,549
+Clapton,910GCLAPTON,london-overground,6926,6926
 Clapton,910GCLAPTON,greater-anglia,6926,6926
 Clapton,910GCLAPTON,weaver,6926,6926
 Claygate,910GCLYGATE,south-western-railway,5556,5556
@@ -320,44 +320,44 @@ Coulsdon Town,910GCOLSTWN,southern,5382,5382
 Covent Garden,940GZZLUCGN,piccadilly,553,553
 Crayford,910GCRFD,southeastern,5100,5100
 Crews Hill,910GCRHL,great-northern,6007,6007
-Crouch Hill,910GCROUCHH,london-overground,7406,7406
 Cricklewood,910GCRKLWD,thameslink,1519,1519
 Crofton Park,910GCFPK,southeastern,5078,5078
-Crystal Palace,910GCRYSTLP,london-overground,5356,5356
 Crofton Park,910GCFPK,thameslink,5078,5078
 Crossharbour,940GZZDLCLA,dlr,854,854
+Crouch Hill,910GCROUCHH,london-overground,7406,7406
 Crouch Hill,910GCROUCHH,suffragette,7406,7406
 Croxley,940GZZLUCXY,metropolitan,554,554
+Crystal Palace,910GCRYSTLP,london-overground,5356,5356
 Crystal Palace,910GCRYSTLP,southern,5356,5356
 Crystal Palace,910GCRYSTLP,windrush,5356,5356
-Custom House,9100CSTMHSXR,tfl-rail,6561,6561
 Cuffley,9100CUFFLEY0,great-northern,6008,6008
-Custom House,9100CSTMHSXR0,tfl-rail,6561,6561
 Cuffley,910GCUFFLEY,great-northern,6008,6008
-Custom House,9100CSTMHSXR1,tfl-rail,6561,6561
 Custom House,940GZZDLCUS,dlr,887,887
+Custom House,9100CSTMHSXR,tfl-rail,6561,6561
+Custom House,9100CSTMHSXR0,tfl-rail,6561,6561
+Custom House,9100CSTMHSXR1,tfl-rail,6561,6561
 Custom House,910GCSTMHSXR,tfl-rail,6561,6561
 Custom House,9100CSTMHSXR,elizabeth,6561,6561
 Custom House,9100CSTMHSXR0,elizabeth,6561,6561
 Custom House,9100CSTMHSXR1,elizabeth,6561,6561
 Custom House,910GCSTMHSXR,elizabeth,6561,6561
 Cutty Sark,940GZZDLCUT,dlr,879,879
-Dalston Junction,910GDALS,london-overground,1443,1443
 Cyprus,940GZZDLCYP,dlr,893,893
-Dalston Kingsland,910GDALSKLD,london-overground,1429,1429
 Dagenham Dock,910GDGNHMDC,c2c,7440,7440
 Dagenham East,940GZZLUDGE,district,555,555
 Dagenham Heathway,940GZZLUDGY,district,556,556
+Dalston Junction,910GDALS,london-overground,1443,1443
 Dalston Junction,910GDALS,windrush,1443,1443
+Dalston Kingsland,910GDALSKLD,london-overground,1429,1429
 Dalston Kingsland,910GDALSKLD,mildmay,1429,1429
 Dartford,9100DARTFD0,thameslink,5101,5101
 Dartford,910GDARTFD,southeastern,5101,5101
 Dartford,910GDARTFD,thameslink,5101,5101
-Denmark Hill,910GDENMRKH,london-overground,5421,5421
 Datchet,910GDATCHET,south-western-railway,5668,5668
 Debden,940GZZLUDBN,central,557,557
 Denham,910GDENHAM,chiltern-railways,3052,3052
 Denham Golf Club,910GDENHMGC,chiltern-railways,3060,3060
+Denmark Hill,910GDENMRKH,london-overground,5421,5421
 Denmark Hill,910GDENMRKH,southeastern,5421,5421
 Denmark Hill,910GDENMRKH,thameslink,5421,5421
 Denmark Hill,910GDENMRKH,windrush,5421,5421
@@ -374,13 +374,13 @@ Dormans,910GDORMANS,thameslink,5413,5413
 Drayton Green,910GDRAYGRN,great-western-railway,3099,3099
 Drayton Park,910GDRYP,great-northern,6000,6000
 Dunton Green,910GDTNG,southeastern,5102,5102
-Ealing Broadway,940GZZLUEBY,central,560,560
-Ealing Broadway,940GZZLUEBY,district,560,560
-Ealing Broadway,910GEALINGB,tfl-rail,3190,3190
-Ealing Broadway,9100EALINGB0,elizabeth,3190,560
-Ealing Broadway,9100EALINGB1,elizabeth,3190,560
-Ealing Broadway,910GEALINGB,elizabeth,3190,560
-Ealing Broadway,910GEALINGB,great-western-railway,3190,560
+Ealing Broadway,940GZZLUEBY,central,560,"560, 3190"
+Ealing Broadway,940GZZLUEBY,district,560,"560, 3190"
+Ealing Broadway,910GEALINGB,tfl-rail,3190,"560, 3190"
+Ealing Broadway,9100EALINGB0,elizabeth,3190,"560, 3190"
+Ealing Broadway,9100EALINGB1,elizabeth,3190,"560, 3190"
+Ealing Broadway,910GEALINGB,elizabeth,3190,"560, 3190"
+Ealing Broadway,910GEALINGB,great-western-railway,3190,"560, 3190"
 Ealing Common,940GZZLUECM,district,561,561
 Ealing Common,940GZZLUECM,piccadilly,561,561
 Earley,910GERLY,south-western-railway,5694,5694
@@ -407,34 +407,34 @@ Eastcote,940GZZLUEAE,piccadilly,564,564
 Ebbsfleet International,910GEBSFDOM,southeastern,5566,5566
 Eden Park,910GEDPK,southeastern,5056,5056
 Edgware,940GZZLUEGW,northern,568,568
-Edgware Road,940GZZLUERB,bakerloo,774,774
-Edmonton Green,910GEDMNGRN,london-overground,6941,6941
 Edgware Road,940GZZLUERC,circle,569,569
 Edgware Road,940GZZLUERC,district,569,569
 Edgware Road,940GZZLUERC,hammersmith-city,569,569
+Edgware Road,940GZZLUERB,bakerloo,774,774
+Edmonton Green,910GEDMNGRN,london-overground,6941,6941
 Edmonton Green,910GEDMNGRN,greater-anglia,6941,6941
 Edmonton Green,910GEDMNGRN,weaver,6941,6941
 Effingham Junction,910GEFNGHMJ,south-western-railway,5642,5642
 Egham,910GEGHAM,south-western-railway,5669,5669
-Elephant & Castle,910GELPHNAC,southeastern,5246,5246
-Elephant & Castle,910GELPHNAC,thameslink,5246,5246
 Elephant & Castle,940GZZLUEAC,bakerloo,570,570
 Elephant & Castle,940GZZLUEAC,northern,570,570
+Elephant & Castle,910GELPHNAC,southeastern,5246,5246
+Elephant & Castle,910GELPHNAC,thameslink,5246,5246
 Elm Park,940GZZLUEPK,district,571,571
-Elmers End,910GELMERSE,southeastern,5049,5049
+Elmers End,910GELMERSE,southeastern,5049,"5049, 9471"
 Elmstead Woods,910GELMW,southeastern,5135,5135
 Elstree & Borehamwood,910GELTR,thameslink,1542,1542
 Eltham,910GELTHAM,southeastern,5103,5103
 Elverson Road,940GZZDLELV,dlr,898,898
-Emerson Park,910GEMRSPKH,london-overground,7473,7473
 Embankment,940GZZLUEMB,bakerloo,542,542
 Embankment,940GZZLUEMB,circle,542,542
-Enfield Town,910GENFLDTN,london-overground,6959,6959
 Embankment,940GZZLUEMB,district,542,542
 Embankment,940GZZLUEMB,northern,542,542
+Emerson Park,910GEMRSPKH,london-overground,7473,7473
 Emerson Park,910GEMRSPKH,liberty,7473,7473
 Enfield Chase,910GENFC,great-northern,6010,6010
 Enfield Lock,910GENFLDLK,greater-anglia,6815,6815
+Enfield Town,910GENFLDTN,london-overground,6959,6959
 Enfield Town,910GENFLDTN,weaver,6959,6959
 Epping,940GZZLUEPG,central,572,572
 Epsom,9100EPSM1,southern,5360,5360
@@ -444,15 +444,15 @@ Epsom,910GEPSM,south-western-railway,5360,5360
 Epsom Downs,910GEPSDNS,southern,5361,5361
 Erith,9100ERITH0,thameslink,5104,5104
 Erith,910GERITH,southeastern,5104,5104
-Euston,910GEUSTON,london-overground,1444,1444
 Erith,910GERITH,thameslink,5104,5104
 Esher,910GESHER,south-western-railway,5558,5558
 Essex Road,910GESSEXRD,great-northern,6004,6004
+Euston,940GZZLUEUS,northern,574,574
+Euston,940GZZLUEUS,victoria,574,574
+Euston,910GEUSTON,london-overground,1444,1444
 Euston,910GEUSTON,lioness,1444,1444
 Euston,910GEUSTON,virgin-trains,1444,1444
 Euston,910GEUSTON,west-midlands-trains,1444,1444
-Euston,940GZZLUEUS,northern,574,574
-Euston,940GZZLUEUS,victoria,574,574
 Euston Square,940GZZLUESQ,circle,575,575
 Euston Square,940GZZLUESQ,hammersmith-city,575,575
 Euston Square,940GZZLUESQ,metropolitan,575,575
@@ -469,7 +469,6 @@ Farringdon,9100FRNDNLT2,elizabeth,577,"577, 501"
 Farringdon,910GFRNDNLT,thameslink,577,"577, 501"
 Farringdon,910GFRNDXR,elizabeth,577,"577, 501"
 Farringdon,940GZZLUFCN,circle,577,"577, 501"
-Finchley Road & Frognal,910GFNCHLYR,london-overground,1445,1445
 Farringdon,940GZZLUFCN,hammersmith-city,577,"577, 501"
 Farringdon,940GZZLUFCN,metropolitan,577,"577, 501"
 Feltham,910GFELTHAM,south-western-railway,5559,5559
@@ -477,19 +476,20 @@ Fenchurch Street,910GFENCHRS,c2c,7490,7490
 Finchley Central,940GZZLUFYC,northern,578,578
 Finchley Road,940GZZLUFYR,jubilee,579,579
 Finchley Road,940GZZLUFYR,metropolitan,579,579
+Finchley Road & Frognal,910GFNCHLYR,london-overground,1445,1445
 Finchley Road & Frognal,910GFNCHLYR,mildmay,1445,1445
-Finsbury Park,940GZZLUFPK,piccadilly,580,580
-Finsbury Park,940GZZLUFPK,victoria,580,580
-Finsbury Park,9100FNPK0,thameslink,6119,6119
-Finsbury Park,9100FNPK1,thameslink,6119,6119
-Finsbury Park,910GFNPK,great-northern,6119,6119
+Finsbury Park,940GZZLUFPK,piccadilly,580,"580, 6119"
+Finsbury Park,940GZZLUFPK,victoria,580,"580, 6119"
+Finsbury Park,9100FNPK0,thameslink,6119,"580, 6119"
+Finsbury Park,9100FNPK1,thameslink,6119,"580, 6119"
+Finsbury Park,910GFNPK,great-northern,6119,"580, 6119"
+Finsbury Park,910GFNPK,thameslink,6119,"580, 6119"
 Forest Gate,910GFRSTGT,tfl-rail,6876,6876
-Forest Hill,910GFORESTH,london-overground,5362,5362
-Finsbury Park,910GFNPK,thameslink,6119,6119
 Forest Gate,9100FRSTGT0,elizabeth,6876,6876
 Forest Gate,9100FRSTGT1,elizabeth,6876,6876
 Forest Gate,910GFRSTGT,elizabeth,6876,6876
 Forest Gate,910GFRSTGT,greater-anglia,6876,6876
+Forest Hill,910GFORESTH,london-overground,5362,5362
 Forest Hill,910GFORESTH,southern,5362,5362
 Forest Hill,910GFORESTH,windrush,5362,5362
 Fulham Broadway,940GZZLUFBY,district,581,581
@@ -503,8 +503,8 @@ Gatwick Airport,910GGTWK,gatwick-express,5416,5416
 Gatwick Airport,910GGTWK,great-western-railway,5416,5416
 Gatwick Airport,910GGTWK,southern,5416,5416
 Gatwick Airport,910GGTWK,thameslink,5416,5416
-Gidea Park,910GGIDEAPK,tfl-rail,6877,6877
 Gerrards Cross,910GGERRDSX,chiltern-railways,3051,3051
+Gidea Park,910GGIDEAPK,tfl-rail,6877,6877
 Gidea Park,9100GIDEAPK0,elizabeth,6877,6877
 Gidea Park,9100GIDEAPK1,elizabeth,6877,6877
 Gidea Park,910GGIDEAPK,elizabeth,6877,6877
@@ -515,14 +515,14 @@ Gipsy Hill,910GGIPSYH,southern,5363,5363
 Gloucester Road,940GZZLUGTR,circle,583,583
 Gloucester Road,940GZZLUGTR,district,583,583
 Gloucester Road,940GZZLUGTR,piccadilly,583,583
-Goodmayes,910GGODMAYS,tfl-rail,6878,6878
 Golders Green,940GZZLUGGN,northern,584,584
-Gospel Oak,910GGOSPLOK,london-overground,1409,1409
 Goldhawk Road,940GZZLUGHK,circle,585,585
 Goldhawk Road,940GZZLUGHK,hammersmith-city,585,585
 Goodge Street,940GZZLUGDG,northern,586,586
+Goodmayes,910GGODMAYS,tfl-rail,6878,6878
 Goodmayes,910GGODMAYS,greater-anglia,6878,6878
 Gordon Hill,910GGORDONH,great-northern,6028,6028
+Gospel Oak,910GGOSPLOK,london-overground,1409,1409
 Gospel Oak,910GGOSPLOK,mildmay,1409,1409
 Gospel Oak,910GGOSPLOK,suffragette,1409,1409
 Grange Hill,940GZZLUGGH,central,587,587
@@ -545,100 +545,100 @@ Greenwich,940GZZDLGRE,dlr,928,928
 Greenwich,9100GNWH0,thameslink,5146,928
 Greenwich,9100GNWH1,thameslink,5146,928
 Greenwich,910GGNWH,southeastern,5146,928
-Gunnersbury,910GGNRSBRY,london-overground,5588,591
 Greenwich,910GGNWH,thameslink,5146,928
 Grove Park,910GGRVPK,southeastern,5139,5139
 Guildford,910GGUILDFD,great-western-railway,5631,5631
-Hackney Central,910GHACKNYC,london-overground,6977,6977
 Guildford,910GGUILDFD,south-western-railway,5631,5631
 Gunnersbury,940GZZLUGBY,district,591,591
-Hackney Downs,910GHAKNYNM,london-overground,6867,6867
+Gunnersbury,910GGNRSBRY,london-overground,5588,591
 Gunnersbury,910GGNRSBRY,mildmay,5588,591
-Hackney Wick,910GHACKNYW,london-overground,6978,6978
 Hackbridge,910GHKBG,southern,5364,5364
 Hackbridge,910GHKBG,thameslink,5364,5364
-Hackney Central,910GHACKNYC,mildmay,6977,6977
-Hackney Downs,910GHAKNYNM,greater-anglia,6867,6867
-Hackney Downs,910GHAKNYNM,weaver,6867,6867
-Haggerston,910GHAGGERS,london-overground,1022,1022
+Hackney Central,910GHACKNYC,london-overground,6977,"6977, 6867"
+Hackney Central,910GHACKNYC,mildmay,6977,"6977, 6867"
+Hackney Downs,910GHAKNYNM,london-overground,6867,"6977, 6867"
+Hackney Downs,910GHAKNYNM,greater-anglia,6867,"6977, 6867"
+Hackney Downs,910GHAKNYNM,weaver,6867,"6977, 6867"
+Hackney Wick,910GHACKNYW,london-overground,6978,6978
 Hackney Wick,910GHACKNYW,mildmay,6978,6978
 Hadley Wood,9100HADLYWD0,thameslink,6075,6075
 Hadley Wood,9100HADLYWD2,thameslink,6075,6075
 Hadley Wood,910GHADLYWD,great-northern,6075,6075
 Hadley Wood,910GHADLYWD,thameslink,6075,6075
+Haggerston,910GHAGGERS,london-overground,1022,1022
 Haggerston,910GHAGGERS,windrush,1022,1022
 Hainault,940GZZLUHLT,central,592,592
 Hammersmith,940GZZLUHSD,district,593,593
-Hampstead Heath,910GHMPSTDH,london-overground,1413,1413
 Hammersmith,940GZZLUHSD,piccadilly,593,593
 Hammersmith,940GZZLUHSC,circle,773,773
 Hammersmith,940GZZLUHSC,hammersmith-city,773,773
 Hampstead,9400ZZLUHTD2,northern,594,594
 Hampstead,940GZZLUHTD,northern,594,594
+Hampstead Heath,910GHMPSTDH,london-overground,1413,1413
 Hampstead Heath,910GHMPSTDH,mildmay,1413,1413
 Hampton,910GHAMPTON,south-western-railway,5560,5560
 Hampton Court,910GHCRT,south-western-railway,5561,5561
-Hanwell,910GHANWELL,tfl-rail,3191,3191
 Hampton Wick,910GHAMWICK,south-western-railway,5589,5589
 Hanger Lane,940GZZLUHGR,central,595,595
-Harlesden,910GHARLSDN,london-overground,1521,596
+Hanwell,910GHANWELL,tfl-rail,3191,3191
 Hanwell,9100HANWELL0,elizabeth,3191,3191
 Hanwell,910GHANWELL,elizabeth,3191,3191
 Hanwell,910GHANWELL,great-western-railway,3191,3191
 Harlesden,940GZZLUHSN,bakerloo,596,596
+Harlesden,910GHARLSDN,london-overground,1521,596
 Harlesden,910GHARLSDN,lioness,1521,596
 Harlington,910GHRLG,thameslink,1533,1533
 Harlow Mill,910GHRLWMIL,greater-anglia,6804,6804
-Harold Wood,910GHRLDWOD,tfl-rail,6879,6879
 Harlow Town,910GHRLWTWN,greater-anglia,6827,6827
+Harold Wood,910GHRLDWOD,tfl-rail,6879,6879
 Harold Wood,9100HRLDWOD1,elizabeth,6879,6879
-Harringay Green Lanes,910GHRGYGL,london-overground,7401,7401
 Harold Wood,9100HRLDWOD2,elizabeth,6879,6879
 Harold Wood,910GHRLDWOD,elizabeth,6879,6879
 Harold Wood,910GHRLDWOD,greater-anglia,6879,6879
 Harpenden,910GHRPNDN,thameslink,1543,1543
-Harrow & Wealdstone,910GHROW,london-overground,1397,597
 Harringay,910GHRGY,great-northern,6012,6012
+Harringay Green Lanes,910GHRGYGL,london-overground,7401,7401
 Harringay Green Lanes,910GHRGYGL,suffragette,7401,7401
+Harrow & Wealdstone,940GZZLUHAW,bakerloo,597,597
+Harrow & Wealdstone,910GHROW,london-overground,1397,597
 Harrow & Wealdstone,9100HROWDC1,west-midlands-trains,1397,597
 Harrow & Wealdstone,9100HROWDC2,west-midlands-trains,1397,597
 Harrow & Wealdstone,910GHROW,lioness,1397,597
 Harrow & Wealdstone,910GHROW,southern,1397,597
-Hatch End,910GHTCHEND,london-overground,1398,1398
 Harrow & Wealdstone,910GHROW,west-midlands-trains,1397,597
-Harrow & Wealdstone,940GZZLUHAW,bakerloo,597,597
 Harrow on Hill,910GHAROOTH,chiltern-railways,598,598
 Harrow on Hill,940GZZLUHOH,metropolitan,598,598
+Hatch End,910GHTCHEND,london-overground,1398,1398
 Hatch End,910GHTCHEND,lioness,1398,1398
 Hatfield,910GHATFILD,great-northern,6070,6070
 Hatfield,910GHATFILD,thameslink,6070,6070
 Hatfield Peverel,910GHFLPEVL,greater-anglia,6845,6845
 Hatton Cross,940GZZLUHNX,piccadilly,779,779
-Hayes & Harlington,910GHAYESAH,tfl-rail,3186,3186
 Haydons Road,910GHYDNSRD,southern,5289,5289
 Haydons Road,910GHYDNSRD,thameslink,5289,5289
-Headstone Lane,910GHEDSTNL,london-overground,1434,1434
+Hayes & Harlington,910GHAYESAH,tfl-rail,3186,3186
 Hayes & Harlington,9100HAYESAH0,elizabeth,3186,3186
 Hayes & Harlington,910GHAYESAH,elizabeth,3186,3186
-Heathrow T123,910GHTRWAPT,tfl-rail,7090,7090
 Hayes & Harlington,910GHAYESAH,great-western-railway,3186,3186
 Hayes Kent,910GHAYS,southeastern,5050,5050
+Headstone Lane,910GHEDSTNL,london-overground,1434,1434
 Headstone Lane,910GHEDSTNL,lioness,1434,1434
+Heathrow T123,940GZZLUHRC,piccadilly,780,"780, 833"
+Heathrow T123,910GHTRWAPT,tfl-rail,7090,7090
 Heathrow T123,9100HTRWAPT0,elizabeth,7090,7090
 Heathrow T123,910GHTRWAPT,elizabeth,7090,7090
 Heathrow T123,910GHTRWAPT,heathrow-express,7090,7090
-Heathrow T123,940GZZLUHRC,piccadilly,780,780
-Heathrow T4,910GHTRWTM4,tfl-rail,7091,7091
 Heathrow T4,9100HTRWTM40,heathrow-express,781,781
 Heathrow T4,910GHTRWTM4,heathrow-express,781,781
 Heathrow T4,940GZZLUHR4,piccadilly,781,781
-Heathrow T5,9100HTRWTM50,tfl-rail,9846,9846
+Heathrow T4,910GHTRWTM4,tfl-rail,7091,7091
 Heathrow T4,9100HTRWTM40,elizabeth,7091,7091
-Heathrow T5,9100HTRWTM50,tfl-rail,9846,9846
 Heathrow T4,910GHTRWTM4,elizabeth,7091,7091
-Heathrow T5,910GHTRBUS5,tfl-rail,9846,9846
 Heathrow T4,910GHTRWTM4,heathrow-express,7091,7091
 Heathrow T5,940GZZLUHR5,piccadilly,783,783
+Heathrow T5,9100HTRWTM50,tfl-rail,9846,9846
+Heathrow T5,9100HTRWTM50,tfl-rail,9846,9846
+Heathrow T5,910GHTRBUS5,tfl-rail,9846,9846
 Heathrow T5,9100HTRWTM50,elizabeth,9846,9846
 Heathrow T5,910GHTRWTM5,elizabeth,9846,9846
 Heathrow T5,910GHTRBUS5,heathrow-express,9846,9846
@@ -657,15 +657,15 @@ Hertford North,9100HFDN0,great-northern,6085,6085
 Hertford North,910GHFDN,great-northern,6085,6085
 High Barnet,940GZZLUHBT,northern,602,602
 High Brooms,910GHBROOMS,southeastern,5235,5235
-Highams Park,910GHGHMSPK,london-overground,6919,6919
 High Street Kensington,940GZZLUHSK,circle,605,605
 High Street Kensington,940GZZLUHSK,district,605,605
 High Wycombe,910GHWYCOMB,chiltern-railways,3054,3054
-Highbury & Islington,910GHGHI,london-overground,6009,603
 Higham,910GHIGM,southeastern,5202,5202
 Higham,910GHIGM,thameslink,5202,5202
+Highams Park,910GHGHMSPK,london-overground,6919,6919
 Highams Park,910GHGHMSPK,weaver,6919,6919
 Highbury & Islington,940GZZLUHAI,victoria,603,603
+Highbury & Islington,910GHGHI,london-overground,6009,603
 Highbury & Islington,910GHGHI,great-northern,6009,603
 Highbury & Islington,910GHGHI,mildmay,6009,603
 Highbury & Islington,910GHGHI,windrush,6009,603
@@ -677,14 +677,14 @@ Hinchley Wood,910GHNCHLYW,south-western-railway,5591,5591
 Hitchin,910GHITCHIN,great-northern,6086,6086
 Hitchin,910GHITCHIN,thameslink,6086,6086
 Hither Green,910GHTHRGRN,southeastern,5107,5107
-Homerton,910GHOMRTON,london-overground,6979,6979
 Hockley,910GHOCKLEY,greater-anglia,6880,6880
-Honor Oak Park,910GHONROPK,london-overground,5418,5418
 Holborn,940GZZLUHBN,central,607,607
 Holborn,940GZZLUHBN,piccadilly,607,607
 Holland Park,940GZZLUHPK,central,608,608
 Holloway Road,940GZZLUHWY,piccadilly,609,609
+Homerton,910GHOMRTON,london-overground,6979,6979
 Homerton,910GHOMRTON,mildmay,6979,6979
+Honor Oak Park,910GHONROPK,london-overground,5418,5418
 Honor Oak Park,910GHONROPK,southern,5418,5418
 Honor Oak Park,910GHONROPK,windrush,5418,5418
 Horley,910GHORLEY,southern,5365,5365
@@ -692,12 +692,12 @@ Horley,910GHORLEY,thameslink,5365,5365
 Hornchurch,940GZZLUHCH,district,610,610
 Hornsey,910GHRNSY,great-northern,6015,6015
 Horsley,910GHRSLEY,south-western-railway,5562,5562
-Hoxton,910GHOXTON,london-overground,1023,1023
 Hounslow,910GHOUNSLW,south-western-railway,5563,5563
 Hounslow Central,940GZZLUHWC,piccadilly,611,611
 Hounslow East,940GZZLUHWE,piccadilly,612,612
-Hounslow West,940GZZLUHWT,piccadilly,613,613
+Hounslow West,940GZZLUHWT,piccadilly,613,"613, 820"
 How Wood,910GHOWWOOD,west-midlands-trains,1563,1563
+Hoxton,910GHOXTON,london-overground,1023,1023
 Hoxton,910GHOXTON,windrush,1023,1023
 Hurst Green,910GHRSTGRN,southern,5463,5463
 Hurst Green,910GHRSTGRN,thameslink,5463,5463
@@ -706,32 +706,31 @@ Hyde Park Corner,940GZZLUHPC,piccadilly,614,614
 Ickenham,940GZZLUICK,metropolitan,615,615
 Ickenham,940GZZLUICK,piccadilly,615,615
 Ilford,910GILFORD,tfl-rail,6881,6881
-Imperial Wharf,910GCSEAH,london-overground,9586,9586
 Ilford,9100ILFORD0,elizabeth,6881,6881
 Ilford,9100ILFORD1,elizabeth,6881,6881
 Ilford,9100ILFORD2,elizabeth,6881,6881
 Ilford,910GILFORD,elizabeth,6881,6881
 Ilford,910GILFORD,greater-anglia,6881,6881
+Imperial Wharf,910GCSEAH,london-overground,9586,9586
 Imperial Wharf,910GCSEAH,mildmay,9586,9586
 Imperial Wharf,910GCSEAH,southern,9586,9586
-Iver,910GIVER,tfl-rail,3170,3170
 Ingatestone,910GINGTSTN,greater-anglia,6882,6882
 Island Gardens,940GZZDLISL,dlr,856,856
 Isleworth,910GISLEWTH,south-western-railway,5592,5592
+Iver,910GIVER,tfl-rail,3170,3170
 Iver,910GIVER,elizabeth,3170,3170
 Iver,910GIVER,great-western-railway,3170,3170
 Kempton Park,910GKMPTNPK,south-western-railway,5678,5678
-Kensal Green,910GKENSLG,london-overground,1447,617
-Kensal Rise,910GKENR,london-overground,1448,1448
 Kemsing,910GKEMSING,southeastern,5079,5079
 Kenley,910GKNLY,southern,5419,5419
-Kensington Olympia,910GKENOLYM,london-overground,3092,618
 Kennington,940GZZLUKNG,northern,616,616
 Kensal Green,940GZZLUKSL,bakerloo,617,617
+Kensal Green,910GKENSLG,london-overground,1447,617
 Kensal Green,910GKENSLG,lioness,1447,617
+Kensal Rise,910GKENR,london-overground,1448,1448
 Kensal Rise,910GKENR,mildmay,1448,1448
 Kensington Olympia,940GZZLUKOY,district,618,618
-Kentish Town West,910GKNTSHTW,london-overground,1449,1449
+Kensington Olympia,910GKENOLYM,london-overground,3092,618
 Kensington Olympia,910GKENOLYM,mildmay,3092,618
 Kensington Olympia,910GKENOLYM,southern,3092,618
 Kent House,9100KENTHOS0,thameslink,5080,5080
@@ -739,29 +738,30 @@ Kent House,910GKENTHOS,southeastern,5080,5080
 Kent House,910GKENTHOS,thameslink,5080,5080
 Kentish Town,940GZZLUKSH,northern,619,619
 Kentish Town,9100KNTSHTN1,east-midlands-trains,1553,619
-Kenton,910GKTON,london-overground,1399,620
 Kentish Town,910GKNTSHTN,east-midlands-trains,1553,619
 Kentish Town,910GKNTSHTN,thameslink,1553,619
-Kew Gardens,910GKEWGRDN,london-overground,5594,621
+Kentish Town West,910GKNTSHTW,london-overground,1449,1449
 Kentish Town West,910GKNTSHTW,mildmay,1449,1449
 Kenton,940GZZLUKEN,bakerloo,620,620
+Kenton,910GKTON,london-overground,1399,620
 Kenton,910GKTON,lioness,1399,620
 Kew Bridge,910GKEWBDGE,south-western-railway,5593,5593
 Kew Gardens,940GZZLUKWG,district,621,621
-Kilburn High Road,910GKLBRNHR,london-overground,1415,1415
+Kew Gardens,910GKEWGRDN,london-overground,5594,621
 Kew Gardens,910GKEWGRDN,mildmay,5594,621
 Kidbrooke,910GKIDBROK,southeastern,5108,5108
 Kilburn,9400ZZLUKBN2,jubilee,622,622
 Kilburn,940GZZLUKBN,jubilee,622,622
+Kilburn High Road,910GKLBRNHR,london-overground,1415,1415
 Kilburn High Road,910GKLBRNHR,lioness,1415,1415
 Kilburn Park,940GZZLUKPK,bakerloo,623,623
 King George V,940GZZDLKGV,dlr,523,523
-Kings Cross,940GZZLUKSX,circle,600,600
-Kings Cross,940GZZLUKSX,hammersmith-city,600,600
-Kings Cross,940GZZLUKSX,metropolitan,600,600
-Kings Cross,940GZZLUKSX,northern,600,600
-Kings Cross,940GZZLUKSX,piccadilly,600,600
-Kings Cross,940GZZLUKSX,victoria,600,600
+Kings Cross,940GZZLUKSX,circle,600,"600, 625, 772, 838"
+Kings Cross,940GZZLUKSX,hammersmith-city,600,"600, 625, 772, 839"
+Kings Cross,940GZZLUKSX,metropolitan,600,"600, 625, 772, 840"
+Kings Cross,940GZZLUKSX,northern,600,"600, 625, 772, 841"
+Kings Cross,940GZZLUKSX,piccadilly,600,"600, 625, 772, 842"
+Kings Cross,940GZZLUKSX,victoria,600,"600, 625, 772, 843"
 Kings Cross,910GKNGX,first-hull-trains,6121,6121
 Kings Cross,910GKNGX,grand-central,6121,6121
 Kings Cross,910GKNGX,great-northern,6121,6121
@@ -773,7 +773,6 @@ Kingswood,910GKGWD,southern,5366,5366
 Knebworth,910GKNEBWTH,great-northern,6088,6088
 Knightsbridge,940GZZLUKNB,piccadilly,626,626
 Knockholt,910GKNCKHLT,southeastern,5109,5109
-Langley Berks,910GLANGLEY,tfl-rail,3171,3171
 Ladbroke Grove,940GZZLULAD,circle,627,627
 Ladbroke Grove,940GZZLULAD,hammersmith-city,627,627
 Ladywell,910GLDYW,southeastern,5057,5057
@@ -781,6 +780,7 @@ Laindon,910GLAINDON,c2c,7445,7445
 Lambeth North,940GZZLULBN,bakerloo,628,628
 Lancaster Gate,940GZZLULGT,central,629,629
 Langdon Park,940GZZDLLDP,dlr,853,853
+Langley Berks,910GLANGLEY,tfl-rail,3171,3171
 Langley Berks,910GLANGLEY,elizabeth,3171,3171
 Langley Berks,910GLANGLEY,great-western-railway,3171,3171
 Latimer Road,940GZZLULRD,circle,630,630
@@ -790,9 +790,7 @@ Leagrave,910GLEAGRVE,thameslink,1534,1534
 Leatherhead,910GLETHRHD,southern,5368,5368
 Leatherhead,910GLETHRHD,south-western-railway,5368,5368
 Lee,910GLEEE,southeastern,5110,5110
-Leyton Midland Road,910GLEYTNMR,london-overground,7402,7402
 Leicester Square,940GZZLULSQ,northern,631,631
-Leytonstone High Road,910GLYTNSHR,london-overground,7403,7403
 Leicester Square,940GZZLULSQ,piccadilly,631,631
 Leigh-on-Sea,910GLHONSEA,c2c,7446,7446
 Leighton Buzzard,910GLTNBZRD,west-midlands-trains,1373,1373
@@ -801,81 +799,82 @@ Letchworth Garden City,910GLTCE,thameslink,6089,6089
 Lewisham,940GZZDLLEW,dlr,940,940
 Lewisham,910GLEWISHM,southeastern,5051,5051
 Leyton,940GZZLULYN,central,632,632
+Leyton Midland Road,910GLEYTNMR,london-overground,7402,7402
 Leyton Midland Road,910GLEYTNMR,suffragette,7402,7402
 Leytonstone,940GZZLULYS,central,633,633
+Leytonstone High Road,910GLYTNSHR,london-overground,7403,7403
 Leytonstone High Road,910GLYTNSHR,suffragette,7403,7403
 Limehouse,940GZZDLLIM,dlr,862,862
 Limehouse,910GLIMHSE,c2c,7491,7491
-Liverpool Street,9100LIVSTLL0,tfl-rail,6594,"634, 645"
 Lingfield,910GLINGFLD,southern,5369,5369
-Liverpool Street,9100LIVSTLL1,tfl-rail,6594,"634, 645"
 Lingfield,910GLINGFLD,thameslink,5369,5369
 Little Kimble,910GLTLKMBL,chiltern-railways,3066,3066
-Liverpool Street,940GZZLULVT,central,634,634
-Liverpool Street,940GZZLULVT,circle,634,634
-Liverpool Street,940GZZLULVT,hammersmith-city,634,634
-Liverpool Street,940GZZLULVT,metropolitan,634,634
-Liverpool Street,9100LIVST0,elizabeth,6594,"634, 645"
-Liverpool Street,9100LIVSTLL0,elizabeth,6594,"634, 645"
-Liverpool Street,9100LIVSTLL1,elizabeth,6594,"634, 645"
-Liverpool Street,910GLIVST,elizabeth,6594,"634, 645"
-Liverpool Street,910GLIVSTLL,elizabeth,6594,"634, 645"
+Liverpool Street,940GZZLULVT,central,634,"634, 645, 689"
+Liverpool Street,940GZZLULVT,circle,634,"634, 645, 689"
+Liverpool Street,940GZZLULVT,hammersmith-city,634,"634, 645, 689"
+Liverpool Street,940GZZLULVT,metropolitan,634,"634, 645, 689"
+Liverpool Street,9100LIVSTLL0,tfl-rail,6594,"634, 645, 689"
+Liverpool Street,9100LIVSTLL1,tfl-rail,6594,"634, 645, 689"
+Liverpool Street,9100LIVST0,elizabeth,6594,"634, 645, 689"
+Liverpool Street,9100LIVSTLL0,elizabeth,6594,"634, 645, 689"
+Liverpool Street,9100LIVSTLL1,elizabeth,6594,"634, 645, 689"
+Liverpool Street,910GLIVST,elizabeth,6594,"634, 645, 689"
+Liverpool Street,910GLIVSTLL,elizabeth,6594,"634, 645, 689"
 Liverpool Street,910GLIVST,c2c,6965,6965
 Liverpool Street,910GLIVST,elizabeth,6965,6965
 Liverpool Street,910GLIVST,greater-anglia,6965,6965
-London Fields,910GLONFLDS,london-overground,6966,6966
 Liverpool Street,910GLIVST,weaver,6965,6965
+Liverpool Street,910GLIVST,london-overground,6965,6965
 London Bridge,940GZZLULNB,jubilee,635,635
 London Bridge,940GZZLULNB,northern,635,635
-London Bridge,910GLNDNBDC,southeastern,5148,5148
-London Bridge,910GLNDNBDC,southern,5148,5148
-London Bridge,910GLNDNBDC,thameslink,5148,5148
+London Bridge,910GLNDNBDC,southeastern,5148,"5148, 6336"
+London Bridge,910GLNDNBDC,southern,5148,"5148, 6336"
+London Bridge,910GLNDNBDC,thameslink,5148,"5148, 6336"
 London City Airport,940GZZDLLCA,dlr,533,533
+London Fields,910GLONFLDS,london-overground,6966,6966
 London Fields,910GLONFLDS,greater-anglia,6966,6966
-Liverpool Street,910GLIVST,london-overground,6965,6965
 London Fields,910GLONFLDS,weaver,6966,6966
 London Road Guildford,910GLRDGFD,south-western-railway,5632,5632
 Longcross,910GLNGCROS,south-western-railway,5674,5674
 Longfield,910GLGFD,southeastern,5114,5114
-Paddington,910GPADTON,tfl-rail,3087,3087
 Loughborough Junction,910GLBGHJN,southeastern,5082,5082
 Loughborough Junction,910GLBGHJN,thameslink,5082,5082
 Loughton,940GZZLULGN,central,636,636
 Lower Sydenham,910GLSYDNHM,southeastern,5053,5053
 Luton,910GLUTON,east-midlands-railway,1536,1536
 Luton,910GLUTON,thameslink,1536,1536
-Luton Airport Parkway,910GLUTOAPY,east-midlands-railway,3645,3645
-Luton Airport Parkway,910GLUTOAPY,thameslink,3645,3645
+Luton Airport Parkway,910GLUTOAPY,east-midlands-railway,3645,"3645, 9227"
+Luton Airport Parkway,910GLUTOAPY,thameslink,3645,"3645, 9227"
 Maida Vale,940GZZLUMVL,bakerloo,637,637
 Maidenhead,910GMDNHEAD,elizabeth,3147,3147
 Maidenhead,910GMDNHEAD,great-western-railway,3147,3147
+Maidenhead,910GMDNHEAD,tfl-rail,3147,3147
 Malden Manor,910GMALDENM,south-western-railway,5599,5599
 Manor House,940GZZLUMRH,piccadilly,638,638
 Manor Park,9100MANRPK0,elizabeth,6883,6883
 Manor Park,9100MANRPK1,elizabeth,6883,6883
 Manor Park,910GMANRPK,elizabeth,6883,6883
 Manor Park,910GMANRPK,greater-anglia,6883,6883
+Manor Park,910GMANRPK,tfl-rail,6883,6883
 Mansion House,940GZZLUMSH,circle,639,639
 Mansion House,940GZZLUMSH,district,639,639
-Maidenhead,910GMDNHEAD,tfl-rail,3147,3147
 Marble Arch,940GZZLUMBA,central,640,640
 Marlow,9100MARLOW0,great-western-railway,3021,3021
 Marlow,910GMARLOW,great-western-railway,3021,3021
 Martins Heron,910GMHERON,south-western-railway,5692,5692
 Maryland,9100MRYLAND0,elizabeth,6970,6970
 Maryland,9100MRYLAND1,elizabeth,6970,6970
-Manor Park,910GMANRPK,tfl-rail,6883,6883
 Maryland,910GMRYLAND,elizabeth,6970,6970
 Maryland,910GMRYLAND,greater-anglia,6970,6970
-Marylebone,910GMARYLBN,chiltern-railways,1475,1475
+Maryland,910GMRYLAND,tfl-rail,6970,6970
 Marylebone,940GZZLUMYB,bakerloo,641,641
+Marylebone,910GMARYLBN,chiltern-railways,1475,1475
 Maze Hill,9100MAZEH0,thameslink,5149,5149
 Maze Hill,910GMAZEH,southeastern,5149,5149
 Maze Hill,910GMAZEH,thameslink,5149,5149
 Meopham,910GMEOPHAM,southeastern,5116,5116
 Meridian Water,9100MWRWSTN0,greater-anglia,6599,6599
 Meridian Water,910GMWRWSTN,greater-anglia,6599,6599
-Maryland,910GMRYLAND,tfl-rail,6970,6970
 Merstham,910GMERSTHM,southern,5475,5475
 Merstham,910GMERSTHM,thameslink,5475,5475
 Mile End,940GZZLUMED,central,642,642
@@ -891,11 +890,11 @@ Monks Risborough,910GMNKRISB,chiltern-railways,3067,3067
 Monument,940GZZLUMMT,circle,644,644
 Monument,940GZZLUMMT,district,644,644
 Moor Park,940GZZLUMPK,metropolitan,646,646
-Moorgate,940GZZLUMGT,circle,645,645
-Moorgate,940GZZLUMGT,hammersmith-city,645,645
-Moorgate,940GZZLUMGT,metropolitan,645,645
-Moorgate,940GZZLUMGT,northern,645,645
-Moorgate,910GMRGT,great-northern,6005,"634, 645"
+Moorgate,940GZZLUMGT,circle,645,"634, 645, 689"
+Moorgate,940GZZLUMGT,hammersmith-city,645,"634, 645, 689"
+Moorgate,940GZZLUMGT,metropolitan,645,"634, 645, 689"
+Moorgate,940GZZLUMGT,northern,645,"634, 645, 689"
+Moorgate,910GMRGT,great-northern,6005,"634, 645, 689"
 Morden,940GZZLUMDN,northern,647,647
 Morden South,910GMORDENS,southern,5291,5291
 Morden South,910GMORDENS,thameslink,5291,5291
@@ -911,15 +910,15 @@ New Barnet,910GNBARNET,thameslink,6018,6018
 New Beckenham,910GNBCKNHM,southeastern,5058,5058
 New Cross,910GNWCRELL,southeastern,5150,5150
 New Cross,910GNWCRELL,windrush,5150,5150
+New Cross,910GNWCRELL,london-overground,5150,5150
 New Cross Gate,910GNEWXGTE,southern,5345,5345
 New Cross Gate,910GNEWXGTE,windrush,5345,5345
+New Cross Gate,910GNEWXGTE,london-overground,5345,5345
 New Eltham,910GNWELTHM,southeastern,5119,5119
 New Malden,910GNEWMLDN,south-western-railway,5567,5567
 New Southgate,9100NEWSGAT0,thameslink,6019,6019
-New Cross Gate,910GNEWXGTE,london-overground,5345,5345
 New Southgate,910GNEWSGAT,great-northern,6019,6019
 New Southgate,910GNEWSGAT,thameslink,6019,6019
-New Cross,910GNWCRELL,london-overground,5150,5150
 Newbury Park,940GZZLUNBP,central,650,650
 Nine Elms,940GZZNEUGST,northern,831,831
 Norbiton,910GNRBITON,south-western-railway,5568,5568
@@ -932,6 +931,7 @@ North Harrow,940GZZLUNHA,metropolitan,656,656
 North Sheen,910GNSHEEN,south-western-railway,5601,5601
 North Wembley,940GZZLUNWY,bakerloo,659,659
 North Wembley,910GNWEMBLY,lioness,1422,659
+North Wembley,910GNWEMBLY,london-overground,1422,659
 Northfields,940GZZLUNFD,piccadilly,655,655
 Northfleet,910GNRTHFLT,southeastern,5120,5120
 Northolt,940GZZLUNHT,central,657,657
@@ -939,16 +939,15 @@ Northolt Park,910GNTHOLTP,chiltern-railways,1478,1478
 Northumberld Pk,910GNMBRLPK,greater-anglia,6971,6971
 Northwick Park,940GZZLUNKP,metropolitan,660,660
 Northwood,940GZZLUNOW,metropolitan,661,661
-North Wembley,910GNWEMBLY,london-overground,1422,659
 Northwood Hills,940GZZLUNWH,metropolitan,662,662
 Norwood Junction,910GNORWDJ,southern,5376,5376
 Norwood Junction,910GNORWDJ,thameslink,5376,5376
 Norwood Junction,910GNORWDJ,windrush,5376,5376
+Norwood Junction,910GNORWDJ,london-overground,5376,5376
 Notting Hill Gate,940GZZLUNHG,central,663,663
 Notting Hill Gate,940GZZLUNHG,circle,663,663
 Notting Hill Gate,940GZZLUNHG,district,663,663
 Nunhead,910GNUNHEAD,southeastern,5068,5068
-Norwood Junction,910GNORWDJ,london-overground,5376,5376
 Nunhead,910GNUNHEAD,thameslink,5068,5068
 Oakleigh Park,9100OKLGHPK0,thameslink,6020,6020
 Oakleigh Park,910GOKLGHPK,great-northern,6020,6020
@@ -969,44 +968,45 @@ Oxford Circus,940GZZLUOXC,victoria,669,669
 Oxshott,910GOXSHOTT,south-western-railway,5602,5602
 Oxted,910GOXTED,southern,5377,5377
 Oxted,910GOXTED,thameslink,5377,5377
-Paddington,910GPADTON,chiltern-railways,3087,3087
-Paddington,910GPADTON,great-western-railway,3087,3087
-Paddington,940GZZLUPAC,bakerloo,670,670
-Paddington,940GZZLUPAC,circle,670,670
-Paddington,940GZZLUPAC,district,670,670
-Paddington,940GZZLUPAH,circle,670,670
-Paddington,940GZZLUPAH,hammersmith-city,670,670
-Paddington,9100PADTLL,elizabeth,6552,6552
-Paddington,9100PADTLL0,elizabeth,6552,6552
-Paddington,9100PADTLL1,elizabeth,6552,6552
-Paddington,9100PADTON0,elizabeth,6552,6552
-Paddington,910GPADTLL,elizabeth,6552,6552
-Paddington,910GPADTON,elizabeth,6552,6552
-Paddington,9100PADTLL,tfl-rail,6552,6552
+Paddington,940GZZLUPAC,bakerloo,670,"670, 6552"
+Paddington,940GZZLUPAC,circle,670,"670, 6552"
+Paddington,940GZZLUPAC,district,670,"670, 6552"
+Paddington,940GZZLUPAH,circle,670,"670, 6552"
+Paddington,940GZZLUPAH,hammersmith-city,670,"670, 6552"
+Paddington,910GPADTON,tfl-rail,3087,"3087, 6039"
+Paddington,910GPADTON,chiltern-railways,3087,"3087, 6039"
+Paddington,910GPADTON,great-western-railway,3087,"3087, 6039"
+Paddington,9100PADTLL,elizabeth,6552,"670, 6552"
+Paddington,9100PADTLL0,elizabeth,6552,"670, 6552"
+Paddington,9100PADTLL1,elizabeth,6552,"670, 6552"
+Paddington,9100PADTON0,elizabeth,6552,"670, 6552"
+Paddington,910GPADTLL,elizabeth,6552,"670, 6552"
+Paddington,910GPADTON,elizabeth,6552,"670, 6552"
+Paddington,9100PADTLL,tfl-rail,6552,"670, 6552"
+Paddington,9100PADTLL0,tfl-rail,6552,"670, 6552"
+Paddington,9100PADTLL1,tfl-rail,6552,"670, 6552"
+Paddington,910GPADTLL,tfl-rail,6552,"670, 6552"
+Paddington,910GPADTON,tfl-rail,6552,"670, 6552"
 Paddington,910GPADTON,heathrow-express,8204,8204
-Paddington,9100PADTLL0,tfl-rail,6552,6552
 Paddington,9100HTRWTM50,heathrow-express,8204,8204
-Paddington,9100PADTLL1,tfl-rail,6552,6552
 Palmers Green,910GPALMRSG,great-northern,6021,6021
 Park Royal,940GZZLUPKR,piccadilly,671,671
-Paddington,910GPADTLL,tfl-rail,6552,6552
 Park Street,910GPKST,west-midlands-trains,1561,1561
-Paddington,910GPADTON,tfl-rail,6552,6552
 Parsons Green,940GZZLUPSG,district,672,672
 Peckham Rye,910GPCKHMRY,southeastern,5423,5423
 Peckham Rye,910GPCKHMRY,southern,5423,5423
 Peckham Rye,910GPCKHMRY,thameslink,5423,5423
 Peckham Rye,910GPCKHMRY,windrush,5423,5423
-Penge East,9100PNGEE0,thameslink,5072,5072
 Peckham Rye,910GPCKHMRY,london-overground,5423,5423
+Penge East,9100PNGEE0,thameslink,5072,5072
 Penge East,910GPNGEE,southeastern,5072,5072
 Penge East,910GPNGEE,thameslink,5072,5072
 Penge West,910GPENEW,southern,5378,5378
 Penge West,910GPENEW,windrush,5378,5378
+Penge West,910GPENEW,london-overground,5378,5378
 Perivale,940GZZLUPVL,central,673,673
 Petts Wood,910GPETSWD,southeastern,5123,5123
 Petts Wood,910GPETSWD,thameslink,5123,5123
-Penge West,910GPENEW,london-overground,5378,5378
 Piccadilly Circus,940GZZLUPCC,bakerloo,674,674
 Piccadilly Circus,940GZZLUPCC,piccadilly,674,674
 Pimlico,940GZZLUPCO,victoria,776,776
@@ -1035,16 +1035,16 @@ Purley,910GPURLEY,thameslink,5379,5379
 Purley Oaks,910GPURLEYO,southern,5430,5430
 Putney,910GPUTNEY,south-western-railway,5603,5603
 Putney Bridge,940GZZLUPYB,district,678,678
-Queens Park,910GQPRK,lioness,680,680
-Queens Park,910GQPRK,west-midlands-trains,680,680
+Queens Park,910GQPRK,lioness,1419,680
+Queens Park,910GQPRK,west-midlands-trains,1419,680
 Queens Park,940GZZLUQPS,bakerloo,680,680
+Queens Park,910GQPRK,london-overground,1419,680
+Queens Rd Peckham,910GPCKHMQD,london-overground,5424,5424
 Queens Road Peckham,910GPCKHMQD,southern,5424,5424
 Queens Road Peckham,910GPCKHMQD,windrush,5424,5424
 Queensbury,940GZZLUQBY,jubilee,679,679
-Queens Park,910GQPRK,london-overground,680,680
 Queenstown Road Battersea,910GQTRDBAT,south-western-railway,5596,5596
 Queensway,940GZZLUQWY,central,681,681
-Queens Rd Peckham,910GPCKHMQD,london-overground,5424,5424
 Radlett,9100RADLETT0,thameslink,1546,1546
 Radlett,910GRADLETT,thameslink,1546,1546
 Rainham,9100RAINHMK0,thameslink,5177,5177
@@ -1063,15 +1063,15 @@ Reading,910GRDNG4AB,south-western-railway,3149,3149
 Reading,910GRDNGSTN,elizabeth,3149,3149
 Reading,910GRDNGSTN,great-western-railway,3149,3149
 Reading,910GRDNGSTN,south-western-railway,3149,3149
+Reading,910GRDNG4AB,tfl-rail,3149,3149
+Reading,910GRDNGSTN,tfl-rail,3149,3149
 Rectory Road,910GRCTRYRD,greater-anglia,6967,6967
 Rectory Road,910GRCTRYRD,weaver,6967,6967
-Reading,910GRDNG4AB,tfl-rail,3149,3149
+Rectory Road,910GRCTRYRD,london-overground,6967,6967
 Redbridge,940GZZLURBG,central,684,684
 Redhill,9100REDHILL0,gatwick-express,5478,5478
 Redhill,910GREDHILL,gatwick-express,5478,5478
-Reading,910GRDNGSTN,tfl-rail,3149,3149
 Redhill,910GREDHILL,great-western-railway,5478,5478
-Rectory Road,910GRCTRYRD,london-overground,6967,6967
 Redhill,910GREDHILL,southern,5478,5478
 Redhill,910GREDHILL,thameslink,5478,5478
 Reedham Surrey,910GREEDHMS,southern,5431,5431
@@ -1081,10 +1081,10 @@ Reigate,910GREIGATE,southern,5480,5480
 Richmond,940GZZLURMD,district,5570,5570
 Richmond,910GRICHMND,mildmay,5570,5570
 Richmond,910GRICHMND,south-western-railway,5570,5570
+Richmond,910GRICHMND,london-overground,5570,5570
 Rickmansworth,940GZZLURKW,metropolitan,687,687
 Rickmansworth,910GRCKMNSW,chiltern-railways,687,687
 Riddlesdown,910GRDLSDWN,southern,5432,5432
-Richmond,910GRICHMND,london-overground,5570,5570
 Riddlesdown,910GRDLSDWN,thameslink,5432,5432
 Rochester,910GRCHT,southeastern,5203,5203
 Rochester,910GRCHT,thameslink,5203,5203
@@ -1094,14 +1094,14 @@ Romford,9100ROMFORD2,elizabeth,6886,6886
 Romford,9100ROMFORD3,elizabeth,6886,6886
 Romford,910GROMFORD,elizabeth,6886,6886
 Romford,910GROMFORD,greater-anglia,6886,6886
+Romford,910GROMFORD,liberty,6886,6886
+Romford,910GROMFORD,tfl-rail,6886,6886
 Rotherhithe,910GRTHERHI,windrush,1039,1039
+Rotherhithe,910GRTHERHI,london-overground,1039,1039
 Royal Albert,940GZZDLRAL,dlr,890,890
 Royal Oak,940GZZLURYO,circle,690,690
 Royal Oak,940GZZLURYO,hammersmith-city,690,690
 Royal Victoria,940GZZDLRVC,dlr,886,886
-Romford,910GROMFORD,liberty,6886,6886
-Romford,910GROMFORD,tfl-rail,6886,6886
-Rotherhithe,910GRTHERHI,london-overground,1039,1039
 Roydon,910GROYDON,greater-anglia,6829,6829
 Ruislip,940GZZLURSP,metropolitan,691,691
 Ruislip,940GZZLURSP,piccadilly,691,691
@@ -1122,87 +1122,87 @@ Seven Kings,9100SVNKNGS0,elizabeth,6893,6893
 Seven Kings,9100SVNKNGS1,elizabeth,6893,6893
 Seven Kings,910GSVNKNGS,elizabeth,6893,6893
 Seven Kings,910GSVNKNGS,greater-anglia,6893,6893
+Seven Kings,910GSVNKNGS,tfl-rail,6893,6893
 Seven Sisters,940GZZLUSVS,victoria,698,698
 Seven Sisters,910GSEVNSIS,greater-anglia,6931,698
 Seven Sisters,910GSEVNSIS,weaver,6931,698
+Seven Sisters,910GSEVNSIS,london-overground,6931,698
 Sevenoaks,910GSVNOAKS,southeastern,5124,5124
 Sevenoaks,910GSVNOAKS,thameslink,5124,5124
-Seven Kings,910GSVNKNGS,tfl-rail,6893,6893
-Shadwell,910GSHADWEL,windrush,1082,1082
 Shadwell,940GZZDLSHA,dlr,860,860
-Seven Sisters,910GSEVNSIS,london-overground,6931,698
+Shadwell,910GSHADWEL,windrush,1082,1082
+Shadwell,910GSHADWEL,london-overground,1082,1082
 Shenfield,9100SHENFLD1,elizabeth,6888,6888
 Shenfield,9100SHENFLD2,elizabeth,6888,6888
 Shenfield,910GSHENFLD,elizabeth,6888,6888
-Shadwell,910GSHADWEL,london-overground,1082,1082
 Shenfield,910GSHENFLD,greater-anglia,6888,6888
+Shenfield,910GSHENFLD,tfl-rail,6888,6888
+Shepherds Bush,940GZZLUSBC,central,700,700
 Shepherds Bush,940GZZLUSBM,circle,775,775
 Shepherds Bush,940GZZLUSBM,hammersmith-city,775,775
 Shepherds Bush,910GSHPDSB,mildmay,9587,9587
 Shepherds Bush,910GSHPDSB,southern,9587,9587
-Shepherds Bush,940GZZLUSBC,central,700,700
-Shenfield,910GSHENFLD,tfl-rail,6888,6888
+Shepherds Bush,910GSHPDSB,london-overground,9587,9587
 Shepperton,910GSHEPRTN,south-western-railway,5605,5605
 Shiplake,9100SHPLAKE0,great-western-railway,3150,3150
-Shepherds Bush,910GSHPDSB,london-overground,9587,9587
 Shiplake,910GSHPLAKE,great-western-railway,3150,3150
 Shoeburyness,910GSHBRYNS,c2c,7455,7455
 Shoreditch High Street,910GSHRDHST,windrush,1024,1024
+Shoreditch High Street,910GSHRDHST,london-overground,1024,1024
 Shoreham Kent,910GSHRMKT,southeastern,5074,5074
 Shoreham Kent,910GSHRMKT,thameslink,5074,5074
 Shortlands,910GSHRTLND,southeastern,5084,5084
 Shortlands,910GSHRTLND,thameslink,5084,5084
-Shoreditch High Street,910GSHRDHST,london-overground,1024,1024
 Sidcup,910GSIDCUP,southeastern,5125,5125
 Silver Street,910GSIVRST,greater-anglia,6972,6972
 Silver Street,910GSIVRST,weaver,6972,6972
+Silver Street,910GSIVRST,london-overground,6972,6972
 Slade Green,9100SLADEGN0,thameslink,5154,5154
 Slade Green,910GSLADEGN,southeastern,5154,5154
 Slade Green,910GSLADEGN,thameslink,5154,5154
 Sloane Square,940GZZLUSSQ,circle,702,702
-Silver Street,910GSIVRST,london-overground,6972,6972
 Sloane Square,940GZZLUSSQ,district,702,702
 Slough,910GSLOUGH,elizabeth,3172,3172
 Slough,910GSLOUGH,great-western-railway,3172,3172
+Slough,910GSLOUGH,tfl-rail,3172,3172
 Snaresbrook,940GZZLUSNB,central,703,703
 Sole Street,910GSOLEST,southeastern,5126,5126
 South Acton,910GSACTON,mildmay,1452,1452
+South Acton,910GSACTON,london-overground,1452,1452
 South Bermondsey,910GSBRMNDS,southern,5425,5425
 South Croydon,910GSCROYDN,southern,5410,5410
-Slough,910GSLOUGH,tfl-rail,3172,3172
 South Croydon,910GSCROYDN,thameslink,5410,5410
 South Ealing,940GZZLUSEA,piccadilly,704,704
-South Acton,910GSACTON,london-overground,1452,1452
 South Greenford,910GSGFORD,great-western-railway,3138,3138
 South Hampstead,910GSHMPSTD,lioness,1451,1451
+South Hampstead,910GSHMPSTD,london-overground,1451,1451
 South Harrow,940GZZLUSHH,piccadilly,707,707
 South Kensington,940GZZLUSKS,circle,708,708
 South Kensington,940GZZLUSKS,district,708,708
 South Kensington,940GZZLUSKS,piccadilly,708,708
 South Kenton,940GZZLUSKT,bakerloo,709,709
-South Hampstead,910GSHMPSTD,london-overground,1451,1451
 South Kenton,910GSKENTON,lioness,1453,709
+South Kenton,910GSKENTON,london-overground,1453,709
 South Merton,910GSMERTON,southern,5292,5292
 South Merton,910GSMERTON,thameslink,5292,5292
 South Quay,940GZZDLSOQ,dlr,861,861
 South Ruislip,940GZZLUSRP,central,710,710
 South Ruislip,910GSRUISLP,chiltern-railways,3057,710
-South Kenton,910GSKENTON,london-overground,1453,709
 South Tottenham,910GSTOTNHM,suffragette,7404,7404
+South Tottenham,910GSTOTNHM,london-overground,7404,7404
 South Wimbledon,940GZZLUSWN,northern,711,711
 South Woodford,940GZZLUSWF,central,712,712
 Southall,9100STHALL0,elizabeth,3187,3187
 Southall,910GSTHALL,elizabeth,3187,3187
-South Tottenham,910GSTOTNHM,london-overground,7404,7404
 Southall,910GSTHALL,great-western-railway,3187,3187
+Southall,910GSTHALL,tfl-rail,3187,3187
 Southbury,910GSBURY,greater-anglia,6947,6947
 Southbury,910GSBURY,weaver,6947,6947
+Southbury,910GSBURY,london-overground,6947,6947
 Southend Airport,910GSTHEAIR,greater-anglia,4787,4787
 Southend Central,910GSTHCENT,c2c,7456,7456
 Southend East,910GSTHNDE,c2c,7457,7457
-Southall,910GSTHALL,tfl-rail,3187,3187
 Southend Victoria,910GSTHVIC,greater-anglia,7420,7420
-Southbury,910GSBURY,london-overground,6947,6947
 Southfields,940GZZLUSFS,district,705,705
 Southgate,940GZZLUSGT,piccadilly,706,706
 Southwark,9400ZZLUSWK2,jubilee,784,784
@@ -1212,13 +1212,13 @@ St Albans City,910GSTALBCY,thameslink,1548,1548
 St Helier,910GSHLIER,southern,5290,5290
 St Helier,910GSHLIER,thameslink,5290,5290
 St James Street,910GSTJMSST,weaver,6973,6973
+St James Street,910GSTJMSST,london-overground,6973,6973
 St James's Park,940GZZLUSJP,circle,695,695
 St James's Park,940GZZLUSJP,district,695,695
 St Johns,910GSTJOHNS,southeastern,5059,5059
 St Johns Wood,940GZZLUSJW,jubilee,696,696
 St Margarets Herts,910GSMARGRT,greater-anglia,6821,6821
 St Margarets London,910GSTMGTS,south-western-railway,5604,5604
-St James Street,910GSTJMSST,london-overground,6973,6973
 St Mary Cray,910GSTMRYC,southeastern,5073,5073
 St Mary Cray,910GSTMRYC,thameslink,5073,5073
 St Pancras International,910GSTPADOM,thameslink,1555,1555
@@ -1245,11 +1245,11 @@ Staines,910GSTAINES,south-western-railway,5670,5670
 Stamford Brook,940GZZLUSFB,district,713,713
 Stamford Hill,910GSTMFDHL,greater-anglia,6968,6968
 Stamford Hill,910GSTMFDHL,weaver,6968,6968
+Stamford Hill,910GSTMFDHL,london-overground,6968,6968
 Stanford-le-Hope,910GSLEHOPE,c2c,7458,7458
 Stanmore,940GZZLUSTM,jubilee,714,714
 Stansted Airport,910GSTANAIR,cross-country,6834,6834
 Stansted Airport,910GSTANAIR,greater-anglia,6834,6834
-Stamford Hill,910GSTMFDHL,london-overground,6968,6968
 Stansted Mountfitchet,910GSTANMFC,greater-anglia,6833,6833
 Star Lane,940GZZDLSTL,dlr,889,889
 Stepney Green,940GZZLUSGN,district,715,715
@@ -1263,19 +1263,20 @@ Stockwell,940GZZLUSKW,victoria,716,716
 Stoke Mandeville,910GSTKM,chiltern-railways,1467,1467
 Stoke Newington,910GSTKNWNG,greater-anglia,6934,6934
 Stoke Newington,910GSTKNWNG,weaver,6934,6934
+Stoke Newington,910GSTKNWNG,london-overground,6934,6934
 Stone Crossing,910GSTCR,southeastern,5248,5248
 Stonebridge Park,940GZZLUSGP,bakerloo,717,717
 Stonebridge Park,910GSTNBGPK,lioness,1454,717
-Stoneleigh,910GSTLEIGH,south-western-railway,5606,5606
-Stoke Newington,910GSTKNWNG,london-overground,6934,6934
-Stratford,940GZZDLSTD,dlr,719,719
-Stratford,940GZZLUSTD,central,719,719
-Stratford,940GZZLUSTD,jubilee,719,719
-Stratford,910GSTFD,c2c,6969,719
 Stonebridge Park,910GSTNBGPK,london-overground,1454,717
-Stratford,910GSTFD,elizabeth,6969,719
-Stratford,910GSTFD,greater-anglia,6969,719
-Stratford,910GSTFD,mildmay,6969,719
+Stoneleigh,910GSTLEIGH,south-western-railway,5606,5606
+Stratford,940GZZDLSTD,dlr,719,"719, 6960, 6969"
+Stratford,940GZZLUSTD,central,719,"719, 6960, 6970"
+Stratford,940GZZLUSTD,jubilee,719,"719, 6960, 6971"
+Stratford,910GSTFD,c2c,6969,"719, 6960, 6972"
+Stratford,910GSTFD,elizabeth,6969,"719, 6960, 6973"
+Stratford,910GSTFD,greater-anglia,6969,"719, 6960, 6974"
+Stratford,910GSTFD,mildmay,6969,"719, 6960, 6975"
+Stratford,910GSTFD,london-overground,6969,"719, 6960, 6976"
 Stratford High Street,940GZZDLSHS,dlr,749,749
 Stratford International,940GZZDLSIT,dlr,504,504
 Stratford International HS1,910GSTFODOM,southeastern,7222,7222
@@ -1283,7 +1284,6 @@ Strawberry Hill,910GSTRWBYH,south-western-railway,5607,5607
 Streatham,910GSTRETHM,southern,5383,5383
 Streatham,910GSTRETHM,thameslink,5383,5383
 Streatham Common,910GSTRHCOM,southern,5384,5384
-Stratford,910GSTFD,london-overground,6969,719
 Streatham Hill,910GSTRHILL,southern,5435,5435
 Strood,910GSTROOD,thameslink,5191,5191
 Sudbury & Harrow Road,910GSDBRYHR,chiltern-railways,1483,1483
@@ -1296,38 +1296,38 @@ Sunningdale,910GSUNNGDL,south-western-railway,5671,5671
 Sunnymeads,910GSUNYMDS,south-western-railway,5675,5675
 Surbiton,910GSURBITN,south-western-railway,5571,5571
 Surrey Quays,910GSURREYQ,windrush,1083,1083
+Surrey Quays,910GSURREYQ,london-overground,1083,1083
 Sutton Common,910GSUTTONC,thameslink,5436,5436
 Sutton Surrey,910GSUTTON,southern,5385,5385
 Sutton Surrey,910GSUTTON,thameslink,5385,5385
 Swanley,910GSWLY,southeastern,5075,5075
-Surrey Quays,910GSURREYQ,london-overground,1083,1083
 Swanley,910GSWLY,thameslink,5075,5075
 Swanscombe,910GSWNSCMB,southeastern,5156,5156
 Swanscombe,910GSWNSCMB,thameslink,5156,5156
 Swiss Cottage,940GZZLUSWC,jubilee,723,723
 Sydenham,910GSYDENHM,southern,5437,5437
 Sydenham,910GSYDENHM,windrush,5437,5437
+Sydenham,910GSYDENHM,london-overground,5437,5437
 Sydenham Hill,9100SYDNHMH0,thameslink,5085,5085
 Sydenham Hill,910GSYDNHMH,southeastern,5085,5085
 Sydenham Hill,910GSYDNHMH,thameslink,5085,5085
-Sydenham,910GSYDENHM,london-overground,5437,5437
 Syon Lane,910GSYONLA,south-western-railway,5609,5609
 Tadworth,910GTADWTH,southern,5386,5386
 Taplow,910GTAPLOW,elizabeth,3151,3151
 Taplow,910GTAPLOW,great-western-railway,3151,3151
+Taplow,910GTAPLOW,tfl-rail,3151,3151
 Tattenham Corner,910GTATNHMC,southern,5387,5387
 Teddington,910GTEDNGTN,south-western-railway,5572,5572
 Temple,940GZZLUTMP,circle,724,724
 Temple,940GZZLUTMP,district,724,724
 Thames Ditton,910GTDITTON,south-western-railway,5610,5610
-Taplow,910GTAPLOW,tfl-rail,3151,3151
 Theobalds Grove,910GTHBLDSG,greater-anglia,6949,6949
 Theobalds Grove,910GTHBLDSG,weaver,6949,6949
+Theobalds Grove,910GTHBLDSG,london-overground,6949,6949
 Theydon Bois,940GZZLUTHB,central,725,725
 Thornton Heath,910GTHTH,southern,5388,5388
 Thorpe Bay,910GTHOPBAY,c2c,7460,7460
 Tilbury Town,910GTLBYTWN,c2c,7462,7462
-Theobalds Grove,910GTHBLDSG,london-overground,6949,6949
 Tolworth,910GTOLWTH,south-western-railway,5573,5573
 Tonbridge,910GTONBDG,southeastern,5229,5229
 Tonbridge,910GTONBDG,southern,5229,5229
@@ -1337,19 +1337,19 @@ Tooting Bec,940GZZLUTBC,northern,726,726
 Tooting Broadway,940GZZLUTBY,northern,727,727
 Tottenham Court Road,940GZZLUTCR,central,728,728
 Tottenham Court Road,940GZZLUTCR,northern,728,728
-Tottenham Court Road,9100TOTCTRD,elizabeth,728,728
-Tottenham Court Road,9100TOTCTRD0,elizabeth,728,728
-Tottenham Court Road,9100TOTCTRD1,elizabeth,728,728
-Tottenham Court Road,910GTOTCTRD,elizabeth,728,728
+Tottenham Court Road,9100TOTCTRD,elizabeth,6556,728
+Tottenham Court Road,9100TOTCTRD0,elizabeth,6556,728
+Tottenham Court Road,9100TOTCTRD1,elizabeth,6556,728
+Tottenham Court Road,910GTOTCTRD,elizabeth,6556,728
+Tottenham Court Road,9100TOTCTRD,tfl-rail,6556,728
+Tottenham Court Road,9100TOTCTRD0,tfl-rail,6556,728
+Tottenham Court Road,9100TOTCTRD1,tfl-rail,6556,728
+Tottenham Court Road,910GTOTCTRD,tfl-rail,6556,728
 Tottenham Hale,940GZZLUTMH,victoria,729,729
 Tottenham Hale,910GTTNHMHL,greater-anglia,6951,6951
-Tottenham Court Road,9100TOTCTRD,tfl-rail,728,728
 Totteridge,940GZZLUTAW,northern,730,730
-Tottenham Court Road,9100TOTCTRD0,tfl-rail,728,728
 Tower Gateway,940GZZDLTWG,dlr,864,864
-Tottenham Court Road,9100TOTCTRD1,tfl-rail,728,728
 Tower Hill,940GZZLUTWH,circle,731,731
-Tottenham Court Road,910GTOTCTRD,tfl-rail,728,728
 Tower Hill,940GZZLUTWH,district,731,731
 Tring,910GTRING,west-midlands-trains,1393,1393
 Tufnell Park,940GZZLUTFP,northern,733,733
@@ -1359,78 +1359,77 @@ Tulse Hill,910GTULSEH,thameslink,5390,5390
 Tunbridge Wells,910GTUNWELL,southeastern,5230,5230
 Turkey Street,910GTURKYST,greater-anglia,6952,6952
 Turkey Street,910GTURKYST,weaver,6952,6952
+Turkey Street,910GTURKYST,london-overground,6952,6952
 Turnham Green,940GZZLUTNG,district,734,734
 Turnham Green,940GZZLUTNG,piccadilly,734,734
 Turnpike Lane,940GZZLUTPN,piccadilly,735,735
 Twickenham,910GTWCKNHM,south-western-railway,5574,5574
-Turkey Street,910GTURKYST,london-overground,6952,6952
 Twyford,910GTWYFORD,elizabeth,3155,3155
 Twyford,910GTWYFORD,great-western-railway,3155,3155
+Twyford,910GTWYFORD,tfl-rail,3155,3155
 Upminster,940GZZLUUPM,district,7464,7464
 Upminster,910GUPMNSTR,c2c,7464,7464
+Upminster,910GUPMNSTR,liberty,7464,7464
 Upminster Bridge,940GZZLUUPB,district,737,737
 Upney,940GZZLUUPY,district,738,738
 Upper Halliford,910GUHALIFD,south-western-railway,5613,5613
-Twyford,910GTWYFORD,tfl-rail,3155,3155
 Upper Holloway,910GUPRHLWY,suffragette,1524,1524
+Upper Holloway,910GUPRHLWY,london-overground,1524,1524
 Upper Warlingham,910GUWRLNGH,southern,5391,5391
 Upper Warlingham,910GUWRLNGH,thameslink,5391,5391
-Upminster,910GUPMNSTR,liberty,7464,7464
 Upton Park,940GZZLUUPK,district,739,739
 Upton Park,940GZZLUUPK,hammersmith-city,739,739
-Upper Holloway,910GUPRHLWY,london-overground,1524,1524
 Uxbridge,940GZZLUUXB,metropolitan,740,740
 Uxbridge,940GZZLUUXB,piccadilly,740,740
 Vauxhall,940GZZLUVXL,victoria,777,777
 Vauxhall,910GVAUXHLM,south-western-railway,5597,5597
+Victoria,940GZZLUVIC,circle,741,741
+Victoria,940GZZLUVIC,victoria,741,741
+Victoria,940GZZLUVIC,district,741,"741, 722"
+Victoria,910GVICTRIC,southeastern,5426,"5426, 8558"
+Victoria,910GVICTRIC,southern,5426,"5426, 8558"
 Victoria,9100VICTRIE0,gatwick-express,5449,5449
 Victoria,9100VICTRIE0,thameslink,5449,5449
 Victoria,910GVICTRIC,gatwick-express,5449,5449
 Victoria,910GVICTRIC,thameslink,5449,5449
-Victoria,940GZZLUVIC,circle,741,741
-Victoria,940GZZLUVIC,district,741,741
-Victoria,940GZZLUVIC,victoria,741,741
-Victoria,910GVICTRIC,southeastern,5426,5426
-Victoria,910GVICTRIC,southern,5426,5426
 Virginia Water,910GVRGNWTR,south-western-railway,5676,5676
 Waddon,910GWADDON,southern,5392,5392
-West Hampstead,910GWHMDSTD,london-overground,1421,1421
 Wallington,910GWALNGTN,southern,5394,5394
 Waltham Cross,910GWALHAMX,greater-anglia,6823,6823
-Walthamstow Central,940GZZLUWWL,victoria,742,742
-Walthamstow Central,910GWLTWCEN,weaver,6953,6953
+Walthamstow Central,940GZZLUWWL,victoria,742,"742, 6953"
+Walthamstow Central,910GWLTWCEN,weaver,6953,"742, 6953"
+Walthamstow Central,910GWLTWCEN,london-overground,6953,"742, 6953"
 Walthamstow Queens Road,910GWLTHQRD,suffragette,7407,7407
-Walton-on-Thames,910GWONT,south-western-railway,5575,5575
-Walthamstow Central,910GWLTWCEN,london-overground,6953,6953
-Wandsworth Common,910GWANDCMN,southern,5395,5395
 Walthamstow Queens Road,910GWLTHQRD,london-overground,7407,7407
+Walton-on-Thames,910GWONT,south-western-railway,5575,5575
+Wandsworth Common,910GWANDCMN,southern,5395,5395
 Wandsworth Road,9100WNDSWRD1,southeastern,5372,5372
 Wandsworth Road,9100WNDSWRD2,southeastern,5372,5372
 Wandsworth Road,910GWNDSWRD,southeastern,5372,5372
 Wandsworth Road,910GWNDSWRD,windrush,5372,5372
-Wandsworth Town,910GWDWTOWN,south-western-railway,5576,5576
 Wandsworth Road,910GWNDSWRD,london-overground,5372,5372
+Wandsworth Town,910GWDWTOWN,south-western-railway,5576,5576
 Wanstead,940GZZLUWSD,central,743,743
 Wanstead Park,910GWNSTDPK,suffragette,7408,7408
-Wapping,910GWAPPING,windrush,1085,1085
-Ware,910GWARE,greater-anglia,6824,6824
 Wanstead Park,910GWNSTDPK,london-overground,7408,7408
-Wargrave,9100WARGRAV0,great-western-railway,3158,3158
+Wapping,910GWAPPING,windrush,1085,1085
 Wapping,910GWAPPING,london-overground,1085,1085
+Ware,910GWARE,greater-anglia,6824,6824
+Wargrave,9100WARGRAV0,great-western-railway,3158,3158
 Wargrave,910GWARGRAV,great-western-railway,3158,3158
 Warren Street,940GZZLUWRR,northern,745,745
 Warren Street,940GZZLUWRR,victoria,745,745
 Warwick Avenue,940GZZLUWKA,bakerloo,746,746
-Waterloo,910GWATRLMN,south-western-railway,5598,5598
-Waterloo,940GZZLUWLO,bakerloo,747,747
-Waterloo,940GZZLUWLO,jubilee,747,747
-Waterloo,940GZZLUWLO,northern,747,747
-Waterloo,940GZZLUWLO,waterloo-city,747,747
-Waterloo East,910GWLOE,southeastern,5158,5158
+Waterloo,940GZZLUWLO,bakerloo,747,"747, 796"
+Waterloo,940GZZLUWLO,jubilee,747,"747, 796"
+Waterloo,940GZZLUWLO,northern,747,"747, 796"
+Waterloo,940GZZLUWLO,waterloo-city,747,"747, 796"
+Waterloo,910GWATRLMN,south-western-railway,5598,"5598, 8909, 5465"
+Waterloo East,910GWLOE,southeastern,5158,"5158, 784"
 Watford High Street,910GWATFDHS,lioness,1455,1455
+Watford High Street,910GWATFDHS,london-overground,1455,1455
 Watford Junction,9100WATFDJ1,london-midland,1402,1402
 Watford Junction,9100WATFDJ2,london-midland,1402,1402
-Watford High Street,910GWATFDHS,london-overground,1455,1455
 Watford Junction,9100WATFJDC0,london-midland,1402,1402
 Watford Junction,9100WATFJDC0,west-midlands-trains,1402,1402
 Watford Junction,910GWATFDJ,lioness,1402,1402
@@ -1444,7 +1443,7 @@ Watford Junction,910GWATFJDC,southern,1402,1402
 Watford Junction,910GWATFJDC,virgin-trains,1402,1402
 Watford Junction,910GWATFJDC,london-overground,1402,1402
 Watford Junction,910GWATFJDC,west-midlands-trains,1402,1402
-Watford Met,940GZZLUWAF,metropolitan,748,748
+Watford,940GZZLUWAF,metropolitan,748,748
 Watford North,910GWATFDN,west-midlands-trains,1403,1403
 Watton-at-Stone,910GWATONAS,great-northern,6095,6095
 Welham Green,910GWELHAMG,great-northern,6073,6073
@@ -1475,25 +1474,26 @@ West Croydon,910GWCROYDN,london-overground,5411,5411
 West Drayton,9100WDRYTON0,elizabeth,3174,3174
 West Drayton,910GWDRYTON,elizabeth,3174,3174
 West Drayton,910GWDRYTON,great-western-railway,3174,3174
+West Drayton,910GWDRYTON,tfl-rail,3174,3174
 West Dulwich,9100WDULWCH0,thameslink,5086,5086
 West Dulwich,910GWDULWCH,southeastern,5086,5086
-West Drayton,910GWDRYTON,tfl-rail,3174,3174
 West Dulwich,910GWDULWCH,thameslink,5086,5086
 West Ealing,9100WEALING0,chiltern-railways,3188,3188
 West Ealing,9100WEALING0,elizabeth,3188,3188
 West Ealing,910GWEALING,chiltern-railways,3188,3188
 West Ealing,910GWEALING,elizabeth,3188,3188
 West Ealing,910GWEALING,great-western-railway,3188,3188
+West Ealing,910GWEALING,tfl-rail,3188,3188
 West Finchley,940GZZLUWFN,northern,756,756
 West Ham,940GZZDLWHM,dlr,757,757
-West Ealing,910GWEALING,tfl-rail,3188,3188
 West Ham,940GZZLUWHM,district,757,757
 West Ham,940GZZLUWHM,hammersmith-city,757,757
 West Ham,940GZZLUWHM,jubilee,757,757
 West Ham,910GWHAMHL,c2c,7474,757
+West Hampstead,940GZZLUWHP,jubilee,758,758
+West Hampstead,910GWHMDSTD,london-overground,1421,1421
 West Hampstead,910GWHMDSTD,mildmay,1421,1421
 West Hampstead,910GWHMPSTM,thameslink,1525,1525
-West Hampstead,940GZZLUWHP,jubilee,758,758
 West Harrow,940GZZLUWHW,metropolitan,759,759
 West Horndon,910GWHORNDN,c2c,7466,7466
 West India Quay,940GZZDLWIQ,dlr,866,866
@@ -1524,10 +1524,10 @@ White Hart Lane,910GWHHRTLA,weaver,6956,6956
 Whitechapel,9100WCHAPEL1,elizabeth,763,763
 Whitechapel,9100WCHAPEL2,elizabeth,763,763
 Whitechapel,910GWCHAPEL,elizabeth,763,763
-Whitechapel,910GWCHAPEL,london-overground,763,763
-Whitechapel,910GWCHAPEL,windrush,763,763
-Whitechapel,910GWCHAPXR,elizabeth,763,763
-Whitechapel,910GWCHAPXR,tfl-rail,763,763
+Whitechapel,910GWCHAPEL,london-overground,4935,763
+Whitechapel,910GWCHAPEL,windrush,4935,763
+Whitechapel,910GWCHAPXR,elizabeth,4935,763
+Whitechapel,910GWCHAPXR,tfl-rail,4935,763
 Whitechapel,940GZZLUWPL,district,763,763
 Whitechapel,940GZZLUWPL,hammersmith-city,763,763
 Whitton,910GWHTTON,south-western-railway,5611,5611
@@ -1541,13 +1541,13 @@ Willesden Junction,940GZZLUWJN,bakerloo,1457,1457
 Willesden Junction,910GWLSDJHL,lioness,1457,1457
 Willesden Junction,910GWLSDJHL,london-overground,1457,1457
 Willesden Junction,910GWLSDJHL,mildmay,1457,1457
-Wimbledon,940GZZLUWIM,district,5578,5578
-Wimbledon,910GWDON,southern,5578,5578
-Wimbledon,910GWDON,south-western-railway,5578,5578
-Wimbledon,910GWDON,thameslink,5578,5578
-Wimbledon,910GWIMBLDN,southern,5578,5578
-Wimbledon,910GWIMBLDN,south-western-railway,5578,5578
-Wimbledon,910GWIMBLDN,thameslink,5578,5578
+Wimbledon,940GZZLUWIM,district,5578,"5578, 8777"
+Wimbledon,910GWDON,southern,5578,"5578, 8777"
+Wimbledon,910GWDON,south-western-railway,5578,"5578, 8777"
+Wimbledon,910GWDON,thameslink,5578,"5578, 8777"
+Wimbledon,910GWIMBLDN,southern,5578,"5578, 8777"
+Wimbledon,910GWIMBLDN,south-western-railway,5578,"5578, 8777"
+Wimbledon,910GWIMBLDN,thameslink,5578,"5578, 8777"
 Wimbledon Chase,910GWIMLCHS,southern,5612,5612
 Wimbledon Chase,910GWIMLCHS,thameslink,5612,5612
 Wimbledon Park,940GZZLUWIP,district,768,768
@@ -1577,16 +1577,16 @@ Woodside Park,940GZZLUWOP,northern,771,771
 Woolwich,9100WOLWXR0,elizabeth,6562,6562
 Woolwich,9100WOLWXR1,elizabeth,6562,6562
 Woolwich,910GWOLWXR,elizabeth,6562,6562
-Woolwich Arsenal,940GZZDLWLA,dlr,573,573
-Woolwich Arsenal,9100WOLWCHA0,thameslink,5152,5152
-Woolwich Arsenal,9100WOLWCHA2,thameslink,5152,5152
-Woolwich Arsenal,910GWOLWCHA,southeastern,5152,5152
-Woolwich Arsenal,910GWOLWCHA,thameslink,5152,5152
-Woolwich Dockyard,9100WOLWCDY0,thameslink,5153,5153
 Woolwich,9100WOLWXR0,tfl-rail,6562,6562
+Woolwich,910GWOLWXR,tfl-rail,6562,6562
+Woolwich Arsenal,940GZZDLWLA,dlr,573,"5152, 573"
+Woolwich Arsenal,9100WOLWCHA0,thameslink,5152,"5152, 573"
+Woolwich Arsenal,9100WOLWCHA2,thameslink,5152,"5152, 573"
+Woolwich Arsenal,910GWOLWCHA,southeastern,5152,"5152, 573"
+Woolwich Arsenal,910GWOLWCHA,thameslink,5152,"5152, 573"
+Woolwich Dockyard,9100WOLWCDY0,thameslink,5153,5153
 Woolwich Dockyard,910GWOLWCDY,southeastern,5153,5153
 Woolwich Dockyard,910GWOLWCDY,thameslink,5153,5153
-Woolwich,910GWOLWXR,tfl-rail,6562,6562
 Worcester Park,910GWRCSTRP,south-western-railway,5579,5579
 Worplesdon,910GWRPLSDN,south-western-railway,5686,5686
 Wraysbury,910GWRYSBRY,south-western-railway,5673,5673
