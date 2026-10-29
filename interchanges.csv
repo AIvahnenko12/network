@@ -1,0 +1,1235 @@
+From_Node_ID,To_Node_ID,Shared_Gate_NLCs,Interchange_Time_Mins,Interchange_Type
+abbey wood_elizabeth_5131,abbey wood_southeastern_5131,[5131],2.0,Behind Barrier
+abbey wood_southeastern_5131,abbey wood_elizabeth_5131,[5131],2.0,Behind Barrier
+abbey wood_elizabeth_5131,abbey wood_thameslink_5131,[5131],2.0,Behind Barrier
+abbey wood_thameslink_5131,abbey wood_elizabeth_5131,[5131],2.0,Behind Barrier
+abbey wood_southeastern_5131,abbey wood_thameslink_5131,[5131],2.0,Behind Barrier
+abbey wood_thameslink_5131,abbey wood_southeastern_5131,[5131],2.0,Behind Barrier
+acton main line_elizabeth_3000,acton main line_great-western-railway_3000,[3000],2.0,Behind Barrier
+acton main line_great-western-railway_3000,acton main line_elizabeth_3000,[3000],2.0,Behind Barrier
+acton town_district_500,acton town_piccadilly_500,[500],2.0,Behind Barrier
+acton town_piccadilly_500,acton town_district_500,[500],2.0,Behind Barrier
+aldgate east_district_503,aldgate east_hammersmith-city_503,[503],2.0,Behind Barrier
+aldgate east_hammersmith-city_503,aldgate east_district_503,[503],2.0,Behind Barrier
+aldgate_circle_502,aldgate_metropolitan_502,[502],2.0,Behind Barrier
+aldgate_metropolitan_502,aldgate_circle_502,[502],2.0,Behind Barrier
+alexandra palace_great-northern_6025,alexandra palace_thameslink_6025,[6025],2.0,Behind Barrier
+alexandra palace_thameslink_6025,alexandra palace_great-northern_6025,[6025],2.0,Behind Barrier
+amersham_chiltern-railways_506,amersham_metropolitan_506,[506],2.0,Behind Barrier
+amersham_metropolitan_506,amersham_chiltern-railways_506,[506],2.0,Behind Barrier
+anerley_southern_5397,anerley_windrush_5397,[5397],2.0,Behind Barrier
+anerley_windrush_5397,anerley_southern_5397,[5397],2.0,Behind Barrier
+ashtead_south-western-railway_5347,ashtead_southern_5347,[5347],2.0,Behind Barrier
+ashtead_southern_5347,ashtead_south-western-railway_5347,[5347],2.0,Behind Barrier
+baker street_bakerloo_511,baker street_circle_511,[511],2.0,Behind Barrier
+baker street_circle_511,baker street_bakerloo_511,[511],2.0,Behind Barrier
+baker street_bakerloo_511,baker street_hammersmith-city_511,[511],2.0,Behind Barrier
+baker street_hammersmith-city_511,baker street_bakerloo_511,[511],2.0,Behind Barrier
+baker street_bakerloo_511,baker street_jubilee_511,[511],2.0,Behind Barrier
+baker street_jubilee_511,baker street_bakerloo_511,[511],2.0,Behind Barrier
+baker street_bakerloo_511,baker street_metropolitan_511,[511],2.0,Behind Barrier
+baker street_metropolitan_511,baker street_bakerloo_511,[511],2.0,Behind Barrier
+baker street_circle_511,baker street_hammersmith-city_511,[511],2.0,Behind Barrier
+baker street_hammersmith-city_511,baker street_circle_511,[511],2.0,Behind Barrier
+baker street_circle_511,baker street_jubilee_511,[511],2.0,Behind Barrier
+baker street_jubilee_511,baker street_circle_511,[511],2.0,Behind Barrier
+baker street_circle_511,baker street_metropolitan_511,[511],2.0,Behind Barrier
+baker street_metropolitan_511,baker street_circle_511,[511],2.0,Behind Barrier
+baker street_hammersmith-city_511,baker street_jubilee_511,[511],2.0,Behind Barrier
+baker street_jubilee_511,baker street_hammersmith-city_511,[511],2.0,Behind Barrier
+baker street_hammersmith-city_511,baker street_metropolitan_511,[511],2.0,Behind Barrier
+baker street_metropolitan_511,baker street_hammersmith-city_511,[511],2.0,Behind Barrier
+baker street_jubilee_511,baker street_metropolitan_511,[511],2.0,Behind Barrier
+baker street_metropolitan_511,baker street_jubilee_511,[511],2.0,Behind Barrier
+baldock_great-northern_6084,baldock_thameslink_6084,[6084],2.0,Behind Barrier
+baldock_thameslink_6084,baldock_great-northern_6084,[6084],2.0,Behind Barrier
+bank_central_513,bank_dlr_513,[513],2.0,Behind Barrier
+bank_dlr_513,bank_central_513,[513],2.0,Behind Barrier
+bank_central_513,bank_northern_513,[513],2.0,Behind Barrier
+bank_northern_513,bank_central_513,[513],2.0,Behind Barrier
+bank_central_513,bank_waterloo-city_513,[513],2.0,Behind Barrier
+bank_waterloo-city_513,bank_central_513,[513],2.0,Behind Barrier
+bank_dlr_513,bank_northern_513,[513],2.0,Behind Barrier
+bank_northern_513,bank_dlr_513,[513],2.0,Behind Barrier
+bank_dlr_513,bank_waterloo-city_513,[513],2.0,Behind Barrier
+bank_waterloo-city_513,bank_dlr_513,[513],2.0,Behind Barrier
+bank_northern_513,bank_waterloo-city_513,[513],2.0,Behind Barrier
+bank_waterloo-city_513,bank_northern_513,[513],2.0,Behind Barrier
+"barbican_circle_501, 577","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_circle_501, 577","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","barbican_circle_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_hammersmith-city_501, 577","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","barbican_hammersmith-city_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+"barbican_metropolitan_501, 577","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","barbican_metropolitan_501, 577","[577, 501]",2.0,Behind Barrier
+barking_c2c_514,barking_district_514,[514],2.0,Behind Barrier
+barking_district_514,barking_c2c_514,[514],2.0,Behind Barrier
+barking_c2c_514,barking_hammersmith-city_514,[514],2.0,Behind Barrier
+barking_hammersmith-city_514,barking_c2c_514,[514],2.0,Behind Barrier
+barking_c2c_514,barking_suffragette_514,[514],2.0,Behind Barrier
+barking_suffragette_514,barking_c2c_514,[514],2.0,Behind Barrier
+barking_district_514,barking_hammersmith-city_514,[514],2.0,Behind Barrier
+barking_hammersmith-city_514,barking_district_514,[514],2.0,Behind Barrier
+barking_district_514,barking_suffragette_514,[514],2.0,Behind Barrier
+barking_suffragette_514,barking_district_514,[514],2.0,Behind Barrier
+barking_hammersmith-city_514,barking_suffragette_514,[514],2.0,Behind Barrier
+barking_suffragette_514,barking_hammersmith-city_514,[514],2.0,Behind Barrier
+barons court_district_516,barons court_piccadilly_516,[516],2.0,Behind Barrier
+barons court_piccadilly_516,barons court_district_516,[516],2.0,Behind Barrier
+bat and ball_southeastern_5090,bat and ball_thameslink_5090,[5090],2.0,Behind Barrier
+bat and ball_thameslink_5090,bat and ball_southeastern_5090,[5090],2.0,Behind Barrier
+battersea park_southern_5420,battersea park_windrush_5420,[5420],2.0,Behind Barrier
+battersea park_windrush_5420,battersea park_southern_5420,[5420],2.0,Behind Barrier
+bayswater_circle_517,bayswater_district_517,[517],2.0,Behind Barrier
+bayswater_district_517,bayswater_circle_517,[517],2.0,Behind Barrier
+beckenham hill_southeastern_5076,beckenham hill_thameslink_5076,[5076],2.0,Behind Barrier
+beckenham hill_thameslink_5076,beckenham hill_southeastern_5076,[5076],2.0,Behind Barrier
+beckenham junction_southeastern_5046,beckenham junction_southern_5046,[5046],2.0,Behind Barrier
+beckenham junction_southern_5046,beckenham junction_southeastern_5046,[5046],2.0,Behind Barrier
+beckenham junction_southeastern_5046,beckenham junction_thameslink_5046,[5046],2.0,Behind Barrier
+beckenham junction_thameslink_5046,beckenham junction_southeastern_5046,[5046],2.0,Behind Barrier
+beckenham junction_southern_5046,beckenham junction_thameslink_5046,[5046],2.0,Behind Barrier
+beckenham junction_thameslink_5046,beckenham junction_southern_5046,[5046],2.0,Behind Barrier
+bellingham_southeastern_5062,bellingham_thameslink_5062,[5062],2.0,Behind Barrier
+bellingham_thameslink_5062,bellingham_southeastern_5062,[5062],2.0,Behind Barrier
+belvedere_southeastern_5092,belvedere_thameslink_5092,[5092],2.0,Behind Barrier
+belvedere_thameslink_5092,belvedere_southeastern_5092,[5092],2.0,Behind Barrier
+bethnal green_greater-anglia_6961,bethnal green_weaver_6961,[6961],2.0,Behind Barrier
+bethnal green_weaver_6961,bethnal green_greater-anglia_6961,[6961],2.0,Behind Barrier
+bickley_southeastern_5063,bickley_thameslink_5063,[5063],2.0,Behind Barrier
+bickley_thameslink_5063,bickley_southeastern_5063,[5063],2.0,Behind Barrier
+blackfriars_circle_521,blackfriars_district_521,[521],2.0,Behind Barrier
+blackfriars_district_521,blackfriars_circle_521,[521],2.0,Behind Barrier
+blackfriars_southeastern_5112,blackfriars_thameslink_5112,[5112],2.0,Behind Barrier
+blackfriars_thameslink_5112,blackfriars_southeastern_5112,[5112],2.0,Behind Barrier
+blackhorse road_suffragette_522,blackhorse road_victoria_522,[522],2.0,Behind Barrier
+blackhorse road_victoria_522,blackhorse road_suffragette_522,[522],2.0,Behind Barrier
+bond street_central_524,bond street_elizabeth_524,[524],2.0,Behind Barrier
+bond street_elizabeth_524,bond street_central_524,[524],2.0,Behind Barrier
+bond street_central_524,bond street_jubilee_524,[524],2.0,Behind Barrier
+bond street_jubilee_524,bond street_central_524,[524],2.0,Behind Barrier
+bond street_elizabeth_524,bond street_jubilee_524,[524],2.0,Behind Barrier
+bond street_jubilee_524,bond street_elizabeth_524,[524],2.0,Behind Barrier
+bow road_district_528,bow road_hammersmith-city_528,[528],2.0,Behind Barrier
+bow road_hammersmith-city_528,bow road_district_528,[528],2.0,Behind Barrier
+box hill and westhumble_south-western-railway_5403,box hill and westhumble_southern_5403,[5403],2.0,Behind Barrier
+box hill and westhumble_southern_5403,box hill and westhumble_south-western-railway_5403,[5403],2.0,Behind Barrier
+brentwood_elizabeth_6872,brentwood_greater-anglia_6872,[6872],2.0,Behind Barrier
+brentwood_greater-anglia_6872,brentwood_elizabeth_6872,[6872],2.0,Behind Barrier
+brockley_southern_5404,brockley_windrush_5404,[5404],2.0,Behind Barrier
+brockley_windrush_5404,brockley_southern_5404,[5404],2.0,Behind Barrier
+bromley by bow_district_530,bromley by bow_hammersmith-city_530,[530],2.0,Behind Barrier
+bromley by bow_hammersmith-city_530,bromley by bow_district_530,[530],2.0,Behind Barrier
+bromley south_southeastern_5064,bromley south_thameslink_5064,[5064],2.0,Behind Barrier
+bromley south_thameslink_5064,bromley south_southeastern_5064,[5064],2.0,Behind Barrier
+brookmans park_great-northern_6074,brookmans park_thameslink_6074,[6074],2.0,Behind Barrier
+brookmans park_thameslink_6074,brookmans park_great-northern_6074,[6074],2.0,Behind Barrier
+bruce grove_greater-anglia_6958,bruce grove_weaver_6958,[6958],2.0,Behind Barrier
+bruce grove_weaver_6958,bruce grove_greater-anglia_6958,[6958],2.0,Behind Barrier
+burnham bucks_elizabeth_3176,burnham bucks_great-western-railway_3176,[3176],2.0,Behind Barrier
+burnham bucks_great-western-railway_3176,burnham bucks_elizabeth_3176,[3176],2.0,Behind Barrier
+bushey_london-midland_1395,bushey_southern_1395,[1395],2.0,Behind Barrier
+bushey_southern_1395,bushey_london-midland_1395,[1395],2.0,Behind Barrier
+bushey_london-midland_1395,bushey_west-midlands-trains_1395,[1395],2.0,Behind Barrier
+bushey_west-midlands-trains_1395,bushey_london-midland_1395,[1395],2.0,Behind Barrier
+bushey_southern_1395,bushey_west-midlands-trains_1395,[1395],2.0,Behind Barrier
+bushey_west-midlands-trains_1395,bushey_southern_1395,[1395],2.0,Behind Barrier
+cambridge heath_greater-anglia_6962,cambridge heath_weaver_6962,[6962],2.0,Behind Barrier
+cambridge heath_weaver_6962,cambridge heath_greater-anglia_6962,[6962],2.0,Behind Barrier
+canada water_jubilee_788,canada water_windrush_788,[788],2.0,Behind Barrier
+canada water_windrush_788,canada water_jubilee_788,[788],2.0,Behind Barrier
+canning town_dlr_884,canning town_jubilee_884,[884],2.0,Behind Barrier
+canning town_jubilee_884,canning town_dlr_884,[884],2.0,Behind Barrier
+cannon street_circle_536,cannon street_district_536,[536],2.0,Behind Barrier
+cannon street_district_536,cannon street_circle_536,[536],2.0,Behind Barrier
+canonbury_mildmay_1441,canonbury_windrush_1441,[1441],2.0,Behind Barrier
+canonbury_windrush_1441,canonbury_mildmay_1441,[1441],2.0,Behind Barrier
+carshalton_southern_5405,carshalton_thameslink_5405,[5405],2.0,Behind Barrier
+carshalton_thameslink_5405,carshalton_southern_5405,[5405],2.0,Behind Barrier
+catford_southeastern_5077,catford_thameslink_5077,[5077],2.0,Behind Barrier
+catford_thameslink_5077,catford_southeastern_5077,[5077],2.0,Behind Barrier
+chadwell heath_elizabeth_6874,chadwell heath_greater-anglia_6874,[6874],2.0,Behind Barrier
+chadwell heath_greater-anglia_6874,chadwell heath_elizabeth_6874,[6874],2.0,Behind Barrier
+chalfont & latimer_chiltern-railways_539,chalfont & latimer_metropolitan_539,[539],2.0,Behind Barrier
+chalfont & latimer_metropolitan_539,chalfont & latimer_chiltern-railways_539,[539],2.0,Behind Barrier
+charing cross_bakerloo_732,charing cross_northern_732,[732],2.0,Behind Barrier
+charing cross_northern_732,charing cross_bakerloo_732,[732],2.0,Behind Barrier
+charlton_southeastern_5144,charlton_thameslink_5144,[5144],2.0,Behind Barrier
+charlton_thameslink_5144,charlton_southeastern_5144,[5144],2.0,Behind Barrier
+cheshunt_greater-anglia_6814,cheshunt_weaver_6814,[6814],2.0,Behind Barrier
+cheshunt_weaver_6814,cheshunt_greater-anglia_6814,[6814],2.0,Behind Barrier
+chorleywood_chiltern-railways_546,chorleywood_metropolitan_546,[546],2.0,Behind Barrier
+chorleywood_metropolitan_546,chorleywood_chiltern-railways_546,[546],2.0,Behind Barrier
+clapham high street_southeastern_5301,clapham high street_windrush_5301,[5301],2.0,Behind Barrier
+clapham high street_windrush_5301,clapham high street_southeastern_5301,[5301],2.0,Behind Barrier
+clapham junction_gatwick-express_5595,clapham junction_mildmay_5595,[5595],2.0,Behind Barrier
+clapham junction_mildmay_5595,clapham junction_gatwick-express_5595,[5595],2.0,Behind Barrier
+clapham junction_gatwick-express_5595,clapham junction_south-western-railway_5595,[5595],2.0,Behind Barrier
+clapham junction_south-western-railway_5595,clapham junction_gatwick-express_5595,[5595],2.0,Behind Barrier
+clapham junction_gatwick-express_5595,clapham junction_southern_5595,[5595],2.0,Behind Barrier
+clapham junction_southern_5595,clapham junction_gatwick-express_5595,[5595],2.0,Behind Barrier
+clapham junction_gatwick-express_5595,clapham junction_windrush_5595,[5595],2.0,Behind Barrier
+clapham junction_windrush_5595,clapham junction_gatwick-express_5595,[5595],2.0,Behind Barrier
+clapham junction_mildmay_5595,clapham junction_south-western-railway_5595,[5595],2.0,Behind Barrier
+clapham junction_south-western-railway_5595,clapham junction_mildmay_5595,[5595],2.0,Behind Barrier
+clapham junction_mildmay_5595,clapham junction_southern_5595,[5595],2.0,Behind Barrier
+clapham junction_southern_5595,clapham junction_mildmay_5595,[5595],2.0,Behind Barrier
+clapham junction_mildmay_5595,clapham junction_windrush_5595,[5595],2.0,Behind Barrier
+clapham junction_windrush_5595,clapham junction_mildmay_5595,[5595],2.0,Behind Barrier
+clapham junction_south-western-railway_5595,clapham junction_southern_5595,[5595],2.0,Behind Barrier
+clapham junction_southern_5595,clapham junction_south-western-railway_5595,[5595],2.0,Behind Barrier
+clapham junction_south-western-railway_5595,clapham junction_windrush_5595,[5595],2.0,Behind Barrier
+clapham junction_windrush_5595,clapham junction_south-western-railway_5595,[5595],2.0,Behind Barrier
+clapham junction_southern_5595,clapham junction_windrush_5595,[5595],2.0,Behind Barrier
+clapham junction_windrush_5595,clapham junction_southern_5595,[5595],2.0,Behind Barrier
+clapton_greater-anglia_6926,clapton_weaver_6926,[6926],2.0,Behind Barrier
+clapton_weaver_6926,clapton_greater-anglia_6926,[6926],2.0,Behind Barrier
+coulsdon south_southern_5408,coulsdon south_thameslink_5408,[5408],2.0,Behind Barrier
+coulsdon south_thameslink_5408,coulsdon south_southern_5408,[5408],2.0,Behind Barrier
+crofton park_southeastern_5078,crofton park_thameslink_5078,[5078],2.0,Behind Barrier
+crofton park_thameslink_5078,crofton park_southeastern_5078,[5078],2.0,Behind Barrier
+crystal palace_southern_5356,crystal palace_windrush_5356,[5356],2.0,Behind Barrier
+crystal palace_windrush_5356,crystal palace_southern_5356,[5356],2.0,Behind Barrier
+dartford_southeastern_5101,dartford_thameslink_5101,[5101],2.0,Behind Barrier
+dartford_thameslink_5101,dartford_southeastern_5101,[5101],2.0,Behind Barrier
+denmark hill_southeastern_5421,denmark hill_thameslink_5421,[5421],2.0,Behind Barrier
+denmark hill_thameslink_5421,denmark hill_southeastern_5421,[5421],2.0,Behind Barrier
+denmark hill_southeastern_5421,denmark hill_windrush_5421,[5421],2.0,Behind Barrier
+denmark hill_windrush_5421,denmark hill_southeastern_5421,[5421],2.0,Behind Barrier
+denmark hill_thameslink_5421,denmark hill_windrush_5421,[5421],2.0,Behind Barrier
+denmark hill_windrush_5421,denmark hill_thameslink_5421,[5421],2.0,Behind Barrier
+deptford_southeastern_5145,deptford_thameslink_5145,[5145],2.0,Behind Barrier
+deptford_thameslink_5145,deptford_southeastern_5145,[5145],2.0,Behind Barrier
+dorking_south-western-railway_5357,dorking_southern_5357,[5357],2.0,Behind Barrier
+dorking_southern_5357,dorking_south-western-railway_5357,[5357],2.0,Behind Barrier
+dormans_southern_5413,dormans_thameslink_5413,[5413],2.0,Behind Barrier
+dormans_thameslink_5413,dormans_southern_5413,[5413],2.0,Behind Barrier
+"ealing broadway_central_560, 3190","ealing broadway_district_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_district_560, 3190","ealing broadway_central_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_central_560, 3190","ealing broadway_elizabeth_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_elizabeth_560, 3190","ealing broadway_central_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_central_560, 3190","ealing broadway_great-western-railway_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_great-western-railway_560, 3190","ealing broadway_central_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_district_560, 3190","ealing broadway_elizabeth_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_elizabeth_560, 3190","ealing broadway_district_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_district_560, 3190","ealing broadway_great-western-railway_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_great-western-railway_560, 3190","ealing broadway_district_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_elizabeth_560, 3190","ealing broadway_great-western-railway_560, 3190","[560, 3190]",2.0,Behind Barrier
+"ealing broadway_great-western-railway_560, 3190","ealing broadway_elizabeth_560, 3190","[560, 3190]",2.0,Behind Barrier
+ealing common_district_561,ealing common_piccadilly_561,[561],2.0,Behind Barrier
+ealing common_piccadilly_561,ealing common_district_561,[561],2.0,Behind Barrier
+earls court_district_562,earls court_piccadilly_562,[562],2.0,Behind Barrier
+earls court_piccadilly_562,earls court_district_562,[562],2.0,Behind Barrier
+earlswood_southern_5414,earlswood_thameslink_5414,[5414],2.0,Behind Barrier
+earlswood_thameslink_5414,earlswood_southern_5414,[5414],2.0,Behind Barrier
+east croydon_gatwick-express_5355,east croydon_southern_5355,[5355],2.0,Behind Barrier
+east croydon_southern_5355,east croydon_gatwick-express_5355,[5355],2.0,Behind Barrier
+east croydon_gatwick-express_5355,east croydon_thameslink_5355,[5355],2.0,Behind Barrier
+east croydon_thameslink_5355,east croydon_gatwick-express_5355,[5355],2.0,Behind Barrier
+east croydon_southern_5355,east croydon_thameslink_5355,[5355],2.0,Behind Barrier
+east croydon_thameslink_5355,east croydon_southern_5355,[5355],2.0,Behind Barrier
+east grinstead_southern_5486,east grinstead_thameslink_5486,[5486],2.0,Behind Barrier
+east grinstead_thameslink_5486,east grinstead_southern_5486,[5486],2.0,Behind Barrier
+east ham_district_566,east ham_hammersmith-city_566,[566],2.0,Behind Barrier
+east ham_hammersmith-city_566,east ham_district_566,[566],2.0,Behind Barrier
+eastcote_metropolitan_564,eastcote_piccadilly_564,[564],2.0,Behind Barrier
+eastcote_piccadilly_564,eastcote_metropolitan_564,[564],2.0,Behind Barrier
+edgware road_circle_569,edgware road_district_569,[569],2.0,Behind Barrier
+edgware road_district_569,edgware road_circle_569,[569],2.0,Behind Barrier
+edgware road_circle_569,edgware road_hammersmith-city_569,[569],2.0,Behind Barrier
+edgware road_hammersmith-city_569,edgware road_circle_569,[569],2.0,Behind Barrier
+edgware road_district_569,edgware road_hammersmith-city_569,[569],2.0,Behind Barrier
+edgware road_hammersmith-city_569,edgware road_district_569,[569],2.0,Behind Barrier
+edmonton green_greater-anglia_6941,edmonton green_weaver_6941,[6941],2.0,Behind Barrier
+edmonton green_weaver_6941,edmonton green_greater-anglia_6941,[6941],2.0,Behind Barrier
+elephant & castle_bakerloo_570,elephant & castle_northern_570,[570],2.0,Behind Barrier
+elephant & castle_northern_570,elephant & castle_bakerloo_570,[570],2.0,Behind Barrier
+elephant & castle_southeastern_5246,elephant & castle_thameslink_5246,[5246],2.0,Behind Barrier
+elephant & castle_thameslink_5246,elephant & castle_southeastern_5246,[5246],2.0,Behind Barrier
+embankment_bakerloo_542,embankment_circle_542,[542],2.0,Behind Barrier
+embankment_circle_542,embankment_bakerloo_542,[542],2.0,Behind Barrier
+embankment_bakerloo_542,embankment_district_542,[542],2.0,Behind Barrier
+embankment_district_542,embankment_bakerloo_542,[542],2.0,Behind Barrier
+embankment_bakerloo_542,embankment_northern_542,[542],2.0,Behind Barrier
+embankment_northern_542,embankment_bakerloo_542,[542],2.0,Behind Barrier
+embankment_circle_542,embankment_district_542,[542],2.0,Behind Barrier
+embankment_district_542,embankment_circle_542,[542],2.0,Behind Barrier
+embankment_circle_542,embankment_northern_542,[542],2.0,Behind Barrier
+embankment_northern_542,embankment_circle_542,[542],2.0,Behind Barrier
+embankment_district_542,embankment_northern_542,[542],2.0,Behind Barrier
+embankment_northern_542,embankment_district_542,[542],2.0,Behind Barrier
+epsom_south-western-railway_5360,epsom_southern_5360,[5360],2.0,Behind Barrier
+epsom_southern_5360,epsom_south-western-railway_5360,[5360],2.0,Behind Barrier
+erith_southeastern_5104,erith_thameslink_5104,[5104],2.0,Behind Barrier
+erith_thameslink_5104,erith_southeastern_5104,[5104],2.0,Behind Barrier
+euston square_circle_575,euston square_hammersmith-city_575,[575],2.0,Behind Barrier
+euston square_hammersmith-city_575,euston square_circle_575,[575],2.0,Behind Barrier
+euston square_circle_575,euston square_metropolitan_575,[575],2.0,Behind Barrier
+euston square_metropolitan_575,euston square_circle_575,[575],2.0,Behind Barrier
+euston square_hammersmith-city_575,euston square_metropolitan_575,[575],2.0,Behind Barrier
+euston square_metropolitan_575,euston square_hammersmith-city_575,[575],2.0,Behind Barrier
+euston_lioness_1444,euston_virgin-trains_1444,[1444],2.0,Behind Barrier
+euston_virgin-trains_1444,euston_lioness_1444,[1444],2.0,Behind Barrier
+euston_lioness_1444,euston_west-midlands-trains_1444,[1444],2.0,Behind Barrier
+euston_west-midlands-trains_1444,euston_lioness_1444,[1444],2.0,Behind Barrier
+euston_northern_574,euston_victoria_574,[574],2.0,Behind Barrier
+euston_victoria_574,euston_northern_574,[574],2.0,Behind Barrier
+euston_virgin-trains_1444,euston_west-midlands-trains_1444,[1444],2.0,Behind Barrier
+euston_west-midlands-trains_1444,euston_virgin-trains_1444,[1444],2.0,Behind Barrier
+eynsford_southeastern_5065,eynsford_thameslink_5065,[5065],2.0,Behind Barrier
+eynsford_thameslink_5065,eynsford_southeastern_5065,[5065],2.0,Behind Barrier
+"farringdon_circle_577, 501","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_circle_577, 501","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","farringdon_circle_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_elizabeth_577, 501","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","farringdon_elizabeth_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_hammersmith-city_577, 501","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","farringdon_hammersmith-city_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_metropolitan_577, 501","farringdon_thameslink_577, 501","[577, 501]",2.0,Behind Barrier
+"farringdon_thameslink_577, 501","farringdon_metropolitan_577, 501","[577, 501]",2.0,Behind Barrier
+finchley road_jubilee_579,finchley road_metropolitan_579,[579],2.0,Behind Barrier
+finchley road_metropolitan_579,finchley road_jubilee_579,[579],2.0,Behind Barrier
+"finsbury park_great-northern_580, 6119","finsbury park_piccadilly_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_piccadilly_580, 6119","finsbury park_great-northern_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_great-northern_580, 6119","finsbury park_thameslink_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_thameslink_580, 6119","finsbury park_great-northern_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_great-northern_580, 6119","finsbury park_victoria_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_victoria_580, 6119","finsbury park_great-northern_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_piccadilly_580, 6119","finsbury park_thameslink_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_thameslink_580, 6119","finsbury park_piccadilly_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_piccadilly_580, 6119","finsbury park_victoria_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_victoria_580, 6119","finsbury park_piccadilly_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_thameslink_580, 6119","finsbury park_victoria_580, 6119","[580, 6119]",2.0,Behind Barrier
+"finsbury park_victoria_580, 6119","finsbury park_thameslink_580, 6119","[580, 6119]",2.0,Behind Barrier
+forest gate_elizabeth_6876,forest gate_greater-anglia_6876,[6876],2.0,Behind Barrier
+forest gate_greater-anglia_6876,forest gate_elizabeth_6876,[6876],2.0,Behind Barrier
+forest hill_southern_5362,forest hill_windrush_5362,[5362],2.0,Behind Barrier
+forest hill_windrush_5362,forest hill_southern_5362,[5362],2.0,Behind Barrier
+gatwick airport_gatwick-express_5416,gatwick airport_great-western-railway_5416,[5416],2.0,Behind Barrier
+gatwick airport_great-western-railway_5416,gatwick airport_gatwick-express_5416,[5416],2.0,Behind Barrier
+gatwick airport_gatwick-express_5416,gatwick airport_southern_5416,[5416],2.0,Behind Barrier
+gatwick airport_southern_5416,gatwick airport_gatwick-express_5416,[5416],2.0,Behind Barrier
+gatwick airport_gatwick-express_5416,gatwick airport_thameslink_5416,[5416],2.0,Behind Barrier
+gatwick airport_thameslink_5416,gatwick airport_gatwick-express_5416,[5416],2.0,Behind Barrier
+gatwick airport_great-western-railway_5416,gatwick airport_southern_5416,[5416],2.0,Behind Barrier
+gatwick airport_southern_5416,gatwick airport_great-western-railway_5416,[5416],2.0,Behind Barrier
+gatwick airport_great-western-railway_5416,gatwick airport_thameslink_5416,[5416],2.0,Behind Barrier
+gatwick airport_thameslink_5416,gatwick airport_great-western-railway_5416,[5416],2.0,Behind Barrier
+gatwick airport_southern_5416,gatwick airport_thameslink_5416,[5416],2.0,Behind Barrier
+gatwick airport_thameslink_5416,gatwick airport_southern_5416,[5416],2.0,Behind Barrier
+gidea park_elizabeth_6877,gidea park_greater-anglia_6877,[6877],2.0,Behind Barrier
+gidea park_greater-anglia_6877,gidea park_elizabeth_6877,[6877],2.0,Behind Barrier
+gillingham_southeastern_5169,gillingham_thameslink_5169,[5169],2.0,Behind Barrier
+gillingham_thameslink_5169,gillingham_southeastern_5169,[5169],2.0,Behind Barrier
+gloucester road_circle_583,gloucester road_district_583,[583],2.0,Behind Barrier
+gloucester road_district_583,gloucester road_circle_583,[583],2.0,Behind Barrier
+gloucester road_circle_583,gloucester road_piccadilly_583,[583],2.0,Behind Barrier
+gloucester road_piccadilly_583,gloucester road_circle_583,[583],2.0,Behind Barrier
+gloucester road_district_583,gloucester road_piccadilly_583,[583],2.0,Behind Barrier
+gloucester road_piccadilly_583,gloucester road_district_583,[583],2.0,Behind Barrier
+goldhawk road_circle_585,goldhawk road_hammersmith-city_585,[585],2.0,Behind Barrier
+goldhawk road_hammersmith-city_585,goldhawk road_circle_585,[585],2.0,Behind Barrier
+gospel oak_mildmay_1409,gospel oak_suffragette_1409,[1409],2.0,Behind Barrier
+gospel oak_suffragette_1409,gospel oak_mildmay_1409,[1409],2.0,Behind Barrier
+gravesend_southeastern_5172,gravesend_thameslink_5172,[5172],2.0,Behind Barrier
+gravesend_thameslink_5172,gravesend_southeastern_5172,[5172],2.0,Behind Barrier
+great portland street_circle_588,great portland street_hammersmith-city_588,[588],2.0,Behind Barrier
+great portland street_hammersmith-city_588,great portland street_circle_588,[588],2.0,Behind Barrier
+great portland street_circle_588,great portland street_metropolitan_588,[588],2.0,Behind Barrier
+great portland street_metropolitan_588,great portland street_circle_588,[588],2.0,Behind Barrier
+great portland street_hammersmith-city_588,great portland street_metropolitan_588,[588],2.0,Behind Barrier
+great portland street_metropolitan_588,great portland street_hammersmith-city_588,[588],2.0,Behind Barrier
+green park_jubilee_590,green park_piccadilly_590,[590],2.0,Behind Barrier
+green park_piccadilly_590,green park_jubilee_590,[590],2.0,Behind Barrier
+green park_jubilee_590,green park_victoria_590,[590],2.0,Behind Barrier
+green park_victoria_590,green park_jubilee_590,[590],2.0,Behind Barrier
+green park_piccadilly_590,green park_victoria_590,[590],2.0,Behind Barrier
+green park_victoria_590,green park_piccadilly_590,[590],2.0,Behind Barrier
+greenford_central_589,greenford_great-western-railway_589,[589],2.0,Behind Barrier
+greenford_great-western-railway_589,greenford_central_589,[589],2.0,Behind Barrier
+greenhithe for bluewater_southeastern_5138,greenhithe for bluewater_thameslink_5138,[5138],2.0,Behind Barrier
+greenhithe for bluewater_thameslink_5138,greenhithe for bluewater_southeastern_5138,[5138],2.0,Behind Barrier
+greenwich_dlr_928,greenwich_southeastern_928,[928],2.0,Behind Barrier
+greenwich_southeastern_928,greenwich_dlr_928,[928],2.0,Behind Barrier
+greenwich_dlr_928,greenwich_thameslink_928,[928],2.0,Behind Barrier
+greenwich_thameslink_928,greenwich_dlr_928,[928],2.0,Behind Barrier
+greenwich_southeastern_928,greenwich_thameslink_928,[928],2.0,Behind Barrier
+greenwich_thameslink_928,greenwich_southeastern_928,[928],2.0,Behind Barrier
+guildford_great-western-railway_5631,guildford_south-western-railway_5631,[5631],2.0,Behind Barrier
+guildford_south-western-railway_5631,guildford_great-western-railway_5631,[5631],2.0,Behind Barrier
+gunnersbury_district_591,gunnersbury_mildmay_591,[591],2.0,Behind Barrier
+gunnersbury_mildmay_591,gunnersbury_district_591,[591],2.0,Behind Barrier
+hackbridge_southern_5364,hackbridge_thameslink_5364,[5364],2.0,Behind Barrier
+hackbridge_thameslink_5364,hackbridge_southern_5364,[5364],2.0,Behind Barrier
+"hackney central_mildmay_6977, 6867","hackney downs_greater-anglia_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+"hackney downs_greater-anglia_6977, 6867","hackney central_mildmay_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+"hackney central_mildmay_6977, 6867","hackney downs_weaver_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+"hackney downs_weaver_6977, 6867","hackney central_mildmay_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+"hackney downs_greater-anglia_6977, 6867","hackney downs_weaver_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+"hackney downs_weaver_6977, 6867","hackney downs_greater-anglia_6977, 6867","[6977, 6867]",2.0,Behind Barrier
+hadley wood_great-northern_6075,hadley wood_thameslink_6075,[6075],2.0,Behind Barrier
+hadley wood_thameslink_6075,hadley wood_great-northern_6075,[6075],2.0,Behind Barrier
+hammersmith_circle_773,hammersmith_hammersmith-city_773,[773],2.0,Behind Barrier
+hammersmith_hammersmith-city_773,hammersmith_circle_773,[773],2.0,Behind Barrier
+hammersmith_district_593,hammersmith_piccadilly_593,[593],2.0,Behind Barrier
+hammersmith_piccadilly_593,hammersmith_district_593,[593],2.0,Behind Barrier
+hanwell_elizabeth_3191,hanwell_great-western-railway_3191,[3191],2.0,Behind Barrier
+hanwell_great-western-railway_3191,hanwell_elizabeth_3191,[3191],2.0,Behind Barrier
+harlesden_bakerloo_596,harlesden_lioness_596,[596],2.0,Behind Barrier
+harlesden_lioness_596,harlesden_bakerloo_596,[596],2.0,Behind Barrier
+harold wood_elizabeth_6879,harold wood_greater-anglia_6879,[6879],2.0,Behind Barrier
+harold wood_greater-anglia_6879,harold wood_elizabeth_6879,[6879],2.0,Behind Barrier
+harrow & wealdstone_bakerloo_597,harrow & wealdstone_lioness_597,[597],2.0,Behind Barrier
+harrow & wealdstone_lioness_597,harrow & wealdstone_bakerloo_597,[597],2.0,Behind Barrier
+harrow & wealdstone_bakerloo_597,harrow & wealdstone_southern_597,[597],2.0,Behind Barrier
+harrow & wealdstone_southern_597,harrow & wealdstone_bakerloo_597,[597],2.0,Behind Barrier
+harrow & wealdstone_bakerloo_597,harrow & wealdstone_west-midlands-trains_597,[597],2.0,Behind Barrier
+harrow & wealdstone_west-midlands-trains_597,harrow & wealdstone_bakerloo_597,[597],2.0,Behind Barrier
+harrow & wealdstone_lioness_597,harrow & wealdstone_southern_597,[597],2.0,Behind Barrier
+harrow & wealdstone_southern_597,harrow & wealdstone_lioness_597,[597],2.0,Behind Barrier
+harrow & wealdstone_lioness_597,harrow & wealdstone_west-midlands-trains_597,[597],2.0,Behind Barrier
+harrow & wealdstone_west-midlands-trains_597,harrow & wealdstone_lioness_597,[597],2.0,Behind Barrier
+harrow & wealdstone_southern_597,harrow & wealdstone_west-midlands-trains_597,[597],2.0,Behind Barrier
+harrow & wealdstone_west-midlands-trains_597,harrow & wealdstone_southern_597,[597],2.0,Behind Barrier
+harrow on hill_chiltern-railways_598,harrow on hill_metropolitan_598,[598],2.0,Behind Barrier
+harrow on hill_metropolitan_598,harrow on hill_chiltern-railways_598,[598],2.0,Behind Barrier
+hatfield_great-northern_6070,hatfield_thameslink_6070,[6070],2.0,Behind Barrier
+hatfield_thameslink_6070,hatfield_great-northern_6070,[6070],2.0,Behind Barrier
+haydons road_southern_5289,haydons road_thameslink_5289,[5289],2.0,Behind Barrier
+haydons road_thameslink_5289,haydons road_southern_5289,[5289],2.0,Behind Barrier
+hayes & harlington_elizabeth_3186,hayes & harlington_great-western-railway_3186,[3186],2.0,Behind Barrier
+hayes & harlington_great-western-railway_3186,hayes & harlington_elizabeth_3186,[3186],2.0,Behind Barrier
+heathrow t123_elizabeth_7090,heathrow t123_heathrow-express_7090,[7090],2.0,Behind Barrier
+heathrow t123_heathrow-express_7090,heathrow t123_elizabeth_7090,[7090],2.0,Behind Barrier
+heathrow t4_elizabeth_7091,heathrow t4_heathrow-express_7091,[7091],2.0,Behind Barrier
+heathrow t4_heathrow-express_7091,heathrow t4_elizabeth_7091,[7091],2.0,Behind Barrier
+heathrow t4_heathrow-express_781,heathrow t4_piccadilly_781,[781],2.0,Behind Barrier
+heathrow t4_piccadilly_781,heathrow t4_heathrow-express_781,[781],2.0,Behind Barrier
+heathrow t5_elizabeth_9846,heathrow t5_heathrow-express_9846,[9846],2.0,Behind Barrier
+heathrow t5_heathrow-express_9846,heathrow t5_elizabeth_9846,[9846],2.0,Behind Barrier
+herne hill_southeastern_5066,herne hill_thameslink_5066,[5066],2.0,Behind Barrier
+herne hill_thameslink_5066,herne hill_southeastern_5066,[5066],2.0,Behind Barrier
+high street kensington_circle_605,high street kensington_district_605,[605],2.0,Behind Barrier
+high street kensington_district_605,high street kensington_circle_605,[605],2.0,Behind Barrier
+higham_southeastern_5202,higham_thameslink_5202,[5202],2.0,Behind Barrier
+higham_thameslink_5202,higham_southeastern_5202,[5202],2.0,Behind Barrier
+highbury & islington_great-northern_603,highbury & islington_mildmay_603,[603],2.0,Behind Barrier
+highbury & islington_mildmay_603,highbury & islington_great-northern_603,[603],2.0,Behind Barrier
+highbury & islington_great-northern_603,highbury & islington_victoria_603,[603],2.0,Behind Barrier
+highbury & islington_victoria_603,highbury & islington_great-northern_603,[603],2.0,Behind Barrier
+highbury & islington_great-northern_603,highbury & islington_windrush_603,[603],2.0,Behind Barrier
+highbury & islington_windrush_603,highbury & islington_great-northern_603,[603],2.0,Behind Barrier
+highbury & islington_mildmay_603,highbury & islington_victoria_603,[603],2.0,Behind Barrier
+highbury & islington_victoria_603,highbury & islington_mildmay_603,[603],2.0,Behind Barrier
+highbury & islington_mildmay_603,highbury & islington_windrush_603,[603],2.0,Behind Barrier
+highbury & islington_windrush_603,highbury & islington_mildmay_603,[603],2.0,Behind Barrier
+highbury & islington_victoria_603,highbury & islington_windrush_603,[603],2.0,Behind Barrier
+highbury & islington_windrush_603,highbury & islington_victoria_603,[603],2.0,Behind Barrier
+hillingdon_metropolitan_606,hillingdon_piccadilly_606,[606],2.0,Behind Barrier
+hillingdon_piccadilly_606,hillingdon_metropolitan_606,[606],2.0,Behind Barrier
+hitchin_great-northern_6086,hitchin_thameslink_6086,[6086],2.0,Behind Barrier
+hitchin_thameslink_6086,hitchin_great-northern_6086,[6086],2.0,Behind Barrier
+holborn_central_607,holborn_piccadilly_607,[607],2.0,Behind Barrier
+holborn_piccadilly_607,holborn_central_607,[607],2.0,Behind Barrier
+honor oak park_southern_5418,honor oak park_windrush_5418,[5418],2.0,Behind Barrier
+honor oak park_windrush_5418,honor oak park_southern_5418,[5418],2.0,Behind Barrier
+horley_southern_5365,horley_thameslink_5365,[5365],2.0,Behind Barrier
+horley_thameslink_5365,horley_southern_5365,[5365],2.0,Behind Barrier
+hurst green_southern_5463,hurst green_thameslink_5463,[5463],2.0,Behind Barrier
+hurst green_thameslink_5463,hurst green_southern_5463,[5463],2.0,Behind Barrier
+ickenham_metropolitan_615,ickenham_piccadilly_615,[615],2.0,Behind Barrier
+ickenham_piccadilly_615,ickenham_metropolitan_615,[615],2.0,Behind Barrier
+ilford_elizabeth_6881,ilford_greater-anglia_6881,[6881],2.0,Behind Barrier
+ilford_greater-anglia_6881,ilford_elizabeth_6881,[6881],2.0,Behind Barrier
+imperial wharf_mildmay_9586,imperial wharf_southern_9586,[9586],2.0,Behind Barrier
+imperial wharf_southern_9586,imperial wharf_mildmay_9586,[9586],2.0,Behind Barrier
+iver_elizabeth_3170,iver_great-western-railway_3170,[3170],2.0,Behind Barrier
+iver_great-western-railway_3170,iver_elizabeth_3170,[3170],2.0,Behind Barrier
+kensal green_bakerloo_617,kensal green_lioness_617,[617],2.0,Behind Barrier
+kensal green_lioness_617,kensal green_bakerloo_617,[617],2.0,Behind Barrier
+kensington olympia_district_618,kensington olympia_mildmay_618,[618],2.0,Behind Barrier
+kensington olympia_mildmay_618,kensington olympia_district_618,[618],2.0,Behind Barrier
+kensington olympia_district_618,kensington olympia_southern_618,[618],2.0,Behind Barrier
+kensington olympia_southern_618,kensington olympia_district_618,[618],2.0,Behind Barrier
+kensington olympia_mildmay_618,kensington olympia_southern_618,[618],2.0,Behind Barrier
+kensington olympia_southern_618,kensington olympia_mildmay_618,[618],2.0,Behind Barrier
+kent house_southeastern_5080,kent house_thameslink_5080,[5080],2.0,Behind Barrier
+kent house_thameslink_5080,kent house_southeastern_5080,[5080],2.0,Behind Barrier
+kentish town_east-midlands-trains_619,kentish town_northern_619,[619],2.0,Behind Barrier
+kentish town_northern_619,kentish town_east-midlands-trains_619,[619],2.0,Behind Barrier
+kentish town_east-midlands-trains_619,kentish town_thameslink_619,[619],2.0,Behind Barrier
+kentish town_thameslink_619,kentish town_east-midlands-trains_619,[619],2.0,Behind Barrier
+kentish town_northern_619,kentish town_thameslink_619,[619],2.0,Behind Barrier
+kentish town_thameslink_619,kentish town_northern_619,[619],2.0,Behind Barrier
+kenton_bakerloo_620,kenton_lioness_620,[620],2.0,Behind Barrier
+kenton_lioness_620,kenton_bakerloo_620,[620],2.0,Behind Barrier
+kew gardens_district_621,kew gardens_mildmay_621,[621],2.0,Behind Barrier
+kew gardens_mildmay_621,kew gardens_district_621,[621],2.0,Behind Barrier
+"kings cross_circle_600, 625, 772","kings cross_hammersmith-city_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_hammersmith-city_600, 625, 772","kings cross_circle_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_circle_600, 625, 772","kings cross_metropolitan_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_metropolitan_600, 625, 772","kings cross_circle_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_circle_600, 625, 772","kings cross_northern_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_northern_600, 625, 772","kings cross_circle_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_circle_600, 625, 772","kings cross_piccadilly_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_piccadilly_600, 625, 772","kings cross_circle_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_circle_600, 625, 772","kings cross_victoria_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_victoria_600, 625, 772","kings cross_circle_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+kings cross_first-hull-trains_6121,kings cross_grand-central_6121,[6121],2.0,Behind Barrier
+kings cross_grand-central_6121,kings cross_first-hull-trains_6121,[6121],2.0,Behind Barrier
+kings cross_first-hull-trains_6121,kings cross_great-northern_6121,[6121],2.0,Behind Barrier
+kings cross_great-northern_6121,kings cross_first-hull-trains_6121,[6121],2.0,Behind Barrier
+kings cross_first-hull-trains_6121,kings cross_london-north-eastern-railway_6121,[6121],2.0,Behind Barrier
+kings cross_london-north-eastern-railway_6121,kings cross_first-hull-trains_6121,[6121],2.0,Behind Barrier
+kings cross_grand-central_6121,kings cross_great-northern_6121,[6121],2.0,Behind Barrier
+kings cross_great-northern_6121,kings cross_grand-central_6121,[6121],2.0,Behind Barrier
+kings cross_grand-central_6121,kings cross_london-north-eastern-railway_6121,[6121],2.0,Behind Barrier
+kings cross_london-north-eastern-railway_6121,kings cross_grand-central_6121,[6121],2.0,Behind Barrier
+kings cross_great-northern_6121,kings cross_london-north-eastern-railway_6121,[6121],2.0,Behind Barrier
+kings cross_london-north-eastern-railway_6121,kings cross_great-northern_6121,[6121],2.0,Behind Barrier
+"kings cross_hammersmith-city_600, 625, 772","kings cross_metropolitan_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_metropolitan_600, 625, 772","kings cross_hammersmith-city_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_hammersmith-city_600, 625, 772","kings cross_northern_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_northern_600, 625, 772","kings cross_hammersmith-city_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_hammersmith-city_600, 625, 772","kings cross_piccadilly_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_piccadilly_600, 625, 772","kings cross_hammersmith-city_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_hammersmith-city_600, 625, 772","kings cross_victoria_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_victoria_600, 625, 772","kings cross_hammersmith-city_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_metropolitan_600, 625, 772","kings cross_northern_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_northern_600, 625, 772","kings cross_metropolitan_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_metropolitan_600, 625, 772","kings cross_piccadilly_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_piccadilly_600, 625, 772","kings cross_metropolitan_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_metropolitan_600, 625, 772","kings cross_victoria_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_victoria_600, 625, 772","kings cross_metropolitan_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_northern_600, 625, 772","kings cross_piccadilly_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_piccadilly_600, 625, 772","kings cross_northern_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_northern_600, 625, 772","kings cross_victoria_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_victoria_600, 625, 772","kings cross_northern_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_piccadilly_600, 625, 772","kings cross_victoria_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+"kings cross_victoria_600, 625, 772","kings cross_piccadilly_600, 625, 772","[600, 625, 772]",2.0,Behind Barrier
+ladbroke grove_circle_627,ladbroke grove_hammersmith-city_627,[627],2.0,Behind Barrier
+ladbroke grove_hammersmith-city_627,ladbroke grove_circle_627,[627],2.0,Behind Barrier
+langley berks_elizabeth_3171,langley berks_great-western-railway_3171,[3171],2.0,Behind Barrier
+langley berks_great-western-railway_3171,langley berks_elizabeth_3171,[3171],2.0,Behind Barrier
+latimer road_circle_630,latimer road_hammersmith-city_630,[630],2.0,Behind Barrier
+latimer road_hammersmith-city_630,latimer road_circle_630,[630],2.0,Behind Barrier
+leatherhead_south-western-railway_5368,leatherhead_southern_5368,[5368],2.0,Behind Barrier
+leatherhead_southern_5368,leatherhead_south-western-railway_5368,[5368],2.0,Behind Barrier
+leicester square_northern_631,leicester square_piccadilly_631,[631],2.0,Behind Barrier
+leicester square_piccadilly_631,leicester square_northern_631,[631],2.0,Behind Barrier
+letchworth garden city_great-northern_6089,letchworth garden city_thameslink_6089,[6089],2.0,Behind Barrier
+letchworth garden city_thameslink_6089,letchworth garden city_great-northern_6089,[6089],2.0,Behind Barrier
+lingfield_southern_5369,lingfield_thameslink_5369,[5369],2.0,Behind Barrier
+lingfield_thameslink_5369,lingfield_southern_5369,[5369],2.0,Behind Barrier
+liverpool street_c2c_6965,"liverpool street_elizabeth_634, 645, 689, 6965",[6965],2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965",liverpool street_c2c_6965,[6965],2.0,Behind Barrier
+liverpool street_c2c_6965,liverpool street_greater-anglia_6965,[6965],2.0,Behind Barrier
+liverpool street_greater-anglia_6965,liverpool street_c2c_6965,[6965],2.0,Behind Barrier
+liverpool street_c2c_6965,liverpool street_weaver_6965,[6965],2.0,Behind Barrier
+liverpool street_weaver_6965,liverpool street_c2c_6965,[6965],2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_central_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_central_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_circle_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_elizabeth_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965",liverpool street_greater-anglia_6965,[6965],2.0,Behind Barrier
+liverpool street_greater-anglia_6965,"liverpool street_elizabeth_634, 645, 689, 6965",[6965],2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965",liverpool street_weaver_6965,[6965],2.0,Behind Barrier
+liverpool street_weaver_6965,"liverpool street_elizabeth_634, 645, 689, 6965",[6965],2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_elizabeth_634, 645, 689, 6965","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_elizabeth_634, 645, 689, 6965","[689, 634, 645]",2.0,Behind Barrier
+liverpool street_greater-anglia_6965,liverpool street_weaver_6965,[6965],2.0,Behind Barrier
+liverpool street_weaver_6965,liverpool street_greater-anglia_6965,[6965],2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_hammersmith-city_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"liverpool street_metropolitan_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","liverpool street_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+london bridge_jubilee_635,london bridge_northern_635,[635],2.0,Behind Barrier
+london bridge_northern_635,london bridge_jubilee_635,[635],2.0,Behind Barrier
+"london bridge_southeastern_5148, 6336","london bridge_southern_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+"london bridge_southern_5148, 6336","london bridge_southeastern_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+"london bridge_southeastern_5148, 6336","london bridge_thameslink_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+"london bridge_thameslink_5148, 6336","london bridge_southeastern_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+"london bridge_southern_5148, 6336","london bridge_thameslink_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+"london bridge_thameslink_5148, 6336","london bridge_southern_5148, 6336","[6336, 5148]",2.0,Behind Barrier
+london fields_greater-anglia_6966,london fields_weaver_6966,[6966],2.0,Behind Barrier
+london fields_weaver_6966,london fields_greater-anglia_6966,[6966],2.0,Behind Barrier
+loughborough junction_southeastern_5082,loughborough junction_thameslink_5082,[5082],2.0,Behind Barrier
+loughborough junction_thameslink_5082,loughborough junction_southeastern_5082,[5082],2.0,Behind Barrier
+luton airport parkway_east-midlands-railway_3645,luton airport parkway_thameslink_3645,[3645],2.0,Behind Barrier
+luton airport parkway_thameslink_3645,luton airport parkway_east-midlands-railway_3645,[3645],2.0,Behind Barrier
+luton_east-midlands-railway_1536,luton_thameslink_1536,[1536],2.0,Behind Barrier
+luton_thameslink_1536,luton_east-midlands-railway_1536,[1536],2.0,Behind Barrier
+maidenhead_elizabeth_3147,maidenhead_great-western-railway_3147,[3147],2.0,Behind Barrier
+maidenhead_great-western-railway_3147,maidenhead_elizabeth_3147,[3147],2.0,Behind Barrier
+manor park_elizabeth_6883,manor park_greater-anglia_6883,[6883],2.0,Behind Barrier
+manor park_greater-anglia_6883,manor park_elizabeth_6883,[6883],2.0,Behind Barrier
+mansion house_circle_639,mansion house_district_639,[639],2.0,Behind Barrier
+mansion house_district_639,mansion house_circle_639,[639],2.0,Behind Barrier
+maryland_elizabeth_6970,maryland_greater-anglia_6970,[6970],2.0,Behind Barrier
+maryland_greater-anglia_6970,maryland_elizabeth_6970,[6970],2.0,Behind Barrier
+maze hill_southeastern_5149,maze hill_thameslink_5149,[5149],2.0,Behind Barrier
+maze hill_thameslink_5149,maze hill_southeastern_5149,[5149],2.0,Behind Barrier
+merstham_southern_5475,merstham_thameslink_5475,[5475],2.0,Behind Barrier
+merstham_thameslink_5475,merstham_southern_5475,[5475],2.0,Behind Barrier
+mile end_central_642,mile end_district_642,[642],2.0,Behind Barrier
+mile end_district_642,mile end_central_642,[642],2.0,Behind Barrier
+mile end_central_642,mile end_hammersmith-city_642,[642],2.0,Behind Barrier
+mile end_hammersmith-city_642,mile end_central_642,[642],2.0,Behind Barrier
+mile end_district_642,mile end_hammersmith-city_642,[642],2.0,Behind Barrier
+mile end_hammersmith-city_642,mile end_district_642,[642],2.0,Behind Barrier
+mitcham eastfields_southern_5069,mitcham eastfields_thameslink_5069,[5069],2.0,Behind Barrier
+mitcham eastfields_thameslink_5069,mitcham eastfields_southern_5069,[5069],2.0,Behind Barrier
+mitcham junction_southern_5427,mitcham junction_thameslink_5427,[5427],2.0,Behind Barrier
+mitcham junction_thameslink_5427,mitcham junction_southern_5427,[5427],2.0,Behind Barrier
+monument_circle_644,monument_district_644,[644],2.0,Behind Barrier
+monument_district_644,monument_circle_644,[644],2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_circle_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","moorgate_circle_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_great-northern_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","moorgate_great-northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_hammersmith-city_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","moorgate_hammersmith-city_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_metropolitan_634, 645, 689","moorgate_northern_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+"moorgate_northern_634, 645, 689","moorgate_metropolitan_634, 645, 689","[689, 634, 645]",2.0,Behind Barrier
+morden south_southern_5291,morden south_thameslink_5291,[5291],2.0,Behind Barrier
+morden south_thameslink_5291,morden south_southern_5291,[5291],2.0,Behind Barrier
+new barnet_great-northern_6018,new barnet_thameslink_6018,[6018],2.0,Behind Barrier
+new barnet_thameslink_6018,new barnet_great-northern_6018,[6018],2.0,Behind Barrier
+new cross gate_southern_5345,new cross gate_windrush_5345,[5345],2.0,Behind Barrier
+new cross gate_windrush_5345,new cross gate_southern_5345,[5345],2.0,Behind Barrier
+new cross_southeastern_5150,new cross_windrush_5150,[5150],2.0,Behind Barrier
+new cross_windrush_5150,new cross_southeastern_5150,[5150],2.0,Behind Barrier
+new southgate_great-northern_6019,new southgate_thameslink_6019,[6019],2.0,Behind Barrier
+new southgate_thameslink_6019,new southgate_great-northern_6019,[6019],2.0,Behind Barrier
+north wembley_bakerloo_659,north wembley_lioness_659,[659],2.0,Behind Barrier
+north wembley_lioness_659,north wembley_bakerloo_659,[659],2.0,Behind Barrier
+norwood junction_southern_5376,norwood junction_thameslink_5376,[5376],2.0,Behind Barrier
+norwood junction_thameslink_5376,norwood junction_southern_5376,[5376],2.0,Behind Barrier
+norwood junction_southern_5376,norwood junction_windrush_5376,[5376],2.0,Behind Barrier
+norwood junction_windrush_5376,norwood junction_southern_5376,[5376],2.0,Behind Barrier
+norwood junction_thameslink_5376,norwood junction_windrush_5376,[5376],2.0,Behind Barrier
+norwood junction_windrush_5376,norwood junction_thameslink_5376,[5376],2.0,Behind Barrier
+notting hill gate_central_663,notting hill gate_circle_663,[663],2.0,Behind Barrier
+notting hill gate_circle_663,notting hill gate_central_663,[663],2.0,Behind Barrier
+notting hill gate_central_663,notting hill gate_district_663,[663],2.0,Behind Barrier
+notting hill gate_district_663,notting hill gate_central_663,[663],2.0,Behind Barrier
+notting hill gate_circle_663,notting hill gate_district_663,[663],2.0,Behind Barrier
+notting hill gate_district_663,notting hill gate_circle_663,[663],2.0,Behind Barrier
+nunhead_southeastern_5068,nunhead_thameslink_5068,[5068],2.0,Behind Barrier
+nunhead_thameslink_5068,nunhead_southeastern_5068,[5068],2.0,Behind Barrier
+oakleigh park_great-northern_6020,oakleigh park_thameslink_6020,[6020],2.0,Behind Barrier
+oakleigh park_thameslink_6020,oakleigh park_great-northern_6020,[6020],2.0,Behind Barrier
+old street_great-northern_665,old street_northern_665,[665],2.0,Behind Barrier
+old street_northern_665,old street_great-northern_665,[665],2.0,Behind Barrier
+orpington_southeastern_5122,orpington_thameslink_5122,[5122],2.0,Behind Barrier
+orpington_thameslink_5122,orpington_southeastern_5122,[5122],2.0,Behind Barrier
+otford_southeastern_5071,otford_thameslink_5071,[5071],2.0,Behind Barrier
+otford_thameslink_5071,otford_southeastern_5071,[5071],2.0,Behind Barrier
+oxford circus_bakerloo_669,oxford circus_central_669,[669],2.0,Behind Barrier
+oxford circus_central_669,oxford circus_bakerloo_669,[669],2.0,Behind Barrier
+oxford circus_bakerloo_669,oxford circus_victoria_669,[669],2.0,Behind Barrier
+oxford circus_victoria_669,oxford circus_bakerloo_669,[669],2.0,Behind Barrier
+oxford circus_central_669,oxford circus_victoria_669,[669],2.0,Behind Barrier
+oxford circus_victoria_669,oxford circus_central_669,[669],2.0,Behind Barrier
+oxted_southern_5377,oxted_thameslink_5377,[5377],2.0,Behind Barrier
+oxted_thameslink_5377,oxted_southern_5377,[5377],2.0,Behind Barrier
+"paddington_bakerloo_670, 6552","paddington_circle_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_circle_670, 6552","paddington_bakerloo_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_bakerloo_670, 6552","paddington_district_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_district_670, 6552","paddington_bakerloo_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_bakerloo_670, 6552","paddington_elizabeth_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_elizabeth_670, 6552","paddington_bakerloo_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_bakerloo_670, 6552","paddington_hammersmith-city_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_hammersmith-city_670, 6552","paddington_bakerloo_670, 6552","[6552, 670]",2.0,Behind Barrier
+paddington_chiltern-railways_3087,paddington_great-western-railway_3087,[3087],2.0,Behind Barrier
+paddington_great-western-railway_3087,paddington_chiltern-railways_3087,[3087],2.0,Behind Barrier
+"paddington_circle_670, 6552","paddington_district_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_district_670, 6552","paddington_circle_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_circle_670, 6552","paddington_elizabeth_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_elizabeth_670, 6552","paddington_circle_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_circle_670, 6552","paddington_hammersmith-city_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_hammersmith-city_670, 6552","paddington_circle_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_district_670, 6552","paddington_elizabeth_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_elizabeth_670, 6552","paddington_district_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_district_670, 6552","paddington_hammersmith-city_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_hammersmith-city_670, 6552","paddington_district_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_elizabeth_670, 6552","paddington_hammersmith-city_670, 6552","[6552, 670]",2.0,Behind Barrier
+"paddington_hammersmith-city_670, 6552","paddington_elizabeth_670, 6552","[6552, 670]",2.0,Behind Barrier
+peckham rye_southeastern_5423,peckham rye_southern_5423,[5423],2.0,Behind Barrier
+peckham rye_southern_5423,peckham rye_southeastern_5423,[5423],2.0,Behind Barrier
+peckham rye_southeastern_5423,peckham rye_thameslink_5423,[5423],2.0,Behind Barrier
+peckham rye_thameslink_5423,peckham rye_southeastern_5423,[5423],2.0,Behind Barrier
+peckham rye_southeastern_5423,peckham rye_windrush_5423,[5423],2.0,Behind Barrier
+peckham rye_windrush_5423,peckham rye_southeastern_5423,[5423],2.0,Behind Barrier
+peckham rye_southern_5423,peckham rye_thameslink_5423,[5423],2.0,Behind Barrier
+peckham rye_thameslink_5423,peckham rye_southern_5423,[5423],2.0,Behind Barrier
+peckham rye_southern_5423,peckham rye_windrush_5423,[5423],2.0,Behind Barrier
+peckham rye_windrush_5423,peckham rye_southern_5423,[5423],2.0,Behind Barrier
+peckham rye_thameslink_5423,peckham rye_windrush_5423,[5423],2.0,Behind Barrier
+peckham rye_windrush_5423,peckham rye_thameslink_5423,[5423],2.0,Behind Barrier
+penge east_southeastern_5072,penge east_thameslink_5072,[5072],2.0,Behind Barrier
+penge east_thameslink_5072,penge east_southeastern_5072,[5072],2.0,Behind Barrier
+penge west_southern_5378,penge west_windrush_5378,[5378],2.0,Behind Barrier
+penge west_windrush_5378,penge west_southern_5378,[5378],2.0,Behind Barrier
+petts wood_southeastern_5123,petts wood_thameslink_5123,[5123],2.0,Behind Barrier
+petts wood_thameslink_5123,petts wood_southeastern_5123,[5123],2.0,Behind Barrier
+piccadilly circus_bakerloo_674,piccadilly circus_piccadilly_674,[674],2.0,Behind Barrier
+piccadilly circus_piccadilly_674,piccadilly circus_bakerloo_674,[674],2.0,Behind Barrier
+plaistow_district_676,plaistow_hammersmith-city_676,[676],2.0,Behind Barrier
+plaistow_hammersmith-city_676,plaistow_district_676,[676],2.0,Behind Barrier
+plumstead_southeastern_5208,plumstead_thameslink_5208,[5208],2.0,Behind Barrier
+plumstead_thameslink_5208,plumstead_southeastern_5208,[5208],2.0,Behind Barrier
+potters bar_great-northern_6022,potters bar_thameslink_6022,[6022],2.0,Behind Barrier
+potters bar_thameslink_6022,potters bar_great-northern_6022,[6022],2.0,Behind Barrier
+purley_southern_5379,purley_thameslink_5379,[5379],2.0,Behind Barrier
+purley_thameslink_5379,purley_southern_5379,[5379],2.0,Behind Barrier
+queens park_bakerloo_680,queens park_lioness_680,[680],2.0,Behind Barrier
+queens park_lioness_680,queens park_bakerloo_680,[680],2.0,Behind Barrier
+queens park_bakerloo_680,queens park_west-midlands-trains_680,[680],2.0,Behind Barrier
+queens park_west-midlands-trains_680,queens park_bakerloo_680,[680],2.0,Behind Barrier
+queens park_lioness_680,queens park_west-midlands-trains_680,[680],2.0,Behind Barrier
+queens park_west-midlands-trains_680,queens park_lioness_680,[680],2.0,Behind Barrier
+queens road peckham_southern_5424,queens road peckham_windrush_5424,[5424],2.0,Behind Barrier
+queens road peckham_windrush_5424,queens road peckham_southern_5424,[5424],2.0,Behind Barrier
+ravensbourne_southeastern_5083,ravensbourne_thameslink_5083,[5083],2.0,Behind Barrier
+ravensbourne_thameslink_5083,ravensbourne_southeastern_5083,[5083],2.0,Behind Barrier
+rayners lane_metropolitan_683,rayners lane_piccadilly_683,[683],2.0,Behind Barrier
+rayners lane_piccadilly_683,rayners lane_metropolitan_683,[683],2.0,Behind Barrier
+reading_elizabeth_3149,reading_great-western-railway_3149,[3149],2.0,Behind Barrier
+reading_great-western-railway_3149,reading_elizabeth_3149,[3149],2.0,Behind Barrier
+reading_elizabeth_3149,reading_south-western-railway_3149,[3149],2.0,Behind Barrier
+reading_south-western-railway_3149,reading_elizabeth_3149,[3149],2.0,Behind Barrier
+reading_great-western-railway_3149,reading_south-western-railway_3149,[3149],2.0,Behind Barrier
+reading_south-western-railway_3149,reading_great-western-railway_3149,[3149],2.0,Behind Barrier
+rectory road_greater-anglia_6967,rectory road_weaver_6967,[6967],2.0,Behind Barrier
+rectory road_weaver_6967,rectory road_greater-anglia_6967,[6967],2.0,Behind Barrier
+redhill_gatwick-express_5478,redhill_great-western-railway_5478,[5478],2.0,Behind Barrier
+redhill_great-western-railway_5478,redhill_gatwick-express_5478,[5478],2.0,Behind Barrier
+redhill_gatwick-express_5478,redhill_southern_5478,[5478],2.0,Behind Barrier
+redhill_southern_5478,redhill_gatwick-express_5478,[5478],2.0,Behind Barrier
+redhill_gatwick-express_5478,redhill_thameslink_5478,[5478],2.0,Behind Barrier
+redhill_thameslink_5478,redhill_gatwick-express_5478,[5478],2.0,Behind Barrier
+redhill_great-western-railway_5478,redhill_southern_5478,[5478],2.0,Behind Barrier
+redhill_southern_5478,redhill_great-western-railway_5478,[5478],2.0,Behind Barrier
+redhill_great-western-railway_5478,redhill_thameslink_5478,[5478],2.0,Behind Barrier
+redhill_thameslink_5478,redhill_great-western-railway_5478,[5478],2.0,Behind Barrier
+redhill_southern_5478,redhill_thameslink_5478,[5478],2.0,Behind Barrier
+redhill_thameslink_5478,redhill_southern_5478,[5478],2.0,Behind Barrier
+reigate_great-western-railway_5480,reigate_southern_5480,[5480],2.0,Behind Barrier
+reigate_southern_5480,reigate_great-western-railway_5480,[5480],2.0,Behind Barrier
+richmond_district_5570,richmond_mildmay_5570,[5570],2.0,Behind Barrier
+richmond_mildmay_5570,richmond_district_5570,[5570],2.0,Behind Barrier
+richmond_district_5570,richmond_south-western-railway_5570,[5570],2.0,Behind Barrier
+richmond_south-western-railway_5570,richmond_district_5570,[5570],2.0,Behind Barrier
+richmond_mildmay_5570,richmond_south-western-railway_5570,[5570],2.0,Behind Barrier
+richmond_south-western-railway_5570,richmond_mildmay_5570,[5570],2.0,Behind Barrier
+rickmansworth_chiltern-railways_687,rickmansworth_metropolitan_687,[687],2.0,Behind Barrier
+rickmansworth_metropolitan_687,rickmansworth_chiltern-railways_687,[687],2.0,Behind Barrier
+riddlesdown_southern_5432,riddlesdown_thameslink_5432,[5432],2.0,Behind Barrier
+riddlesdown_thameslink_5432,riddlesdown_southern_5432,[5432],2.0,Behind Barrier
+rochester_southeastern_5203,rochester_thameslink_5203,[5203],2.0,Behind Barrier
+rochester_thameslink_5203,rochester_southeastern_5203,[5203],2.0,Behind Barrier
+romford_elizabeth_6886,romford_greater-anglia_6886,[6886],2.0,Behind Barrier
+romford_greater-anglia_6886,romford_elizabeth_6886,[6886],2.0,Behind Barrier
+romford_elizabeth_6886,romford_liberty_6886,[6886],2.0,Behind Barrier
+romford_liberty_6886,romford_elizabeth_6886,[6886],2.0,Behind Barrier
+romford_greater-anglia_6886,romford_liberty_6886,[6886],2.0,Behind Barrier
+romford_liberty_6886,romford_greater-anglia_6886,[6886],2.0,Behind Barrier
+royal oak_circle_690,royal oak_hammersmith-city_690,[690],2.0,Behind Barrier
+royal oak_hammersmith-city_690,royal oak_circle_690,[690],2.0,Behind Barrier
+ruislip manor_metropolitan_693,ruislip manor_piccadilly_693,[693],2.0,Behind Barrier
+ruislip manor_piccadilly_693,ruislip manor_metropolitan_693,[693],2.0,Behind Barrier
+ruislip_metropolitan_691,ruislip_piccadilly_691,[691],2.0,Behind Barrier
+ruislip_piccadilly_691,ruislip_metropolitan_691,[691],2.0,Behind Barrier
+salfords_southern_5380,salfords_thameslink_5380,[5380],2.0,Behind Barrier
+salfords_thameslink_5380,salfords_southern_5380,[5380],2.0,Behind Barrier
+sanderstead_southern_5433,sanderstead_thameslink_5433,[5433],2.0,Behind Barrier
+sanderstead_thameslink_5433,sanderstead_southern_5433,[5433],2.0,Behind Barrier
+seven kings_elizabeth_6893,seven kings_greater-anglia_6893,[6893],2.0,Behind Barrier
+seven kings_greater-anglia_6893,seven kings_elizabeth_6893,[6893],2.0,Behind Barrier
+seven sisters_greater-anglia_698,seven sisters_victoria_698,[698],2.0,Behind Barrier
+seven sisters_victoria_698,seven sisters_greater-anglia_698,[698],2.0,Behind Barrier
+seven sisters_greater-anglia_698,seven sisters_weaver_698,[698],2.0,Behind Barrier
+seven sisters_weaver_698,seven sisters_greater-anglia_698,[698],2.0,Behind Barrier
+seven sisters_victoria_698,seven sisters_weaver_698,[698],2.0,Behind Barrier
+seven sisters_weaver_698,seven sisters_victoria_698,[698],2.0,Behind Barrier
+sevenoaks_southeastern_5124,sevenoaks_thameslink_5124,[5124],2.0,Behind Barrier
+sevenoaks_thameslink_5124,sevenoaks_southeastern_5124,[5124],2.0,Behind Barrier
+shenfield_elizabeth_6888,shenfield_greater-anglia_6888,[6888],2.0,Behind Barrier
+shenfield_greater-anglia_6888,shenfield_elizabeth_6888,[6888],2.0,Behind Barrier
+shepherds bush_circle_775,shepherds bush_hammersmith-city_775,[775],2.0,Behind Barrier
+shepherds bush_hammersmith-city_775,shepherds bush_circle_775,[775],2.0,Behind Barrier
+shepherds bush_mildmay_9587,shepherds bush_southern_9587,[9587],2.0,Behind Barrier
+shepherds bush_southern_9587,shepherds bush_mildmay_9587,[9587],2.0,Behind Barrier
+shoreham kent_southeastern_5074,shoreham kent_thameslink_5074,[5074],2.0,Behind Barrier
+shoreham kent_thameslink_5074,shoreham kent_southeastern_5074,[5074],2.0,Behind Barrier
+shortlands_southeastern_5084,shortlands_thameslink_5084,[5084],2.0,Behind Barrier
+shortlands_thameslink_5084,shortlands_southeastern_5084,[5084],2.0,Behind Barrier
+silver street_greater-anglia_6972,silver street_weaver_6972,[6972],2.0,Behind Barrier
+silver street_weaver_6972,silver street_greater-anglia_6972,[6972],2.0,Behind Barrier
+slade green_southeastern_5154,slade green_thameslink_5154,[5154],2.0,Behind Barrier
+slade green_thameslink_5154,slade green_southeastern_5154,[5154],2.0,Behind Barrier
+sloane square_circle_702,sloane square_district_702,[702],2.0,Behind Barrier
+sloane square_district_702,sloane square_circle_702,[702],2.0,Behind Barrier
+slough_elizabeth_3172,slough_great-western-railway_3172,[3172],2.0,Behind Barrier
+slough_great-western-railway_3172,slough_elizabeth_3172,[3172],2.0,Behind Barrier
+south croydon_southern_5410,south croydon_thameslink_5410,[5410],2.0,Behind Barrier
+south croydon_thameslink_5410,south croydon_southern_5410,[5410],2.0,Behind Barrier
+south kensington_circle_708,south kensington_district_708,[708],2.0,Behind Barrier
+south kensington_district_708,south kensington_circle_708,[708],2.0,Behind Barrier
+south kensington_circle_708,south kensington_piccadilly_708,[708],2.0,Behind Barrier
+south kensington_piccadilly_708,south kensington_circle_708,[708],2.0,Behind Barrier
+south kensington_district_708,south kensington_piccadilly_708,[708],2.0,Behind Barrier
+south kensington_piccadilly_708,south kensington_district_708,[708],2.0,Behind Barrier
+south kenton_bakerloo_709,south kenton_lioness_709,[709],2.0,Behind Barrier
+south kenton_lioness_709,south kenton_bakerloo_709,[709],2.0,Behind Barrier
+south merton_southern_5292,south merton_thameslink_5292,[5292],2.0,Behind Barrier
+south merton_thameslink_5292,south merton_southern_5292,[5292],2.0,Behind Barrier
+south ruislip_central_710,south ruislip_chiltern-railways_710,[710],2.0,Behind Barrier
+south ruislip_chiltern-railways_710,south ruislip_central_710,[710],2.0,Behind Barrier
+southall_elizabeth_3187,southall_great-western-railway_3187,[3187],2.0,Behind Barrier
+southall_great-western-railway_3187,southall_elizabeth_3187,[3187],2.0,Behind Barrier
+southbury_greater-anglia_6947,southbury_weaver_6947,[6947],2.0,Behind Barrier
+southbury_weaver_6947,southbury_greater-anglia_6947,[6947],2.0,Behind Barrier
+southwark_jubilee_784,"waterloo east_southeastern_5158, 784",[784],2.0,Behind Barrier
+"waterloo east_southeastern_5158, 784",southwark_jubilee_784,[784],2.0,Behind Barrier
+st helier_southern_5290,st helier_thameslink_5290,[5290],2.0,Behind Barrier
+st helier_thameslink_5290,st helier_southern_5290,[5290],2.0,Behind Barrier
+st james's park_circle_695,st james's park_district_695,[695],2.0,Behind Barrier
+st james's park_district_695,st james's park_circle_695,[695],2.0,Behind Barrier
+st mary cray_southeastern_5073,st mary cray_thameslink_5073,[5073],2.0,Behind Barrier
+st mary cray_thameslink_5073,st mary cray_southeastern_5073,[5073],2.0,Behind Barrier
+st pancras international hs1_east-midlands-railway_7423,st pancras international hs1_east-midlands-trains_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-trains_7423,st pancras international hs1_east-midlands-railway_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-railway_7423,st pancras international hs1_southeastern_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_southeastern_7423,st pancras international hs1_east-midlands-railway_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-railway_7423,st pancras international hs1_thameslink_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_thameslink_7423,st pancras international hs1_east-midlands-railway_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-railway_7423,st pancras international hs1_virgin-trains-east-coast_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_virgin-trains-east-coast_7423,st pancras international hs1_east-midlands-railway_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-trains_7423,st pancras international hs1_southeastern_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_southeastern_7423,st pancras international hs1_east-midlands-trains_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-trains_7423,st pancras international hs1_thameslink_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_thameslink_7423,st pancras international hs1_east-midlands-trains_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_east-midlands-trains_7423,st pancras international hs1_virgin-trains-east-coast_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_virgin-trains-east-coast_7423,st pancras international hs1_east-midlands-trains_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_southeastern_7423,st pancras international hs1_thameslink_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_thameslink_7423,st pancras international hs1_southeastern_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_southeastern_7423,st pancras international hs1_virgin-trains-east-coast_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_virgin-trains-east-coast_7423,st pancras international hs1_southeastern_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_thameslink_7423,st pancras international hs1_virgin-trains-east-coast_7423,[7423],2.0,Behind Barrier
+st pancras international hs1_virgin-trains-east-coast_7423,st pancras international hs1_thameslink_7423,[7423],2.0,Behind Barrier
+stamford hill_greater-anglia_6968,stamford hill_weaver_6968,[6968],2.0,Behind Barrier
+stamford hill_weaver_6968,stamford hill_greater-anglia_6968,[6968],2.0,Behind Barrier
+stansted airport_cross-country_6834,stansted airport_greater-anglia_6834,[6834],2.0,Behind Barrier
+stansted airport_greater-anglia_6834,stansted airport_cross-country_6834,[6834],2.0,Behind Barrier
+stepney green_district_715,stepney green_hammersmith-city_715,[715],2.0,Behind Barrier
+stepney green_hammersmith-city_715,stepney green_district_715,[715],2.0,Behind Barrier
+stevenage_first-hull-trains_6092,stevenage_grand-central_6092,[6092],2.0,Behind Barrier
+stevenage_grand-central_6092,stevenage_first-hull-trains_6092,[6092],2.0,Behind Barrier
+stevenage_first-hull-trains_6092,stevenage_london-north-eastern-railway_6092,[6092],2.0,Behind Barrier
+stevenage_london-north-eastern-railway_6092,stevenage_first-hull-trains_6092,[6092],2.0,Behind Barrier
+stevenage_first-hull-trains_6092,stevenage_thameslink_6092,[6092],2.0,Behind Barrier
+stevenage_thameslink_6092,stevenage_first-hull-trains_6092,[6092],2.0,Behind Barrier
+stevenage_grand-central_6092,stevenage_london-north-eastern-railway_6092,[6092],2.0,Behind Barrier
+stevenage_london-north-eastern-railway_6092,stevenage_grand-central_6092,[6092],2.0,Behind Barrier
+stevenage_grand-central_6092,stevenage_thameslink_6092,[6092],2.0,Behind Barrier
+stevenage_thameslink_6092,stevenage_grand-central_6092,[6092],2.0,Behind Barrier
+stevenage_london-north-eastern-railway_6092,stevenage_thameslink_6092,[6092],2.0,Behind Barrier
+stevenage_thameslink_6092,stevenage_london-north-eastern-railway_6092,[6092],2.0,Behind Barrier
+stockwell_northern_716,stockwell_victoria_716,[716],2.0,Behind Barrier
+stockwell_victoria_716,stockwell_northern_716,[716],2.0,Behind Barrier
+stoke newington_greater-anglia_6934,stoke newington_weaver_6934,[6934],2.0,Behind Barrier
+stoke newington_weaver_6934,stoke newington_greater-anglia_6934,[6934],2.0,Behind Barrier
+stonebridge park_bakerloo_717,stonebridge park_lioness_717,[717],2.0,Behind Barrier
+stonebridge park_lioness_717,stonebridge park_bakerloo_717,[717],2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_c2c_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_c2c_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_central_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_central_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_dlr_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_dlr_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_elizabeth_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_elizabeth_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_greater-anglia_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_greater-anglia_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_jubilee_719, 6960","stratford_mildmay_719, 6960","[6960, 719]",2.0,Behind Barrier
+"stratford_mildmay_719, 6960","stratford_jubilee_719, 6960","[6960, 719]",2.0,Behind Barrier
+streatham_southern_5383,streatham_thameslink_5383,[5383],2.0,Behind Barrier
+streatham_thameslink_5383,streatham_southern_5383,[5383],2.0,Behind Barrier
+sutton surrey_southern_5385,sutton surrey_thameslink_5385,[5385],2.0,Behind Barrier
+sutton surrey_thameslink_5385,sutton surrey_southern_5385,[5385],2.0,Behind Barrier
+swanley_southeastern_5075,swanley_thameslink_5075,[5075],2.0,Behind Barrier
+swanley_thameslink_5075,swanley_southeastern_5075,[5075],2.0,Behind Barrier
+swanscombe_southeastern_5156,swanscombe_thameslink_5156,[5156],2.0,Behind Barrier
+swanscombe_thameslink_5156,swanscombe_southeastern_5156,[5156],2.0,Behind Barrier
+sydenham hill_southeastern_5085,sydenham hill_thameslink_5085,[5085],2.0,Behind Barrier
+sydenham hill_thameslink_5085,sydenham hill_southeastern_5085,[5085],2.0,Behind Barrier
+sydenham_southern_5437,sydenham_windrush_5437,[5437],2.0,Behind Barrier
+sydenham_windrush_5437,sydenham_southern_5437,[5437],2.0,Behind Barrier
+taplow_elizabeth_3151,taplow_great-western-railway_3151,[3151],2.0,Behind Barrier
+taplow_great-western-railway_3151,taplow_elizabeth_3151,[3151],2.0,Behind Barrier
+temple_circle_724,temple_district_724,[724],2.0,Behind Barrier
+temple_district_724,temple_circle_724,[724],2.0,Behind Barrier
+theobalds grove_greater-anglia_6949,theobalds grove_weaver_6949,[6949],2.0,Behind Barrier
+theobalds grove_weaver_6949,theobalds grove_greater-anglia_6949,[6949],2.0,Behind Barrier
+tonbridge_southeastern_5229,tonbridge_southern_5229,[5229],2.0,Behind Barrier
+tonbridge_southern_5229,tonbridge_southeastern_5229,[5229],2.0,Behind Barrier
+tooting_southern_5389,tooting_thameslink_5389,[5389],2.0,Behind Barrier
+tooting_thameslink_5389,tooting_southern_5389,[5389],2.0,Behind Barrier
+tottenham court road_central_728,tottenham court road_elizabeth_728,[728],2.0,Behind Barrier
+tottenham court road_elizabeth_728,tottenham court road_central_728,[728],2.0,Behind Barrier
+tottenham court road_central_728,tottenham court road_northern_728,[728],2.0,Behind Barrier
+tottenham court road_northern_728,tottenham court road_central_728,[728],2.0,Behind Barrier
+tottenham court road_elizabeth_728,tottenham court road_northern_728,[728],2.0,Behind Barrier
+tottenham court road_northern_728,tottenham court road_elizabeth_728,[728],2.0,Behind Barrier
+tower hill_circle_731,tower hill_district_731,[731],2.0,Behind Barrier
+tower hill_district_731,tower hill_circle_731,[731],2.0,Behind Barrier
+tulse hill_southern_5390,tulse hill_thameslink_5390,[5390],2.0,Behind Barrier
+tulse hill_thameslink_5390,tulse hill_southern_5390,[5390],2.0,Behind Barrier
+turkey street_greater-anglia_6952,turkey street_weaver_6952,[6952],2.0,Behind Barrier
+turkey street_weaver_6952,turkey street_greater-anglia_6952,[6952],2.0,Behind Barrier
+turnham green_district_734,turnham green_piccadilly_734,[734],2.0,Behind Barrier
+turnham green_piccadilly_734,turnham green_district_734,[734],2.0,Behind Barrier
+twyford_elizabeth_3155,twyford_great-western-railway_3155,[3155],2.0,Behind Barrier
+twyford_great-western-railway_3155,twyford_elizabeth_3155,[3155],2.0,Behind Barrier
+upminster_c2c_7464,upminster_district_7464,[7464],2.0,Behind Barrier
+upminster_district_7464,upminster_c2c_7464,[7464],2.0,Behind Barrier
+upminster_c2c_7464,upminster_liberty_7464,[7464],2.0,Behind Barrier
+upminster_liberty_7464,upminster_c2c_7464,[7464],2.0,Behind Barrier
+upminster_district_7464,upminster_liberty_7464,[7464],2.0,Behind Barrier
+upminster_liberty_7464,upminster_district_7464,[7464],2.0,Behind Barrier
+upper warlingham_southern_5391,upper warlingham_thameslink_5391,[5391],2.0,Behind Barrier
+upper warlingham_thameslink_5391,upper warlingham_southern_5391,[5391],2.0,Behind Barrier
+upton park_district_739,upton park_hammersmith-city_739,[739],2.0,Behind Barrier
+upton park_hammersmith-city_739,upton park_district_739,[739],2.0,Behind Barrier
+uxbridge_metropolitan_740,uxbridge_piccadilly_740,[740],2.0,Behind Barrier
+uxbridge_piccadilly_740,uxbridge_metropolitan_740,[740],2.0,Behind Barrier
+victoria_circle_741,"victoria_district_741, 722",[741],2.0,Behind Barrier
+"victoria_district_741, 722",victoria_circle_741,[741],2.0,Behind Barrier
+victoria_circle_741,victoria_victoria_741,[741],2.0,Behind Barrier
+victoria_victoria_741,victoria_circle_741,[741],2.0,Behind Barrier
+"victoria_district_741, 722",victoria_victoria_741,[741],2.0,Behind Barrier
+victoria_victoria_741,"victoria_district_741, 722",[741],2.0,Behind Barrier
+victoria_gatwick-express_5449,victoria_thameslink_5449,[5449],2.0,Behind Barrier
+victoria_thameslink_5449,victoria_gatwick-express_5449,[5449],2.0,Behind Barrier
+"victoria_southeastern_5426, 8558","victoria_southern_5426, 8558","[5426, 8558]",2.0,Behind Barrier
+"victoria_southern_5426, 8558","victoria_southeastern_5426, 8558","[5426, 8558]",2.0,Behind Barrier
+"walthamstow central_victoria_742, 6953","walthamstow central_weaver_742, 6953","[6953, 742]",2.0,Behind Barrier
+"walthamstow central_weaver_742, 6953","walthamstow central_victoria_742, 6953","[6953, 742]",2.0,Behind Barrier
+wandsworth road_southeastern_5372,wandsworth road_windrush_5372,[5372],2.0,Behind Barrier
+wandsworth road_windrush_5372,wandsworth road_southeastern_5372,[5372],2.0,Behind Barrier
+warren street_northern_745,warren street_victoria_745,[745],2.0,Behind Barrier
+warren street_victoria_745,warren street_northern_745,[745],2.0,Behind Barrier
+"waterloo_bakerloo_747, 796","waterloo_jubilee_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_jubilee_747, 796","waterloo_bakerloo_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_bakerloo_747, 796","waterloo_northern_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_northern_747, 796","waterloo_bakerloo_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_bakerloo_747, 796","waterloo_waterloo-city_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_waterloo-city_747, 796","waterloo_bakerloo_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_jubilee_747, 796","waterloo_northern_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_northern_747, 796","waterloo_jubilee_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_jubilee_747, 796","waterloo_waterloo-city_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_waterloo-city_747, 796","waterloo_jubilee_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_northern_747, 796","waterloo_waterloo-city_747, 796","[747, 796]",2.0,Behind Barrier
+"waterloo_waterloo-city_747, 796","waterloo_northern_747, 796","[747, 796]",2.0,Behind Barrier
+watford junction_lioness_1402,watford junction_london-midland_1402,[1402],2.0,Behind Barrier
+watford junction_london-midland_1402,watford junction_lioness_1402,[1402],2.0,Behind Barrier
+watford junction_lioness_1402,watford junction_southern_1402,[1402],2.0,Behind Barrier
+watford junction_southern_1402,watford junction_lioness_1402,[1402],2.0,Behind Barrier
+watford junction_lioness_1402,watford junction_virgin-trains_1402,[1402],2.0,Behind Barrier
+watford junction_virgin-trains_1402,watford junction_lioness_1402,[1402],2.0,Behind Barrier
+watford junction_lioness_1402,watford junction_west-midlands-trains_1402,[1402],2.0,Behind Barrier
+watford junction_west-midlands-trains_1402,watford junction_lioness_1402,[1402],2.0,Behind Barrier
+watford junction_london-midland_1402,watford junction_southern_1402,[1402],2.0,Behind Barrier
+watford junction_southern_1402,watford junction_london-midland_1402,[1402],2.0,Behind Barrier
+watford junction_london-midland_1402,watford junction_virgin-trains_1402,[1402],2.0,Behind Barrier
+watford junction_virgin-trains_1402,watford junction_london-midland_1402,[1402],2.0,Behind Barrier
+watford junction_london-midland_1402,watford junction_west-midlands-trains_1402,[1402],2.0,Behind Barrier
+watford junction_west-midlands-trains_1402,watford junction_london-midland_1402,[1402],2.0,Behind Barrier
+watford junction_southern_1402,watford junction_virgin-trains_1402,[1402],2.0,Behind Barrier
+watford junction_virgin-trains_1402,watford junction_southern_1402,[1402],2.0,Behind Barrier
+watford junction_southern_1402,watford junction_west-midlands-trains_1402,[1402],2.0,Behind Barrier
+watford junction_west-midlands-trains_1402,watford junction_southern_1402,[1402],2.0,Behind Barrier
+watford junction_virgin-trains_1402,watford junction_west-midlands-trains_1402,[1402],2.0,Behind Barrier
+watford junction_west-midlands-trains_1402,watford junction_virgin-trains_1402,[1402],2.0,Behind Barrier
+welwyn garden city_great-northern_6183,welwyn garden city_thameslink_6183,[6183],2.0,Behind Barrier
+welwyn garden city_thameslink_6183,welwyn garden city_great-northern_6183,[6183],2.0,Behind Barrier
+wembley central_bakerloo_751,wembley central_lioness_751,[751],2.0,Behind Barrier
+wembley central_lioness_751,wembley central_bakerloo_751,[751],2.0,Behind Barrier
+wembley central_bakerloo_751,wembley central_southern_751,[751],2.0,Behind Barrier
+wembley central_southern_751,wembley central_bakerloo_751,[751],2.0,Behind Barrier
+wembley central_bakerloo_751,wembley central_west-midlands-trains_751,[751],2.0,Behind Barrier
+wembley central_west-midlands-trains_751,wembley central_bakerloo_751,[751],2.0,Behind Barrier
+wembley central_lioness_751,wembley central_southern_751,[751],2.0,Behind Barrier
+wembley central_southern_751,wembley central_lioness_751,[751],2.0,Behind Barrier
+wembley central_lioness_751,wembley central_west-midlands-trains_751,[751],2.0,Behind Barrier
+wembley central_west-midlands-trains_751,wembley central_lioness_751,[751],2.0,Behind Barrier
+wembley central_southern_751,wembley central_west-midlands-trains_751,[751],2.0,Behind Barrier
+wembley central_west-midlands-trains_751,wembley central_southern_751,[751],2.0,Behind Barrier
+wembley park_jubilee_752,wembley park_metropolitan_752,[752],2.0,Behind Barrier
+wembley park_metropolitan_752,wembley park_jubilee_752,[752],2.0,Behind Barrier
+west brompton_district_755,west brompton_mildmay_755,[755],2.0,Behind Barrier
+west brompton_mildmay_755,west brompton_district_755,[755],2.0,Behind Barrier
+west brompton_district_755,west brompton_southern_755,[755],2.0,Behind Barrier
+west brompton_southern_755,west brompton_district_755,[755],2.0,Behind Barrier
+west brompton_mildmay_755,west brompton_southern_755,[755],2.0,Behind Barrier
+west brompton_southern_755,west brompton_mildmay_755,[755],2.0,Behind Barrier
+west croydon_southern_5411,west croydon_windrush_5411,[5411],2.0,Behind Barrier
+west croydon_windrush_5411,west croydon_southern_5411,[5411],2.0,Behind Barrier
+west drayton_elizabeth_3174,west drayton_great-western-railway_3174,[3174],2.0,Behind Barrier
+west drayton_great-western-railway_3174,west drayton_elizabeth_3174,[3174],2.0,Behind Barrier
+west dulwich_southeastern_5086,west dulwich_thameslink_5086,[5086],2.0,Behind Barrier
+west dulwich_thameslink_5086,west dulwich_southeastern_5086,[5086],2.0,Behind Barrier
+west ealing_chiltern-railways_3188,west ealing_elizabeth_3188,[3188],2.0,Behind Barrier
+west ealing_elizabeth_3188,west ealing_chiltern-railways_3188,[3188],2.0,Behind Barrier
+west ealing_chiltern-railways_3188,west ealing_great-western-railway_3188,[3188],2.0,Behind Barrier
+west ealing_great-western-railway_3188,west ealing_chiltern-railways_3188,[3188],2.0,Behind Barrier
+west ealing_elizabeth_3188,west ealing_great-western-railway_3188,[3188],2.0,Behind Barrier
+west ealing_great-western-railway_3188,west ealing_elizabeth_3188,[3188],2.0,Behind Barrier
+west ham_c2c_757,west ham_district_757,[757],2.0,Behind Barrier
+west ham_district_757,west ham_c2c_757,[757],2.0,Behind Barrier
+west ham_c2c_757,west ham_dlr_757,[757],2.0,Behind Barrier
+west ham_dlr_757,west ham_c2c_757,[757],2.0,Behind Barrier
+west ham_c2c_757,west ham_hammersmith-city_757,[757],2.0,Behind Barrier
+west ham_hammersmith-city_757,west ham_c2c_757,[757],2.0,Behind Barrier
+west ham_c2c_757,west ham_jubilee_757,[757],2.0,Behind Barrier
+west ham_jubilee_757,west ham_c2c_757,[757],2.0,Behind Barrier
+west ham_district_757,west ham_dlr_757,[757],2.0,Behind Barrier
+west ham_dlr_757,west ham_district_757,[757],2.0,Behind Barrier
+west ham_district_757,west ham_hammersmith-city_757,[757],2.0,Behind Barrier
+west ham_hammersmith-city_757,west ham_district_757,[757],2.0,Behind Barrier
+west ham_district_757,west ham_jubilee_757,[757],2.0,Behind Barrier
+west ham_jubilee_757,west ham_district_757,[757],2.0,Behind Barrier
+west ham_dlr_757,west ham_hammersmith-city_757,[757],2.0,Behind Barrier
+west ham_hammersmith-city_757,west ham_dlr_757,[757],2.0,Behind Barrier
+west ham_dlr_757,west ham_jubilee_757,[757],2.0,Behind Barrier
+west ham_jubilee_757,west ham_dlr_757,[757],2.0,Behind Barrier
+west ham_hammersmith-city_757,west ham_jubilee_757,[757],2.0,Behind Barrier
+west ham_jubilee_757,west ham_hammersmith-city_757,[757],2.0,Behind Barrier
+west ruislip_central_762,west ruislip_chiltern-railways_762,[762],2.0,Behind Barrier
+west ruislip_chiltern-railways_762,west ruislip_central_762,[762],2.0,Behind Barrier
+west sutton_southern_5293,west sutton_thameslink_5293,[5293],2.0,Behind Barrier
+west sutton_thameslink_5293,west sutton_southern_5293,[5293],2.0,Behind Barrier
+westbourne park_circle_754,westbourne park_hammersmith-city_754,[754],2.0,Behind Barrier
+westbourne park_hammersmith-city_754,westbourne park_circle_754,[754],2.0,Behind Barrier
+westcombe park_southeastern_5151,westcombe park_thameslink_5151,[5151],2.0,Behind Barrier
+westcombe park_thameslink_5151,westcombe park_southeastern_5151,[5151],2.0,Behind Barrier
+westminster_circle_761,westminster_district_761,[761],2.0,Behind Barrier
+westminster_district_761,westminster_circle_761,[761],2.0,Behind Barrier
+westminster_circle_761,westminster_jubilee_761,[761],2.0,Behind Barrier
+westminster_jubilee_761,westminster_circle_761,[761],2.0,Behind Barrier
+westminster_district_761,westminster_jubilee_761,[761],2.0,Behind Barrier
+westminster_jubilee_761,westminster_district_761,[761],2.0,Behind Barrier
+white hart lane_greater-anglia_6956,white hart lane_weaver_6956,[6956],2.0,Behind Barrier
+white hart lane_weaver_6956,white hart lane_greater-anglia_6956,[6956],2.0,Behind Barrier
+whitechapel_district_763,whitechapel_elizabeth_763,[763],2.0,Behind Barrier
+whitechapel_elizabeth_763,whitechapel_district_763,[763],2.0,Behind Barrier
+whitechapel_district_763,whitechapel_hammersmith-city_763,[763],2.0,Behind Barrier
+whitechapel_hammersmith-city_763,whitechapel_district_763,[763],2.0,Behind Barrier
+whitechapel_district_763,whitechapel_windrush_763,[763],2.0,Behind Barrier
+whitechapel_windrush_763,whitechapel_district_763,[763],2.0,Behind Barrier
+whitechapel_elizabeth_763,whitechapel_hammersmith-city_763,[763],2.0,Behind Barrier
+whitechapel_hammersmith-city_763,whitechapel_elizabeth_763,[763],2.0,Behind Barrier
+whitechapel_elizabeth_763,whitechapel_windrush_763,[763],2.0,Behind Barrier
+whitechapel_windrush_763,whitechapel_elizabeth_763,[763],2.0,Behind Barrier
+whitechapel_hammersmith-city_763,whitechapel_windrush_763,[763],2.0,Behind Barrier
+whitechapel_windrush_763,whitechapel_hammersmith-city_763,[763],2.0,Behind Barrier
+whyteleafe_southern_5396,whyteleafe_thameslink_5396,[5396],2.0,Behind Barrier
+whyteleafe_thameslink_5396,whyteleafe_southern_5396,[5396],2.0,Behind Barrier
+willesden green_jubilee_765,willesden green_metropolitan_765,[765],2.0,Behind Barrier
+willesden green_metropolitan_765,willesden green_jubilee_765,[765],2.0,Behind Barrier
+willesden junction_bakerloo_1457,willesden junction_lioness_1457,[1457],2.0,Behind Barrier
+willesden junction_lioness_1457,willesden junction_bakerloo_1457,[1457],2.0,Behind Barrier
+willesden junction_bakerloo_1457,willesden junction_mildmay_1457,[1457],2.0,Behind Barrier
+willesden junction_mildmay_1457,willesden junction_bakerloo_1457,[1457],2.0,Behind Barrier
+willesden junction_lioness_1457,willesden junction_mildmay_1457,[1457],2.0,Behind Barrier
+willesden junction_mildmay_1457,willesden junction_lioness_1457,[1457],2.0,Behind Barrier
+wimbledon chase_southern_5612,wimbledon chase_thameslink_5612,[5612],2.0,Behind Barrier
+wimbledon chase_thameslink_5612,wimbledon chase_southern_5612,[5612],2.0,Behind Barrier
+wimbledon_district_5578,wimbledon_south-western-railway_5578,[5578],2.0,Behind Barrier
+wimbledon_south-western-railway_5578,wimbledon_district_5578,[5578],2.0,Behind Barrier
+wimbledon_district_5578,wimbledon_southern_5578,[5578],2.0,Behind Barrier
+wimbledon_southern_5578,wimbledon_district_5578,[5578],2.0,Behind Barrier
+wimbledon_district_5578,wimbledon_thameslink_5578,[5578],2.0,Behind Barrier
+wimbledon_thameslink_5578,wimbledon_district_5578,[5578],2.0,Behind Barrier
+wimbledon_south-western-railway_5578,wimbledon_southern_5578,[5578],2.0,Behind Barrier
+wimbledon_southern_5578,wimbledon_south-western-railway_5578,[5578],2.0,Behind Barrier
+wimbledon_south-western-railway_5578,wimbledon_thameslink_5578,[5578],2.0,Behind Barrier
+wimbledon_thameslink_5578,wimbledon_south-western-railway_5578,[5578],2.0,Behind Barrier
+wimbledon_southern_5578,wimbledon_thameslink_5578,[5578],2.0,Behind Barrier
+wimbledon_thameslink_5578,wimbledon_southern_5578,[5578],2.0,Behind Barrier
+winnersh_great-western-railway_5697,winnersh_south-western-railway_5697,[5697],2.0,Behind Barrier
+winnersh_south-western-railway_5697,winnersh_great-western-railway_5697,[5697],2.0,Behind Barrier
+wokingham_great-western-railway_5696,wokingham_south-western-railway_5696,[5696],2.0,Behind Barrier
+wokingham_south-western-railway_5696,wokingham_great-western-railway_5696,[5696],2.0,Behind Barrier
+woldingham_southern_5440,woldingham_thameslink_5440,[5440],2.0,Behind Barrier
+woldingham_thameslink_5440,woldingham_southern_5440,[5440],2.0,Behind Barrier
+wood lane_circle_599,wood lane_hammersmith-city_599,[599],2.0,Behind Barrier
+wood lane_hammersmith-city_599,wood lane_circle_599,[599],2.0,Behind Barrier
+woolwich arsenal_southeastern_5152,woolwich arsenal_thameslink_5152,[5152],2.0,Behind Barrier
+woolwich arsenal_thameslink_5152,woolwich arsenal_southeastern_5152,[5152],2.0,Behind Barrier
+woolwich dockyard_southeastern_5153,woolwich dockyard_thameslink_5153,[5153],2.0,Behind Barrier
+woolwich dockyard_thameslink_5153,woolwich dockyard_southeastern_5153,[5153],2.0,Behind Barrier

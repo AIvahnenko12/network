@@ -1,0 +1,70 @@
+Line,From_Station,To_Station,Error_Reason
+Bakerloo,South Kenton Underground Station,North Wembley Underground Station,Success
+Bakerloo,Regent's Park Underground Station,Oxford Circus Underground Station,Request Exception
+Bakerloo,Lambeth North Underground Station,Waterloo Underground Station,Success
+Central,East Acton Underground Station,North Acton Underground Station,Request Exception
+Circle,Barbican Underground Station,Farringdon Underground Station,Success
+Circle,Shepherd's Bush Market Underground Station,Wood Lane Underground Station,Success
+Circle,Farringdon Underground Station,Barbican Underground Station,Success
+Circle,Cannon Street Underground Station,Mansion House Underground Station,Success
+District,Hammersmith (Dist&Picc Line) Underground Station,Ravenscourt Park Underground Station,Request Exception
+DLR,Deptford Bridge DLR Station,Elverson Road DLR Station,Request Exception
+DLR,Canning Town DLR Station,West Silvertown DLR Station,Request Exception
+DLR,Stratford DLR Station,Stratford International DLR Station,Request Exception
+DLR,West Ham DLR Station,Star Lane DLR Station,Request Exception
+DLR,Star Lane DLR Station,Canning Town DLR Station,Request Exception
+Elizabeth line,Hayes & Harlington Rail Station,Southall Rail Station,Success
+Elizabeth line,Paddington,Acton Main Line Rail Station,Request Exception
+Elizabeth line,Ealing Broadway Rail Station,West Ealing Rail Station,Request Exception
+Elizabeth line,Burnham (Berks) Rail Station,Slough Rail Station,Request Exception
+Elizabeth line,West Drayton Rail Station,Hayes & Harlington Rail Station,Request Exception
+Elizabeth line,West Drayton Rail Station,Iver Rail Station,Request Exception
+Elizabeth line,Iver Rail Station,Langley (Berks) Rail Station,Request Exception
+Elizabeth line,Twyford Rail Station,Reading Rail Station,Request Exception
+Jubilee,West Ham Underground Station,Canning Town Underground Station,Request Exception
+Jubilee,Canary Wharf Underground Station,Canada Water Underground Station,Request Exception
+Metropolitan,Farringdon Underground Station,Barbican Underground Station,Success
+Metropolitan,Moorgate Underground Station,Barbican Underground Station,Success
+Metropolitan,Barbican Underground Station,Farringdon Underground Station,Success
+Mildmay,Clapham Junction Rail Station,Imperial Wharf Rail Station,Success
+Mildmay,Finchley Road & Frognal Rail Station,West Hampstead Rail Station,Success
+Mildmay,Imperial Wharf Rail Station,Clapham Junction Rail Station,Request Exception
+Northern,Tottenham Court Road Underground Station,Leicester Square Underground Station,Success
+Northern,Leicester Square Underground Station,Charing Cross Underground Station,Request Exception
+Northern,Charing Cross Underground Station,Embankment Underground Station,Success
+Northern,Oval Underground Station,Kennington Underground Station,Request Exception
+Northern,Embankment Underground Station,Charing Cross Underground Station,Success
+Northern,Totteridge & Whetstone Underground Station,High Barnet Underground Station,Request Exception
+Piccadilly,Knightsbridge Underground Station,South Kensington Underground Station,Success
+Piccadilly,Hammersmith (Dist&Picc Line) Underground Station,Barons Court Underground Station,Success
+Southern,Balham Rail Station,Wandsworth Common Rail Station,HTTP 503
+Southern,Clapham Junction Rail Station,Battersea Park Rail Station,HTTP 503
+Southern,London Victoria Rail Station,Battersea Park Rail Station,Success
+Southern,Whyteleafe South Rail Station,Caterham Rail Station,Request Exception
+Southern,East Croydon Rail Station,South Croydon Rail Station,Success
+Southern,Sutton (London) Rail Station,Belmont Rail Station,Request Exception
+Southern,South Croydon Rail Station,East Croydon Rail Station,Request Exception
+Southern,Purley Rail Station,Coulsdon South Rail Station,Request Exception
+Southern,Horley Rail Station,Gatwick Airport Rail Station,Request Exception
+Southern,Watford Junction Rail Station,Harrow & Wealdstone Rail Station,Request Exception
+Southern,Kensington (Olympia) Rail Station,West Brompton Rail Station,Request Exception
+Southern,Norbury Rail Station,Thornton Heath Rail Station,Request Exception
+Southern,Earlswood (Surrey) Rail Station,Redhill Rail Station,Request Exception
+Southern,Purley Rail Station,Purley Oaks Rail Station,Request Exception
+Southern,Balham Rail Station,Streatham Common Rail Station,Request Exception
+Southern,Purley Rail Station,Coulsdon South Rail Station,Success
+Southern,Redhill Rail Station,Earlswood (Surrey) Rail Station,Request Exception
+Southern,East Croydon Rail Station,Norwood Junction Rail Station,Request Exception
+Southern,South Croydon Rail Station,Purley Rail Station,Request Exception
+Southern,London Bridge Rail Station,Norwood Junction Rail Station,Request Exception
+Southern,Norwood Junction Rail Station,London Bridge Rail Station,Request Exception
+Southern,Clapham Junction Rail Station,London Victoria Rail Station,Request Exception
+Southern,Clapham Junction Rail Station,Selhurst Rail Station,Request Exception
+Southern,Coulsdon South Rail Station,Merstham Rail Station,Request Exception
+Thameslink,Purley Rail Station,Coulsdon South Rail Station,Success
+Thameslink,St Helier (London) Rail Station,Morden South Rail Station,HTTP 500
+Thameslink,Brent Cross West Station,Hendon Rail Station,Success
+Thameslink,St Helier (London) Rail Station,Sutton Common Rail Station,Request Exception
+Thameslink,Charlton Rail Station,Woolwich Arsenal Rail Station,Request Exception
+Thameslink,Strood Rail Station,Rochester Rail Station,Request Exception
+Windrush,Crystal Palace Rail Station,Sydenham Rail Station,Request Exception
