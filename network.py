@@ -1,83 +1,74 @@
 # ==============================================================================
-# DATABRICKS PYSPARK NETWORK GRAPH & DELTA TABLE BUILDER (NO GRAPHFRAMES)
+# UNIFIED NETWORK GRAPH BUILDER WITH INTEGRATED WAIT TIMES
 # ==============================================================================
-# Combines travel times, interchanges, wait times, and station reference nodes 
-# into clean Delta tables ready for NetworkX pathfinding and routing analytics.
-# ==============================================================================
-
+import networkx as px_net
 from pyspark.sql import functions as F
 
-# 1. Load core network components from Delta tables
+# 1. Load core tables
 travel_times_df = spark.table("adjacent_station_travel_times")
 interchanges_df = spark.table("behind_barrier_interchanges")
 ref_df = spark.table("station_reference")
 
-print(
-    f"Loaded tables -> Travel Edges: {travel_times_df.count():,}, Interchanges:"
-    f" {interchanges_df.count():,}"
-)
-
-# 2. Build Unified Vertices (Nodes) Table with dynamic Node_ID generation
+# 2. Build Vertices
 vertices_df = (
     ref_df.filter(~F.col("Line").isin(["tfl-rail", "london-overground"]))
     .withColumn(
         "id",
-        F.concat_ws(
-            "_",
-            F.col("Station"),
-            F.col("Line"),
-            F.col("Gate_NLC"),
-        ),
+        F.concat_ws("_", F.col("Station"), F.col("Line"), F.col("Gate_NLC")),
     )
     .select(
         F.col("id"),
         F.col("Station").alias("station_name"),
         F.col("Line").alias("line"),
-        F.col("NaPTAN").alias("naptan"),
-        F.col("ICS").alias("ics"),
-        F.col("Gate_NLC").alias("gate_nlc"),
     )
     .dropDuplicates(["id"])
 )
 
-print(f"Total unique network vertices (nodes): {vertices_df.count():,}")
+# 3. Define default mode/line wait lookup dictionary for routing weights
+line_wait_lookup = {
+    "victoria": 2.5,
+    "jubilee": 2.5,
+    "northern": 2.5,
+    "central": 2.5,
+    "bakerloo": 2.5,
+    "piccadilly": 2.5,
+    "district": 2.5,
+    "circle": 2.5,
+    "hammersmith-city": 2.5,
+    "metropolitan": 2.5,
+    "waterloo-city": 2.5,
+    "dlr": 2.5,
+    "elizabeth": 2.0,
+    "overground": 5.0,
+}
 
-# 3. Standardize and Unify Edges Table
-train_edges = travel_times_df.select(
+# 4. Build Edges in Pandas for NetworkX conversion (including wait time penalty on train runs)
+pdf_train = travel_times_df.select(
     F.col("From_Node_ID").alias("src"),
     F.col("To_Node_ID").alias("dst"),
-    F.col("Travel_Time_Mins").cast("double").alias("weight"),
-    F.lit("Train Run").alias("edge_type"),
+    F.col("Travel_Time_Mins").cast("double").alias("run_time"),
     F.col("Line").alias("line"),
-)
+).toPandas()
 
-interchange_edges = interchanges_df.select(
+# Add default wait time to train travel time (Total Edge Cost = Run Time + Wait Time)
+pdf_train["default_wait"] = pdf_train["line"].apply(
+    lambda l: line_wait_lookup.get(str(l).lower().strip(), 3.0)
+)
+pdf_train["weight"] = pdf_train["run_time"] + pdf_train["default_wait"]
+pdf_train["edge_type"] = "Train Run"
+
+pdf_interchange = interchanges_df.select(
     F.col("From_Node_ID").alias("src"),
     F.col("To_Node_ID").alias("dst"),
     F.col("Interchange_Time_Mins").cast("double").alias("weight"),
-    F.lit("Interchange").alias("edge_type"),
     F.lit("Walk/Transfer").alias("line"),
-)
+    F.lit("Interchange").alias("edge_type"),
+).toPandas()
 
-edges_df = train_edges.unionByName(interchange_edges).dropDuplicates(
-    ["src", "dst", "edge_type", "line"]
-)
+# Combine edges
+pdf_edges = pd.concat([pdf_train, pdf_interchange], ignore_index=True)
 
-print(f"Total unified directional network edges: {edges_df.count():,}")
-
-# 4. Save Unified Network Graph to Delta Tables
-vertices_df.write.mode("overwrite").saveAsTable("rail_network_vertices")
-edges_df.write.mode("overwrite").saveAsTable("rail_network_edges")
-
-print("Successfully saved unified network tables:")
-print("  - rail_network_vertices")
-print("  - rail_network_edges")
-
-# 5. Optional: Quick NetworkX conversion for routing / shortest-path audits in Python
-import networkx as px_net
-
-# Convert Spark edges to Pandas for lightweight NetworkX graph creation
-pdf_edges = edges_df.select("src", "dst", "weight", "edge_type", "line").toPandas()
+# 5. Build NetworkX DiGraph
 G = px_net.from_pandas_edgelist(
     pdf_edges,
     source="src",
@@ -87,6 +78,6 @@ G = px_net.from_pandas_edgelist(
 )
 
 print(
-    f"\nNetworkX DiGraph successfully loaded! Graph summary: {G.number_of_nodes():,}"
-    f" nodes, {G.number_of_edges():,} edges."
+    f"Successfully built clean NetworkX graph: {G.number_of_nodes():,} nodes,"
+    f" {G.number_of_edges():,} edges (Wait times factored into edge weights)."
 )
