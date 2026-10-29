@@ -1,8 +1,8 @@
 # ==============================================================================
-# DATABRICKS PYSPARK MULTI-MODAL RAIL NETWORK GRAPH BUILDER
+# DATABRICKS PYSPARK NETWORK GRAPH & DELTA TABLE BUILDER (NO GRAPHFRAMES)
 # ==============================================================================
-# Combines adjacent travel times, behind-the-barrier interchanges, line wait times, 
-# and station reference nodes into a unified GraphFrames directed network graph.
+# Combines travel times, interchanges, wait times, and station reference nodes 
+# into clean Delta tables ready for NetworkX pathfinding and routing analytics.
 # ==============================================================================
 
 from pyspark.sql import functions as F
@@ -10,34 +10,27 @@ from pyspark.sql import functions as F
 # 1. Load core network components from Delta tables
 travel_times_df = spark.table("adjacent_station_travel_times")
 interchanges_df = spark.table("behind_barrier_interchanges")
-wait_times_df = spark.table("line_wait_times")
 ref_df = spark.table("station_reference")
 
 print(
     f"Loaded tables -> Travel Edges: {travel_times_df.count():,}, Interchanges:"
-    f" {interchanges_df.count():,}, Wait Times: {wait_times_df.count():,}"
+    f" {interchanges_df.count():,}"
 )
 
-# 2. Build Unified Vertices (Nodes) Table
-# Each unique Node_ID represents a specific platform/line node in the network
+# 2. Build Unified Vertices (Nodes) Table with dynamic Node_ID generation
 vertices_df = (
-    ref_df.filter(
-        ~F.col("Line").isin(["tfl-rail", "london-overground"])
-    )  # Exclude redundant operators
+    ref_df.filter(~F.col("Line").isin(["tfl-rail", "london-overground"]))
     .withColumn(
         "id",
-        F.coalesce(
-            F.col("Node_ID"),
-            F.concat_ws(
-                "_",
-                F.col("Station"),
-                F.col("Line"),
-                F.col("Gate_NLC"),
-            ),
+        F.concat_ws(
+            "_",
+            F.col("Station"),
+            F.col("Line"),
+            F.col("Gate_NLC"),
         ),
     )
     .select(
-        "id",
+        F.col("id"),
         F.col("Station").alias("station_name"),
         F.col("Line").alias("line"),
         F.col("NaPTAN").alias("naptan"),
@@ -50,7 +43,6 @@ vertices_df = (
 print(f"Total unique network vertices (nodes): {vertices_df.count():,}")
 
 # 3. Standardize and Unify Edges Table
-# Normalize travel time edges
 train_edges = travel_times_df.select(
     F.col("From_Node_ID").alias("src"),
     F.col("To_Node_ID").alias("dst"),
@@ -59,7 +51,6 @@ train_edges = travel_times_df.select(
     F.col("Line").alias("line"),
 )
 
-# Normalize behind-the-barrier interchange edges
 interchange_edges = interchanges_df.select(
     F.col("From_Node_ID").alias("src"),
     F.col("To_Node_ID").alias("dst"),
@@ -68,7 +59,6 @@ interchange_edges = interchanges_df.select(
     F.lit("Walk/Transfer").alias("line"),
 )
 
-# Combine into a single directional network edge DataFrame
 edges_df = train_edges.unionByName(interchange_edges).dropDuplicates(
     ["src", "dst", "edge_type", "line"]
 )
@@ -79,22 +69,24 @@ print(f"Total unified directional network edges: {edges_df.count():,}")
 vertices_df.write.mode("overwrite").saveAsTable("rail_network_vertices")
 edges_df.write.mode("overwrite").saveAsTable("rail_network_edges")
 
-print("Successfully saved unified network graph tables:")
+print("Successfully saved unified network tables:")
 print("  - rail_network_vertices")
 print("  - rail_network_edges")
 
-# 5. Optional: Initialize GraphFrames Graph (if GraphFrames package is attached to cluster)
-try:
-  from graphframes import GraphFrame
+# 5. Optional: Quick NetworkX conversion for routing / shortest-path audits in Python
+import networkx as px_net
 
-  g = GraphFrame(vertices_df, edges_df)
-  print(
-      "\nGraphFrames Graph successfully initialized! Graph summary:"
-      f" {g.vertices.count():,} vertices, {g.edges.count():,} edges."
-  )
-except Exception as e:
-  print(
-      "\nNote: GraphFrames library not attached to cluster environment (Tables"
-      " are successfully saved as Delta tables for Spark SQL / GraphX routing"
-      f" anyway). Details: {e}"
-  )
+# Convert Spark edges to Pandas for lightweight NetworkX graph creation
+pdf_edges = edges_df.select("src", "dst", "weight", "edge_type", "line").toPandas()
+G = px_net.from_pandas_edgelist(
+    pdf_edges,
+    source="src",
+    target="dst",
+    edge_attr=["weight", "edge_type", "line"],
+    create_using=px_net.DiGraph(),
+)
+
+print(
+    f"\nNetworkX DiGraph successfully loaded! Graph summary: {G.number_of_nodes():,}"
+    f" nodes, {G.number_of_edges():,} edges."
+)
