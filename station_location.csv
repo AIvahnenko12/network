@@ -1,0 +1,689 @@
+line,station,Node_ID,lat,lon
+bakerloo,Harrow & Wealdstone,harrow & wealdstone_bakerloo_597,51.592268,-0.335217
+bakerloo,Kenton,kenton_bakerloo_620,51.581756,-0.31691
+bakerloo,South Kenton,south kenton_bakerloo_709,51.570232,-0.308433
+bakerloo,North Wembley,north wembley_bakerloo_659,51.562551,-0.304
+bakerloo,Wembley Central,wembley central_bakerloo_751,51.552304,-0.296852
+bakerloo,Stonebridge Park,stonebridge park_bakerloo_717,51.543959,-0.275892
+bakerloo,Harlesden,harlesden_bakerloo_596,51.53631,-0.257883
+bakerloo,Willesden Junction,willesden junction_bakerloo_1457,51.532259,-0.244283
+bakerloo,Kensal Green,kensal green_bakerloo_617,51.530539,-0.225016
+bakerloo,Queens Park,queens park_bakerloo_680,51.534158,-0.204574
+bakerloo,Kilburn Park,kilburn park_bakerloo_623,51.534979,-0.194232
+bakerloo,Maida Vale,maida vale_bakerloo_637,51.529777,-0.185758
+bakerloo,Warwick Avenue,warwick avenue_bakerloo_746,51.523263,-0.183783
+bakerloo,Paddington,paddington_bakerloo_670,51.516581,-0.175689
+bakerloo,Edgware Road,edgware road_bakerloo_774,51.520299,-0.17015
+bakerloo,Marylebone,marylebone_bakerloo_641,51.522322,-0.163207
+bakerloo,Baker Street,baker street_bakerloo_511,51.522883,-0.15713
+bakerloo,Regents Park,regents park_bakerloo_685,51.523344,-0.146444
+bakerloo,Oxford Circus,oxford circus_bakerloo_669,51.515224,-0.141903
+bakerloo,Piccadilly Circus,piccadilly circus_bakerloo_674,51.51005,-0.133798
+bakerloo,Charing Cross,charing cross_bakerloo_732,51.50741,-0.127277
+bakerloo,Embankment,embankment_bakerloo_542,51.507058,-0.122666
+bakerloo,Waterloo,waterloo_bakerloo_747,51.503299,-0.11478
+bakerloo,Lambeth North,lambeth north_bakerloo_628,51.498808,-0.112315
+bakerloo,Elephant & Castle,elephant & castle_bakerloo_570,51.494536,-0.100606
+c2c,Shoeburyness,shoeburyness_c2c_7455,51.530973,0.795345
+c2c,Thorpe Bay,thorpe bay_c2c_7460,51.53757,0.761728
+c2c,Southend East,southend east_c2c_7457,51.538973,0.731815
+c2c,Southend Central,southend central_c2c_7456,51.537065,0.711727
+c2c,Westcliff,westcliff_c2c_7476,51.537334,0.691466
+c2c,Chalkwell,chalkwell_c2c_7469,51.538719,0.670593
+c2c,Leigh-on-Sea,leigh-on-sea_c2c_7446,51.541273,0.640411
+c2c,Benfleet,benfleet_c2c_7439,51.543945,0.561713
+c2c,Barking,barking_c2c_7492,51.539495,0.080903
+c2c,West Ham,west ham_c2c_7474,51.528489,0.005431
+c2c,Limehouse,limehouse_c2c_7491,51.512537,-0.039803
+c2c,Pitsea,pitsea_c2c_7452,51.560359,0.506293
+c2c,Stanford-le-Hope,stanford-le-hope_c2c_7458,51.514364,0.423036
+c2c,East Tilbury,east tilbury_c2c_7471,51.484831,0.412928
+c2c,Tilbury Town,tilbury town_c2c_7462,51.462359,0.354039
+c2c,Grays,grays_c2c_7443,51.476248,0.321832
+c2c,Purfleet,purfleet_c2c_7453,51.481013,0.236767
+c2c,Rainham Essex,rainham essex_c2c_7454,51.516723,0.190634
+c2c,Dagenham Dock,dagenham dock_c2c_7440,51.52624,0.14666
+c2c,Fenchurch Street,fenchurch street_c2c_7490,51.511646,-0.078897
+c2c,Stratford,stratford_c2c_6969,51.541895,-0.003397
+c2c,Liverpool Street,liverpool street_c2c_6965,51.517991,-0.081426
+c2c,Basildon,basildon_c2c_7494,51.568106,0.456789
+c2c,Laindon,laindon_c2c_7445,51.567524,0.424289
+c2c,West Horndon,west horndon_c2c_7466,51.567945,0.340644
+c2c,Upminster,upminster_c2c_7464,51.559018,0.25088
+c2c,Ockendon,ockendon_c2c_7451,51.521992,0.290469
+c2c,Chafford Hundred,chafford hundred_c2c_7447,51.485557,0.287447
+central,Epping,epping_central_572,51.69368,0.113767
+central,Theydon Bois,theydon bois_central_725,51.671759,0.103085
+central,Debden,debden_central_557,51.645386,0.083782
+central,Loughton,loughton_central_636,51.641443,0.055476
+central,Buckhurst Hill,buckhurst hill_central_531,51.626605,0.046757
+central,Woodford,woodford_central_769,51.606899,0.03397
+central,South Woodford,south woodford_central_712,51.591907,0.027338
+central,Snaresbrook,snaresbrook_central_703,51.580678,0.02144
+central,Leytonstone,leytonstone_central_633,51.568324,0.008194
+central,Leyton,leyton_central_632,51.556589,-0.005523
+central,Stratford,stratford_central_719,51.541806,-0.003458
+central,Mile End,mile end_central_642,51.525122,-0.03364
+central,Bethnal Green,bethnal green_central_520,51.527222,-0.055506
+central,Liverpool Street,liverpool street_central_634,51.517372,-0.083182
+central,Bank,bank_central_513,51.513132,-0.090047
+central,St Pauls,st pauls_central_697,51.514936,-0.097567
+central,Chancery Lane,chancery lane_central_541,51.518247,-0.111583
+central,Holborn,holborn_central_607,51.51758,-0.120475
+central,Tottenham Court Road,tottenham court road_central_728,51.516426,-0.13041
+central,Oxford Circus,oxford circus_central_669,51.515224,-0.141903
+central,Bond Street,bond street_central_524,51.514304,-0.149723
+central,Marble Arch,marble arch_central_640,51.513424,-0.158953
+central,Lancaster Gate,lancaster gate_central_629,51.511723,-0.175494
+central,Queensway,queensway_central_681,51.510312,-0.187152
+central,Notting Hill Gate,notting hill gate_central_663,51.509128,-0.196104
+central,Holland Park,holland park_central_608,51.507143,-0.205679
+central,Shepherds Bush,shepherds bush_central_700,51.504376,-0.218813
+central,White City,white city_central_764,51.511959,-0.224297
+central,East Acton,east acton_central_563,51.516612,-0.247248
+central,North Acton,north acton_central_653,51.523524,-0.259755
+central,Hanger Lane,hanger lane_central_595,51.530177,-0.292704
+central,Perivale,perivale_central_673,51.536717,-0.323446
+central,Greenford,greenford_central_589,51.542424,-0.34605
+central,Northolt,northolt_central_657,51.548236,-0.368699
+central,South Ruislip,south ruislip_central_710,51.556853,-0.398915
+central,Ruislip Gardens,ruislip gardens_central_692,51.560736,-0.41071
+central,West Ruislip,west ruislip_central_762,51.569688,-0.437886
+central,Hainault,hainault_central_592,51.603659,0.093482
+central,Fairlop,fairlop_central_576,51.595618,0.091004
+central,Barkingside,barkingside_central_515,51.585689,0.088585
+central,Newbury Park,newbury park_central_650,51.575726,0.090004
+central,Gants Hill,gants hill_central_582,51.576544,0.066185
+central,Redbridge,redbridge_central_684,51.576243,0.04536
+central,Wanstead,wanstead_central_743,51.575501,0.028527
+central,Grange Hill,grange hill_central_587,51.613378,0.092066
+central,Chigwell,chigwell_central_544,51.617916,0.075041
+central,Roding Valley,roding valley_central_688,51.617199,0.043647
+central,West Acton,west acton_central_753,51.518001,-0.28098
+central,Ealing Broadway,ealing broadway_central_560,51.515017,-0.301457
+circle,Edgware Road,edgware road_circle_569,51.519858,-0.167832
+circle,Paddington,paddington_circle_670,51.516581,-0.175689
+circle,Bayswater,bayswater_circle_517,51.512284,-0.187938
+circle,Notting Hill Gate,notting hill gate_circle_663,51.509128,-0.196104
+circle,High Street Kensington,high street kensington_circle_605,51.501055,-0.192792
+circle,Gloucester Road,gloucester road_circle_583,51.494316,-0.182658
+circle,South Kensington,south kensington_circle_708,51.494094,-0.174138
+circle,Sloane Square,sloane square_circle_702,51.49227,-0.156377
+circle,Victoria,victoria_circle_741,51.496359,-0.143102
+circle,St James's Park,st james's park_circle_695,51.499544,-0.133608
+circle,Westminster,westminster_circle_761,51.50132,-0.124861
+circle,Embankment,embankment_circle_542,51.507058,-0.122666
+circle,Temple,temple_circle_724,51.511006,-0.11426
+circle,Blackfriars,blackfriars_circle_521,51.511581,-0.103659
+circle,Mansion House,mansion house_circle_639,51.512117,-0.094009
+circle,Cannon Street,cannon street_circle_536,51.51151,-0.090432
+circle,Monument,monument_circle_644,51.5107,-0.085969
+circle,Tower Hill,tower hill_circle_731,51.509971,-0.076546
+circle,Aldgate,aldgate_circle_502,51.514246,-0.075689
+circle,Liverpool Street,liverpool street_circle_634,51.517372,-0.083182
+circle,Moorgate,moorgate_circle_645,51.518176,-0.088322
+circle,Barbican,barbican_circle_501,51.520275,-0.097993
+circle,Farringdon,farringdon_circle_577,51.520252,-0.104913
+circle,Kings Cross,kings cross_circle_600,51.530663,-0.123194
+circle,Euston Square,euston square_circle_575,51.525604,-0.135829
+circle,Great Portland Street,great portland street_circle_588,51.52384,-0.144262
+circle,Baker Street,baker street_circle_511,51.522883,-0.15713
+circle,Royal Oak,royal oak_circle_690,51.519113,-0.188748
+circle,Westbourne Park,westbourne park_circle_754,51.52111,-0.201065
+circle,Ladbroke Grove,ladbroke grove_circle_627,51.517449,-0.210391
+circle,Latimer Road,latimer road_circle_630,51.513389,-0.217799
+circle,Wood Lane,wood lane_circle_599,51.509669,-0.22453
+circle,Shepherds Bush,shepherds bush_circle_775,51.505579,-0.226375
+circle,Goldhawk Road,goldhawk road_circle_585,51.502005,-0.226715
+circle,Hammersmith,hammersmith_circle_773,51.49339,-0.22503
+dlr,Lewisham,lewisham_dlr_940,51.464665,-0.012874
+dlr,Elverson Road,elverson road_dlr_898,51.469074,-0.016728
+dlr,Deptford Bridge,deptford bridge_dlr_897,51.474215,-0.022438
+dlr,Greenwich,greenwich_dlr_928,51.478087,-0.013673
+dlr,Cutty Sark,cutty sark_dlr_879,51.481671,-0.01081
+dlr,Island Gardens,island gardens_dlr_856,51.487811,-0.010139
+dlr,Mudchute,mudchute_dlr_857,51.490704,-0.014738
+dlr,Crossharbour,crossharbour_dlr_854,51.495728,-0.014606
+dlr,South Quay,south quay_dlr_861,51.50005,-0.015975
+dlr,Heron Quays,heron quays_dlr_855,51.503379,-0.021421
+dlr,Canary Wharf,canary wharf_dlr_842,51.504838,-0.020997
+dlr,West India Quay,west india quay_dlr_866,51.50703,-0.020311
+dlr,Poplar,poplar_dlr_858,51.507744,-0.017384
+dlr,All Saints,all saints_dlr_850,51.511,-0.013135
+dlr,Langdon Park,langdon park_dlr_853,51.515172,-0.01415
+dlr,Devons Road,devons road_dlr_867,51.522667,-0.017615
+dlr,Bow Church,bow church_dlr_851,51.527858,-0.020936
+dlr,Pudding Mill Lane,pudding mill lane_dlr_859,51.534302,-0.012755
+dlr,Westferry,westferry_dlr_865,51.509431,-0.02675
+dlr,Limehouse,limehouse_dlr_862,51.512393,-0.039809
+dlr,Shadwell,shadwell_dlr_860,51.511693,-0.056643
+dlr,Beckton,beckton_dlr_895,51.514362,0.061453
+dlr,Gallions Reach,gallions reach_dlr_894,51.508941,0.071555
+dlr,Cyprus,cyprus_dlr_893,51.508473,0.063925
+dlr,Beckton Park,beckton park_dlr_891,51.508793,0.054932
+dlr,Royal Albert,royal albert_dlr_890,51.508357,0.045935
+dlr,Prince Regent,prince regent_dlr_888,51.509263,0.034158
+dlr,Custom House,custom house_dlr_887,51.509716,0.026699
+dlr,Royal Victoria,royal victoria_dlr_886,51.509336,0.018497
+dlr,Canning Town,canning town_dlr_884,51.514127,0.008101
+dlr,East India,east india_dlr_883,51.509359,-0.002326
+dlr,Blackwall,blackwall_dlr_882,51.507991,-0.006969
+dlr,Tower Gateway,tower gateway_dlr_864,51.510617,-0.074818
+dlr,Bank,bank_dlr_513,51.513233,-0.088515
+dlr,Woolwich Arsenal,woolwich arsenal_dlr_573,51.490009,0.069127
+dlr,King George V,king george v_dlr_523,51.502003,0.062624
+dlr,London City Airport,london city airport_dlr_533,51.503416,0.048739
+dlr,Pontoon Dock,pontoon dock_dlr_538,51.502212,0.032115
+dlr,West Silvertown,west silvertown_dlr_559,51.502838,0.02246
+dlr,Star Lane,star lane_dlr_889,51.520786,0.004156
+dlr,West Ham,west ham_dlr_757,51.527894,0.004482
+dlr,Abbey Road,abbey road_dlr_750,51.531926,0.003737
+dlr,Stratford High Street,stratford high street_dlr_749,51.538196,-0.001078
+dlr,Stratford,stratford_dlr_719,51.541758,-0.003287
+dlr,Stratford International,stratford international_dlr_504,51.545265,-0.009638
+east-midlands-railway,Luton Airport Parkway,luton airport parkway_east-midlands-railway_3645,51.872438,-0.395881
+east-midlands-railway,Luton,luton_east-midlands-railway_1536,51.882305,-0.41404
+elizabeth,Heathrow T4,heathrow t4_elizabeth_7091,51.458268,-0.445463
+elizabeth,Heathrow T123,heathrow t123_elizabeth_7090,51.471987,-0.454788
+elizabeth,Hayes & Harlington,hayes & harlington_elizabeth_3186,51.503096,-0.420683
+elizabeth,Southall,southall_elizabeth_3187,51.505957,-0.37861
+elizabeth,Hanwell,hanwell_elizabeth_3191,51.511835,-0.338583
+elizabeth,West Ealing,west ealing_elizabeth_3188,51.513506,-0.320133
+elizabeth,Paddington,paddington_elizabeth_6552,51.516449,-0.177107
+elizabeth,Bond Street,bond street_elizabeth_6553,51.51369,-0.149517
+elizabeth,Tottenham Court Road,tottenham court road_elizabeth_6556,51.515005,-0.130396
+elizabeth,Farringdon,farringdon_elizabeth_577,51.520189,-0.104915
+elizabeth,Liverpool Street,liverpool street_elizabeth_6594,51.517721,-0.082043
+elizabeth,Whitechapel,whitechapel_elizabeth_4935,51.520392,-0.060121
+elizabeth,Stratford,stratford_elizabeth_6969,51.541895,-0.003397
+elizabeth,Maryland,maryland_elizabeth_6970,51.546081,0.005815
+elizabeth,Forest Gate,forest gate_elizabeth_6876,51.549432,0.024353
+elizabeth,Manor Park,manor park_elizabeth_6883,51.552477,0.046342
+elizabeth,Ilford,ilford_elizabeth_6881,51.559118,0.06968
+elizabeth,Chadwell Heath,chadwell heath_elizabeth_6874,51.568039,0.128958
+elizabeth,Romford,romford_elizabeth_6886,51.574829,0.183237
+elizabeth,Gidea Park,gidea park_elizabeth_6877,51.581904,0.205964
+elizabeth,Heathrow T5,heathrow t5_elizabeth_9846,51.470053,-0.490589
+elizabeth,Harold Wood,harold wood_elizabeth_6879,51.592766,0.233129
+elizabeth,Seven Kings,seven kings_elizabeth_6893,51.564026,0.0971
+elizabeth,Ealing Broadway,ealing broadway_elizabeth_3190,51.514841,-0.301752
+elizabeth,Woolwich,woolwich_elizabeth_6562,51.492168,0.070593
+elizabeth,Reading,reading_elizabeth_3149,51.458786,-0.971863
+elizabeth,Twyford,twyford_elizabeth_3155,51.475534,-0.863293
+elizabeth,Maidenhead,maidenhead_elizabeth_3147,51.518669,-0.72266
+elizabeth,Taplow,taplow_elizabeth_3151,51.523562,-0.68137
+elizabeth,Burnham Bucks,burnham bucks_elizabeth_3176,51.523506,-0.646374
+elizabeth,Slough,slough_elizabeth_3172,51.51188,-0.59151
+elizabeth,Langley Berks,langley berks_elizabeth_3171,51.508062,-0.541756
+elizabeth,Iver,iver_elizabeth_3170,51.508503,-0.506726
+elizabeth,West Drayton,west drayton_elizabeth_3174,51.510055,-0.472234
+elizabeth,Abbey Wood,abbey wood_elizabeth_5131,51.491284,0.121087
+elizabeth,Canary Wharf,canary wharf_elizabeth_6560,51.506203,-0.018834
+gatwick-express,East Croydon,east croydon_gatwick-express_5355,51.375454,-0.09278
+gatwick-express,Victoria,victoria_gatwick-express_5449,51.495257,-0.144559
+great-northern,Watton-at-Stone,watton-at-stone_great-northern_6095,51.856438,-0.119427
+great-northern,Hertford North,hertford north_great-northern_6085,51.798857,-0.091788
+great-northern,Bayford,bayford_great-northern_6006,51.757716,-0.09561
+great-northern,Cuffley,cuffley_great-northern_6008,51.708722,-0.109783
+great-northern,Crews Hill,crews hill_great-northern_6007,51.684486,-0.106887
+great-northern,Gordon Hill,gordon hill_great-northern_6028,51.663335,-0.09461
+great-northern,Enfield Chase,enfield chase_great-northern_6010,51.653254,-0.090696
+great-northern,Grange Park,grange park_great-northern_6029,51.642607,-0.097358
+great-northern,Winchmore Hill,winchmore hill_great-northern_6024,51.633942,-0.1009
+great-northern,Palmers Green,palmers green_great-northern_6021,51.618314,-0.110437
+great-northern,Bowes Park,bowes park_great-northern_6027,51.607012,-0.120582
+great-northern,Alexandra Palace,alexandra palace_great-northern_6025,51.597924,-0.120235
+great-northern,Hornsey,hornsey_great-northern_6015,51.586461,-0.111975
+great-northern,Harringay,harringay_great-northern_6012,51.577358,-0.105136
+great-northern,Finsbury Park,finsbury park_great-northern_6119,51.564302,-0.106285
+great-northern,Drayton Park,drayton park_great-northern_6000,51.55277,-0.105509
+great-northern,Highbury & Islington,highbury & islington_great-northern_6009,51.546177,-0.103764
+great-northern,Essex Road,essex road_great-northern_6004,51.540705,-0.096276
+great-northern,Old Street,old street_great-northern_6003,51.525832,-0.088535
+great-northern,Moorgate,moorgate_great-northern_6005,51.518491,-0.088943
+great-northern,Kings Cross,kings cross_great-northern_6121,51.530883,-0.122926
+great-northern,Hitchin,hitchin_great-northern_6086,51.953283,-0.263481
+great-northern,Letchworth Garden City,letchworth garden city_great-northern_6089,51.979964,-0.229264
+great-northern,Baldock,baldock_great-northern_6084,51.992871,-0.187564
+great-northern,Knebworth,knebworth_great-northern_6088,51.866855,-0.187289
+great-northern,Welwyn North,welwyn north_great-northern_6096,51.823497,-0.192091
+great-northern,Welwyn Garden City,welwyn garden city_great-northern_6183,51.801048,-0.20407
+great-northern,Hatfield,hatfield_great-northern_6070,51.763879,-0.215589
+great-northern,Potters Bar,potters bar_great-northern_6022,51.697067,-0.192605
+great-northern,Hadley Wood,hadley wood_great-northern_6075,51.668497,-0.176172
+great-northern,New Barnet,new barnet_great-northern_6018,51.648575,-0.172997
+great-northern,Oakleigh Park,oakleigh park_great-northern_6020,51.637678,-0.166209
+great-northern,New Southgate,new southgate_great-northern_6019,51.614114,-0.143038
+great-western-railway,Reading,reading_great-western-railway_3149,51.458786,-0.971863
+great-western-railway,Twyford,twyford_great-western-railway_3155,51.475534,-0.863293
+great-western-railway,Maidenhead,maidenhead_great-western-railway_3147,51.518669,-0.72266
+great-western-railway,Taplow,taplow_great-western-railway_3151,51.523562,-0.68137
+great-western-railway,Burnham Bucks,burnham bucks_great-western-railway_3176,51.523506,-0.646374
+great-western-railway,Slough,slough_great-western-railway_3172,51.51188,-0.59151
+great-western-railway,Langley Berks,langley berks_great-western-railway_3171,51.508062,-0.541756
+great-western-railway,Iver,iver_great-western-railway_3170,51.508503,-0.506726
+great-western-railway,West Drayton,west drayton_great-western-railway_3174,51.510055,-0.472234
+great-western-railway,Hayes & Harlington,hayes & harlington_great-western-railway_3186,51.503096,-0.420683
+great-western-railway,Southall,southall_great-western-railway_3187,51.505957,-0.37861
+great-western-railway,Ealing Broadway,ealing broadway_great-western-railway_3190,51.514841,-0.301752
+great-western-railway,Paddington,paddington_great-western-railway_3087,51.515996,-0.176174
+great-western-railway,Greenford,greenford_great-western-railway_3136,51.542331,-0.345837
+great-western-railway,South Greenford,south greenford_great-western-railway_3138,51.533749,-0.336704
+great-western-railway,Castle Bar Park,castle bar park_great-western-railway_3098,51.522931,-0.331549
+great-western-railway,Drayton Green,drayton green_great-western-railway_3099,51.516617,-0.330194
+great-western-railway,West Ealing,west ealing_great-western-railway_3188,51.513506,-0.320133
+great-western-railway,Acton Main Line,acton main line_great-western-railway_3000,51.51718,-0.266756
+great-western-railway,Windsor and Eton Central,windsor and eton central_great-western-railway_3175,51.483268,-0.61038
+great-western-railway,Marlow,marlow_great-western-railway_3021,51.570993,-0.766431
+great-western-railway,Bourne End,bourne end_great-western-railway_3018,51.577118,-0.710473
+great-western-railway,Cookham,cookham_great-western-railway_3019,51.557463,-0.722079
+great-western-railway,Furze Platt,furze platt_great-western-railway_3144,51.53302,-0.728473
+great-western-railway,Henley-on-Thames,henley-on-thames_great-western-railway_3146,51.53418,-0.900212
+great-western-railway,Shiplake,shiplake_great-western-railway_3150,51.511462,-0.882602
+great-western-railway,Wargrave,wargrave_great-western-railway_3158,51.498159,-0.876517
+great-western-railway,Gatwick Airport,gatwick airport_great-western-railway_5416,51.156491,-0.161041
+great-western-railway,Redhill,redhill_great-western-railway_5478,51.240201,-0.1659
+great-western-railway,Wokingham,wokingham_great-western-railway_5696,51.411218,-0.842543
+great-western-railway,Winnersh,winnersh_great-western-railway_5697,51.430283,-0.876859
+great-western-railway,Reigate,reigate_great-western-railway_5480,51.241958,-0.203825
+greater-anglia,Liverpool Street,liverpool street_greater-anglia_6965,51.517991,-0.081426
+greater-anglia,Stratford,stratford_greater-anglia_6969,51.541895,-0.003397
+greater-anglia,Ilford,ilford_greater-anglia_6881,51.559118,0.06968
+greater-anglia,Seven Kings,seven kings_greater-anglia_6893,51.564026,0.0971
+greater-anglia,Romford,romford_greater-anglia_6886,51.574829,0.183237
+greater-anglia,Gidea Park,gidea park_greater-anglia_6877,51.581904,0.205964
+greater-anglia,Shenfield,shenfield_greater-anglia_6888,51.630877,0.329851
+greater-anglia,Ingatestone,ingatestone_greater-anglia_6882,51.667043,0.384247
+greater-anglia,Chelmsford,chelmsford_greater-anglia_6836,51.736373,0.468572
+greater-anglia,Beaulieu Park,beaulieu park_greater-anglia_6334,51.758057,0.518336
+greater-anglia,Hatfield Peverel,hatfield peverel_greater-anglia_6845,51.779864,0.592124
+greater-anglia,Witham,witham_greater-anglia_6844,51.805969,0.63913
+greater-anglia,Stansted Airport,stansted airport_greater-anglia_6834,51.888591,0.260816
+greater-anglia,Stansted Mountfitchet,stansted mountfitchet_greater-anglia_6833,51.901438,0.199781
+greater-anglia,Bishops Stortford,bishops stortford_greater-anglia_6800,51.866691,0.164894
+greater-anglia,Sawbridgeworth,sawbridgeworth_greater-anglia_6806,51.814348,0.160411
+greater-anglia,Harlow Mill,harlow mill_greater-anglia_6804,51.790365,0.132308
+greater-anglia,Harlow Town,harlow town_greater-anglia_6827,51.78107,0.095132
+greater-anglia,Roydon,roydon_greater-anglia_6829,51.775487,0.036252
+greater-anglia,Broxbourne,broxbourne_greater-anglia_6812,51.74691,-0.011087
+greater-anglia,Cheshunt,cheshunt_greater-anglia_6814,51.702876,-0.02396
+greater-anglia,Theobalds Grove,theobalds grove_greater-anglia_6949,51.692457,-0.034831
+greater-anglia,Turkey Street,turkey street_greater-anglia_6952,51.672628,-0.047217
+greater-anglia,Southbury,southbury_greater-anglia_6947,51.648705,-0.052437
+greater-anglia,Edmonton Green,edmonton green_greater-anglia_6941,51.624929,-0.061112
+greater-anglia,Silver Street,silver street_greater-anglia_6972,51.614688,-0.06724
+greater-anglia,White Hart Lane,white hart lane_greater-anglia_6956,51.605037,-0.070914
+greater-anglia,Bruce Grove,bruce grove_greater-anglia_6958,51.593959,-0.069867
+greater-anglia,Seven Sisters,seven sisters_greater-anglia_6931,51.582268,-0.07527
+greater-anglia,Stamford Hill,stamford hill_greater-anglia_6968,51.574467,-0.076682
+greater-anglia,Stoke Newington,stoke newington_greater-anglia_6934,51.565233,-0.072887
+greater-anglia,Rectory Road,rectory road_greater-anglia_6967,51.558502,-0.068267
+greater-anglia,Hackney Downs,hackney downs_greater-anglia_6867,51.548757,-0.060819
+greater-anglia,London Fields,london fields_greater-anglia_6966,51.541153,-0.057753
+greater-anglia,Cambridge Heath,cambridge heath_greater-anglia_6962,51.531973,-0.057279
+greater-anglia,Bethnal Green,bethnal green_greater-anglia_6961,51.523917,-0.059568
+greater-anglia,Hertford East,hertford east_greater-anglia_6818,51.799035,-0.072941
+greater-anglia,Ware,ware_greater-anglia_6824,51.80796,-0.028781
+greater-anglia,St Margarets Herts,st margarets herts_greater-anglia_6821,51.787841,0.001269
+greater-anglia,Rye House,rye house_greater-anglia_6820,51.769413,0.005628
+greater-anglia,Waltham Cross,waltham cross_greater-anglia_6823,51.685061,-0.026558
+greater-anglia,Enfield Lock,enfield lock_greater-anglia_6815,51.670922,-0.028532
+greater-anglia,Brimsdown,brimsdown_greater-anglia_6810,51.655583,-0.030817
+greater-anglia,Ponders End,ponders end_greater-anglia_6819,51.642256,-0.03508
+greater-anglia,Meridian Water,meridian water_greater-anglia_6599,51.610102,-0.050898
+greater-anglia,Northumberld Pk,northumberld pk_greater-anglia_6971,51.601969,-0.053932
+greater-anglia,Tottenham Hale,tottenham hale_greater-anglia_6951,51.58831,-0.059929
+greater-anglia,Clapton,clapton_greater-anglia_6926,51.561644,-0.057025
+greater-anglia,Lea Bridge,lea bridge_greater-anglia_6927,51.566548,-0.036673
+greater-anglia,Southend Victoria,southend victoria_greater-anglia_7420,51.541513,0.711501
+greater-anglia,Prittlewell,prittlewell_greater-anglia_7419,51.550687,0.710676
+greater-anglia,Southend Airport,southend airport_greater-anglia_4787,51.56867,0.70505
+greater-anglia,Rochford,rochford_greater-anglia_6885,51.581729,0.702303
+greater-anglia,Hockley,hockley_greater-anglia_6880,51.603556,0.659001
+greater-anglia,Rayleigh,rayleigh_greater-anglia_6884,51.589293,0.599983
+greater-anglia,Wickford,wickford_greater-anglia_6891,51.615023,0.519185
+greater-anglia,Billericay,billericay_greater-anglia_6871,51.628884,0.41863
+hammersmith-city,Barking,barking_hammersmith-city_514,51.539321,0.081053
+hammersmith-city,East Ham,east ham_hammersmith-city_566,51.538948,0.051186
+hammersmith-city,Upton Park,upton park_hammersmith-city_739,51.53534,0.035263
+hammersmith-city,Plaistow,plaistow_hammersmith-city_676,51.531341,0.017451
+hammersmith-city,West Ham,west ham_hammersmith-city_757,51.528136,0.005055
+hammersmith-city,Bromley by Bow,bromley by bow_hammersmith-city_530,51.524839,-0.011538
+hammersmith-city,Bow Road,bow road_hammersmith-city_528,51.52694,-0.025128
+hammersmith-city,Mile End,mile end_hammersmith-city_642,51.525122,-0.03364
+hammersmith-city,Stepney Green,stepney green_hammersmith-city_715,51.521858,-0.046596
+hammersmith-city,Whitechapel,whitechapel_hammersmith-city_763,51.519518,-0.059971
+hammersmith-city,Aldgate East,aldgate east_hammersmith-city_503,51.515037,-0.072384
+hammersmith-city,Liverpool Street,liverpool street_hammersmith-city_634,51.517372,-0.083182
+hammersmith-city,Moorgate,moorgate_hammersmith-city_645,51.518176,-0.088322
+hammersmith-city,Barbican,barbican_hammersmith-city_501,51.520275,-0.097993
+hammersmith-city,Farringdon,farringdon_hammersmith-city_577,51.520252,-0.104913
+hammersmith-city,Kings Cross,kings cross_hammersmith-city_600,51.530663,-0.123194
+hammersmith-city,Euston Square,euston square_hammersmith-city_575,51.525604,-0.135829
+hammersmith-city,Great Portland Street,great portland street_hammersmith-city_588,51.52384,-0.144262
+hammersmith-city,Baker Street,baker street_hammersmith-city_511,51.522883,-0.15713
+hammersmith-city,Edgware Road,edgware road_hammersmith-city_569,51.519858,-0.167832
+hammersmith-city,Paddington,paddington_hammersmith-city_670,51.518187,-0.178306
+hammersmith-city,Royal Oak,royal oak_hammersmith-city_690,51.519113,-0.188748
+hammersmith-city,Westbourne Park,westbourne park_hammersmith-city_754,51.52111,-0.201065
+hammersmith-city,Ladbroke Grove,ladbroke grove_hammersmith-city_627,51.517449,-0.210391
+hammersmith-city,Latimer Road,latimer road_hammersmith-city_630,51.513389,-0.217799
+hammersmith-city,Wood Lane,wood lane_hammersmith-city_599,51.509669,-0.22453
+hammersmith-city,Shepherds Bush,shepherds bush_hammersmith-city_775,51.505579,-0.226375
+hammersmith-city,Goldhawk Road,goldhawk road_hammersmith-city_585,51.502005,-0.226715
+hammersmith-city,Hammersmith,hammersmith_hammersmith-city_773,51.49339,-0.22503
+heathrow-express,Heathrow T5,heathrow t5_heathrow-express_9846,51.470053,-0.490589
+heathrow-express,Heathrow T123,heathrow t123_heathrow-express_7090,51.471987,-0.454788
+heathrow-express,Paddington,paddington_heathrow-express_8204,51.515996,-0.176174
+jubilee,Stratford,stratford_jubilee_719,51.541806,-0.003458
+jubilee,West Ham,west ham_jubilee_757,51.528136,0.005055
+jubilee,Canning Town,canning town_jubilee_884,51.513584,0.008322
+jubilee,North Greenwich,north greenwich_jubilee_789,51.50047,0.004287
+jubilee,Canary Wharf,canary wharf_jubilee_852,51.503488,-0.018246
+jubilee,Canada Water,canada water_jubilee_788,51.497931,-0.049405
+jubilee,Bermondsey,bermondsey_jubilee_787,51.49775,-0.063993
+jubilee,London Bridge,london bridge_jubilee_635,51.505721,-0.088873
+jubilee,Southwark,southwark_jubilee_784,51.50427,-0.105331
+jubilee,Waterloo,waterloo_jubilee_747,51.503299,-0.11478
+jubilee,Westminster,westminster_jubilee_761,51.50132,-0.124861
+jubilee,Green Park,green park_jubilee_590,51.506947,-0.142787
+jubilee,Bond Street,bond street_jubilee_524,51.514304,-0.149723
+jubilee,Baker Street,baker street_jubilee_511,51.522883,-0.15713
+jubilee,St Johns Wood,st johns wood_jubilee_696,51.534521,-0.173948
+jubilee,Swiss Cottage,swiss cottage_jubilee_723,51.543681,-0.174894
+jubilee,Finchley Road,finchley road_jubilee_579,51.546825,-0.179845
+jubilee,West Hampstead,west hampstead_jubilee_758,51.546638,-0.191059
+jubilee,Kilburn,kilburn_jubilee_622,51.547183,-0.204248
+jubilee,Willesden Green,willesden green_jubilee_765,51.549146,-0.221537
+jubilee,Dollis Hill,dollis hill_jubilee_558,51.551955,-0.239068
+jubilee,Neasden,neasden_jubilee_649,51.553986,-0.249837
+jubilee,Wembley Park,wembley park_jubilee_752,51.563198,-0.279262
+jubilee,Kingsbury,kingsbury_jubilee_624,51.584845,-0.27879
+jubilee,Queensbury,queensbury_jubilee_679,51.594188,-0.286219
+jubilee,Canons Park,canons park_jubilee_537,51.607701,-0.294693
+jubilee,Stanmore,stanmore_jubilee_714,51.619839,-0.303266
+liberty,Upminster,upminster_liberty_7464,51.559018,0.25088
+liberty,Emerson Park,emerson park_liberty_7473,51.568642,0.220113
+liberty,Romford,romford_liberty_6886,51.574829,0.183237
+south-western-railway,Reading,reading_south-western-railway_3149,51.458786,-0.971863
+south-western-railway,Earley,earley_south-western-railway_5694,51.4411,-0.917988
+south-western-railway,Winnersh Triangle,winnersh triangle_south-western-railway_5698,51.436742,-0.891332
+south-western-railway,Winnersh,winnersh_south-western-railway_5697,51.430283,-0.876859
+south-western-railway,Wokingham,wokingham_south-western-railway_5696,51.411218,-0.842543
+south-western-railway,Bracknell,bracknell_south-western-railway_5693,51.413092,-0.751704
+south-western-railway,Martins Heron,martins heron_south-western-railway_5692,51.407412,-0.724397
+south-western-railway,Ascot,ascot_south-western-railway_5666,51.406244,-0.675833
+south-western-railway,Sunningdale,sunningdale_south-western-railway_5671,51.39194,-0.633041
+south-western-railway,Longcross,longcross_south-western-railway_5674,51.385173,-0.59457
+south-western-railway,Virginia Water,virginia water_south-western-railway_5676,51.401802,-0.562174
+south-western-railway,Egham,egham_south-western-railway_5669,51.429647,-0.546512
+south-western-railway,Staines,staines_south-western-railway_5670,51.432455,-0.503164
+south-western-railway,Ashford Surrey,ashford surrey_south-western-railway_5667,51.436507,-0.468071
+south-western-railway,Feltham,feltham_south-western-railway_5559,51.447898,-0.409838
+south-western-railway,Whitton,whitton_south-western-railway_5611,51.449607,-0.357681
+south-western-railway,Queenstown Road Battersea,queenstown road battersea_south-western-railway_5596,51.474968,-0.146678
+south-western-railway,Vauxhall,vauxhall_south-western-railway_5597,51.48619,-0.122889
+south-western-railway,Twickenham,twickenham_south-western-railway_5574,51.450031,-0.330394
+south-western-railway,Strawberry Hill,strawberry hill_south-western-railway_5607,51.438963,-0.339358
+south-western-railway,Teddington,teddington_south-western-railway_5572,51.424481,-0.332706
+south-western-railway,Hampton Wick,hampton wick_south-western-railway_5589,51.414524,-0.312489
+south-western-railway,Kingston,kingston_south-western-railway_5565,51.412751,-0.301166
+south-western-railway,Norbiton,norbiton_south-western-railway_5568,51.412358,-0.284025
+south-western-railway,New Malden,new malden_south-western-railway_5567,51.404075,-0.25594
+south-western-railway,Raynes Park,raynes park_south-western-railway_5569,51.409173,-0.230151
+south-western-railway,Wimbledon,wimbledon_south-western-railway_5578,51.421222,-0.206385
+south-western-railway,Earlsfield,earlsfield_south-western-railway_5584,51.442337,-0.187715
+south-western-railway,Clapham Junction,clapham junction_south-western-railway_5595,51.464187,-0.170221
+south-western-railway,Waterloo,waterloo_south-western-railway_5598,51.503299,-0.113109
+south-western-railway,St Margarets London,st margarets london_south-western-railway_5604,51.455236,-0.3202
+south-western-railway,Richmond,richmond_south-western-railway_5570,51.463061,-0.301558
+south-western-railway,North Sheen,north sheen_south-western-railway_5601,51.465155,-0.287876
+south-western-railway,Mortlake,mortlake_south-western-railway_5600,51.468087,-0.267106
+south-western-railway,Barnes,barnes_south-western-railway_5551,51.467086,-0.242164
+south-western-railway,Putney,putney_south-western-railway_5603,51.461303,-0.216475
+south-western-railway,Wandsworth Town,wandsworth town_south-western-railway_5576,51.461048,-0.188125
+south-western-railway,Chertsey,chertsey_south-western-railway_5553,51.387069,-0.509317
+south-western-railway,Addlestone,addlestone_south-western-railway_5550,51.373046,-0.484457
+south-western-railway,Byfleet and New Haw,byfleet and new haw_south-western-railway_5689,51.349797,-0.48139
+south-western-railway,West Byfleet,west byfleet_south-western-railway_5684,51.339226,-0.505485
+south-western-railway,Hounslow,hounslow_south-western-railway_5563,51.461946,-0.362277
+south-western-railway,Isleworth,isleworth_south-western-railway_5592,51.474763,-0.336907
+south-western-railway,Syon Lane,syon lane_south-western-railway_5609,51.481785,-0.324842
+south-western-railway,Brentford,brentford_south-western-railway_5552,51.487547,-0.309651
+south-western-railway,Kew Bridge,kew bridge_south-western-railway_5593,51.489513,-0.287108
+south-western-railway,Chiswick,chiswick_south-western-railway_5583,51.481137,-0.267835
+south-western-railway,Barnes Bridge,barnes bridge_south-western-railway_5580,51.472009,-0.25263
+south-western-railway,Woking,woking_south-western-railway_5685,51.318469,-0.55696
+south-western-railway,Windsor and Eton Riverside,windsor and eton riverside_south-western-railway_5672,51.48565,-0.606534
+south-western-railway,Datchet,datchet_south-western-railway_5668,51.483077,-0.579422
+south-western-railway,Sunnymeads,sunnymeads_south-western-railway_5675,51.470288,-0.559374
+south-western-railway,Wraysbury,wraysbury_south-western-railway_5673,51.457708,-0.541922
+south-western-railway,Weybridge,weybridge_south-western-railway_5577,51.361771,-0.457739
+south-western-railway,Shepperton,shepperton_south-western-railway_5605,51.396805,-0.446786
+south-western-railway,Upper Halliford,upper halliford_south-western-railway_5613,51.413067,-0.430906
+south-western-railway,Sunbury,sunbury_south-western-railway_5608,51.418313,-0.417783
+south-western-railway,Kempton Park,kempton park_south-western-railway_5678,51.420983,-0.409751
+south-western-railway,Hampton,hampton_south-western-railway_5560,51.415934,-0.372119
+south-western-railway,Fulwell,fulwell_south-western-railway_5587,51.433935,-0.349468
+south-western-railway,Guildford,guildford_south-western-railway_5631,51.23697,-0.580425
+south-western-railway,London Road Guildford,london road guildford_south-western-railway_5632,51.24065,-0.565069
+south-western-railway,Clandon,clandon_south-western-railway_5555,51.264005,-0.502766
+south-western-railway,Horsley,horsley_south-western-railway_5562,51.279347,-0.435409
+south-western-railway,Effingham Junction,effingham junction_south-western-railway_5642,51.291495,-0.419965
+south-western-railway,Bookham,bookham_south-western-railway_5626,51.288739,-0.384021
+south-western-railway,Leatherhead,leatherhead_south-western-railway_5368,51.298818,-0.333232
+south-western-railway,Ashtead,ashtead_south-western-railway_5347,51.317874,-0.307572
+south-western-railway,Epsom,epsom_south-western-railway_5360,51.334393,-0.268778
+south-western-railway,Ewell West,ewell west_south-western-railway_5586,51.350045,-0.256987
+south-western-railway,Stoneleigh,stoneleigh_south-western-railway_5606,51.363401,-0.248665
+south-western-railway,Worcester Park,worcester park_south-western-railway_5579,51.381253,-0.245167
+south-western-railway,Motspur Park,motspur park_south-western-railway_5645,51.395196,-0.239531
+south-western-railway,Dorking,dorking_south-western-railway_5357,51.24093,-0.324251
+south-western-railway,Box Hill and Westhumble,box hill and westhumble_south-western-railway_5403,51.254012,-0.32849
+south-western-railway,Chessington South,chessington south_south-western-railway_5554,51.35655,-0.308157
+south-western-railway,Chessington North,chessington north_south-western-railway_5582,51.364041,-0.300699
+south-western-railway,Tolworth,tolworth_south-western-railway_5573,51.37686,-0.279461
+south-western-railway,Malden Manor,malden manor_south-western-railway_5599,51.38473,-0.261274
+south-western-railway,Surbiton,surbiton_south-western-railway_5571,51.39246,-0.303958
+south-western-railway,Berrylands,berrylands_south-western-railway_5581,51.399045,-0.280714
+south-western-railway,Hampton Court,hampton court_south-western-railway_5561,51.402556,-0.342748
+south-western-railway,Thames Ditton,thames ditton_south-western-railway_5610,51.389097,-0.339152
+south-western-railway,Esher,esher_south-western-railway_5558,51.379891,-0.353338
+south-western-railway,Hersham,hersham_south-western-railway_5590,51.376812,-0.389959
+south-western-railway,Walton-on-Thames,walton-on-thames_south-western-railway_5575,51.372931,-0.414635
+south-western-railway,Worplesdon,worplesdon_south-western-railway_5686,51.289017,-0.582578
+southeastern,Tonbridge,tonbridge_southeastern_5229,51.191411,0.270973
+southeastern,Hildenborough,hildenborough_southeastern_5236,51.214486,0.22759
+southeastern,London Bridge,london bridge_southeastern_5148,51.505019,-0.086092
+southeastern,Waterloo East,waterloo east_southeastern_5158,51.504076,-0.108898
+southeastern,Sevenoaks,sevenoaks_southeastern_5124,51.276865,0.181669
+southeastern,Orpington,orpington_southeastern_5122,51.373296,0.089091
+southeastern,Charing Cross,charing cross_southeastern_5143,51.508027,-0.124802
+southeastern,Gillingham,gillingham_southeastern_5169,51.386565,0.54985
+southeastern,Chatham,chatham_southeastern_5199,51.380379,0.521151
+southeastern,Rochester,rochester_southeastern_5203,51.389652,0.506855
+southeastern,Swanley,swanley_southeastern_5075,51.393387,0.169225
+southeastern,Cannon Street,cannon street_southeastern_5142,51.511382,-0.090293
+southeastern,Victoria,victoria_southeastern_5426,51.495257,-0.144559
+southeastern,Bromley South,bromley south_southeastern_5064,51.399976,0.017344
+southeastern,Ebbsfleet International,ebbsfleet international_southeastern_5566,51.442973,0.320921
+southeastern,Stratford International HS1,stratford international hs1_southeastern_7222,51.544828,-0.008778
+southeastern,St Pancras International HS1,st pancras international hs1_southeastern_7423,51.532514,-0.126463
+southeastern,Higham,higham_southeastern_5202,51.426559,0.466278
+southeastern,Gravesend,gravesend_southeastern_5172,51.441348,0.366643
+southeastern,Dunton Green,dunton green_southeastern_5102,51.29649,0.170937
+southeastern,Knockholt,knockholt_southeastern_5109,51.34579,0.130847
+southeastern,Chelsfield,chelsfield_southeastern_5098,51.356256,0.10907
+southeastern,Petts Wood,petts wood_southeastern_5123,51.388619,0.074481
+southeastern,Bickley,bickley_southeastern_5063,51.400104,0.045241
+southeastern,Shortlands,shortlands_southeastern_5084,51.405801,0.001784
+southeastern,Ravensbourne,ravensbourne_southeastern_5083,51.414188,-0.007557
+southeastern,Beckenham Hill,beckenham hill_southeastern_5076,51.424583,-0.015951
+southeastern,Bellingham,bellingham_southeastern_5062,51.432913,-0.019331
+southeastern,Catford,catford_southeastern_5077,51.444407,-0.026317
+southeastern,Crofton Park,crofton park_southeastern_5078,51.455189,-0.036503
+southeastern,Nunhead,nunhead_southeastern_5068,51.466828,-0.052273
+southeastern,Peckham Rye,peckham rye_southeastern_5423,51.470034,-0.069414
+southeastern,Denmark Hill,denmark hill_southeastern_5421,51.468203,-0.089361
+southeastern,Beckenham Junction,beckenham junction_southeastern_5046,51.411035,-0.025813
+southeastern,Kent House,kent house_southeastern_5080,51.412215,-0.045247
+southeastern,Penge East,penge east_southeastern_5072,51.419334,-0.05422
+southeastern,Sydenham Hill,sydenham hill_southeastern_5085,51.432714,-0.080339
+southeastern,West Dulwich,west dulwich_southeastern_5086,51.440718,-0.091371
+southeastern,Herne Hill,herne hill_southeastern_5066,51.453305,-0.102289
+southeastern,Loughborough Junction,loughborough junction_southeastern_5082,51.466298,-0.102182
+southeastern,Elephant & Castle,elephant & castle_southeastern_5246,51.494029,-0.098725
+southeastern,Blackfriars,blackfriars_southeastern_5112,51.51181,-0.103332
+southeastern,Brixton,brixton_southeastern_5081,51.463299,-0.114183
+southeastern,St Mary Cray,st mary cray_southeastern_5073,51.394749,0.106384
+southeastern,West Malling,west malling_southeastern_5129,51.292021,0.418653
+southeastern,Borough Green and Wrotham,borough green and wrotham_southeastern_5130,51.293219,0.306245
+southeastern,Kemsing,kemsing_southeastern_5079,51.297187,0.247428
+southeastern,Otford,otford_southeastern_5071,51.313158,0.196779
+southeastern,Shoreham Kent,shoreham kent_southeastern_5074,51.332219,0.18889
+southeastern,Eynsford,eynsford_southeastern_5065,51.36272,0.204393
+southeastern,Chislehurst,chislehurst_southeastern_5099,51.405557,0.057418
+southeastern,New Cross,new cross_southeastern_5150,51.476344,-0.032441
+southeastern,St Johns,st johns_southeastern_5059,51.469391,-0.022719
+southeastern,Lewisham,lewisham_southeastern_5051,51.465692,-0.014024
+southeastern,Hither Green,hither green_southeastern_5107,51.452025,-0.000944
+southeastern,Lee,lee_southeastern_5110,51.449755,0.013493
+southeastern,Mottingham,mottingham_southeastern_5118,51.440218,0.050054
+southeastern,New Eltham,new eltham_southeastern_5119,51.43806,0.070533
+southeastern,Sidcup,sidcup_southeastern_5125,51.43387,0.103795
+southeastern,Albany Park,albany park_southeastern_5132,51.435453,0.125737
+southeastern,Bexley,bexley_southeastern_5093,51.440219,0.147903
+southeastern,Crayford,crayford_southeastern_5100,51.44828,0.178936
+southeastern,Slade Green,slade green_southeastern_5154,51.467786,0.190491
+southeastern,Erith,erith_southeastern_5104,51.481671,0.175055
+southeastern,Belvedere,belvedere_southeastern_5092,51.492118,0.152286
+southeastern,Abbey Wood,abbey wood_southeastern_5131,51.491062,0.121394
+southeastern,Plumstead,plumstead_southeastern_5208,51.489795,0.084257
+southeastern,Woolwich Arsenal,woolwich arsenal_southeastern_5152,51.489909,0.069194
+southeastern,Woolwich Dockyard,woolwich dockyard_southeastern_5153,51.491127,0.054642
+southeastern,Charlton,charlton_southeastern_5144,51.486813,0.031258
+southeastern,Westcombe Park,westcombe park_southeastern_5151,51.484203,0.018395
+southeastern,Maze Hill,maze hill_southeastern_5149,51.482625,0.002914
+southeastern,Greenwich,greenwich_southeastern_5146,51.478135,-0.01334
+southeastern,Deptford,deptford_southeastern_5145,51.478848,-0.02627
+southeastern,Dartford,dartford_southeastern_5101,51.447371,0.219248
+southeastern,Stone Crossing,stone crossing_southeastern_5248,51.45133,0.263771
+southeastern,Greenhithe for Bluewater,greenhithe for bluewater_southeastern_5138,51.450372,0.28029
+southeastern,Swanscombe,swanscombe_southeastern_5156,51.449071,0.309543
+southeastern,Northfleet,northfleet_southeastern_5120,51.445846,0.324334
+southeastern,New Beckenham,new beckenham_southeastern_5058,51.41677,-0.035273
+southeastern,Lower Sydenham,lower sydenham_southeastern_5053,51.424831,-0.033345
+southeastern,Catford Bridge,catford bridge_southeastern_5047,51.444741,-0.024791
+southeastern,Ladywell,ladywell_southeastern_5057,51.456244,-0.019041
+southeastern,Hayes Kent,hayes kent_southeastern_5050,51.376334,0.010557
+southeastern,West Wickham,west wickham_southeastern_5054,51.381301,-0.014432
+southeastern,Eden Park,eden park_southeastern_5056,51.390091,-0.026355
+southeastern,Elmers End,elmers end_southeastern_5049,51.398492,-0.04957
+southeastern,Clock House,clock house_southeastern_5048,51.408586,-0.040657
+southeastern,Elmstead Woods,elmstead woods_southeastern_5135,51.417118,0.044274
+southeastern,Grove Park,grove park_southeastern_5139,51.430863,0.021726
+southeastern,Bromley North,bromley north_southeastern_5096,51.408328,0.016993
+southeastern,Sundridge Park,sundridge park_southeastern_5155,51.413782,0.021446
+southeastern,Tunbridge Wells,tunbridge wells_southeastern_5230,51.130234,0.26281
+southeastern,High Brooms,high brooms_southeastern_5235,51.149405,0.277332
+southeastern,Sole Street,sole street_southeastern_5126,51.383081,0.378194
+southeastern,Meopham,meopham_southeastern_5116,51.386424,0.356952
+southeastern,Longfield,longfield_southeastern_5114,51.396155,0.300364
+southeastern,Farningham Road,farningham road_southeastern_5105,51.401666,0.235452
+southern,Selhurst,selhurst_southern_5434,51.391927,-0.0883
+southern,Thornton Heath,thornton heath_southern_5388,51.398777,-0.100306
+southern,Norbury,norbury_southern_5428,51.411446,-0.121926
+southern,Streatham Common,streatham common_southern_5384,51.41873,-0.13601
+southern,Streatham,streatham_southern_5383,51.425808,-0.13155
+southern,Tulse Hill,tulse hill_southern_5390,51.439861,-0.105077
+southern,North Dulwich,north dulwich_southern_5429,51.45451,-0.087917
+southern,East Dulwich,east dulwich_southern_5358,51.461494,-0.080572
+southern,Peckham Rye,peckham rye_southern_5423,51.470034,-0.069414
+southern,Queens Road Peckham,queens road peckham_southern_5424,51.473566,-0.057313
+southern,South Bermondsey,south bermondsey_southern_5425,51.488136,-0.054678
+southern,Beckenham Junction,beckenham junction_southern_5046,51.411035,-0.025813
+southern,Birkbeck,birkbeck_southern_5401,51.403892,-0.055739
+southern,Crystal Palace,crystal palace_southern_5356,51.418109,-0.07261
+southern,Gipsy Hill,gipsy hill_southern_5363,51.424453,-0.083836
+southern,West Norwood,west norwood_southern_5438,51.431748,-0.10383
+southern,West Croydon,west croydon_southern_5411,51.378428,-0.102585
+southern,Norwood Junction,norwood junction_southern_5376,51.397019,-0.075221
+southern,London Bridge,london bridge_southern_5148,51.505019,-0.086092
+southern,Balham,balham_southern_5399,51.443225,-0.152424
+southern,Wandsworth Common,wandsworth common_southern_5395,51.446185,-0.163386
+southern,Clapham Junction,clapham junction_southern_5595,51.464188,-0.170293
+southern,Battersea Park,battersea park_southern_5420,51.47696,-0.147533
+southern,Streatham Hill,streatham hill_southern_5435,51.438193,-0.12716
+southern,Victoria,victoria_southern_5426,51.495257,-0.144559
+southern,Caterham,caterham_southern_5351,51.282141,-0.078307
+southern,Whyteleafe South,whyteleafe south_southern_5439,51.303387,-0.076918
+southern,Whyteleafe,whyteleafe_southern_5396,51.309958,-0.081148
+southern,Kenley,kenley_southern_5419,51.324777,-0.100925
+southern,Purley,purley_southern_5379,51.337579,-0.114035
+southern,Purley Oaks,purley oaks_southern_5430,51.347046,-0.098856
+southern,South Croydon,south croydon_southern_5410,51.362965,-0.093457
+southern,East Croydon,east croydon_southern_5355,51.375454,-0.09278
+southern,New Cross Gate,new cross gate_southern_5345,51.475128,-0.040399
+southern,Reigate,reigate_southern_5480,51.241958,-0.203825
+southern,Redhill,redhill_southern_5478,51.240201,-0.1659
+southern,Merstham,merstham_southern_5475,51.264154,-0.150226
+southern,Coulsdon South,coulsdon south_southern_5408,51.315838,-0.137887
+southern,Tattenham Corner,tattenham corner_southern_5387,51.309183,-0.242609
+southern,Tadworth,tadworth_southern_5386,51.291638,-0.235965
+southern,Kingswood,kingswood_southern_5366,51.294725,-0.211247
+southern,Chipstead,chipstead_southern_5353,51.309277,-0.169503
+southern,Woodmansterne,woodmansterne_southern_5441,51.31902,-0.154262
+southern,Coulsdon Town,coulsdon town_southern_5382,51.322043,-0.134464
+southern,Reedham Surrey,reedham surrey_southern_5431,51.33112,-0.123416
+southern,Sydenham,sydenham_southern_5437,51.427248,-0.054244
+southern,Forest Hill,forest hill_southern_5362,51.43928,-0.053157
+southern,Honor Oak Park,honor oak park_southern_5418,51.449989,-0.045505
+southern,Brockley,brockley_southern_5404,51.464649,-0.037537
+southern,Anerley,anerley_southern_5397,51.412153,-0.065886
+southern,Penge West,penge west_southern_5378,51.417555,-0.06084
+southern,Sutton Surrey,sutton surrey_southern_5385,51.359533,-0.191215
+southern,Carshalton,carshalton_southern_5405,51.368454,-0.166368
+southern,Hackbridge,hackbridge_southern_5364,51.37672,-0.15329
+southern,Mitcham Junction,mitcham junction_southern_5427,51.39295,-0.157757
+southern,Mitcham Eastfields,mitcham eastfields_southern_5069,51.407739,-0.154646
+southern,Waddon,waddon_southern_5392,51.367398,-0.117336
+southern,Wallington,wallington_southern_5394,51.360386,-0.150833
+southern,Carshalton Beeches,carshalton beeches_southern_5406,51.357411,-0.169797
+southern,Cheam,cheam_southern_5352,51.355479,-0.214167
+southern,Ewell East,ewell east_southern_5415,51.3453,-0.24153
+southern,Epsom,epsom_southern_5360,51.334393,-0.268778
+southern,Ashtead,ashtead_southern_5347,51.317874,-0.307572
+southern,Leatherhead,leatherhead_southern_5368,51.298818,-0.333232
+southern,Box Hill and Westhumble,box hill and westhumble_southern_5403,51.254012,-0.32849
+southern,Dorking,dorking_southern_5357,51.24093,-0.324251
+southern,Epsom Downs,epsom downs_southern_5361,51.323688,-0.238955
+southern,Banstead,banstead_southern_5348,51.329349,-0.213159
+southern,Belmont,belmont_southern_5350,51.343815,-0.198855
+southern,Hurst Green,hurst green_southern_5463,51.244431,0.003939
+southern,Oxted,oxted_southern_5377,51.257908,-0.004833
+southern,East Grinstead,east grinstead_southern_5486,51.126274,-0.0179
+southern,Dormans,dormans_southern_5413,51.155792,-0.004308
+southern,Lingfield,lingfield_southern_5369,51.176453,-0.007165
+southern,Gatwick Airport,gatwick airport_southern_5416,51.156491,-0.161041
+southern,Horley,horley_southern_5365,51.168775,-0.161054
+southern,Salfords,salfords_southern_5380,51.201748,-0.162489
+southern,Earlswood,earlswood_southern_5414,51.227328,-0.170823
+southern,Imperial Wharf,imperial wharf_southern_9586,51.474949,-0.182823
+southern,West Brompton,west brompton_southern_8875,51.487061,-0.195593
+southern,Kensington Olympia,kensington olympia_southern_3092,51.497899,-0.210364
+southern,Shepherds Bush,shepherds bush_southern_9587,51.505285,-0.217654
+southern,Wembley Central,wembley central_southern_1423,51.552325,-0.296433
+southern,Harrow & Wealdstone,harrow & wealdstone_southern_1397,51.592169,-0.334571
+southern,Watford Junction,watford junction_southern_1402,51.663908,-0.395925
+suffragette,Barking,barking_suffragette_7492,51.539495,0.080903
+suffragette,Woodgrange Park,woodgrange park_suffragette_7467,51.549264,0.044423
+suffragette,Wanstead Park,wanstead park_suffragette_7408,51.551693,0.026213
+suffragette,Leytonstone High Road,leytonstone high road_suffragette_7403,51.563554,0.008416
+suffragette,Leyton Midland Road,leyton midland road_suffragette_7402,51.569725,-0.008051
+suffragette,Walthamstow Queens Road,walthamstow queens road_suffragette_7407,51.581503,-0.023846
+suffragette,Blackhorse Road,blackhorse road_suffragette_7400,51.586605,-0.041236
+suffragette,South Tottenham,south tottenham_suffragette_7404,51.580372,-0.072103
+suffragette,Harringay Green Lanes,harringay green lanes_suffragette_7401,51.577182,-0.098144
+suffragette,Crouch Hill,crouch hill_suffragette_7406,51.571302,-0.117149
+suffragette,Upper Holloway,upper holloway_suffragette_1524,51.563631,-0.129513
+suffragette,Gospel Oak,gospel oak_suffragette_1409,51.555335,-0.15077

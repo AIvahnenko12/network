@@ -1,0 +1,1236 @@
+Station,Line,ICS,NLC,NaPTAN,Gate_NLC,Node_ID
+Abbey Road,dlr,1003006,750,['940GZZDLABR'],['750'],abbey road_dlr_750
+Abbey Wood,elizabeth,1001001,5131,"['9100ABWD0', '910GABWDXR']",['5131'],abbey wood_elizabeth_5131
+Abbey Wood,southeastern,1001001,5131,['910GABWD'],['5131'],abbey wood_southeastern_5131
+Abbey Wood,thameslink,1001001,5131,"['9100ABWD0', '910GABWD']",['5131'],abbey wood_thameslink_5131
+Acton Central,mildmay,1001002,1404,['910GACTNCTL'],['1404'],acton central_mildmay_1404
+Acton Main Line,elizabeth,1001003,3000,['9100ACTONML0'],['3000'],acton main line_elizabeth_3000
+Acton Main Line,great-western-railway,1001003,3000,['910GACTONML'],['3000'],acton main line_great-western-railway_3000
+Acton Town,district,1000002,500,['940GZZLUACT'],['500'],acton town_district_500
+Acton Town,piccadilly,1000002,500,['940GZZLUACT'],['500'],acton town_piccadilly_500
+Addlestone,south-western-railway,1001275,5550,['910GADLESTN'],['5550'],addlestone_south-western-railway_5550
+Albany Park,southeastern,1001004,5132,['910GALBNYPK'],['5132'],albany park_southeastern_5132
+Aldgate,circle,1000004,502,['940GZZLUALD'],['502'],aldgate_circle_502
+Aldgate,metropolitan,1000004,502,['940GZZLUALD'],['502'],aldgate_metropolitan_502
+Aldgate East,district,1000004,503,['940GZZLUADE'],['503'],aldgate east_district_503
+Aldgate East,hammersmith-city,1000004,503,['940GZZLUADE'],['503'],aldgate east_hammersmith-city_503
+Alexandra Palace,great-northern,1001005,6025,['910GALEXNDP'],['6025'],alexandra palace_great-northern_6025
+Alexandra Palace,thameslink,1001005,6025,"['910GALEXNDP', '9100ALEXNDP1']",['6025'],alexandra palace_thameslink_6025
+All Saints,dlr,1002003,850,['940GZZDLALL'],['850'],all saints_dlr_850
+Alperton,piccadilly,1000005,505,['940GZZLUALP'],['505'],alperton_piccadilly_505
+Amersham,chiltern-railways,1000006,506,['910GAMERSHM'],['506'],amersham_chiltern-railways_506
+Amersham,metropolitan,1000006,506,['940GZZLUAMS'],['506'],amersham_metropolitan_506
+Anerley,southern,1001007,5397,['910GANERLEY'],['5397'],anerley_southern_5397
+Anerley,windrush,1001007,5397,['910GANERLEY'],['5397'],anerley_windrush_5397
+Angel,northern,1000007,507,['940GZZLUAGL'],['507'],angel_northern_507
+Apsley,west-midlands-trains,1000808,1430,['910GAPSLEY'],['1430'],apsley_west-midlands-trains_1430
+Archway,northern,1000008,508,['940GZZLUACY'],['508'],archway_northern_508
+Arnos Grove,piccadilly,1000009,509,['940GZZLUASG'],['509'],arnos grove_piccadilly_509
+Arsenal,piccadilly,1001344,510,['940GZZLUASL'],['510'],arsenal_piccadilly_510
+Ascot,south-western-railway,90000250,5666,['910GASCOT'],['5666'],ascot_south-western-railway_5666
+Ashford Surrey,south-western-railway,1000009,5667,['910GASFDMSX'],['5667'],ashford surrey_south-western-railway_5667
+Ashtead,south-western-railway,1001548,5347,['910GASHD'],['5347'],ashtead_south-western-railway_5347
+Ashtead,southern,1001548,5347,['910GASHD'],['5347'],ashtead_southern_5347
+Aylesbury,chiltern-railways,1001009,1492,['910GAYLSBRY'],['1492'],aylesbury_chiltern-railways_1492
+Aylesbury Vale Parkway,chiltern-railways,1000010,1090,['910GAYLSPWY'],['1090'],aylesbury vale parkway_chiltern-railways_1090
+Baker Street,bakerloo,1000011,511,['940GZZLUBST'],['511'],baker street_bakerloo_511
+Baker Street,circle,1000011,511,['940GZZLUBST'],['511'],baker street_circle_511
+Baker Street,hammersmith-city,1000011,511,['940GZZLUBST'],['511'],baker street_hammersmith-city_511
+Baker Street,jubilee,1000011,511,['940GZZLUBST'],['511'],baker street_jubilee_511
+Baker Street,metropolitan,1000011,511,['940GZZLUBST'],['511'],baker street_metropolitan_511
+Baldock,great-northern,1000721,6084,['910GBALDOCK'],['6084'],baldock_great-northern_6084
+Baldock,thameslink,1000721,6084,['910GBALDOCK'],['6084'],baldock_thameslink_6084
+Balham,northern,1000012,512,['940GZZLUBLM'],['512'],balham_northern_512
+Balham,southern,1000012,5399,['910GBALHAM'],['5399'],balham_southern_5399
+Bank,central,1000013,513,['940GZZLUBNK'],['513'],bank_central_513
+Bank,dlr,1000013,513,['940GZZDLBNK'],['513'],bank_dlr_513
+Bank,northern,1000013,513,['940GZZLUBNK'],['513'],bank_northern_513
+Bank,waterloo-city,1000013,513,"['940GZZLUBNK', '9400ZZLUBNK8']",['513'],bank_waterloo-city_513
+Banstead,southern,1001552,5348,['910GBANSTED'],['5348'],banstead_southern_5348
+Barbican,circle,1000014,501,['940GZZLUBBN'],"['501', '577']",barbican_circle_501
+Barbican,hammersmith-city,1000014,501,['940GZZLUBBN'],"['501', '577']",barbican_hammersmith-city_501
+Barbican,metropolitan,1000014,501,['940GZZLUBBN'],"['501', '577']",barbican_metropolitan_501
+Barking,c2c,1000015,7492,['910GBARKING'],['514'],barking_c2c_7492
+Barking,district,1000015,514,['940GZZLUBKG'],['514'],barking_district_514
+Barking,hammersmith-city,1000015,514,['940GZZLUBKG'],['514'],barking_hammersmith-city_514
+Barking,suffragette,1000015,7492,['910GBARKING'],['514'],barking_suffragette_7492
+Barking Riverside,suffragette,1002272,1335,['910GBKRVS'],['1335'],barking riverside_suffragette_1335
+Barkingside,central,1000016,515,['940GZZLUBKE'],['515'],barkingside_central_515
+Barnehurst,southeastern,1001013,5089,['910GBRNHRST'],['5089'],barnehurst_southeastern_5089
+Barnes,south-western-railway,1001014,5551,['910GBARNES'],['5551'],barnes_south-western-railway_5551
+Barnes Bridge,south-western-railway,1001015,5580,['910GBNSBDGE'],['5580'],barnes bridge_south-western-railway_5580
+Barons Court,district,1000017,516,['940GZZLUBSC'],['516'],barons court_district_516
+Barons Court,piccadilly,1000017,516,['940GZZLUBSC'],['516'],barons court_piccadilly_516
+Basildon,c2c,1000724,7494,['910GBASILDN'],['7494'],basildon_c2c_7494
+Bat and Ball,southeastern,90000437,5090,['910GBATABAL'],['5090'],bat and ball_southeastern_5090
+Bat and Ball,thameslink,90000437,5090,['910GBATABAL'],['5090'],bat and ball_thameslink_5090
+Battersea Park,southern,1001016,5420,['910GBATRSPK'],['5420'],battersea park_southern_5420
+Battersea Park,windrush,1001016,5420,['910GBATRSPK'],['5420'],battersea park_windrush_5420
+Battersea Power Station,northern,1002195,832,['940GZZBPSUST'],['832'],battersea power station_northern_832
+Bayford,great-northern,1000476,6006,"['9100BAYFORD0', '910GBAYFORD']",['6006'],bayford_great-northern_6006
+Bayswater,circle,1000018,517,['940GZZLUBWT'],['517'],bayswater_circle_517
+Bayswater,district,1000018,517,['940GZZLUBWT'],['517'],bayswater_district_517
+Beaconsfield,chiltern-railways,1000338,3047,['910GBCNSFLD'],['3047'],beaconsfield_chiltern-railways_3047
+Beaulieu Park,greater-anglia,90001415,6334,['910GBEULYPK'],['6334'],beaulieu park_greater-anglia_6334
+Beckenham Hill,southeastern,1001017,5076,['910GBCKNHMH'],['5076'],beckenham hill_southeastern_5076
+Beckenham Hill,thameslink,1001017,5076,['910GBCKNHMH'],['5076'],beckenham hill_thameslink_5076
+Beckenham Junction,southeastern,1001018,5046,['910GBCKNHMJ'],['5046'],beckenham junction_southeastern_5046
+Beckenham Junction,southern,1001018,5046,['910GBCKNHMJ'],['5046'],beckenham junction_southern_5046
+Beckenham Junction,thameslink,1001018,5046,"['9100BCKNHMJ0', '9100BCKNHMJ1', '910GBCKNHMJ']",['5046'],beckenham junction_thameslink_5046
+Beckton,dlr,1002011,895,['940GZZDLBEC'],['895'],beckton_dlr_895
+Beckton Park,dlr,1002012,891,['940GZZDLBPK'],['891'],beckton park_dlr_891
+Becontree,district,1000019,518,['940GZZLUBEC'],['518'],becontree_district_518
+Bellingham,southeastern,1001019,5062,['910GBELNGHM'],['5062'],bellingham_southeastern_5062
+Bellingham,thameslink,1001019,5062,['910GBELNGHM'],['5062'],bellingham_thameslink_5062
+Belmont,southern,1001020,5350,['910GBELM'],['5350'],belmont_southern_5350
+Belsize Park,northern,1000020,519,"['940GZZLUBZP', '9400ZZLUBZP2']",['519'],belsize park_northern_519
+Belvedere,southeastern,1001021,5092,['910GBELVEDR'],['5092'],belvedere_southeastern_5092
+Belvedere,thameslink,1001021,5092,"['910GBELVEDR', '9100BELVEDR0']",['5092'],belvedere_thameslink_5092
+Benfleet,c2c,1000727,7439,['910GBENFLET'],['7439'],benfleet_c2c_7439
+Berkhamsted,west-midlands-trains,1000814,1390,['910GBERKHMD'],['1390'],berkhamsted_west-midlands-trains_1390
+Bermondsey,jubilee,1000021,787,"['9400ZZLUBMY2', '940GZZLUBMY']",['787'],bermondsey_jubilee_787
+Berrylands,south-western-railway,1001022,5581,['910GBRLANDS'],['5581'],berrylands_south-western-railway_5581
+Bethnal Green,central,1001023,520,['940GZZLUBLG'],['520'],bethnal green_central_520
+Bethnal Green,greater-anglia,1001023,6961,['910GBTHNLGR'],['6961'],bethnal green_greater-anglia_6961
+Bethnal Green,weaver,1001023,6961,['910GBTHNLGR'],['6961'],bethnal green_weaver_6961
+Bexley,southeastern,1001024,5093,['910GBEXLEY'],['5093'],bexley_southeastern_5093
+Bexleyheath,southeastern,1001025,5094,['910GBXLYHTH'],['5094'],bexleyheath_southeastern_5094
+Bickley,southeastern,1001026,5063,['910GBICKLEY'],['5063'],bickley_southeastern_5063
+Bickley,thameslink,1001026,5063,['910GBICKLEY'],['5063'],bickley_thameslink_5063
+Billericay,greater-anglia,1000573,6871,['910GBILERCY'],['6871'],billericay_greater-anglia_6871
+Birkbeck,southern,1001027,5401,['910GBIRKBCK'],['5401'],birkbeck_southern_5401
+Bishops Stortford,greater-anglia,1000576,6800,['910GBSHPSFD'],['6800'],bishops stortford_greater-anglia_6800
+Blackfriars,circle,1000023,521,['940GZZLUBKF'],['521'],blackfriars_circle_521
+Blackfriars,district,1000023,521,['940GZZLUBKF'],['521'],blackfriars_district_521
+Blackfriars,southeastern,1000023,5112,['910GBLFR'],['5112'],blackfriars_southeastern_5112
+Blackfriars,thameslink,1000023,5112,['910GBLFR'],['5112'],blackfriars_thameslink_5112
+Blackheath,southeastern,1001029,5095,['910GBLKHTH'],['5095'],blackheath_southeastern_5095
+Blackhorse Road,suffragette,1000024,7400,['910GBLCHSRD'],['522'],blackhorse road_suffragette_7400
+Blackhorse Road,victoria,1000024,522,['940GZZLUBLR'],['522'],blackhorse road_victoria_522
+Blackwall,dlr,1002018,882,['940GZZDLBLA'],['882'],blackwall_dlr_882
+Bletchley,west-midlands-trains,90000691,1360,['910GBLTCHLY'],['1360'],bletchley_west-midlands-trains_1360
+Bond Street,central,1000025,524,['940GZZLUBND'],['524'],bond street_central_524
+Bond Street,elizabeth,1000025,6553,"['9100BONDST0', '9100BONDST1', '9100BONDST', '910GBONDST']",['524'],bond street_elizabeth_6553
+Bond Street,jubilee,1000025,524,['940GZZLUBND'],['524'],bond street_jubilee_524
+Bookham,south-western-railway,1001511,5626,['910GBOOKHAM'],['5626'],bookham_south-western-railway_5626
+Borough,northern,1000026,525,['940GZZLUBOR'],['525'],borough_northern_525
+Borough Green and Wrotham,southeastern,1001012,5130,['910GBORWGAW'],['5130'],borough green and wrotham_southeastern_5130
+Boston Manor,piccadilly,1000027,526,['940GZZLUBOS'],['526'],boston manor_piccadilly_526
+Bounds Green,piccadilly,1000028,527,['940GZZLUBDS'],['527'],bounds green_piccadilly_527
+Bourne End,great-western-railway,1000856,3018,"['910GBORNEND', '9100BORNEN1']",['3018'],bourne end_great-western-railway_3018
+Bow Church,dlr,1002019,851,['940GZZDLBOW'],['851'],bow church_dlr_851
+Bow Road,district,1000029,528,['940GZZLUBWR'],['528'],bow road_district_528
+Bow Road,hammersmith-city,1000029,528,['940GZZLUBWR'],['528'],bow road_hammersmith-city_528
+Bowes Park,great-northern,1001031,6027,['910GBOWESPK'],['6027'],bowes park_great-northern_6027
+Box Hill and Westhumble,south-western-railway,1001509,5403,['910GBOXHAWH'],['5403'],box hill and westhumble_south-western-railway_5403
+Box Hill and Westhumble,southern,1001509,5403,['910GBOXHAWH'],['5403'],box hill and westhumble_southern_5403
+Bracknell,south-western-railway,1001356,5693,['910GBRACKNL'],['5693'],bracknell_south-western-railway_5693
+Brent Cross,northern,1000030,529,['940GZZLUBTX'],['529'],brent cross_northern_529
+Brent Cross West,thameslink,1002310,7777,"['9100BRENTX2', '9100BRENTX4', '9100BRENTX1', '9100BRENTX3', '910GBRENTX']",['7777'],brent cross west_thameslink_7777
+Brentford,south-western-railway,1001032,5552,['910GBNTFORD'],['5552'],brentford_south-western-railway_5552
+Brentwood,elizabeth,1000292,6872,"['9100BRTWOOD1', '9100BRTWOOD2']",['6872'],brentwood_elizabeth_6872
+Brentwood,greater-anglia,1000292,6872,['910GBRTWOOD'],['6872'],brentwood_greater-anglia_6872
+Bricket Wood,west-midlands-trains,1000770,1560,['910GBCWD'],['1560'],bricket wood_west-midlands-trains_1560
+Brimsdown,greater-anglia,1001033,6810,['910GBRIMSDN'],['6810'],brimsdown_greater-anglia_6810
+Brixton,southeastern,1000031,5081,['910GBRIXTON'],['5081'],brixton_southeastern_5081
+Brixton,victoria,1000031,778,['940GZZLUBXN'],['778'],brixton_victoria_778
+Brockley,southern,1001035,5404,['910GBROCKLY'],['5404'],brockley_southern_5404
+Brockley,windrush,1001035,5404,['910GBROCKLY'],['5404'],brockley_windrush_5404
+Bromley North,southeastern,1001036,5096,['910GBROMLYN'],['5096'],bromley north_southeastern_5096
+Bromley South,southeastern,1001037,5064,['910GBROMLYS'],['5064'],bromley south_southeastern_5064
+Bromley South,thameslink,1001037,5064,['910GBROMLYS'],['5064'],bromley south_thameslink_5064
+Bromley by Bow,district,1000032,530,['940GZZLUBBB'],['530'],bromley by bow_district_530
+Bromley by Bow,hammersmith-city,1000032,530,['940GZZLUBBB'],['530'],bromley by bow_hammersmith-city_530
+Brondesbury,mildmay,1001038,1437,['910GBRBY'],['1437'],brondesbury_mildmay_1437
+Brondesbury Park,mildmay,1001039,1438,['910GBRBYPK'],['1438'],brondesbury park_mildmay_1438
+Brookmans Park,great-northern,1000291,6074,['9100BRKMNPK0'],['6074'],brookmans park_great-northern_6074
+Brookmans Park,thameslink,1000291,6074,['9100BRKMNPK0'],['6074'],brookmans park_thameslink_6074
+Broxbourne,greater-anglia,1000583,6812,['910GBROXBRN'],['6812'],broxbourne_greater-anglia_6812
+Bruce Grove,greater-anglia,1001040,6958,['910GBRUCGRV'],['6958'],bruce grove_greater-anglia_6958
+Bruce Grove,weaver,1001040,6958,['910GBRUCGRV'],['6958'],bruce grove_weaver_6958
+Buckhurst Hill,central,1000033,531,['940GZZLUBKH'],['531'],buckhurst hill_central_531
+Burnham Bucks,elizabeth,1000036,3176,['910GBNHAM'],['3176'],burnham bucks_elizabeth_3176
+Burnham Bucks,great-western-railway,1000036,3176,['910GBNHAM'],['3176'],burnham bucks_great-western-railway_3176
+Burnt Oak,northern,1000034,532,['940GZZLUBTK'],['532'],burnt oak_northern_532
+Bush Hill Park,weaver,1001042,6913,['910GBHILLPK'],['6913'],bush hill park_weaver_6913
+Bushey,london-midland,1001041,1395,"['910GBUSHEY', '9100BUSHEY0']",['1395'],bushey_london-midland_1395
+Bushey,southern,1001041,1395,"['910GBUSHEY', '910GBUSHYDC']",['1395'],bushey_southern_1395
+Bushey,west-midlands-trains,1001041,1395,"['910GBUSHEY', '910GBUSHYDC']",['1395'],bushey_west-midlands-trains_1395
+Byfleet and New Haw,south-western-railway,90001189,5689,['910GBYFLANH'],['5689'],byfleet and new haw_south-western-railway_5689
+Caledonian Road,piccadilly,1000035,534,['940GZZLUCAR'],['534'],caledonian road_piccadilly_534
+Caledonian Road & Barnsbury,mildmay,1001043,1439,['910GCLDNNRB'],['1439'],caledonian road & barnsbury_mildmay_1439
+Cambridge Heath,greater-anglia,1001044,6962,['910GCAMHTH'],['6962'],cambridge heath_greater-anglia_6962
+Cambridge Heath,weaver,1001044,6962,['910GCAMHTH'],['6962'],cambridge heath_weaver_6962
+Camden Road,mildmay,1001045,1440,['910GCMDNRD'],['1440'],camden road_mildmay_1440
+Camden Town,northern,1000036,535,['940GZZLUCTN'],['535'],camden town_northern_535
+Canada Water,jubilee,1000037,788,"['9400ZZLUCWR3', '940GZZLUCWR']",['788'],canada water_jubilee_788
+Canada Water,windrush,1000037,1659,['910GCNDAW'],['788'],canada water_windrush_1659
+Canary Wharf,dlr,1000038,842,['940GZZDLCAN'],['842'],canary wharf_dlr_842
+Canary Wharf,elizabeth,1000038,6560,"['910GCANWHRF', '9100CANWHRF0', '9100CANWHRF1']",['6560'],canary wharf_elizabeth_6560
+Canary Wharf,jubilee,1000038,852,['940GZZLUCYF'],['852'],canary wharf_jubilee_852
+Canning Town,dlr,1000039,884,['940GZZDLCGT'],['884'],canning town_dlr_884
+Canning Town,jubilee,1000039,884,['940GZZLUCGT'],['884'],canning town_jubilee_884
+Cannon Street,circle,1000040,536,['940GZZLUCST'],['536'],cannon street_circle_536
+Cannon Street,district,1000040,536,['940GZZLUCST'],['536'],cannon street_district_536
+Cannon Street,southeastern,1000040,5142,['910GCANONST'],['5142'],cannon street_southeastern_5142
+Canonbury,mildmay,1001048,1441,['910GCNNB'],['1441'],canonbury_mildmay_1441
+Canonbury,windrush,1001048,1441,['910GCNNB'],['1441'],canonbury_windrush_1441
+Canons Park,jubilee,1000041,537,['940GZZLUCPK'],['537'],canons park_jubilee_537
+Carpenders Park,lioness,1001049,1442,['910GCRPNDPK'],['1442'],carpenders park_lioness_1442
+Carshalton,southern,1001051,5405,['910GCRSHLTN'],['5405'],carshalton_southern_5405
+Carshalton,thameslink,1001051,5405,['910GCRSHLTN'],['5405'],carshalton_thameslink_5405
+Carshalton Beeches,southern,1001050,5406,['910GCRSHLTB'],['5406'],carshalton beeches_southern_5406
+Castle Bar Park,great-western-railway,1001052,3098,['910GCBARPAR'],['3098'],castle bar park_great-western-railway_3098
+Caterham,southern,1001539,5351,['910GCATERHM'],['5351'],caterham_southern_5351
+Catford,southeastern,1001054,5077,['910GCATFORD'],['5077'],catford_southeastern_5077
+Catford,thameslink,1001054,5077,['910GCATFORD'],['5077'],catford_thameslink_5077
+Catford Bridge,southeastern,1001054,5047,['910GCATFBDG'],['5047'],catford bridge_southeastern_5047
+Chadwell Heath,elizabeth,1001055,6874,"['910GCHDWLHT', '9100CHDWLHT0', '9100CHDWLHT1']",['6874'],chadwell heath_elizabeth_6874
+Chadwell Heath,greater-anglia,1001055,6874,['910GCHDWLHT'],['6874'],chadwell heath_greater-anglia_6874
+Chafford Hundred,c2c,1000729,7447,['910GCHADHDD'],['7447'],chafford hundred_c2c_7447
+Chalfont & Latimer,chiltern-railways,1000042,539,['910GCHLFNAL'],['539'],chalfont & latimer_chiltern-railways_539
+Chalfont & Latimer,metropolitan,1000042,539,['940GZZLUCAL'],['539'],chalfont & latimer_metropolitan_539
+Chalk Farm,northern,1000043,540,['940GZZLUCFM'],['540'],chalk farm_northern_540
+Chalkwell,c2c,90001408,7469,['910GCHLKWEL'],['7469'],chalkwell_c2c_7469
+Chancery Lane,central,1000044,541,['940GZZLUCHL'],['541'],chancery lane_central_541
+Charing Cross,bakerloo,1000045,732,['940GZZLUCHX'],['732'],charing cross_bakerloo_732
+Charing Cross,northern,1000045,732,['940GZZLUCHX'],['732'],charing cross_northern_732
+Charing Cross,southeastern,1000045,5143,['910GCHRX'],['5143'],charing cross_southeastern_5143
+Charlton,southeastern,1001058,5144,['910GCRLN'],['5144'],charlton_southeastern_5144
+Charlton,thameslink,1001058,5144,"['9100CRLN0', '910GCRLN']",['5144'],charlton_thameslink_5144
+Chatham,southeastern,90001362,5199,['910GCHATHAM'],['5199'],chatham_southeastern_5199
+Cheam,southern,1001059,5352,['910GCHEAM'],['5352'],cheam_southern_5352
+Cheddington,west-midlands-trains,1000818,1372,['910GCHDNGTN'],['1372'],cheddington_west-midlands-trains_1372
+Chelmsford,greater-anglia,1000591,6836,['910GCHLMSFD'],['6836'],chelmsford_greater-anglia_6836
+Chelsfield,southeastern,1001060,5098,['910GCHLSFLD'],['5098'],chelsfield_southeastern_5098
+Chertsey,south-western-railway,1001526,5553,['910GCHTSEY'],['5553'],chertsey_south-western-railway_5553
+Chesham,metropolitan,1000046,543,['940GZZLUCSM'],['543'],chesham_metropolitan_543
+Cheshunt,greater-anglia,1001532,6814,['910GCHESHNT'],['6814'],cheshunt_greater-anglia_6814
+Cheshunt,weaver,1001532,6814,['910GCHESHNT'],['6814'],cheshunt_weaver_6814
+Chessington North,south-western-railway,1001061,5582,['910GCHSSN'],['5582'],chessington north_south-western-railway_5582
+Chessington South,south-western-railway,1001062,5554,['910GCHSSS'],['5554'],chessington south_south-western-railway_5554
+Chigwell,central,1000047,544,['940GZZLUCWL'],['544'],chigwell_central_544
+Chingford,weaver,1001063,6914,['910GCHINGFD'],['6914'],chingford_weaver_6914
+Chipstead,southern,1001557,5353,['910GCHSD'],['5353'],chipstead_southern_5353
+Chislehurst,southeastern,1001064,5099,['910GCHSLHRS'],['5099'],chislehurst_southeastern_5099
+Chiswick,south-western-railway,1000048,5583,['910GCHISWCK'],['5583'],chiswick_south-western-railway_5583
+Chiswick Park,district,1000048,545,['940GZZLUCWP'],['545'],chiswick park_district_545
+Chorleywood,chiltern-railways,1000049,546,['910GCHRW'],['546'],chorleywood_chiltern-railways_546
+Chorleywood,metropolitan,1000049,546,['940GZZLUCYD'],['546'],chorleywood_metropolitan_546
+City Thameslink,thameslink,1001067,5121,['910GCTMSLNK'],['5121'],city thameslink_thameslink_5121
+Clandon,south-western-railway,1001577,5555,['910GCLANDON'],['5555'],clandon_south-western-railway_5555
+Clapham Common,northern,1000050,547,['940GZZLUCPC'],['547'],clapham common_northern_547
+Clapham High Street,southeastern,1001068,5301,"['9100CLPHHS0', '910GCLPHHS', '9100CLPHHS1']",['5301'],clapham high street_southeastern_5301
+Clapham High Street,windrush,1001068,5301,['910GCLPHHS'],['5301'],clapham high street_windrush_5301
+Clapham Junction,gatwick-express,1001069,5595,"['910GCLPHMJC', '910GCLPHMJ1']",['5595'],clapham junction_gatwick-express_5595
+Clapham Junction,mildmay,1001069,5595,"['910GCLPHMJC', '910GCLPHMJ1']",['5595'],clapham junction_mildmay_5595
+Clapham Junction,south-western-railway,1001069,5595,"['910GCLPHMJC', '910GCLPHMJ1']",['5595'],clapham junction_south-western-railway_5595
+Clapham Junction,southern,1001069,5595,"['910GCLPHMJC', '910GCLPHMJ1']",['5595'],clapham junction_southern_5595
+Clapham Junction,windrush,1001069,5595,"['910GCLPHMJC', '910GCLPHMJ1']",['5595'],clapham junction_windrush_5595
+Clapham North,northern,1000051,548,['940GZZLUCPN'],['548'],clapham north_northern_548
+Clapham South,northern,1000052,549,['940GZZLUCPS'],['549'],clapham south_northern_549
+Clapton,greater-anglia,1001070,6926,['910GCLAPTON'],['6926'],clapton_greater-anglia_6926
+Clapton,weaver,1001070,6926,['910GCLAPTON'],['6926'],clapton_weaver_6926
+Claygate,south-western-railway,1001517,5556,['910GCLYGATE'],['5556'],claygate_south-western-railway_5556
+Clock House,southeastern,1001071,5048,['910GCLOCKHS'],['5048'],clock house_southeastern_5048
+Cobham & Stoke d'Abernon,south-western-railway,1001515,5557,['910GCBHMSDA'],['5557'],cobham & stoke d'abernon_south-western-railway_5557
+Cockfosters,piccadilly,1000053,550,['940GZZLUCKS'],['550'],cockfosters_piccadilly_550
+Colindale,northern,1000054,551,['940GZZLUCND'],['551'],colindale_northern_551
+Colliers Wood,northern,1000055,552,['940GZZLUCSD'],['552'],colliers wood_northern_552
+Cookham,great-western-railway,1000863,3019,"['9100COOKHAM0', '910GCOOKHAM']",['3019'],cookham_great-western-railway_3019
+Coulsdon South,southern,1001072,5408,['910GCOLSDNS'],['5408'],coulsdon south_southern_5408
+Coulsdon South,thameslink,1001072,5408,['910GCOLSDNS'],['5408'],coulsdon south_thameslink_5408
+Coulsdon Town,southern,1001253,5382,['910GCOLSTWN'],['5382'],coulsdon town_southern_5382
+Covent Garden,piccadilly,1000056,553,['940GZZLUCGN'],['553'],covent garden_piccadilly_553
+Crayford,southeastern,1001073,5100,['910GCRFD'],['5100'],crayford_southeastern_5100
+Crews Hill,great-northern,1001074,6007,['910GCRHL'],['6007'],crews hill_great-northern_6007
+Cricklewood,thameslink,1001075,1519,['910GCRKLWD'],['1519'],cricklewood_thameslink_1519
+Crofton Park,southeastern,1001076,5078,['910GCFPK'],['5078'],crofton park_southeastern_5078
+Crofton Park,thameslink,1001076,5078,['910GCFPK'],['5078'],crofton park_thameslink_5078
+Crossharbour,dlr,1002025,854,['940GZZDLCLA'],['854'],crossharbour_dlr_854
+Crouch Hill,suffragette,1001077,7406,['910GCROUCHH'],['7406'],crouch hill_suffragette_7406
+Croxley,metropolitan,1000057,554,['940GZZLUCXY'],['554'],croxley_metropolitan_554
+Crystal Palace,southern,1001078,5356,['910GCRYSTLP'],['5356'],crystal palace_southern_5356
+Crystal Palace,windrush,1001078,5356,['910GCRYSTLP'],['5356'],crystal palace_windrush_5356
+Cuffley,great-northern,1001504,6008,"['910GCUFFLEY', '9100CUFFLEY0']",['6008'],cuffley_great-northern_6008
+Custom House,dlr,1001079,887,['940GZZDLCUS'],['887'],custom house_dlr_887
+Custom House,elizabeth,1001079,6561,"['910GCSTMHSXR', '9100CSTMHSXR', '9100CSTMHSXR0', '9100CSTMHSXR1']",['6561'],custom house_elizabeth_6561
+Cutty Sark,dlr,1002027,879,['940GZZDLCUT'],['879'],cutty sark_dlr_879
+Cyprus,dlr,1002028,893,['940GZZDLCYP'],['893'],cyprus_dlr_893
+Dagenham Dock,c2c,1001080,7440,['910GDGNHMDC'],['7440'],dagenham dock_c2c_7440
+Dagenham East,district,1000058,555,['940GZZLUDGE'],['555'],dagenham east_district_555
+Dagenham Heathway,district,1000059,556,['940GZZLUDGY'],['556'],dagenham heathway_district_556
+Dalston Junction,windrush,1001568,1443,['910GDALS'],['1443'],dalston junction_windrush_1443
+Dalston Kingsland,mildmay,1001081,1429,['910GDALSKLD'],['1429'],dalston kingsland_mildmay_1429
+Dartford,southeastern,1001082,5101,['910GDARTFD'],['5101'],dartford_southeastern_5101
+Dartford,thameslink,1001082,5101,"['9100DARTFD0', '910GDARTFD']",['5101'],dartford_thameslink_5101
+Datchet,south-western-railway,1001350,5668,['910GDATCHET'],['5668'],datchet_south-western-railway_5668
+Debden,central,1000060,557,['940GZZLUDBN'],['557'],debden_central_557
+Denham,chiltern-railways,1001289,3052,['910GDENHAM'],['3052'],denham_chiltern-railways_3052
+Denham Golf Club,chiltern-railways,1001506,3060,['910GDENHMGC'],['3060'],denham golf club_chiltern-railways_3060
+Denmark Hill,southeastern,1001083,5421,['910GDENMRKH'],['5421'],denmark hill_southeastern_5421
+Denmark Hill,thameslink,1001083,5421,['910GDENMRKH'],['5421'],denmark hill_thameslink_5421
+Denmark Hill,windrush,1001083,5421,['910GDENMRKH'],['5421'],denmark hill_windrush_5421
+Deptford,southeastern,1002029,5145,['910GDEPTFD'],['5145'],deptford_southeastern_5145
+Deptford,thameslink,1002029,5145,"['9100DEPTFD0', '910GDEPTFD']",['5145'],deptford_thameslink_5145
+Deptford Bridge,dlr,1002029,897,['940GZZDLDEP'],['897'],deptford bridge_dlr_897
+Devons Road,dlr,1002030,867,['940GZZDLDEV'],['867'],devons road_dlr_867
+Dollis Hill,jubilee,1000061,558,['940GZZLUDOH'],['558'],dollis hill_jubilee_558
+Dorking,south-western-railway,1000067,5357,['910GDORKING'],['5357'],dorking_south-western-railway_5357
+Dorking,southern,1000067,5357,['910GDORKING'],['5357'],dorking_southern_5357
+Dormans,southern,90002279,5413,['910GDORMANS'],['5413'],dormans_southern_5413
+Dormans,thameslink,90002279,5413,['910GDORMANS'],['5413'],dormans_thameslink_5413
+Drayton Green,great-western-railway,1001085,3099,['910GDRAYGRN'],['3099'],drayton green_great-western-railway_3099
+Drayton Park,great-northern,1000068,6000,['910GDRYP'],['6000'],drayton park_great-northern_6000
+Dunton Green,southeastern,1002470,5102,['910GDTNG'],['5102'],dunton green_southeastern_5102
+Ealing Broadway,central,1000062,560,['940GZZLUEBY'],"['560', '3190']",ealing broadway_central_560
+Ealing Broadway,district,1000062,560,['940GZZLUEBY'],"['560', '3190']",ealing broadway_district_560
+Ealing Broadway,elizabeth,1000062,3190,"['9100EALINGB0', '910GEALINGB', '9100EALINGB1']","['560', '3190']",ealing broadway_elizabeth_3190
+Ealing Broadway,great-western-railway,1000062,3190,['910GEALINGB'],"['560', '3190']",ealing broadway_great-western-railway_3190
+Ealing Common,district,1000063,561,['940GZZLUECM'],['561'],ealing common_district_561
+Ealing Common,piccadilly,1000063,561,['940GZZLUECM'],['561'],ealing common_piccadilly_561
+Earley,south-western-railway,90000496,5694,['910GERLY'],['5694'],earley_south-western-railway_5694
+Earls Court,district,1000064,562,['940GZZLUECT'],['562'],earls court_district_562
+Earls Court,piccadilly,1000064,562,['940GZZLUECT'],['562'],earls court_piccadilly_562
+Earlsfield,south-western-railway,1001088,5584,['910GERLFLD'],['5584'],earlsfield_south-western-railway_5584
+Earlswood,southern,1000070,5414,['910GEARLSWD'],['5414'],earlswood_southern_5414
+Earlswood,thameslink,1000070,5414,['910GEARLSWD'],['5414'],earlswood_thameslink_5414
+East Acton,central,1000065,563,['940GZZLUEAN'],['563'],east acton_central_563
+East Croydon,gatwick-express,1001089,5355,['910GECROYDN'],['5355'],east croydon_gatwick-express_5355
+East Croydon,southern,1001089,5355,['910GECROYDN'],['5355'],east croydon_southern_5355
+East Croydon,thameslink,1001089,5355,['910GECROYDN'],['5355'],east croydon_thameslink_5355
+East Dulwich,southern,1001090,5358,['910GEDULWCH'],['5358'],east dulwich_southern_5358
+East Finchley,northern,1000067,565,['940GZZLUEFY'],['565'],east finchley_northern_565
+East Grinstead,southern,90002488,5486,['910GEGRNSTD'],['5486'],east grinstead_southern_5486
+East Grinstead,thameslink,90002488,5486,['910GEGRNSTD'],['5486'],east grinstead_thameslink_5486
+East Ham,district,1000068,566,['940GZZLUEHM'],['566'],east ham_district_566
+East Ham,hammersmith-city,1000068,566,['940GZZLUEHM'],['566'],east ham_hammersmith-city_566
+East India,dlr,1002033,883,['940GZZDLEIN'],['883'],east india_dlr_883
+East Putney,district,1000069,567,['940GZZLUEPY'],['567'],east putney_district_567
+East Tilbury,c2c,1000733,7471,['910GETILBRY'],['7471'],east tilbury_c2c_7471
+Eastcote,metropolitan,1000066,564,['940GZZLUEAE'],['564'],eastcote_metropolitan_564
+Eastcote,piccadilly,1000066,564,['940GZZLUEAE'],['564'],eastcote_piccadilly_564
+Ebbsfleet International,southeastern,1001903,5566,['910GEBSFDOM'],['5566'],ebbsfleet international_southeastern_5566
+Eden Park,southeastern,1001091,5056,['910GEDPK'],['5056'],eden park_southeastern_5056
+Edgware,northern,1000070,568,['940GZZLUEGW'],['568'],edgware_northern_568
+Edgware Road,bakerloo,1000072,774,['940GZZLUERB'],['774'],edgware road_bakerloo_774
+Edgware Road,circle,1000072,569,['940GZZLUERC'],['569'],edgware road_circle_569
+Edgware Road,district,1000072,569,['940GZZLUERC'],['569'],edgware road_district_569
+Edgware Road,hammersmith-city,1000072,569,['940GZZLUERC'],['569'],edgware road_hammersmith-city_569
+Edmonton Green,greater-anglia,1001092,6941,['910GEDMNGRN'],['6941'],edmonton green_greater-anglia_6941
+Edmonton Green,weaver,1001092,6941,['910GEDMNGRN'],['6941'],edmonton green_weaver_6941
+Effingham Junction,south-western-railway,1001512,5642,['910GEFNGHMJ'],['5642'],effingham junction_south-western-railway_5642
+Egham,south-western-railway,1001502,5669,['910GEGHAM'],['5669'],egham_south-western-railway_5669
+Elephant & Castle,bakerloo,1000073,570,['940GZZLUEAC'],['570'],elephant & castle_bakerloo_570
+Elephant & Castle,northern,1000073,570,['940GZZLUEAC'],['570'],elephant & castle_northern_570
+Elephant & Castle,southeastern,1000073,5246,['910GELPHNAC'],['5246'],elephant & castle_southeastern_5246
+Elephant & Castle,thameslink,1000073,5246,['910GELPHNAC'],['5246'],elephant & castle_thameslink_5246
+Elm Park,district,1000074,571,['940GZZLUEPK'],['571'],elm park_district_571
+Elmers End,southeastern,1001094,5049,['910GELMERSE'],['5049'],elmers end_southeastern_5049
+Elmstead Woods,southeastern,1001095,5135,['910GELMW'],['5135'],elmstead woods_southeastern_5135
+Elstree & Borehamwood,thameslink,1001096,1542,['910GELTR'],['1542'],elstree & borehamwood_thameslink_1542
+Eltham,southeastern,1001097,5103,['910GELTHAM'],['5103'],eltham_southeastern_5103
+Elverson Road,dlr,1002035,898,['940GZZDLELV'],['898'],elverson road_dlr_898
+Embankment,bakerloo,1000075,542,['940GZZLUEMB'],['542'],embankment_bakerloo_542
+Embankment,circle,1000075,542,['940GZZLUEMB'],['542'],embankment_circle_542
+Embankment,district,1000075,542,['940GZZLUEMB'],['542'],embankment_district_542
+Embankment,northern,1000075,542,['940GZZLUEMB'],['542'],embankment_northern_542
+Emerson Park,liberty,1001098,7473,['910GEMRSPKH'],['7473'],emerson park_liberty_7473
+Enfield Chase,great-northern,1001099,6010,['910GENFC'],['6010'],enfield chase_great-northern_6010
+Enfield Lock,greater-anglia,1001100,6815,['910GENFLDLK'],['6815'],enfield lock_greater-anglia_6815
+Enfield Town,weaver,1001101,6959,['910GENFLDTN'],['6959'],enfield town_weaver_6959
+Epping,central,1000076,572,['940GZZLUEPG'],['572'],epping_central_572
+Epsom,south-western-railway,1001553,5360,"['910GEPSM', '9100EPSM1']",['5360'],epsom_south-western-railway_5360
+Epsom,southern,1001553,5360,"['910GEPSM', '9100EPSM1']",['5360'],epsom_southern_5360
+Epsom Downs,southern,1001553,5361,['910GEPSDNS'],['5361'],epsom downs_southern_5361
+Erith,southeastern,1001102,5104,['910GERITH'],['5104'],erith_southeastern_5104
+Erith,thameslink,1001102,5104,"['910GERITH', '9100ERITH0']",['5104'],erith_thameslink_5104
+Esher,south-western-railway,1001519,5558,['910GESHER'],['5558'],esher_south-western-railway_5558
+Essex Road,great-northern,1001103,6004,['910GESSEXRD'],['6004'],essex road_great-northern_6004
+Euston,lioness,1000077,1444,['910GEUSTON'],['1444'],euston_lioness_1444
+Euston,northern,1000077,574,['940GZZLUEUS'],['574'],euston_northern_574
+Euston,victoria,1000077,574,['940GZZLUEUS'],['574'],euston_victoria_574
+Euston,west-midlands-trains,1000077,1444,['910GEUSTON'],['1444'],euston_west-midlands-trains_1444
+Euston Square,circle,1000078,575,['940GZZLUESQ'],['575'],euston square_circle_575
+Euston Square,hammersmith-city,1000078,575,['940GZZLUESQ'],['575'],euston square_hammersmith-city_575
+Euston Square,metropolitan,1000078,575,['940GZZLUESQ'],['575'],euston square_metropolitan_575
+Ewell East,southern,1001534,5415,['910GEWELLE'],['5415'],ewell east_southern_5415
+Ewell West,south-western-railway,1001535,5586,['910GEWELW'],['5586'],ewell west_south-western-railway_5586
+Eynsford,southeastern,1002251,5065,['910GEYNSFD'],['5065'],eynsford_southeastern_5065
+Eynsford,thameslink,1002251,5065,['910GEYNSFD'],['5065'],eynsford_thameslink_5065
+Fairlop,central,1000079,576,['940GZZLUFLP'],['576'],fairlop_central_576
+Falconwood,southeastern,1001105,5137,['910GFALCNWD'],['5137'],falconwood_southeastern_5137
+Farningham Road,southeastern,1001389,5105,['910GFRNNGRD'],['5105'],farningham road_southeastern_5105
+Farringdon,circle,1000080,577,['940GZZLUFCN'],"['501', '577']",farringdon_circle_577
+Farringdon,elizabeth,1000080,577,"['910GFRNDXR', '9100FRNDNLT2', '9100FRNDNLT1']","['501', '577']",farringdon_elizabeth_577
+Farringdon,hammersmith-city,1000080,577,['940GZZLUFCN'],"['501', '577']",farringdon_hammersmith-city_577
+Farringdon,metropolitan,1000080,577,['940GZZLUFCN'],"['501', '577']",farringdon_metropolitan_577
+Farringdon,thameslink,1000080,577,['910GFRNDNLT'],"['501', '577']",farringdon_thameslink_577
+Feltham,south-western-railway,1001107,5559,['910GFELTHAM'],['5559'],feltham_south-western-railway_5559
+Fenchurch Street,c2c,1001108,7490,['910GFENCHRS'],['7490'],fenchurch street_c2c_7490
+Finchley Central,northern,1000081,578,['940GZZLUFYC'],['578'],finchley central_northern_578
+Finchley Road,jubilee,1000082,579,['940GZZLUFYR'],['579'],finchley road_jubilee_579
+Finchley Road,metropolitan,1000082,579,['940GZZLUFYR'],['579'],finchley road_metropolitan_579
+Finchley Road & Frognal,mildmay,1001109,1445,['910GFNCHLYR'],['1445'],finchley road & frognal_mildmay_1445
+Finsbury Park,great-northern,1000083,6119,['910GFNPK'],"['580', '6119']",finsbury park_great-northern_6119
+Finsbury Park,piccadilly,1000083,580,['940GZZLUFPK'],"['580', '6119']",finsbury park_piccadilly_580
+Finsbury Park,thameslink,1000083,6119,"['9100FNPK1', '9100FNPK0', '910GFNPK']","['580', '6119']",finsbury park_thameslink_6119
+Finsbury Park,victoria,1000083,580,['940GZZLUFPK'],"['580', '6119']",finsbury park_victoria_580
+Forest Gate,elizabeth,1001111,6876,"['9100FRSTGT1', '910GFRSTGT', '9100FRSTGT0']",['6876'],forest gate_elizabeth_6876
+Forest Gate,greater-anglia,1001111,6876,['910GFRSTGT'],['6876'],forest gate_greater-anglia_6876
+Forest Hill,southern,1001112,5362,['910GFORESTH'],['5362'],forest hill_southern_5362
+Forest Hill,windrush,1001112,5362,['910GFORESTH'],['5362'],forest hill_windrush_5362
+Fulham Broadway,district,1000084,581,['940GZZLUFBY'],['581'],fulham broadway_district_581
+Fulwell,south-western-railway,1001113,5587,['910GFULWELL'],['5587'],fulwell_south-western-railway_5587
+Furze Platt,great-western-railway,1001403,3144,"['910GFURZEP', '9100FURZEP0']",['3144'],furze platt_great-western-railway_3144
+Gallions Reach,dlr,1002039,894,['940GZZDLGAL'],['894'],gallions reach_dlr_894
+Gants Hill,central,1000085,582,['940GZZLUGTH'],['582'],gants hill_central_582
+Garston,west-midlands-trains,1000772,1559,['910GGRSTH'],['1559'],garston_west-midlands-trains_1559
+Gatwick Airport,gatwick-express,1000932,5416,['910GGTWK'],['5416'],gatwick airport_gatwick-express_5416
+Gatwick Airport,great-western-railway,1000932,5416,['910GGTWK'],['5416'],gatwick airport_great-western-railway_5416
+Gatwick Airport,southern,1000932,5416,['910GGTWK'],['5416'],gatwick airport_southern_5416
+Gatwick Airport,thameslink,1000932,5416,['910GGTWK'],['5416'],gatwick airport_thameslink_5416
+Gerrards Cross,chiltern-railways,1000561,3051,['910GGERRDSX'],['3051'],gerrards cross_chiltern-railways_3051
+Gidea Park,elizabeth,1001115,6877,"['9100GIDEAPK1', '910GGIDEAPK', '9100GIDEAPK0']",['6877'],gidea park_elizabeth_6877
+Gidea Park,greater-anglia,1001115,6877,['910GGIDEAPK'],['6877'],gidea park_greater-anglia_6877
+Gillingham,southeastern,90002999,5169,['910GGLNGHMK'],['5169'],gillingham_southeastern_5169
+Gillingham,thameslink,90002999,5169,['910GGLNGHMK'],['5169'],gillingham_thameslink_5169
+Gipsy Hill,southern,1001116,5363,['910GGIPSYH'],['5363'],gipsy hill_southern_5363
+Gloucester Road,circle,1000086,583,['940GZZLUGTR'],['583'],gloucester road_circle_583
+Gloucester Road,district,1000086,583,['940GZZLUGTR'],['583'],gloucester road_district_583
+Gloucester Road,piccadilly,1000086,583,['940GZZLUGTR'],['583'],gloucester road_piccadilly_583
+Golders Green,northern,1000087,584,['940GZZLUGGN'],['584'],golders green_northern_584
+Goldhawk Road,circle,1000088,585,['940GZZLUGHK'],['585'],goldhawk road_circle_585
+Goldhawk Road,hammersmith-city,1000088,585,['940GZZLUGHK'],['585'],goldhawk road_hammersmith-city_585
+Goodge Street,northern,1000089,586,['940GZZLUGDG'],['586'],goodge street_northern_586
+Goodmayes,greater-anglia,1001117,6878,['910GGODMAYS'],['6878'],goodmayes_greater-anglia_6878
+Gordon Hill,great-northern,1001118,6028,['910GGORDONH'],['6028'],gordon hill_great-northern_6028
+Gospel Oak,mildmay,1001119,1409,['910GGOSPLOK'],['1409'],gospel oak_mildmay_1409
+Gospel Oak,suffragette,1001119,1409,['910GGOSPLOK'],['1409'],gospel oak_suffragette_1409
+Grange Hill,central,1000090,587,['940GZZLUGGH'],['587'],grange hill_central_587
+Grange Park,great-northern,1001341,6029,['910GGRPK'],['6029'],grange park_great-northern_6029
+Gravesend,southeastern,1001540,5172,['910GGRVSEND'],['5172'],gravesend_southeastern_5172
+Gravesend,thameslink,1001540,5172,['910GGRVSEND'],['5172'],gravesend_thameslink_5172
+Grays,c2c,1001563,7443,['910GGRAYS'],['7443'],grays_c2c_7443
+Great Missenden,chiltern-railways,1001121,1463,['910GGTMSNDN'],['1463'],great missenden_chiltern-railways_1463
+Great Portland Street,circle,1000091,588,['940GZZLUGPS'],['588'],great portland street_circle_588
+Great Portland Street,hammersmith-city,1000091,588,['940GZZLUGPS'],['588'],great portland street_hammersmith-city_588
+Great Portland Street,metropolitan,1000091,588,['940GZZLUGPS'],['588'],great portland street_metropolitan_588
+Green Park,jubilee,1000093,590,['940GZZLUGPK'],['590'],green park_jubilee_590
+Green Park,piccadilly,1000093,590,['940GZZLUGPK'],['590'],green park_piccadilly_590
+Green Park,victoria,1000093,590,['940GZZLUGPK'],['590'],green park_victoria_590
+Greenford,central,1000092,589,['940GZZLUGFD'],['589'],greenford_central_589
+Greenford,great-western-railway,1000092,3136,['910GGFORD'],['589'],greenford_great-western-railway_3136
+Greenhithe for Bluewater,southeastern,1001543,5138,['910GGNHT'],['5138'],greenhithe for bluewater_southeastern_5138
+Greenhithe for Bluewater,thameslink,1001543,5138,['910GGNHT'],['5138'],greenhithe for bluewater_thameslink_5138
+Greenwich,dlr,1000160,928,['940GZZDLGRE'],['928'],greenwich_dlr_928
+Greenwich,southeastern,1000160,5146,['910GGNWH'],['928'],greenwich_southeastern_5146
+Greenwich,thameslink,1000160,5146,"['9100GNWH1', '9100GNWH0', '910GGNWH']",['928'],greenwich_thameslink_5146
+Grove Park,southeastern,1001124,5139,['910GGRVPK'],['5139'],grove park_southeastern_5139
+Guildford,great-western-railway,1001424,5631,['910GGUILDFD'],['5631'],guildford_great-western-railway_5631
+Guildford,south-western-railway,1001424,5631,['910GGUILDFD'],['5631'],guildford_south-western-railway_5631
+Gunnersbury,district,1000094,591,['940GZZLUGBY'],['591'],gunnersbury_district_591
+Gunnersbury,mildmay,1000094,5588,['910GGNRSBRY'],['591'],gunnersbury_mildmay_5588
+Hackbridge,southern,1001126,5364,['910GHKBG'],['5364'],hackbridge_southern_5364
+Hackbridge,thameslink,1001126,5364,['910GHKBG'],['5364'],hackbridge_thameslink_5364
+Hackney Central,mildmay,1001127,6977,['910GHACKNYC'],"['6867', '6977']",hackney central_mildmay_6977
+Hackney Downs,greater-anglia,1001128,6867,['910GHAKNYNM'],"['6867', '6977']",hackney downs_greater-anglia_6867
+Hackney Downs,weaver,1001128,6867,['910GHAKNYNM'],"['6867', '6977']",hackney downs_weaver_6867
+Hackney Wick,mildmay,1001129,6978,['910GHACKNYW'],['6978'],hackney wick_mildmay_6978
+Hadley Wood,great-northern,1001130,6075,['910GHADLYWD'],['6075'],hadley wood_great-northern_6075
+Hadley Wood,thameslink,1001130,6075,"['9100HADLYWD0', '910GHADLYWD', '9100HADLYWD2']",['6075'],hadley wood_thameslink_6075
+Haggerston,windrush,1001569,1022,['910GHAGGERS'],['1022'],haggerston_windrush_1022
+Hainault,central,1000095,592,['940GZZLUHLT'],['592'],hainault_central_592
+Hammersmith,circle,1000099,773,['940GZZLUHSC'],['773'],hammersmith_circle_773
+Hammersmith,district,1000099,593,['940GZZLUHSD'],['593'],hammersmith_district_593
+Hammersmith,hammersmith-city,1000099,773,['940GZZLUHSC'],['773'],hammersmith_hammersmith-city_773
+Hammersmith,piccadilly,1000099,593,['940GZZLUHSD'],['593'],hammersmith_piccadilly_593
+Hampstead,northern,1000263,594,"['940GZZLUHTD', '9400ZZLUHTD2']",['594'],hampstead_northern_594
+Hampstead Heath,mildmay,1001131,1413,['910GHMPSTDH'],['1413'],hampstead heath_mildmay_1413
+Hampton,south-western-railway,1001133,5560,['910GHAMPTON'],['5560'],hampton_south-western-railway_5560
+Hampton Court,south-western-railway,1001133,5561,['910GHCRT'],['5561'],hampton court_south-western-railway_5561
+Hampton Wick,south-western-railway,1001134,5589,['910GHAMWICK'],['5589'],hampton wick_south-western-railway_5589
+Hanger Lane,central,1000099,595,['940GZZLUHGR'],['595'],hanger lane_central_595
+Hanwell,elizabeth,1001135,3191,"['9100HANWELL0', '910GHANWELL']",['3191'],hanwell_elizabeth_3191
+Hanwell,great-western-railway,1001135,3191,['910GHANWELL'],['3191'],hanwell_great-western-railway_3191
+Harlesden,bakerloo,1000100,596,['940GZZLUHSN'],['596'],harlesden_bakerloo_596
+Harlesden,lioness,1000100,1521,['910GHARLSDN'],['596'],harlesden_lioness_1521
+Harlington,thameslink,1001144,1533,['910GHRLG'],['1533'],harlington_thameslink_1533
+Harlow Mill,greater-anglia,90003662,6804,['910GHRLWMIL'],['6804'],harlow mill_greater-anglia_6804
+Harlow Town,greater-anglia,1000620,6827,['910GHRLWTWN'],['6827'],harlow town_greater-anglia_6827
+Harold Wood,elizabeth,1001137,6879,"['910GHRLDWOD', '9100HRLDWOD2', '9100HRLDWOD1']",['6879'],harold wood_elizabeth_6879
+Harold Wood,greater-anglia,1001137,6879,['910GHRLDWOD'],['6879'],harold wood_greater-anglia_6879
+Harpenden,thameslink,1000480,1543,['910GHRPNDN'],['1543'],harpenden_thameslink_1543
+Harringay,great-northern,1001139,6012,['910GHRGY'],['6012'],harringay_great-northern_6012
+Harringay Green Lanes,suffragette,1001139,7401,['910GHRGYGL'],['7401'],harringay green lanes_suffragette_7401
+Harrow & Wealdstone,bakerloo,1000101,597,['940GZZLUHAW'],['597'],harrow & wealdstone_bakerloo_597
+Harrow & Wealdstone,lioness,1000101,1397,['910GHROW'],['597'],harrow & wealdstone_lioness_1397
+Harrow & Wealdstone,southern,1000101,1397,['910GHROW'],['597'],harrow & wealdstone_southern_1397
+Harrow & Wealdstone,west-midlands-trains,1000101,1397,"['910GHROW', '9100HROWDC2', '9100HROWDC1']",['597'],harrow & wealdstone_west-midlands-trains_1397
+Harrow on Hill,chiltern-railways,1000102,598,['910GHAROOTH'],['598'],harrow on hill_chiltern-railways_598
+Harrow on Hill,metropolitan,1000102,598,['940GZZLUHOH'],['598'],harrow on hill_metropolitan_598
+Hatch End,lioness,1001142,1398,['910GHTCHEND'],['1398'],hatch end_lioness_1398
+Hatfield,great-northern,1026129,6070,['910GHATFILD'],['6070'],hatfield_great-northern_6070
+Hatfield,thameslink,1026129,6070,['910GHATFILD'],['6070'],hatfield_thameslink_6070
+Hatfield Peverel,greater-anglia,90003436,6845,['910GHFLPEVL'],['6845'],hatfield peverel_greater-anglia_6845
+Hatton Cross,piccadilly,1000103,779,['940GZZLUHNX'],['779'],hatton cross_piccadilly_779
+Haydons Road,southern,1001143,5289,['910GHYDNSRD'],['5289'],haydons road_southern_5289
+Haydons Road,thameslink,1001143,5289,['910GHYDNSRD'],['5289'],haydons road_thameslink_5289
+Hayes & Harlington,elizabeth,1001144,3186,"['910GHAYESAH', '9100HAYESAH0']",['3186'],hayes & harlington_elizabeth_3186
+Hayes & Harlington,great-western-railway,1001144,3186,['910GHAYESAH'],['3186'],hayes & harlington_great-western-railway_3186
+Hayes Kent,southeastern,1000105,5050,['910GHAYS'],['5050'],hayes kent_southeastern_5050
+Headstone Lane,lioness,1001146,1434,['910GHEDSTNL'],['1434'],headstone lane_lioness_1434
+Heathrow T123,elizabeth,1000106,7090,"['9100HTRWAPT0', '910GHTRWAPT']",['7090'],heathrow t123_elizabeth_7090
+Heathrow T123,heathrow-express,1000106,7090,['910GHTRWAPT'],['7090'],heathrow t123_heathrow-express_7090
+Heathrow T123,piccadilly,1000105,780,['940GZZLUHRC'],['780'],heathrow t123_piccadilly_780
+Heathrow T4,elizabeth,1000107,7091,"['9100HTRWTM40', '910GHTRWTM4']",['7091'],heathrow t4_elizabeth_7091
+Heathrow T4,heathrow-express,1000107,781,"['9100HTRWTM40', '910GHTRWTM4']",['781'],heathrow t4_heathrow-express_781
+Heathrow T4,heathrow-express,1000107,7091,['910GHTRWTM4'],['7091'],heathrow t4_heathrow-express_7091
+Heathrow T4,piccadilly,1000104,781,['940GZZLUHR4'],['781'],heathrow t4_piccadilly_781
+Heathrow T5,elizabeth,1000108,9846,['9100HTRWTM50'],['9846'],heathrow t5_elizabeth_9846
+Heathrow T5,elizabeth,1016430,9846,['910GHTRWTM5'],['9846'],heathrow t5_elizabeth_9846
+Heathrow T5,heathrow-express,1000108,9846,['910GHTRBUS5'],['9846'],heathrow t5_heathrow-express_9846
+Heathrow T5,heathrow-express,1016430,9846,['910GHTRWTM5'],['9846'],heathrow t5_heathrow-express_9846
+Heathrow T5,piccadilly,1016430,783,['940GZZLUHR5'],['783'],heathrow t5_piccadilly_783
+Hemel Hempstead,west-midlands-trains,1000812,1391,['910GHEMLHMP'],['1391'],hemel hempstead_west-midlands-trains_1391
+Hendon,thameslink,1000106,1522,['910GHDON'],['1522'],hendon_thameslink_1522
+Hendon Central,northern,1000106,601,['940GZZLUHCL'],['601'],hendon central_northern_601
+Henley-on-Thames,great-western-railway,1001428,3146,"['910GHNLYOT', '9100HNLYOT0']",['3146'],henley-on-thames_great-western-railway_3146
+Herne Hill,southeastern,1001149,5066,['910GHERNEH'],['5066'],herne hill_southeastern_5066
+Herne Hill,thameslink,1001149,5066,['910GHERNEH'],['5066'],herne hill_thameslink_5066
+Heron Quays,dlr,1002046,855,['940GZZDLHEQ'],['855'],heron quays_dlr_855
+Hersham,south-western-railway,1001432,5590,['910GHERSHAM'],['5590'],hersham_south-western-railway_5590
+Hertford East,greater-anglia,1026133,6818,['910GHERTFDE'],['6818'],hertford east_greater-anglia_6818
+Hertford North,great-northern,1026132,6085,"['910GHFDN', '9100HFDN0']",['6085'],hertford north_great-northern_6085
+High Barnet,northern,1000107,602,['940GZZLUHBT'],['602'],high barnet_northern_602
+High Brooms,southeastern,90003358,5235,['910GHBROOMS'],['5235'],high brooms_southeastern_5235
+High Street Kensington,circle,1000110,605,['940GZZLUHSK'],['605'],high street kensington_circle_605
+High Street Kensington,district,1000110,605,['940GZZLUHSK'],['605'],high street kensington_district_605
+High Wycombe,chiltern-railways,1000553,3054,['910GHWYCOMB'],['3054'],high wycombe_chiltern-railways_3054
+Higham,southeastern,1001150,5202,['910GHIGM'],['5202'],higham_southeastern_5202
+Higham,thameslink,1001150,5202,['910GHIGM'],['5202'],higham_thameslink_5202
+Highams Park,weaver,1001150,6919,['910GHGHMSPK'],['6919'],highams park_weaver_6919
+Highbury & Islington,great-northern,1000108,6009,['910GHGHI'],['603'],highbury & islington_great-northern_6009
+Highbury & Islington,mildmay,1000108,6009,['910GHGHI'],['603'],highbury & islington_mildmay_6009
+Highbury & Islington,victoria,1000108,603,['940GZZLUHAI'],['603'],highbury & islington_victoria_603
+Highbury & Islington,windrush,1000108,6009,['910GHGHI'],['603'],highbury & islington_windrush_6009
+Highgate,northern,1000109,604,['940GZZLUHGT'],['604'],highgate_northern_604
+Hildenborough,southeastern,90003482,5236,['910GHLDNBRO'],['5236'],hildenborough_southeastern_5236
+Hillingdon,metropolitan,1000111,606,['940GZZLUHGD'],['606'],hillingdon_metropolitan_606
+Hillingdon,piccadilly,1000111,606,['940GZZLUHGD'],['606'],hillingdon_piccadilly_606
+Hinchley Wood,south-western-railway,1001518,5591,['910GHNCHLYW'],['5591'],hinchley wood_south-western-railway_5591
+Hitchin,great-northern,1000465,6086,['910GHITCHIN'],['6086'],hitchin_great-northern_6086
+Hitchin,thameslink,1000465,6086,['910GHITCHIN'],['6086'],hitchin_thameslink_6086
+Hither Green,southeastern,1001152,5107,['910GHTHRGRN'],['5107'],hither green_southeastern_5107
+Hockley,greater-anglia,1000629,6880,['910GHOCKLEY'],['6880'],hockley_greater-anglia_6880
+Holborn,central,1000112,607,['940GZZLUHBN'],['607'],holborn_central_607
+Holborn,piccadilly,1000112,607,['940GZZLUHBN'],['607'],holborn_piccadilly_607
+Holland Park,central,1000113,608,['940GZZLUHPK'],['608'],holland park_central_608
+Holloway Road,piccadilly,1000114,609,['940GZZLUHWY'],['609'],holloway road_piccadilly_609
+Homerton,mildmay,1001153,6979,['910GHOMRTON'],['6979'],homerton_mildmay_6979
+Honor Oak Park,southern,1001154,5418,['910GHONROPK'],['5418'],honor oak park_southern_5418
+Honor Oak Park,windrush,1001154,5418,['910GHONROPK'],['5418'],honor oak park_windrush_5418
+Horley,southern,1000049,5365,['910GHORLEY'],['5365'],horley_southern_5365
+Horley,thameslink,1000049,5365,['910GHORLEY'],['5365'],horley_thameslink_5365
+Hornchurch,district,1000115,610,['940GZZLUHCH'],['610'],hornchurch_district_610
+Hornsey,great-northern,1001155,6015,['910GHRNSY'],['6015'],hornsey_great-northern_6015
+Horsley,south-western-railway,1001513,5562,['910GHRSLEY'],['5562'],horsley_south-western-railway_5562
+Hounslow,south-western-railway,1000116,5563,['910GHOUNSLW'],['5563'],hounslow_south-western-railway_5563
+Hounslow Central,piccadilly,1000116,611,['940GZZLUHWC'],['611'],hounslow central_piccadilly_611
+Hounslow East,piccadilly,1000117,612,['940GZZLUHWE'],['612'],hounslow east_piccadilly_612
+Hounslow West,piccadilly,1000118,613,['940GZZLUHWT'],['613'],hounslow west_piccadilly_613
+How Wood,west-midlands-trains,90003641,1563,['910GHOWWOOD'],['1563'],how wood_west-midlands-trains_1563
+Hoxton,windrush,1001570,1023,['910GHOXTON'],['1023'],hoxton_windrush_1023
+Hurst Green,southern,1001643,5463,['910GHRSTGRN'],['5463'],hurst green_southern_5463
+Hurst Green,thameslink,1001643,5463,['910GHRSTGRN'],['5463'],hurst green_thameslink_5463
+Hyde Park Corner,piccadilly,1000119,614,"['940GZZLUHPC', '9400ZZLUHPC2']",['614'],hyde park corner_piccadilly_614
+Ickenham,metropolitan,1000120,615,['940GZZLUICK'],['615'],ickenham_metropolitan_615
+Ickenham,piccadilly,1000120,615,['940GZZLUICK'],['615'],ickenham_piccadilly_615
+Ilford,elizabeth,1001157,6881,"['9100ILFORD2', '9100ILFORD1', '910GILFORD', '9100ILFORD0']",['6881'],ilford_elizabeth_6881
+Ilford,greater-anglia,1001157,6881,['910GILFORD'],['6881'],ilford_greater-anglia_6881
+Imperial Wharf,mildmay,1001347,9586,['910GCSEAH'],['9586'],imperial wharf_mildmay_9586
+Imperial Wharf,southern,1001347,9586,['910GCSEAH'],['9586'],imperial wharf_southern_9586
+Ingatestone,greater-anglia,1000635,6882,['910GINGTSTN'],['6882'],ingatestone_greater-anglia_6882
+Island Gardens,dlr,1002048,856,['940GZZDLISL'],['856'],island gardens_dlr_856
+Isleworth,south-western-railway,1001158,5592,['910GISLEWTH'],['5592'],isleworth_south-western-railway_5592
+Iver,elizabeth,1002272,3170,['910GIVER'],['3170'],iver_elizabeth_3170
+Iver,great-western-railway,1002272,3170,['910GIVER'],['3170'],iver_great-western-railway_3170
+Kempton Park,south-western-railway,1001564,5678,['910GKMPTNPK'],['5678'],kempton park_south-western-railway_5678
+Kemsing,southeastern,90004003,5079,['910GKEMSING'],['5079'],kemsing_southeastern_5079
+Kenley,southern,1001159,5419,['910GKNLY'],['5419'],kenley_southern_5419
+Kennington,northern,1000121,616,['940GZZLUKNG'],['616'],kennington_northern_616
+Kensal Green,bakerloo,1000122,617,['940GZZLUKSL'],['617'],kensal green_bakerloo_617
+Kensal Green,lioness,1000122,1447,['910GKENSLG'],['617'],kensal green_lioness_1447
+Kensal Rise,mildmay,1001161,1448,['910GKENR'],['1448'],kensal rise_mildmay_1448
+Kensington Olympia,district,1000125,618,['940GZZLUKOY'],['618'],kensington olympia_district_618
+Kensington Olympia,mildmay,1000125,3092,['910GKENOLYM'],['618'],kensington olympia_mildmay_3092
+Kensington Olympia,southern,1000125,3092,['910GKENOLYM'],['618'],kensington olympia_southern_3092
+Kent House,southeastern,1001163,5080,['910GKENTHOS'],['5080'],kent house_southeastern_5080
+Kent House,thameslink,1001163,5080,"['9100KENTHOS0', '910GKENTHOS']",['5080'],kent house_thameslink_5080
+Kentish Town,east-midlands-trains,1000123,1553,"['9100KNTSHTN1', '910GKNTSHTN']",['619'],kentish town_east-midlands-trains_1553
+Kentish Town,northern,1000123,619,['940GZZLUKSH'],['619'],kentish town_northern_619
+Kentish Town,thameslink,1000123,1553,['910GKNTSHTN'],['619'],kentish town_thameslink_1553
+Kentish Town West,mildmay,1001165,1449,['910GKNTSHTW'],['1449'],kentish town west_mildmay_1449
+Kenton,bakerloo,1000124,620,['940GZZLUKEN'],['620'],kenton_bakerloo_620
+Kenton,lioness,1000124,1399,['910GKTON'],['620'],kenton_lioness_1399
+Kew Bridge,south-western-railway,1001167,5593,['910GKEWBDGE'],['5593'],kew bridge_south-western-railway_5593
+Kew Gardens,district,1000125,621,['940GZZLUKWG'],['621'],kew gardens_district_621
+Kew Gardens,mildmay,1000125,5594,['910GKEWGRDN'],['621'],kew gardens_mildmay_5594
+Kidbrooke,southeastern,1001169,5108,['910GKIDBROK'],['5108'],kidbrooke_southeastern_5108
+Kilburn,jubilee,1000126,622,"['940GZZLUKBN', '9400ZZLUKBN2']",['622'],kilburn_jubilee_622
+Kilburn High Road,lioness,1001170,1415,['910GKLBRNHR'],['1415'],kilburn high road_lioness_1415
+Kilburn Park,bakerloo,1000127,623,['940GZZLUKPK'],['623'],kilburn park_bakerloo_623
+King George V,dlr,1002009,523,['940GZZDLKGV'],['523'],king george v_dlr_523
+Kings Cross,circle,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_circle_600
+Kings Cross,great-northern,1000129,6121,['910GKNGX'],['6121'],kings cross_great-northern_6121
+Kings Cross,hammersmith-city,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_hammersmith-city_600
+Kings Cross,metropolitan,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_metropolitan_600
+Kings Cross,northern,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_northern_600
+Kings Cross,piccadilly,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_piccadilly_600
+Kings Cross,victoria,1000129,600,['940GZZLUKSX'],"['772', '600', '625']",kings cross_victoria_600
+Kings Langley,west-midlands-trains,1000810,1392,['910GKLGL'],['1392'],kings langley_west-midlands-trains_1392
+Kingsbury,jubilee,1000128,624,['940GZZLUKBY'],['624'],kingsbury_jubilee_624
+Kingston,south-western-railway,1001173,5565,['910GKGSTON'],['5565'],kingston_south-western-railway_5565
+Kingswood,southern,1001558,5366,['910GKGWD'],['5366'],kingswood_southern_5366
+Knebworth,great-northern,1000468,6088,['910GKNEBWTH'],['6088'],knebworth_great-northern_6088
+Knightsbridge,piccadilly,1000130,626,['940GZZLUKNB'],['626'],knightsbridge_piccadilly_626
+Knockholt,southeastern,1001174,5109,['910GKNCKHLT'],['5109'],knockholt_southeastern_5109
+Ladbroke Grove,circle,1000131,627,['940GZZLULAD'],['627'],ladbroke grove_circle_627
+Ladbroke Grove,hammersmith-city,1000131,627,['940GZZLULAD'],['627'],ladbroke grove_hammersmith-city_627
+Ladywell,southeastern,1001175,5057,['910GLDYW'],['5057'],ladywell_southeastern_5057
+Laindon,c2c,1000737,7445,['910GLAINDON'],['7445'],laindon_c2c_7445
+Lambeth North,bakerloo,1000132,628,['940GZZLULBN'],['628'],lambeth north_bakerloo_628
+Lancaster Gate,central,1000133,629,['940GZZLULGT'],['629'],lancaster gate_central_629
+Langdon Park,dlr,1002034,853,['940GZZDLLDP'],['853'],langdon park_dlr_853
+Langley Berks,elizabeth,1000133,3171,['910GLANGLEY'],['3171'],langley berks_elizabeth_3171
+Langley Berks,great-western-railway,1000133,3171,['910GLANGLEY'],['3171'],langley berks_great-western-railway_3171
+Latimer Road,circle,1000134,630,['940GZZLULRD'],['630'],latimer road_circle_630
+Latimer Road,hammersmith-city,1000134,630,['940GZZLULRD'],['630'],latimer road_hammersmith-city_630
+Lea Bridge,greater-anglia,1001349,6927,['910GLEABDGE'],['6927'],lea bridge_greater-anglia_6927
+Leagrave,thameslink,90004300,1534,['910GLEAGRVE'],['1534'],leagrave_thameslink_1534
+Leatherhead,south-western-railway,1001510,5368,['910GLETHRHD'],['5368'],leatherhead_south-western-railway_5368
+Leatherhead,southern,1001510,5368,['910GLETHRHD'],['5368'],leatherhead_southern_5368
+Lee,southeastern,1000146,5110,['910GLEEE'],['5110'],lee_southeastern_5110
+Leicester Square,northern,1000135,631,['940GZZLULSQ'],['631'],leicester square_northern_631
+Leicester Square,piccadilly,1000135,631,['940GZZLULSQ'],['631'],leicester square_piccadilly_631
+Leigh-on-Sea,c2c,90004384,7446,['910GLHONSEA'],['7446'],leigh-on-sea_c2c_7446
+Leighton Buzzard,west-midlands-trains,1000523,1373,['910GLTNBZRD'],['1373'],leighton buzzard_west-midlands-trains_1373
+Letchworth Garden City,great-northern,1000460,6089,['910GLTCE'],['6089'],letchworth garden city_great-northern_6089
+Letchworth Garden City,thameslink,1000460,6089,['910GLTCE'],['6089'],letchworth garden city_thameslink_6089
+Lewisham,dlr,1001177,940,['940GZZDLLEW'],['940'],lewisham_dlr_940
+Lewisham,southeastern,1001177,5051,['910GLEWISHM'],['5051'],lewisham_southeastern_5051
+Leyton,central,1000136,632,['940GZZLULYN'],['632'],leyton_central_632
+Leyton Midland Road,suffragette,1001178,7402,['910GLEYTNMR'],['7402'],leyton midland road_suffragette_7402
+Leytonstone,central,1000137,633,['940GZZLULYS'],['633'],leytonstone_central_633
+Leytonstone High Road,suffragette,1001179,7403,['910GLYTNSHR'],['7403'],leytonstone high road_suffragette_7403
+Limehouse,c2c,1001180,7491,['910GLIMHSE'],['7491'],limehouse_c2c_7491
+Limehouse,dlr,1001180,862,['940GZZDLLIM'],['862'],limehouse_dlr_862
+Lingfield,southern,90004408,5369,['910GLINGFLD'],['5369'],lingfield_southern_5369
+Lingfield,thameslink,90004408,5369,['910GLINGFLD'],['5369'],lingfield_thameslink_5369
+Little Kimble,chiltern-railways,1000528,3066,['910GLTLKMBL'],['3066'],little kimble_chiltern-railways_3066
+Liverpool Street,c2c,1000138,6965,['910GLIVST'],['6965'],liverpool street_c2c_6965
+Liverpool Street,central,1000138,634,['940GZZLULVT'],"['645', '689', '634']",liverpool street_central_634
+Liverpool Street,circle,1000138,634,['940GZZLULVT'],"['645', '689', '634']",liverpool street_circle_634
+Liverpool Street,elizabeth,1000138,6594,"['910GLIVSTLL', '9100LIVSTLL0', '9100LIVST0', '9100LIVSTLL1', '910GLIVST']","['645', '689', '634']",liverpool street_elizabeth_6594
+Liverpool Street,elizabeth,1000138,6965,['910GLIVST'],['6965'],liverpool street_elizabeth_6965
+Liverpool Street,greater-anglia,1000138,6965,['910GLIVST'],['6965'],liverpool street_greater-anglia_6965
+Liverpool Street,hammersmith-city,1000138,634,['940GZZLULVT'],"['645', '689', '634']",liverpool street_hammersmith-city_634
+Liverpool Street,metropolitan,1000138,634,['940GZZLULVT'],"['645', '689', '634']",liverpool street_metropolitan_634
+Liverpool Street,weaver,1000138,6965,['910GLIVST'],['6965'],liverpool street_weaver_6965
+London Bridge,jubilee,1000139,635,['940GZZLULNB'],['635'],london bridge_jubilee_635
+London Bridge,northern,1000139,635,['940GZZLULNB'],['635'],london bridge_northern_635
+London Bridge,southeastern,1000139,5148,['910GLNDNBDC'],"['6336', '5148']",london bridge_southeastern_5148
+London Bridge,southern,1000139,5148,['910GLNDNBDC'],"['6336', '5148']",london bridge_southern_5148
+London Bridge,thameslink,1000139,5148,['910GLNDNBDC'],"['6336', '5148']",london bridge_thameslink_5148
+London City Airport,dlr,1002000,533,['940GZZDLLCA'],['533'],london city airport_dlr_533
+London Fields,greater-anglia,1001183,6966,['910GLONFLDS'],['6966'],london fields_greater-anglia_6966
+London Fields,weaver,1001183,6966,['910GLONFLDS'],['6966'],london fields_weaver_6966
+London Road Guildford,south-western-railway,90004580,5632,['910GLRDGFD'],['5632'],london road guildford_south-western-railway_5632
+Longcross,south-western-railway,90004492,5674,['910GLNGCROS'],['5674'],longcross_south-western-railway_5674
+Longfield,southeastern,1001483,5114,['910GLGFD'],['5114'],longfield_southeastern_5114
+Loughborough Junction,southeastern,1001184,5082,['910GLBGHJN'],['5082'],loughborough junction_southeastern_5082
+Loughborough Junction,thameslink,1001184,5082,['910GLBGHJN'],['5082'],loughborough junction_thameslink_5082
+Loughton,central,1000140,636,['940GZZLULGN'],['636'],loughton_central_636
+Lower Sydenham,southeastern,1001185,5053,['910GLSYDNHM'],['5053'],lower sydenham_southeastern_5053
+Luton,east-midlands-railway,1001678,1536,['910GLUTON'],['1536'],luton_east-midlands-railway_1536
+Luton,thameslink,1001678,1536,['910GLUTON'],['1536'],luton_thameslink_1536
+Luton Airport Parkway,east-midlands-railway,1001678,3645,['910GLUTOAPY'],['3645'],luton airport parkway_east-midlands-railway_3645
+Luton Airport Parkway,thameslink,1001678,3645,['910GLUTOAPY'],['3645'],luton airport parkway_thameslink_3645
+Maida Vale,bakerloo,1000141,637,['940GZZLUMVL'],['637'],maida vale_bakerloo_637
+Maidenhead,elizabeth,1000964,3147,['910GMDNHEAD'],['3147'],maidenhead_elizabeth_3147
+Maidenhead,great-western-railway,1000964,3147,['910GMDNHEAD'],['3147'],maidenhead_great-western-railway_3147
+Malden Manor,south-western-railway,1001188,5599,['910GMALDENM'],['5599'],malden manor_south-western-railway_5599
+Manor House,piccadilly,1000142,638,['940GZZLUMRH'],['638'],manor house_piccadilly_638
+Manor Park,elizabeth,1001189,6883,"['9100MANRPK1', '910GMANRPK', '9100MANRPK0']",['6883'],manor park_elizabeth_6883
+Manor Park,greater-anglia,1001189,6883,['910GMANRPK'],['6883'],manor park_greater-anglia_6883
+Mansion House,circle,1000143,639,['940GZZLUMSH'],['639'],mansion house_circle_639
+Mansion House,district,1000143,639,['940GZZLUMSH'],['639'],mansion house_district_639
+Marble Arch,central,1000144,640,['940GZZLUMBA'],['640'],marble arch_central_640
+Marlow,great-western-railway,1001497,3021,"['910GMARLOW', '9100MARLOW0']",['3021'],marlow_great-western-railway_3021
+Martins Heron,south-western-railway,1001499,5692,['910GMHERON'],['5692'],martins heron_south-western-railway_5692
+Maryland,elizabeth,1001190,6970,"['9100MRYLAND0', '9100MRYLAND1', '910GMRYLAND']",['6970'],maryland_elizabeth_6970
+Maryland,greater-anglia,1001190,6970,['910GMRYLAND'],['6970'],maryland_greater-anglia_6970
+Marylebone,bakerloo,1000145,641,['940GZZLUMYB'],['641'],marylebone_bakerloo_641
+Marylebone,chiltern-railways,1000145,1475,['910GMARYLBN'],['1475'],marylebone_chiltern-railways_1475
+Maze Hill,southeastern,1001192,5149,['910GMAZEH'],['5149'],maze hill_southeastern_5149
+Maze Hill,thameslink,1001192,5149,"['9100MAZEH0', '910GMAZEH']",['5149'],maze hill_thameslink_5149
+Meopham,southeastern,90004811,5116,['910GMEOPHAM'],['5116'],meopham_southeastern_5116
+Meridian Water,greater-anglia,1002134,6599,"['910GMWRWSTN', '9100MWRWSTN0']",['6599'],meridian water_greater-anglia_6599
+Merstham,southern,1001527,5475,['910GMERSTHM'],['5475'],merstham_southern_5475
+Merstham,thameslink,1001527,5475,['910GMERSTHM'],['5475'],merstham_thameslink_5475
+Mile End,central,1000146,642,['940GZZLUMED'],['642'],mile end_central_642
+Mile End,district,1000146,642,['940GZZLUMED'],['642'],mile end_district_642
+Mile End,hammersmith-city,1000146,642,['940GZZLUMED'],['642'],mile end_hammersmith-city_642
+Mill Hill Broadway,thameslink,1001193,1527,['910GMLHB'],['1527'],mill hill broadway_thameslink_1527
+Mill Hill East,northern,1000147,643,['940GZZLUMHL'],['643'],mill hill east_northern_643
+Mitcham Eastfields,southern,1001555,5069,['910GESTFLDS'],['5069'],mitcham eastfields_southern_5069
+Mitcham Eastfields,thameslink,1001555,5069,['910GESTFLDS'],['5069'],mitcham eastfields_thameslink_5069
+Mitcham Junction,southern,1001194,5427,['910GMITCHMJ'],['5427'],mitcham junction_southern_5427
+Mitcham Junction,thameslink,1001194,5427,['910GMITCHMJ'],['5427'],mitcham junction_thameslink_5427
+Monks Risborough,chiltern-railways,1000530,3067,['910GMNKRISB'],['3067'],monks risborough_chiltern-railways_3067
+Monument,circle,1000148,644,['940GZZLUMMT'],['644'],monument_circle_644
+Monument,district,1000148,644,['940GZZLUMMT'],['644'],monument_district_644
+Moor Park,metropolitan,1000150,646,['940GZZLUMPK'],['646'],moor park_metropolitan_646
+Moorgate,circle,1000149,645,['940GZZLUMGT'],"['645', '689', '634']",moorgate_circle_645
+Moorgate,great-northern,1000149,6005,['910GMRGT'],"['645', '689', '634']",moorgate_great-northern_6005
+Moorgate,hammersmith-city,1000149,645,['940GZZLUMGT'],"['645', '689', '634']",moorgate_hammersmith-city_645
+Moorgate,metropolitan,1000149,645,['940GZZLUMGT'],"['645', '689', '634']",moorgate_metropolitan_645
+Moorgate,northern,1000149,645,['940GZZLUMGT'],"['645', '689', '634']",moorgate_northern_645
+Morden,northern,1000151,647,['940GZZLUMDN'],['647'],morden_northern_647
+Morden South,southern,1001197,5291,['910GMORDENS'],['5291'],morden south_southern_5291
+Morden South,thameslink,1001197,5291,['910GMORDENS'],['5291'],morden south_thameslink_5291
+Mornington Crescent,northern,1000152,648,['940GZZLUMTC'],['648'],mornington crescent_northern_648
+Mortlake,south-western-railway,1001198,5600,['910GMRTLKE'],['5600'],mortlake_south-western-railway_5600
+Motspur Park,south-western-railway,1001199,5645,['910GMOTSPRP'],['5645'],motspur park_south-western-railway_5645
+Mottingham,southeastern,1001200,5118,['910GMOTNGHM'],['5118'],mottingham_southeastern_5118
+Mudchute,dlr,1002061,857,['940GZZDLMUD'],['857'],mudchute_dlr_857
+Neasden,jubilee,1000153,649,['940GZZLUNDN'],['649'],neasden_jubilee_649
+New Barnet,great-northern,1001201,6018,['910GNBARNET'],['6018'],new barnet_great-northern_6018
+New Barnet,thameslink,1001201,6018,"['910GNBARNET', '9100NBARNET0']",['6018'],new barnet_thameslink_6018
+New Beckenham,southeastern,1001202,5058,['910GNBCKNHM'],['5058'],new beckenham_southeastern_5058
+New Cross,southeastern,1000155,5150,['910GNWCRELL'],['5150'],new cross_southeastern_5150
+New Cross,windrush,1000155,5150,['910GNWCRELL'],['5150'],new cross_windrush_5150
+New Cross Gate,southern,1000156,5345,['910GNEWXGTE'],['5345'],new cross gate_southern_5345
+New Cross Gate,windrush,1000156,5345,['910GNEWXGTE'],['5345'],new cross gate_windrush_5345
+New Eltham,southeastern,1001205,5119,['910GNWELTHM'],['5119'],new eltham_southeastern_5119
+New Malden,south-western-railway,1001206,5567,['910GNEWMLDN'],['5567'],new malden_south-western-railway_5567
+New Southgate,great-northern,1001207,6019,['910GNEWSGAT'],['6019'],new southgate_great-northern_6019
+New Southgate,thameslink,1001207,6019,"['910GNEWSGAT', '9100NEWSGAT0']",['6019'],new southgate_thameslink_6019
+Newbury Park,central,1000154,650,['940GZZLUNBP'],['650'],newbury park_central_650
+Nine Elms,northern,1002196,831,['940GZZNEUGST'],['831'],nine elms_northern_831
+Norbiton,south-western-railway,1001208,5568,['910GNRBITON'],['5568'],norbiton_south-western-railway_5568
+Norbury,southern,1001209,5428,['910GNORBURY'],['5428'],norbury_southern_5428
+North Acton,central,1000157,653,['940GZZLUNAN'],['653'],north acton_central_653
+North Dulwich,southern,1001210,5429,['910GNDULWCH'],['5429'],north dulwich_southern_5429
+North Ealing,piccadilly,1000158,654,['940GZZLUNEN'],['654'],north ealing_piccadilly_654
+North Greenwich,jubilee,1000160,789,['940GZZLUNGW'],['789'],north greenwich_jubilee_789
+North Harrow,metropolitan,1000161,656,['940GZZLUNHA'],['656'],north harrow_metropolitan_656
+North Sheen,south-western-railway,1001212,5601,['910GNSHEEN'],['5601'],north sheen_south-western-railway_5601
+North Wembley,bakerloo,1000163,659,['940GZZLUNWY'],['659'],north wembley_bakerloo_659
+North Wembley,lioness,1000163,1422,['910GNWEMBLY'],['659'],north wembley_lioness_1422
+Northfields,piccadilly,1000159,655,['940GZZLUNFD'],['655'],northfields_piccadilly_655
+Northfleet,southeastern,1001541,5120,['910GNRTHFLT'],['5120'],northfleet_southeastern_5120
+Northolt,central,1000162,657,['940GZZLUNHT'],['657'],northolt_central_657
+Northolt Park,chiltern-railways,1001211,1478,['910GNTHOLTP'],['1478'],northolt park_chiltern-railways_1478
+Northumberld Pk,greater-anglia,1000159,6971,['910GNMBRLPK'],['6971'],northumberld pk_greater-anglia_6971
+Northwick Park,metropolitan,1000164,660,['940GZZLUNKP'],['660'],northwick park_metropolitan_660
+Northwood,metropolitan,1000165,661,['940GZZLUNOW'],['661'],northwood_metropolitan_661
+Northwood Hills,metropolitan,1000166,662,['940GZZLUNWH'],['662'],northwood hills_metropolitan_662
+Norwood Junction,southern,1000160,5376,['910GNORWDJ'],['5376'],norwood junction_southern_5376
+Norwood Junction,thameslink,1000160,5376,['910GNORWDJ'],['5376'],norwood junction_thameslink_5376
+Norwood Junction,windrush,1000160,5376,['910GNORWDJ'],['5376'],norwood junction_windrush_5376
+Notting Hill Gate,central,1000167,663,['940GZZLUNHG'],['663'],notting hill gate_central_663
+Notting Hill Gate,circle,1000167,663,['940GZZLUNHG'],['663'],notting hill gate_circle_663
+Notting Hill Gate,district,1000167,663,['940GZZLUNHG'],['663'],notting hill gate_district_663
+Nunhead,southeastern,1001217,5068,['910GNUNHEAD'],['5068'],nunhead_southeastern_5068
+Nunhead,thameslink,1001217,5068,['910GNUNHEAD'],['5068'],nunhead_thameslink_5068
+Oakleigh Park,great-northern,1001218,6020,['910GOKLGHPK'],['6020'],oakleigh park_great-northern_6020
+Oakleigh Park,thameslink,1001218,6020,"['910GOKLGHPK', '9100OKLGHPK0']",['6020'],oakleigh park_thameslink_6020
+Oakwood,piccadilly,1000168,664,['940GZZLUOAK'],['664'],oakwood_piccadilly_664
+Ockendon,c2c,1001565,7451,['910GOCKENDN'],['7451'],ockendon_c2c_7451
+Old Street,great-northern,1000169,6003,['910GOLDST'],['665'],old street_great-northern_6003
+Old Street,northern,1000169,665,['940GZZLUODS'],['665'],old street_northern_665
+Orpington,southeastern,1001220,5122,['910GORPNGTN'],['5122'],orpington_southeastern_5122
+Orpington,thameslink,1001220,5122,['910GORPNGTN'],['5122'],orpington_thameslink_5122
+Osterley,piccadilly,1000171,667,['940GZZLUOSY'],['667'],osterley_piccadilly_667
+Otford,southeastern,1001606,5071,['910GOTFORD'],['5071'],otford_southeastern_5071
+Otford,thameslink,1001606,5071,['910GOTFORD'],['5071'],otford_thameslink_5071
+Oval,northern,1000172,668,['940GZZLUOVL'],['668'],oval_northern_668
+Oxford Circus,bakerloo,1000173,669,['940GZZLUOXC'],['669'],oxford circus_bakerloo_669
+Oxford Circus,central,1000173,669,['940GZZLUOXC'],['669'],oxford circus_central_669
+Oxford Circus,victoria,1000173,669,['940GZZLUOXC'],['669'],oxford circus_victoria_669
+Oxshott,south-western-railway,1001608,5602,['910GOXSHOTT'],['5602'],oxshott_south-western-railway_5602
+Oxted,southern,1001695,5377,['910GOXTED'],['5377'],oxted_southern_5377
+Oxted,thameslink,1001695,5377,['910GOXTED'],['5377'],oxted_thameslink_5377
+Paddington,bakerloo,1000174,670,['940GZZLUPAC'],"['670', '6552']",paddington_bakerloo_670
+Paddington,chiltern-railways,1000174,3087,['910GPADTON'],"['3087', '6093']",paddington_chiltern-railways_3087
+Paddington,circle,1000174,670,"['940GZZLUPAH', '940GZZLUPAC']","['670', '6552']",paddington_circle_670
+Paddington,district,1000174,670,['940GZZLUPAC'],"['670', '6552']",paddington_district_670
+Paddington,elizabeth,1000174,6552,"['9100PADTLL', '910GPADTON', '9100PADTON0', '9100PADTLL0', '9100PADTLL1', '910GPADTLL']","['670', '6552']",paddington_elizabeth_6552
+Paddington,great-western-railway,1000174,3087,['910GPADTON'],"['3087', '6093']",paddington_great-western-railway_3087
+Paddington,hammersmith-city,1000174,670,['940GZZLUPAH'],"['670', '6552']",paddington_hammersmith-city_670
+Paddington,heathrow-express,1000174,8204,"['910GPADTON', '9100HTRWTM50']",['8204'],paddington_heathrow-express_8204
+Palmers Green,great-northern,1001222,6021,['910GPALMRSG'],['6021'],palmers green_great-northern_6021
+Park Royal,piccadilly,1000176,671,['940GZZLUPKR'],['671'],park royal_piccadilly_671
+Park Street,west-midlands-trains,1000767,1561,['910GPKST'],['1561'],park street_west-midlands-trains_1561
+Parsons Green,district,1000177,672,['940GZZLUPSG'],['672'],parsons green_district_672
+Peckham Rye,southeastern,1001223,5423,['910GPCKHMRY'],['5423'],peckham rye_southeastern_5423
+Peckham Rye,southern,1001223,5423,['910GPCKHMRY'],['5423'],peckham rye_southern_5423
+Peckham Rye,thameslink,1001223,5423,['910GPCKHMRY'],['5423'],peckham rye_thameslink_5423
+Peckham Rye,windrush,1001223,5423,['910GPCKHMRY'],['5423'],peckham rye_windrush_5423
+Penge East,southeastern,1001224,5072,['910GPNGEE'],['5072'],penge east_southeastern_5072
+Penge East,thameslink,1001224,5072,"['9100PNGEE0', '910GPNGEE']",['5072'],penge east_thameslink_5072
+Penge West,southern,1001225,5378,['910GPENEW'],['5378'],penge west_southern_5378
+Penge West,windrush,1001225,5378,['910GPENEW'],['5378'],penge west_windrush_5378
+Perivale,central,1000178,673,['940GZZLUPVL'],['673'],perivale_central_673
+Petts Wood,southeastern,1001226,5123,['910GPETSWD'],['5123'],petts wood_southeastern_5123
+Petts Wood,thameslink,1001226,5123,['910GPETSWD'],['5123'],petts wood_thameslink_5123
+Piccadilly Circus,bakerloo,1000179,674,['940GZZLUPCC'],['674'],piccadilly circus_bakerloo_674
+Piccadilly Circus,piccadilly,1000179,674,['940GZZLUPCC'],['674'],piccadilly circus_piccadilly_674
+Pimlico,victoria,1000180,776,['940GZZLUPCO'],['776'],pimlico_victoria_776
+Pinner,metropolitan,1000181,675,['940GZZLUPNR'],['675'],pinner_metropolitan_675
+Pitsea,c2c,1000741,7452,['910GPITSEA'],['7452'],pitsea_c2c_7452
+Plaistow,district,1000182,676,['940GZZLUPLW'],['676'],plaistow_district_676
+Plaistow,hammersmith-city,1000182,676,['940GZZLUPLW'],['676'],plaistow_hammersmith-city_676
+Plumstead,southeastern,1001227,5208,['910GPLMS'],['5208'],plumstead_southeastern_5208
+Plumstead,thameslink,1001227,5208,"['910GPLMS', '9100PLMS0']",['5208'],plumstead_thameslink_5208
+Ponders End,greater-anglia,1001228,6819,['910GPNDRSEN'],['6819'],ponders end_greater-anglia_6819
+Pontoon Dock,dlr,1002099,538,['940GZZDLPDK'],['538'],pontoon dock_dlr_538
+Poplar,dlr,1002064,858,['940GZZDLPOP'],['858'],poplar_dlr_858
+Potters Bar,great-northern,1011145,6022,"['9100POTRSBR0', '910GPOTRSBR']",['6022'],potters bar_great-northern_6022
+Potters Bar,thameslink,1011145,6022,"['9100POTRSBR0', '910GPOTRSBR']",['6022'],potters bar_thameslink_6022
+Preston Road,metropolitan,1000183,677,['940GZZLUPRD'],['677'],preston road_metropolitan_677
+Prince Regent,dlr,1002065,888,['940GZZDLPRE'],['888'],prince regent_dlr_888
+Princes Risborough,chiltern-railways,1000551,3055,['910GPRINRIS'],['3055'],princes risborough_chiltern-railways_3055
+Prittlewell,greater-anglia,90005783,7419,['910GPRITLWL'],['7419'],prittlewell_greater-anglia_7419
+Pudding Mill Lane,dlr,1002066,859,['940GZZDLPUD'],['859'],pudding mill lane_dlr_859
+Purfleet,c2c,1001566,7453,['910GPURFLET'],['7453'],purfleet_c2c_7453
+Purley,southern,1001229,5379,['910GPURLEY'],['5379'],purley_southern_5379
+Purley,thameslink,1001229,5379,['910GPURLEY'],['5379'],purley_thameslink_5379
+Purley Oaks,southern,1001230,5430,['910GPURLEYO'],['5430'],purley oaks_southern_5430
+Putney,south-western-railway,1000069,5603,['910GPUTNEY'],['5603'],putney_south-western-railway_5603
+Putney Bridge,district,1000184,678,['940GZZLUPYB'],['678'],putney bridge_district_678
+Queens Park,bakerloo,1000186,680,['940GZZLUQPS'],['680'],queens park_bakerloo_680
+Queens Park,lioness,1000186,1419,['910GQPRK'],['680'],queens park_lioness_1419
+Queens Park,west-midlands-trains,1000186,1419,['910GQPRK'],['680'],queens park_west-midlands-trains_1419
+Queens Road Peckham,southern,1000185,5424,['910GPCKHMQD'],['5424'],queens road peckham_southern_5424
+Queens Road Peckham,windrush,1000185,5424,['910GPCKHMQD'],['5424'],queens road peckham_windrush_5424
+Queensbury,jubilee,1000185,679,['940GZZLUQBY'],['679'],queensbury_jubilee_679
+Queenstown Road Battersea,south-western-railway,1000186,5596,['910GQTRDBAT'],['5596'],queenstown road battersea_south-western-railway_5596
+Queensway,central,1000187,681,['940GZZLUQWY'],['681'],queensway_central_681
+Radlett,thameslink,1000486,1546,"['910GRADLETT', '9100RADLETT0']",['1546'],radlett_thameslink_1546
+Rainham,thameslink,90005942,5177,"['9100RAINHMK0', '910GRAINHMK']",['5177'],rainham_thameslink_5177
+Rainham Essex,c2c,1000187,7454,['910GRNHAME'],['7454'],rainham essex_c2c_7454
+Ravensbourne,southeastern,1001236,5083,['910GRBRN'],['5083'],ravensbourne_southeastern_5083
+Ravensbourne,thameslink,1001236,5083,['910GRBRN'],['5083'],ravensbourne_thameslink_5083
+Ravenscourt Park,district,1000188,682,['940GZZLURVP'],['682'],ravenscourt park_district_682
+Rayleigh,greater-anglia,1000660,6884,['910GRAYLEGH'],['6884'],rayleigh_greater-anglia_6884
+Rayners Lane,metropolitan,1000189,683,['940GZZLURYL'],['683'],rayners lane_metropolitan_683
+Rayners Lane,piccadilly,1000189,683,['940GZZLURYL'],['683'],rayners lane_piccadilly_683
+Raynes Park,south-western-railway,1001237,5569,['910GRAYNSPK'],['5569'],raynes park_south-western-railway_5569
+Reading,elizabeth,1000972,3149,"['910GRDNGSTN', '910GRDNG4AB']",['3149'],reading_elizabeth_3149
+Reading,great-western-railway,1000972,3149,"['910GRDNGSTN', '910GRDNG4AB']",['3149'],reading_great-western-railway_3149
+Reading,south-western-railway,1000972,3149,"['910GRDNGSTN', '910GRDNG4AB']",['3149'],reading_south-western-railway_3149
+Rectory Road,greater-anglia,1001238,6967,['910GRCTRYRD'],['6967'],rectory road_greater-anglia_6967
+Rectory Road,weaver,1001238,6967,['910GRCTRYRD'],['6967'],rectory road_weaver_6967
+Redbridge,central,1000190,684,['940GZZLURBG'],['684'],redbridge_central_684
+Redhill,gatwick-express,1001721,5478,"['9100REDHILL0', '910GREDHILL']",['5478'],redhill_gatwick-express_5478
+Redhill,great-western-railway,1001721,5478,['910GREDHILL'],['5478'],redhill_great-western-railway_5478
+Redhill,southern,1001721,5478,['910GREDHILL'],['5478'],redhill_southern_5478
+Redhill,thameslink,1001721,5478,['910GREDHILL'],['5478'],redhill_thameslink_5478
+Reedham Surrey,southern,1000189,5431,['910GREEDHMS'],['5431'],reedham surrey_southern_5431
+Regents Park,bakerloo,1000191,685,['940GZZLURGP'],['685'],regents park_bakerloo_685
+Reigate,great-western-railway,1001722,5480,['910GREIGATE'],['5480'],reigate_great-western-railway_5480
+Reigate,southern,1001722,5480,['910GREIGATE'],['5480'],reigate_southern_5480
+Richmond,district,1000192,5570,['940GZZLURMD'],['5570'],richmond_district_5570
+Richmond,mildmay,1000192,5570,['910GRICHMND'],['5570'],richmond_mildmay_5570
+Richmond,south-western-railway,1000192,5570,['910GRICHMND'],['5570'],richmond_south-western-railway_5570
+Rickmansworth,chiltern-railways,1000193,687,['910GRCKMNSW'],['687'],rickmansworth_chiltern-railways_687
+Rickmansworth,metropolitan,1000193,687,['940GZZLURKW'],['687'],rickmansworth_metropolitan_687
+Riddlesdown,southern,1001242,5432,['910GRDLSDWN'],['5432'],riddlesdown_southern_5432
+Riddlesdown,thameslink,1001242,5432,['910GRDLSDWN'],['5432'],riddlesdown_thameslink_5432
+Rochester,southeastern,90005970,5203,['910GRCHT'],['5203'],rochester_southeastern_5203
+Rochester,thameslink,90005970,5203,['910GRCHT'],['5203'],rochester_thameslink_5203
+Rochford,greater-anglia,1000662,6885,['910GROCHFD'],['6885'],rochford_greater-anglia_6885
+Roding Valley,central,1000194,688,['940GZZLURVY'],['688'],roding valley_central_688
+Romford,elizabeth,1001243,6886,"['9100ROMFORD3', '910GROMFORD', '9100ROMFORD2']",['6886'],romford_elizabeth_6886
+Romford,greater-anglia,1001243,6886,['910GROMFORD'],['6886'],romford_greater-anglia_6886
+Romford,liberty,1001243,6886,['910GROMFORD'],['6886'],romford_liberty_6886
+Rotherhithe,windrush,1000195,1039,['910GRTHERHI'],['1039'],rotherhithe_windrush_1039
+Royal Albert,dlr,1002070,890,['940GZZDLRAL'],['890'],royal albert_dlr_890
+Royal Oak,circle,1000196,690,['940GZZLURYO'],['690'],royal oak_circle_690
+Royal Oak,hammersmith-city,1000196,690,['940GZZLURYO'],['690'],royal oak_hammersmith-city_690
+Royal Victoria,dlr,1002071,886,['940GZZDLRVC'],['886'],royal victoria_dlr_886
+Roydon,greater-anglia,1001324,6829,['910GROYDON'],['6829'],roydon_greater-anglia_6829
+Ruislip,metropolitan,1000214,691,['940GZZLURSP'],['691'],ruislip_metropolitan_691
+Ruislip,piccadilly,1000214,691,['940GZZLURSP'],['691'],ruislip_piccadilly_691
+Ruislip Gardens,central,1000198,692,['940GZZLURSG'],['692'],ruislip gardens_central_692
+Ruislip Manor,metropolitan,1000199,693,['940GZZLURSM'],['693'],ruislip manor_metropolitan_693
+Ruislip Manor,piccadilly,1000199,693,['940GZZLURSM'],['693'],ruislip manor_piccadilly_693
+Russell Square,piccadilly,1000200,694,['940GZZLURSQ'],['694'],russell square_piccadilly_694
+Rye House,greater-anglia,90006236,6820,['910GRYEHOUS'],['6820'],rye house_greater-anglia_6820
+Salfords,southern,1000198,5380,['910GSALFDS'],['5380'],salfords_southern_5380
+Salfords,thameslink,1000198,5380,['910GSALFDS'],['5380'],salfords_thameslink_5380
+Sanderstead,southern,1001244,5433,['910GSDSD'],['5433'],sanderstead_southern_5433
+Sanderstead,thameslink,1001244,5433,['910GSDSD'],['5433'],sanderstead_thameslink_5433
+Saunderton,chiltern-railways,90007021,3056,['910GSUNDRTN'],['3056'],saunderton_chiltern-railways_3056
+Sawbridgeworth,greater-anglia,1000668,6806,['910GSBDGWTH'],['6806'],sawbridgeworth_greater-anglia_6806
+Seer Green and Jordans,chiltern-railways,1000201,3061,['910GSEERGRN'],['3061'],seer green and jordans_chiltern-railways_3061
+Selhurst,southern,1001245,5434,['910GSELHRST'],['5434'],selhurst_southern_5434
+Seven Kings,elizabeth,1001246,6893,"['9100SVNKNGS0', '9100SVNKNGS1', '910GSVNKNGS']",['6893'],seven kings_elizabeth_6893
+Seven Kings,greater-anglia,1001246,6893,['910GSVNKNGS'],['6893'],seven kings_greater-anglia_6893
+Seven Sisters,greater-anglia,1000201,6931,['910GSEVNSIS'],['698'],seven sisters_greater-anglia_6931
+Seven Sisters,victoria,1000201,698,['940GZZLUSVS'],['698'],seven sisters_victoria_698
+Seven Sisters,weaver,1000201,6931,['910GSEVNSIS'],['698'],seven sisters_weaver_6931
+Sevenoaks,southeastern,1001748,5124,['910GSVNOAKS'],['5124'],sevenoaks_southeastern_5124
+Sevenoaks,thameslink,1001748,5124,['910GSVNOAKS'],['5124'],sevenoaks_thameslink_5124
+Shadwell,dlr,1000202,860,['940GZZDLSHA'],['860'],shadwell_dlr_860
+Shadwell,windrush,1000202,1082,['910GSHADWEL'],['1082'],shadwell_windrush_1082
+Shenfield,elizabeth,1006448,6888,"['9100SHENFLD1', '9100SHENFLD2', '910GSHENFLD']",['6888'],shenfield_elizabeth_6888
+Shenfield,greater-anglia,1006448,6888,['910GSHENFLD'],['6888'],shenfield_greater-anglia_6888
+Shepherds Bush,central,1000205,700,['940GZZLUSBC'],['700'],shepherds bush_central_700
+Shepherds Bush,circle,1000205,775,['940GZZLUSBM'],['775'],shepherds bush_circle_775
+Shepherds Bush,hammersmith-city,1000205,775,['940GZZLUSBM'],['775'],shepherds bush_hammersmith-city_775
+Shepherds Bush,mildmay,1000205,9587,['910GSHPDSB'],['9587'],shepherds bush_mildmay_9587
+Shepherds Bush,southern,1000205,9587,['910GSHPDSB'],['9587'],shepherds bush_southern_9587
+Shepperton,south-western-railway,1001559,5605,['910GSHEPRTN'],['5605'],shepperton_south-western-railway_5605
+Shiplake,great-western-railway,1001762,3150,"['910GSHPLAKE', '9100SHPLAKE0']",['3150'],shiplake_great-western-railway_3150
+Shoeburyness,c2c,90006434,7455,['910GSHBRYNS'],['7455'],shoeburyness_c2c_7455
+Shoreditch High Street,windrush,1001571,1024,['910GSHRDHST'],['1024'],shoreditch high street_windrush_1024
+Shoreham Kent,southeastern,1000207,5074,['910GSHRMKT'],['5074'],shoreham kent_southeastern_5074
+Shoreham Kent,thameslink,1000207,5074,['910GSHRMKT'],['5074'],shoreham kent_thameslink_5074
+Shortlands,southeastern,1001248,5084,['910GSHRTLND'],['5084'],shortlands_southeastern_5084
+Shortlands,thameslink,1001248,5084,['910GSHRTLND'],['5084'],shortlands_thameslink_5084
+Sidcup,southeastern,1001249,5125,['910GSIDCUP'],['5125'],sidcup_southeastern_5125
+Silver Street,greater-anglia,1001250,6972,['910GSIVRST'],['6972'],silver street_greater-anglia_6972
+Silver Street,weaver,1001250,6972,['910GSIVRST'],['6972'],silver street_weaver_6972
+Slade Green,southeastern,1001252,5154,['910GSLADEGN'],['5154'],slade green_southeastern_5154
+Slade Green,thameslink,1001252,5154,"['910GSLADEGN', '9100SLADEGN0']",['5154'],slade green_thameslink_5154
+Sloane Square,circle,1000206,702,['940GZZLUSSQ'],['702'],sloane square_circle_702
+Sloane Square,district,1000206,702,['940GZZLUSSQ'],['702'],sloane square_district_702
+Slough,elizabeth,1000951,3172,['910GSLOUGH'],['3172'],slough_elizabeth_3172
+Slough,great-western-railway,1000951,3172,['910GSLOUGH'],['3172'],slough_great-western-railway_3172
+Snaresbrook,central,1000207,703,['940GZZLUSNB'],['703'],snaresbrook_central_703
+Sole Street,southeastern,90006682,5126,['910GSOLEST'],['5126'],sole street_southeastern_5126
+South Acton,mildmay,1001254,1452,['910GSACTON'],['1452'],south acton_mildmay_1452
+South Bermondsey,southern,1001256,5425,['910GSBRMNDS'],['5425'],south bermondsey_southern_5425
+South Croydon,southern,1001258,5410,['910GSCROYDN'],['5410'],south croydon_southern_5410
+South Croydon,thameslink,1001258,5410,['910GSCROYDN'],['5410'],south croydon_thameslink_5410
+South Ealing,piccadilly,1000208,704,['940GZZLUSEA'],['704'],south ealing_piccadilly_704
+South Greenford,great-western-railway,1001259,3138,['910GSGFORD'],['3138'],south greenford_great-western-railway_3138
+South Hampstead,lioness,1001260,1451,['910GSHMPSTD'],['1451'],south hampstead_lioness_1451
+South Harrow,piccadilly,1000211,707,['940GZZLUSHH'],['707'],south harrow_piccadilly_707
+South Kensington,circle,1000212,708,['940GZZLUSKS'],['708'],south kensington_circle_708
+South Kensington,district,1000212,708,['940GZZLUSKS'],['708'],south kensington_district_708
+South Kensington,piccadilly,1000212,708,['940GZZLUSKS'],['708'],south kensington_piccadilly_708
+South Kenton,bakerloo,1000213,709,['940GZZLUSKT'],['709'],south kenton_bakerloo_709
+South Kenton,lioness,1000213,1453,['910GSKENTON'],['709'],south kenton_lioness_1453
+South Merton,southern,1001262,5292,['910GSMERTON'],['5292'],south merton_southern_5292
+South Merton,thameslink,1001262,5292,['910GSMERTON'],['5292'],south merton_thameslink_5292
+South Quay,dlr,1002074,861,['940GZZDLSOQ'],['861'],south quay_dlr_861
+South Ruislip,central,1000214,710,['940GZZLUSRP'],['710'],south ruislip_central_710
+South Ruislip,chiltern-railways,1000214,3057,['910GSRUISLP'],['710'],south ruislip_chiltern-railways_3057
+South Tottenham,suffragette,1001264,7404,['910GSTOTNHM'],['7404'],south tottenham_suffragette_7404
+South Wimbledon,northern,1000216,711,['940GZZLUSWN'],['711'],south wimbledon_northern_711
+South Woodford,central,1000217,712,['940GZZLUSWF'],['712'],south woodford_central_712
+Southall,elizabeth,1001255,3187,"['910GSTHALL', '9100STHALL0']",['3187'],southall_elizabeth_3187
+Southall,great-western-railway,1001255,3187,['910GSTHALL'],['3187'],southall_great-western-railway_3187
+Southbury,greater-anglia,1001257,6947,['910GSBURY'],['6947'],southbury_greater-anglia_6947
+Southbury,weaver,1001257,6947,['910GSBURY'],['6947'],southbury_weaver_6947
+Southend Airport,greater-anglia,90014785,4787,['910GSTHEAIR'],['4787'],southend airport_greater-anglia_4787
+Southend Central,c2c,90006846,7456,['910GSTHCENT'],['7456'],southend central_c2c_7456
+Southend East,c2c,90006854,7457,['910GSTHNDE'],['7457'],southend east_c2c_7457
+Southend Victoria,greater-anglia,90006857,7420,['910GSTHVIC'],['7420'],southend victoria_greater-anglia_7420
+Southfields,district,1000209,705,['940GZZLUSFS'],['705'],southfields_district_705
+Southgate,piccadilly,1000210,706,['940GZZLUSGT'],['706'],southgate_piccadilly_706
+Southwark,jubilee,1000215,784,"['940GZZLUSWK', '9400ZZLUSWK2']",['784'],southwark_jubilee_784
+St Albans Abbey,west-midlands-trains,1000484,1562,['910GSTALBNA'],['1562'],st albans abbey_west-midlands-trains_1562
+St Albans City,thameslink,1000482,1548,['910GSTALBCY'],['1548'],st albans city_thameslink_1548
+St Helier,southern,1001267,5290,['910GSHLIER'],['5290'],st helier_southern_5290
+St Helier,thameslink,1001267,5290,['910GSHLIER'],['5290'],st helier_thameslink_5290
+St James Street,weaver,1001268,6973,['910GSTJMSST'],['6973'],st james street_weaver_6973
+St James's Park,circle,1000221,695,['940GZZLUSJP'],['695'],st james's park_circle_695
+St James's Park,district,1000221,695,['940GZZLUSJP'],['695'],st james's park_district_695
+St Johns,southeastern,1000222,5059,['910GSTJOHNS'],['5059'],st johns_southeastern_5059
+St Johns Wood,jubilee,1000222,696,['940GZZLUSJW'],['696'],st johns wood_jubilee_696
+St Margarets Herts,greater-anglia,1000216,6821,['910GSMARGRT'],['6821'],st margarets herts_greater-anglia_6821
+St Margarets London,south-western-railway,1000217,5604,['910GSTMGTS'],['5604'],st margarets london_south-western-railway_5604
+St Mary Cray,southeastern,1001271,5073,['910GSTMRYC'],['5073'],st mary cray_southeastern_5073
+St Mary Cray,thameslink,1001271,5073,['910GSTMRYC'],['5073'],st mary cray_thameslink_5073
+St Pancras International,thameslink,1000129,1555,['910GSTPADOM'],"['7422', '1555']",st pancras international_thameslink_1555
+St Pancras International HS1,east-midlands-railway,1000218,7423,"['910GSTPXBOX', '910GSTPMEG', '9100STPX1', '910GSTPADOM']",['7423'],st pancras international hs1_east-midlands-railway_7423
+St Pancras International HS1,east-midlands-trains,1000218,7423,"['910GSTPX', '910GSTPMEG', '910GSTPXBOX']",['7423'],st pancras international hs1_east-midlands-trains_7423
+St Pancras International HS1,southeastern,1000218,7423,"['910GSTPX', '910GSTPMEG', '910GSTPXBOX', '910GSTPADOM']",['7423'],st pancras international hs1_southeastern_7423
+St Pancras International HS1,thameslink,1000218,7423,"['910GSTPX', '910GSTPXBOX', '9100KNGX1', '910GKNGX', '910GSTPMEG']",['7423'],st pancras international hs1_thameslink_7423
+St Pauls,central,1000225,697,['940GZZLUSPU'],['697'],st pauls_central_697
+Staines,south-western-railway,1001501,5670,['910GSTAINES'],['5670'],staines_south-western-railway_5670
+Stamford Brook,district,1000218,713,['940GZZLUSFB'],['713'],stamford brook_district_713
+Stamford Hill,greater-anglia,1001265,6968,['910GSTMFDHL'],['6968'],stamford hill_greater-anglia_6968
+Stamford Hill,weaver,1001265,6968,['910GSTMFDHL'],['6968'],stamford hill_weaver_6968
+Stanford-le-Hope,c2c,1000750,7458,['910GSLEHOPE'],['7458'],stanford-le-hope_c2c_7458
+Stanmore,jubilee,1000219,714,['940GZZLUSTM'],['714'],stanmore_jubilee_714
+Stansted Airport,greater-anglia,1000778,6834,['910GSTANAIR'],['6834'],stansted airport_greater-anglia_6834
+Stansted Mountfitchet,greater-anglia,90006771,6833,['910GSTANMFC'],['6833'],stansted mountfitchet_greater-anglia_6833
+Star Lane,dlr,1003005,889,['940GZZDLSTL'],['889'],star lane_dlr_889
+Stepney Green,district,1000220,715,['940GZZLUSGN'],['715'],stepney green_district_715
+Stepney Green,hammersmith-city,1000220,715,['940GZZLUSGN'],['715'],stepney green_hammersmith-city_715
+Stevenage,thameslink,1023126,6092,['910GSTEVNGE'],['6092'],stevenage_thameslink_6092
+Stockwell,northern,1000223,716,['940GZZLUSKW'],['716'],stockwell_northern_716
+Stockwell,victoria,1000223,716,['940GZZLUSKW'],['716'],stockwell_victoria_716
+Stoke Mandeville,chiltern-railways,1001272,1467,['910GSTKM'],['1467'],stoke mandeville_chiltern-railways_1467
+Stoke Newington,greater-anglia,1001273,6934,['910GSTKNWNG'],['6934'],stoke newington_greater-anglia_6934
+Stoke Newington,weaver,1001273,6934,['910GSTKNWNG'],['6934'],stoke newington_weaver_6934
+Stone Crossing,southeastern,90006795,5248,['910GSTCR'],['5248'],stone crossing_southeastern_5248
+Stonebridge Park,bakerloo,1000224,717,['940GZZLUSGP'],['717'],stonebridge park_bakerloo_717
+Stonebridge Park,lioness,1000224,1454,['910GSTNBGPK'],['717'],stonebridge park_lioness_1454
+Stoneleigh,south-western-railway,1000900,5606,['910GSTLEIGH'],['5606'],stoneleigh_south-western-railway_5606
+Stratford,c2c,1000226,6969,['910GSTFD'],"['6960', '719']",stratford_c2c_6969
+Stratford,central,1000226,719,['940GZZLUSTD'],"['6960', '719']",stratford_central_719
+Stratford,dlr,1000226,719,['940GZZDLSTD'],"['6960', '719']",stratford_dlr_719
+Stratford,elizabeth,1000226,6969,['910GSTFD'],"['6960', '719']",stratford_elizabeth_6969
+Stratford,greater-anglia,1000226,6969,['910GSTFD'],"['6960', '719']",stratford_greater-anglia_6969
+Stratford,jubilee,1000226,719,['940GZZLUSTD'],"['6960', '719']",stratford_jubilee_719
+Stratford,mildmay,1000226,6969,['910GSTFD'],"['6960', '719']",stratford_mildmay_6969
+Stratford High Street,dlr,1003007,749,['940GZZDLSHS'],['749'],stratford high street_dlr_749
+Stratford International,dlr,1003009,504,['940GZZDLSIT'],['504'],stratford international_dlr_504
+Stratford International HS1,southeastern,1000222,7222,['910GSTFODOM'],['7222'],stratford international hs1_southeastern_7222
+Strawberry Hill,south-western-railway,1001278,5607,['910GSTRWBYH'],['5607'],strawberry hill_south-western-railway_5607
+Streatham,southern,1001279,5383,['910GSTRETHM'],['5383'],streatham_southern_5383
+Streatham,thameslink,1001279,5383,['910GSTRETHM'],['5383'],streatham_thameslink_5383
+Streatham Common,southern,1001280,5384,['910GSTRHCOM'],['5384'],streatham common_southern_5384
+Streatham Hill,southern,1001281,5435,['910GSTRHILL'],['5435'],streatham hill_southern_5435
+Strood,thameslink,90006982,5191,['910GSTROOD'],['5191'],strood_thameslink_5191
+Sudbury & Harrow Road,chiltern-railways,1001282,1483,['910GSDBRYHR'],['1483'],sudbury & harrow road_chiltern-railways_1483
+Sudbury Hill,piccadilly,1000227,720,['940GZZLUSUH'],['720'],sudbury hill_piccadilly_720
+Sudbury Hill Harrow,chiltern-railways,1001283,1484,['910GSDBRYHH'],['1484'],sudbury hill harrow_chiltern-railways_1484
+Sudbury Town,piccadilly,1000228,721,['940GZZLUSUT'],['721'],sudbury town_piccadilly_721
+Sunbury,south-western-railway,1001549,5608,['910GSUNBURY'],['5608'],sunbury_south-western-railway_5608
+Sundridge Park,southeastern,1001284,5155,['910GSNDP'],['5155'],sundridge park_southeastern_5155
+Sunningdale,south-western-railway,1000224,5671,['910GSUNNGDL'],['5671'],sunningdale_south-western-railway_5671
+Sunnymeads,south-western-railway,1002790,5675,['910GSUNYMDS'],['5675'],sunnymeads_south-western-railway_5675
+Surbiton,south-western-railway,1001285,5571,['910GSURBITN'],['5571'],surbiton_south-western-railway_5571
+Surrey Quays,windrush,1000229,1083,['910GSURREYQ'],['1083'],surrey quays_windrush_1083
+Sutton Common,thameslink,1019461,5436,['910GSUTTONC'],['5436'],sutton common_thameslink_5436
+Sutton Surrey,southern,1000226,5385,['910GSUTTON'],['5385'],sutton surrey_southern_5385
+Sutton Surrey,thameslink,1000226,5385,['910GSUTTON'],['5385'],sutton surrey_thameslink_5385
+Swanley,southeastern,1001801,5075,['910GSWLY'],['5075'],swanley_southeastern_5075
+Swanley,thameslink,1001801,5075,['910GSWLY'],['5075'],swanley_thameslink_5075
+Swanscombe,southeastern,1001806,5156,['910GSWNSCMB'],['5156'],swanscombe_southeastern_5156
+Swanscombe,thameslink,1001806,5156,['910GSWNSCMB'],['5156'],swanscombe_thameslink_5156
+Swiss Cottage,jubilee,1000230,723,['940GZZLUSWC'],['723'],swiss cottage_jubilee_723
+Sydenham,southern,1000228,5437,['910GSYDENHM'],['5437'],sydenham_southern_5437
+Sydenham,windrush,1000228,5437,['910GSYDENHM'],['5437'],sydenham_windrush_5437
+Sydenham Hill,southeastern,1001290,5085,['910GSYDNHMH'],['5085'],sydenham hill_southeastern_5085
+Sydenham Hill,thameslink,1001290,5085,"['9100SYDNHMH0', '910GSYDNHMH']",['5085'],sydenham hill_thameslink_5085
+Syon Lane,south-western-railway,1001291,5609,['910GSYONLA'],['5609'],syon lane_south-western-railway_5609
+Tadworth,southern,1001572,5386,['910GTADWTH'],['5386'],tadworth_southern_5386
+Taplow,elizabeth,1000960,3151,['910GTAPLOW'],['3151'],taplow_elizabeth_3151
+Taplow,great-western-railway,1000960,3151,['910GTAPLOW'],['3151'],taplow_great-western-railway_3151
+Tattenham Corner,southern,1001560,5387,['910GTATNHMC'],['5387'],tattenham corner_southern_5387
+Teddington,south-western-railway,1001292,5572,['910GTEDNGTN'],['5572'],teddington_south-western-railway_5572
+Temple,circle,1000231,724,['940GZZLUTMP'],['724'],temple_circle_724
+Temple,district,1000231,724,['940GZZLUTMP'],['724'],temple_district_724
+Thames Ditton,south-western-railway,1001293,5610,['910GTDITTON'],['5610'],thames ditton_south-western-railway_5610
+Theobalds Grove,greater-anglia,1001533,6949,['910GTHBLDSG'],['6949'],theobalds grove_greater-anglia_6949
+Theobalds Grove,weaver,1001533,6949,['910GTHBLDSG'],['6949'],theobalds grove_weaver_6949
+Theydon Bois,central,1000232,725,['940GZZLUTHB'],['725'],theydon bois_central_725
+Thornton Heath,southern,1001294,5388,['910GTHTH'],['5388'],thornton heath_southern_5388
+Thorpe Bay,c2c,90007207,7460,['910GTHOPBAY'],['7460'],thorpe bay_c2c_7460
+Tilbury Town,c2c,1000757,7462,['910GTLBYTWN'],['7462'],tilbury town_c2c_7462
+Tolworth,south-western-railway,1001295,5573,['910GTOLWTH'],['5573'],tolworth_south-western-railway_5573
+Tonbridge,southeastern,90000051,5229,['910GTONBDG'],['5229'],tonbridge_southeastern_5229
+Tonbridge,southern,90000051,5229,['910GTONBDG'],['5229'],tonbridge_southern_5229
+Tooting,southern,1000233,5389,['910GTOOTING'],['5389'],tooting_southern_5389
+Tooting,thameslink,1000233,5389,['910GTOOTING'],['5389'],tooting_thameslink_5389
+Tooting Bec,northern,1000233,726,['940GZZLUTBC'],['726'],tooting bec_northern_726
+Tooting Broadway,northern,1000234,727,['940GZZLUTBY'],['727'],tooting broadway_northern_727
+Tottenham Court Road,central,1000235,728,['940GZZLUTCR'],['728'],tottenham court road_central_728
+Tottenham Court Road,elizabeth,1000235,6556,"['910GTOTCTRD', '9100TOTCTRD0', '9100TOTCTRD', '9100TOTCTRD1']",['728'],tottenham court road_elizabeth_6556
+Tottenham Court Road,northern,1000235,728,['940GZZLUTCR'],['728'],tottenham court road_northern_728
+Tottenham Hale,greater-anglia,1000236,6951,['910GTTNHMHL'],['6951'],tottenham hale_greater-anglia_6951
+Tottenham Hale,victoria,1000236,729,['940GZZLUTMH'],['729'],tottenham hale_victoria_729
+Totteridge,northern,1000237,730,['940GZZLUTAW'],['730'],totteridge_northern_730
+Tower Gateway,dlr,1002076,864,['940GZZDLTWG'],['864'],tower gateway_dlr_864
+Tower Hill,circle,1000238,731,['940GZZLUTWH'],['731'],tower hill_circle_731
+Tower Hill,district,1000238,731,['940GZZLUTWH'],['731'],tower hill_district_731
+Tring,west-midlands-trains,1001010,1393,['910GTRING'],['1393'],tring_west-midlands-trains_1393
+Tufnell Park,northern,1000239,733,['940GZZLUTFP'],['733'],tufnell park_northern_733
+Tulse Hill,southern,1001298,5390,"['910GTULSEH', '9100TULSEH0']",['5390'],tulse hill_southern_5390
+Tulse Hill,thameslink,1001298,5390,['910GTULSEH'],['5390'],tulse hill_thameslink_5390
+Tunbridge Wells,southeastern,1001823,5230,['910GTUNWELL'],['5230'],tunbridge wells_southeastern_5230
+Turkey Street,greater-anglia,1001299,6952,['910GTURKYST'],['6952'],turkey street_greater-anglia_6952
+Turkey Street,weaver,1001299,6952,['910GTURKYST'],['6952'],turkey street_weaver_6952
+Turnham Green,district,1000240,734,['940GZZLUTNG'],['734'],turnham green_district_734
+Turnham Green,piccadilly,1000240,734,['940GZZLUTNG'],['734'],turnham green_piccadilly_734
+Turnpike Lane,piccadilly,1000241,735,['940GZZLUTPN'],['735'],turnpike lane_piccadilly_735
+Twickenham,south-western-railway,1001300,5574,['910GTWCKNHM'],['5574'],twickenham_south-western-railway_5574
+Twyford,elizabeth,1000969,3155,['910GTWYFORD'],['3155'],twyford_elizabeth_3155
+Twyford,great-western-railway,1000969,3155,['910GTWYFORD'],['3155'],twyford_great-western-railway_3155
+Upminster,c2c,1000242,7464,['910GUPMNSTR'],['7464'],upminster_c2c_7464
+Upminster,district,1000242,7464,['940GZZLUUPM'],['7464'],upminster_district_7464
+Upminster,liberty,1000242,7464,['910GUPMNSTR'],['7464'],upminster_liberty_7464
+Upminster Bridge,district,1000243,737,['940GZZLUUPB'],['737'],upminster bridge_district_737
+Upney,district,1000244,738,['940GZZLUUPY'],['738'],upney_district_738
+Upper Halliford,south-western-railway,1002820,5613,['910GUHALIFD'],['5613'],upper halliford_south-western-railway_5613
+Upper Holloway,suffragette,1001302,1524,['910GUPRHLWY'],['1524'],upper holloway_suffragette_1524
+Upper Warlingham,southern,1001538,5391,['910GUWRLNGH'],['5391'],upper warlingham_southern_5391
+Upper Warlingham,thameslink,1001538,5391,['910GUWRLNGH'],['5391'],upper warlingham_thameslink_5391
+Upton Park,district,1000245,739,['940GZZLUUPK'],['739'],upton park_district_739
+Upton Park,hammersmith-city,1000245,739,['940GZZLUUPK'],['739'],upton park_hammersmith-city_739
+Uxbridge,metropolitan,1000246,740,['940GZZLUUXB'],['740'],uxbridge_metropolitan_740
+Uxbridge,piccadilly,1000246,740,['940GZZLUUXB'],['740'],uxbridge_piccadilly_740
+Vauxhall,south-western-railway,1000247,5597,['910GVAUXHLM'],['5597'],vauxhall_south-western-railway_5597
+Vauxhall,victoria,1000247,777,['940GZZLUVXL'],['777'],vauxhall_victoria_777
+Victoria,circle,1000248,741,['940GZZLUVIC'],['741'],victoria_circle_741
+Victoria,district,1000248,741,['940GZZLUVIC'],"['722', '741']",victoria_district_741
+Victoria,gatwick-express,1000248,5449,"['9100VICTRIE0', '910GVICTRIC']",['5449'],victoria_gatwick-express_5449
+Victoria,southeastern,1000248,5426,['910GVICTRIC'],"['5426', '8558']",victoria_southeastern_5426
+Victoria,southern,1000248,5426,['910GVICTRIC'],"['5426', '8558']",victoria_southern_5426
+Victoria,thameslink,1000248,5449,"['9100VICTRIE0', '910GVICTRIC']",['5449'],victoria_thameslink_5449
+Victoria,victoria,1000248,741,['940GZZLUVIC'],['741'],victoria_victoria_741
+Virginia Water,south-western-railway,1001547,5676,['910GVRGNWTR'],['5676'],virginia water_south-western-railway_5676
+Waddon,southern,1001305,5392,['910GWADDON'],['5392'],waddon_southern_5392
+Wallington,southern,1001306,5394,['910GWALNGTN'],['5394'],wallington_southern_5394
+Waltham Cross,greater-anglia,1000684,6823,['910GWALHAMX'],['6823'],waltham cross_greater-anglia_6823
+Walthamstow Central,victoria,1000249,742,['940GZZLUWWL'],"['6953', '742']",walthamstow central_victoria_742
+Walthamstow Central,weaver,1000249,6953,['910GWLTWCEN'],"['6953', '742']",walthamstow central_weaver_6953
+Walthamstow Queens Road,suffragette,1001308,7407,['910GWLTHQRD'],['7407'],walthamstow queens road_suffragette_7407
+Walton-on-Thames,south-western-railway,1001829,5575,['910GWONT'],['5575'],walton-on-thames_south-western-railway_5575
+Wandsworth Common,southern,1001309,5395,['910GWANDCMN'],['5395'],wandsworth common_southern_5395
+Wandsworth Road,southeastern,1001310,5372,"['910GWNDSWRD', '9100WNDSWRD1', '9100WNDSWRD2']",['5372'],wandsworth road_southeastern_5372
+Wandsworth Road,windrush,1001310,5372,['910GWNDSWRD'],['5372'],wandsworth road_windrush_5372
+Wandsworth Town,south-western-railway,1001311,5576,['910GWDWTOWN'],['5576'],wandsworth town_south-western-railway_5576
+Wanstead,central,1000250,743,['940GZZLUWSD'],['743'],wanstead_central_743
+Wanstead Park,suffragette,1001312,7408,['910GWNSTDPK'],['7408'],wanstead park_suffragette_7408
+Wapping,windrush,1000251,1085,['910GWAPPING'],['1085'],wapping_windrush_1085
+Ware,greater-anglia,1000070,6824,['910GWARE'],['6824'],ware_greater-anglia_6824
+Wargrave,great-western-railway,1001831,3158,"['9100WARGRAV0', '910GWARGRAV']",['3158'],wargrave_great-western-railway_3158
+Warren Street,northern,1000252,745,['940GZZLUWRR'],['745'],warren street_northern_745
+Warren Street,victoria,1000252,745,['940GZZLUWRR'],['745'],warren street_victoria_745
+Warwick Avenue,bakerloo,1000253,746,['940GZZLUWKA'],['746'],warwick avenue_bakerloo_746
+Waterloo,bakerloo,1000254,747,['940GZZLUWLO'],"['796', '747']",waterloo_bakerloo_747
+Waterloo,jubilee,1000254,747,['940GZZLUWLO'],"['796', '747']",waterloo_jubilee_747
+Waterloo,northern,1000254,747,['940GZZLUWLO'],"['796', '747']",waterloo_northern_747
+Waterloo,south-western-railway,1000254,5598,['910GWATRLMN'],"['5598', '5465', '8909']",waterloo_south-western-railway_5598
+Waterloo,waterloo-city,1000254,747,['940GZZLUWLO'],"['796', '747']",waterloo_waterloo-city_747
+Waterloo East,southeastern,1001313,5158,['910GWLOE'],"['784', '5158']",waterloo east_southeastern_5158
+Watford,metropolitan,1000256,748,['940GZZLUWAF'],['748'],watford_metropolitan_748
+Watford High Street,lioness,1001316,1455,['910GWATFDHS'],['1455'],watford high street_lioness_1455
+Watford Junction,lioness,1001317,1402,"['910GWATFJDC', '910GWATFDJ']",['1402'],watford junction_lioness_1402
+Watford Junction,london-midland,1001317,1402,"['9100WATFDJ2', '910GWATFDJ', '9100WATFJDC0', '9100WATFDJ1']",['1402'],watford junction_london-midland_1402
+Watford Junction,southern,1001317,1402,"['910GWATFJDC', '910GWATFDJ']",['1402'],watford junction_southern_1402
+Watford Junction,west-midlands-trains,1001317,1402,"['910GWATFJDC', '910GWATFDJ', '9100WATFJDC0']",['1402'],watford junction_west-midlands-trains_1402
+Watford North,west-midlands-trains,1000774,1403,['910GWATFDN'],['1403'],watford north_west-midlands-trains_1403
+Watton-at-Stone,great-northern,1000474,6095,['910GWATONAS'],['6095'],watton-at-stone_great-northern_6095
+Welham Green,great-northern,1000478,6073,['910GWELHAMG'],['6073'],welham green_great-northern_6073
+Welling,southeastern,1001318,5128,['910GWELLING'],['5128'],welling_southeastern_5128
+Welwyn Garden City,great-northern,1000455,6183,['910GWLWYNGC'],['6183'],welwyn garden city_great-northern_6183
+Welwyn Garden City,thameslink,1000455,6183,['910GWLWYNGC'],['6183'],welwyn garden city_thameslink_6183
+Welwyn North,great-northern,1000470,6096,['910GWLWYNN'],['6096'],welwyn north_great-northern_6096
+Wembley Central,bakerloo,1000256,751,['940GZZLUWYC'],['751'],wembley central_bakerloo_751
+Wembley Central,lioness,1000256,1423,['910GWMBY'],['751'],wembley central_lioness_1423
+Wembley Central,southern,1000256,1423,['910GWMBY'],['751'],wembley central_southern_1423
+Wembley Central,west-midlands-trains,1000256,1423,"['9100WMBYDC1', '910GWMBY', '9100WMBYDC2']",['751'],wembley central_west-midlands-trains_1423
+Wembley Park,jubilee,1000257,752,['940GZZLUWYP'],['752'],wembley park_jubilee_752
+Wembley Park,metropolitan,1000257,752,['940GZZLUWYP'],['752'],wembley park_metropolitan_752
+Wembley Stadium,chiltern-railways,1001320,1509,['910GWEMBLSM'],['1509'],wembley stadium_chiltern-railways_1509
+Wendover,chiltern-railways,1001321,1466,['910GWENDOVR'],['1466'],wendover_chiltern-railways_1466
+West Acton,central,1000258,753,['940GZZLUWTA'],['753'],west acton_central_753
+West Brompton,district,1000260,755,['940GZZLUWBN'],['755'],west brompton_district_755
+West Brompton,mildmay,1000260,8875,['910GWBRMPTN'],['755'],west brompton_mildmay_8875
+West Brompton,southern,1000260,8875,['910GWBRMPTN'],['755'],west brompton_southern_8875
+West Byfleet,south-western-railway,1001834,5684,['910GWBYFLET'],['5684'],west byfleet_south-western-railway_5684
+West Croydon,southern,1001324,5411,['910GWCROYDN'],['5411'],west croydon_southern_5411
+West Croydon,windrush,1001324,5411,['910GWCROYDN'],['5411'],west croydon_windrush_5411
+West Drayton,elizabeth,1001325,3174,"['910GWDRYTON', '9100WDRYTON0']",['3174'],west drayton_elizabeth_3174
+West Drayton,great-western-railway,1001325,3174,['910GWDRYTON'],['3174'],west drayton_great-western-railway_3174
+West Dulwich,southeastern,1001326,5086,['910GWDULWCH'],['5086'],west dulwich_southeastern_5086
+West Dulwich,thameslink,1001326,5086,"['910GWDULWCH', '9100WDULWCH0']",['5086'],west dulwich_thameslink_5086
+West Ealing,chiltern-railways,1001327,3188,"['910GWEALING', '9100WEALING0']",['3188'],west ealing_chiltern-railways_3188
+West Ealing,elizabeth,1001327,3188,"['910GWEALING', '9100WEALING0']",['3188'],west ealing_elizabeth_3188
+West Ealing,great-western-railway,1001327,3188,['910GWEALING'],['3188'],west ealing_great-western-railway_3188
+West Finchley,northern,1000261,756,['940GZZLUWFN'],['756'],west finchley_northern_756
+West Ham,c2c,1000263,7474,['910GWHAMHL'],['757'],west ham_c2c_7474
+West Ham,district,1000263,757,['940GZZLUWHM'],['757'],west ham_district_757
+West Ham,dlr,1000263,757,['940GZZDLWHM'],['757'],west ham_dlr_757
+West Ham,hammersmith-city,1000263,757,['940GZZLUWHM'],['757'],west ham_hammersmith-city_757
+West Ham,jubilee,1000263,757,['940GZZLUWHM'],['757'],west ham_jubilee_757
+West Hampstead,jubilee,1000258,758,['940GZZLUWHP'],['758'],west hampstead_jubilee_758
+West Hampstead,mildmay,1000258,1421,['910GWHMDSTD'],['1421'],west hampstead_mildmay_1421
+West Hampstead,thameslink,1000258,1525,['910GWHMPSTM'],['1525'],west hampstead_thameslink_1525
+West Harrow,metropolitan,1000264,759,['940GZZLUWHW'],['759'],west harrow_metropolitan_759
+West Horndon,c2c,1002848,7466,['910GWHORNDN'],['7466'],west horndon_c2c_7466
+West India Quay,dlr,1002084,866,['940GZZDLWIQ'],['866'],west india quay_dlr_866
+West Kensington,district,1000265,760,['940GZZLUWKN'],['760'],west kensington_district_760
+West Malling,southeastern,90007937,5129,['910GWMALING'],['5129'],west malling_southeastern_5129
+West Norwood,southern,1001331,5438,['910GWNORWOD'],['5438'],west norwood_southern_5438
+West Ruislip,central,1000267,762,['940GZZLUWRP'],['762'],west ruislip_central_762
+West Ruislip,chiltern-railways,1000267,3059,['910GWRUISLP'],['762'],west ruislip_chiltern-railways_3059
+West Silvertown,dlr,1000262,559,['940GZZDLWSV'],['559'],west silvertown_dlr_559
+West Sutton,southern,1001333,5293,['910GWSUTTON'],['5293'],west sutton_southern_5293
+West Sutton,thameslink,1001333,5293,['910GWSUTTON'],['5293'],west sutton_thameslink_5293
+West Wickham,southeastern,1001334,5054,['910GWWICKHM'],['5054'],west wickham_southeastern_5054
+Westbourne Park,circle,1000259,754,['940GZZLUWSP'],['754'],westbourne park_circle_754
+Westbourne Park,hammersmith-city,1000259,754,['940GZZLUWSP'],['754'],westbourne park_hammersmith-city_754
+Westcliff,c2c,90007630,7476,['910GWCLIFF'],['7476'],westcliff_c2c_7476
+Westcombe Park,southeastern,1001323,5151,['910GWCOMBEP'],['5151'],westcombe park_southeastern_5151
+Westcombe Park,thameslink,1001323,5151,"['910GWCOMBEP', '9100WCOMBEP0']",['5151'],westcombe park_thameslink_5151
+Westferry,dlr,1002083,865,['940GZZDLWFE'],['865'],westferry_dlr_865
+Westminster,circle,1000266,761,['940GZZLUWSM'],['761'],westminster_circle_761
+Westminster,district,1000266,761,['940GZZLUWSM'],['761'],westminster_district_761
+Westminster,jubilee,1000266,761,['940GZZLUWSM'],['761'],westminster_jubilee_761
+Weybridge,south-western-railway,1001846,5577,['910GWEYBDGB'],['5577'],weybridge_south-western-railway_5577
+White City,central,1000269,764,['940GZZLUWCY'],['764'],white city_central_764
+White Hart Lane,greater-anglia,1001335,6956,['910GWHHRTLA'],['6956'],white hart lane_greater-anglia_6956
+White Hart Lane,weaver,1001335,6956,['910GWHHRTLA'],['6956'],white hart lane_weaver_6956
+Whitechapel,district,1000268,763,['940GZZLUWPL'],['763'],whitechapel_district_763
+Whitechapel,elizabeth,1000268,763,"['9100WCHAPEL2', '910GWCHAPEL', '9100WCHAPEL1']",['763'],whitechapel_elizabeth_763
+Whitechapel,elizabeth,1000268,4935,['910GWCHAPXR'],['763'],whitechapel_elizabeth_4935
+Whitechapel,hammersmith-city,1000268,763,['940GZZLUWPL'],['763'],whitechapel_hammersmith-city_763
+Whitechapel,windrush,1000268,4935,['910GWCHAPEL'],['763'],whitechapel_windrush_4935
+Whitton,south-western-railway,1001336,5611,['910GWHTTON'],['5611'],whitton_south-western-railway_5611
+Whyteleafe,southern,1001536,5396,['910GWHYTELF'],['5396'],whyteleafe_southern_5396
+Whyteleafe,thameslink,1001536,5396,['910GWHYTELF'],['5396'],whyteleafe_thameslink_5396
+Whyteleafe South,southern,1001537,5439,['910GWHYTLFS'],['5439'],whyteleafe south_southern_5439
+Wickford,greater-anglia,1000693,6891,['910GWIKFORD'],['6891'],wickford_greater-anglia_6891
+Willesden Green,jubilee,1000270,765,['940GZZLUWIG'],['765'],willesden green_jubilee_765
+Willesden Green,metropolitan,1000270,765,['940GZZLUWIG'],['765'],willesden green_metropolitan_765
+Willesden Junction,bakerloo,1000271,1457,['940GZZLUWJN'],['1457'],willesden junction_bakerloo_1457
+Willesden Junction,lioness,1000271,1457,['910GWLSDJHL'],['1457'],willesden junction_lioness_1457
+Willesden Junction,mildmay,1000271,1457,['910GWLSDJHL'],['1457'],willesden junction_mildmay_1457
+Wimbledon,district,1000272,5578,['940GZZLUWIM'],['5578'],wimbledon_district_5578
+Wimbledon,south-western-railway,1000272,5578,"['910GWIMBLDN', '910GWDON']",['5578'],wimbledon_south-western-railway_5578
+Wimbledon,southern,1000272,5578,"['910GWIMBLDN', '910GWDON']",['5578'],wimbledon_southern_5578
+Wimbledon,thameslink,1000272,5578,"['910GWIMBLDN', '910GWDON']",['5578'],wimbledon_thameslink_5578
+Wimbledon Chase,southern,1001339,5612,['910GWIMLCHS'],['5612'],wimbledon chase_southern_5612
+Wimbledon Chase,thameslink,1001339,5612,['910GWIMLCHS'],['5612'],wimbledon chase_thameslink_5612
+Wimbledon Park,district,1000273,768,['940GZZLUWIP'],['768'],wimbledon park_district_768
+Winchmore Hill,great-northern,1001340,6024,['910GWNMHILL'],['6024'],winchmore hill_great-northern_6024
+Windsor and Eton Central,great-western-railway,1001855,3175,"['9100WINDSEC0', '910GWINDSEC']",['3175'],windsor and eton central_great-western-railway_3175
+Windsor and Eton Riverside,south-western-railway,1001856,5672,['910GWSORAER'],['5672'],windsor and eton riverside_south-western-railway_5672
+Winnersh,great-western-railway,1001858,5697,['910GWINERSH'],['5697'],winnersh_great-western-railway_5697
+Winnersh,south-western-railway,1001858,5697,['910GWINERSH'],['5697'],winnersh_south-western-railway_5697
+Winnersh Triangle,south-western-railway,90007833,5698,['910GWINETGL'],['5698'],winnersh triangle_south-western-railway_5698
+Witham,greater-anglia,1000697,6844,['910GWITHAME'],['6844'],witham_greater-anglia_6844
+Woking,south-western-railway,1001865,5685,['910GWOKING'],['5685'],woking_south-western-railway_5685
+Wokingham,great-western-railway,1001869,5696,['910GWOKNGHM'],['5696'],wokingham_great-western-railway_5696
+Wokingham,south-western-railway,1001869,5696,['910GWOKNGHM'],['5696'],wokingham_south-western-railway_5696
+Woldingham,southern,1001567,5440,['910GWLDNGHM'],['5440'],woldingham_southern_5440
+Woldingham,thameslink,1001567,5440,['910GWLDNGHM'],['5440'],woldingham_thameslink_5440
+Wood Green,piccadilly,1000275,770,['940GZZLUWOG'],['770'],wood green_piccadilly_770
+Wood Lane,circle,1000278,599,['940GZZLUWLA'],['599'],wood lane_circle_599
+Wood Lane,hammersmith-city,1000278,599,['940GZZLUWLA'],['599'],wood lane_hammersmith-city_599
+Wood Street,weaver,1001343,6954,['910GWDST'],['6954'],wood street_weaver_6954
+Woodford,central,1000217,769,['940GZZLUWOF'],['769'],woodford_central_769
+Woodgrange Park,suffragette,1001341,7467,['910GWDGRNPK'],['7467'],woodgrange park_suffragette_7467
+Woodmansterne,southern,1001342,5441,['910GWDMNSTR'],['5441'],woodmansterne_southern_5441
+Woodside Park,northern,1000276,771,['940GZZLUWOP'],['771'],woodside park_northern_771
+Woolwich,elizabeth,1000267,6562,"['9100WOLWXR0', '910GWOLWXR', '9100WOLWXR1']",['6562'],woolwich_elizabeth_6562
+Woolwich Arsenal,dlr,1001344,573,['940GZZDLWLA'],['573'],woolwich arsenal_dlr_573
+Woolwich Arsenal,southeastern,1001344,5152,['910GWOLWCHA'],['5152'],woolwich arsenal_southeastern_5152
+Woolwich Arsenal,thameslink,1001344,5152,"['9100WOLWCHA2', '9100WOLWCHA0', '910GWOLWCHA']",['5152'],woolwich arsenal_thameslink_5152
+Woolwich Dockyard,southeastern,1001345,5153,['910GWOLWCDY'],['5153'],woolwich dockyard_southeastern_5153
+Woolwich Dockyard,thameslink,1001345,5153,"['910GWOLWCDY', '9100WOLWCDY0']",['5153'],woolwich dockyard_thameslink_5153
+Worcester Park,south-western-railway,1001346,5579,['910GWRCSTRP'],['5579'],worcester park_south-western-railway_5579
+Worplesdon,south-western-railway,90008069,5686,['910GWRPLSDN'],['5686'],worplesdon_south-western-railway_5686
+Wraysbury,south-western-railway,1001878,5673,['910GWRYSBRY'],['5673'],wraysbury_south-western-railway_5673
